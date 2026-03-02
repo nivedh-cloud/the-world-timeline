@@ -379,14 +379,15 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
 
       {/* Mobile: Year Selector at Bottom */}
       {isMobile && (
-        <Box sx={{ p: 2, borderTop: '1px solid #ddd', backgroundColor: '#fff' }}>
-          <Box sx={{ display: 'flex', gap: 2, alignItems: 'center', flexDirection: 'column' }}>
-            <FormControl sx={{ minWidth: '100%' }}>
-              <InputLabel>Select Year</InputLabel>
+        <Box sx={{ p: 1, borderTop: '1px solid #ddd', backgroundColor: '#fff' }}>
+          <Box sx={{ display: 'flex', gap: 1, alignItems: 'flex-end', flexWrap: 'wrap' }}>
+            <FormControl sx={{ flex: 1, minWidth: '120px' }}>
+              <InputLabel sx={{ fontSize: '12px' }}>Year</InputLabel>
               <Select
                 value={selectedYear}
                 onChange={handleYearChange}
-                label="Select Year"
+                label="Year"
+                size="small"
               >
                 {yearOptions.map((option) => (
                   <MenuItem key={option.value} value={option.value}>
@@ -396,26 +397,23 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
               </Select>
             </FormControl>
             <TextField
-              label="Or enter year"
+              label="Enter year"
               type="number"
               size="small"
-              fullWidth
+              sx={{ flex: 1, minWidth: '120px' }}
               value={yearInputValue}
               onChange={handleYearInputChange}
               onBlur={handleYearInputBlur}
-              helperText="e.g., -2000 for 2000 BCE or 1000 for 1000 AD"
             />
-            <Typography variant="body1" sx={{ fontWeight: 600, color: '#2196f3', width: '100%', textAlign: 'center' }}>
-              Selected: {selectedYearLabel}
-            </Typography>
             {markers.length > 0 && (
               <Button 
                 variant="contained" 
                 color="primary"
-                fullWidth
+                size="small"
+                sx={{ flex: 1, minWidth: '100px', whiteSpace: 'nowrap' }}
                 onClick={handleOpenEventsDrawer}
               >
-                View Events ({markers.length})
+                Events ({markers.length})
               </Button>
             )}
           </Box>
