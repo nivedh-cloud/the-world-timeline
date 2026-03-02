@@ -1,0 +1,1410 @@
+[
+	{
+		"year": "-700",
+		"name_en": "Rise of the Jewish Scribe Class",
+		"name_te": "యూదా లేఖకుల వర్గం ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish scribes begin to play a key role in copying, teaching, and interpreting the Law.",
+		"desc_te": "యూదా లేఖకులు ధర్మశాస్త్రాన్ని నకలు చేయడంలో, బోధనలో, వ్యాఖ్యానంలో కీలక పాత్ర పోషించారు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Emergence of Jewish Prophetic Schools",
+		"name_te": "యూదా ప్రవక్త పాఠశాలలు ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Groups of prophets and disciples form schools to preserve and transmit prophetic teachings.",
+		"desc_te": "యూదాలో ప్రవక్తలు, శిష్యులు కలిసి ప్రవచన బోధనలను పరిరక్షించేందుకు పాఠశాలలు ఏర్పాటు చేశారు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Jewish Legal Debates and Halakhic Development",
+		"name_te": "యూదా చట్ట చర్చలు, హలాఖా అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars begin to debate and develop Jewish law (Halakha) in this period.",
+		"desc_te": "ఈ కాలంలో రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Jewish Festivals and Pilgrimage in the First Temple Period",
+		"name_te": "మొదటి ఆలయ కాలంలో యూదా పండుగలు, యాత్రలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Passover, Sukkot, and other festivals are celebrated at the First Temple in Jerusalem.",
+		"desc_te": "మొదటి ఆలయంలో పస్కా, సుక్కోత్, ఇతర పండుగలు జరుపుకున్నారు."
+	},
+	{
+		"year": "-701",
+		"name_en": "Assyrian Siege of Jerusalem (Hezekiah)",
+		"name_te": "అస్సిరియన్ యెరూషలేము ముట్టడి (హెజికియా)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Sennacherib of Assyria besieges Jerusalem, but the city is miraculously delivered during Hezekiah's reign (2 Kings 18-19)",
+		"desc_te": "అస్సిరియా రాజు సెన్నాచెరిబ్ యెరూషలేమును ముట్టడి చేయగా, హెజికియా పాలనలో దేవుని అద్భుత రక్షణ కలిగింది (2 రాజులు 18-19)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of the Deuteronomistic Movement",
+		"name_te": "ద్వితీయోపదేశ ఉద్యమం ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Religious reforms and the editing of Deuteronomy and related texts shape Judah's faith.",
+		"desc_te": "మత సంస్కరణలు, ద్వితీయోపదేశం వంటి గ్రంథాల సంపాదన యూదా విశ్వాసాన్ని ఆకృతీకరించాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "Emergence of Jewish Scribal and Teaching Traditions",
+		"name_te": "యూదా లేఖన, బోధనా సంప్రదాయాల ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Scribes and teachers begin to play a greater role in preserving and interpreting the Law.",
+		"desc_te": "లేఖకులు, బోధకులు ధర్మశాస్త్రాన్ని పరిరక్షించడంలో, వ్యాఖ్యానించడంలో కీలక పాత్ర పోషించారు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Development of Jewish Worship Music and Psalms",
+		"name_te": "యూదా ఆరాధనా సంగీతం, కీర్తనల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Temple worship music and the composition of psalms flourish in Judah.",
+		"desc_te": "యూదాలో ఆలయ ఆరాధనా సంగీతం, కీర్తనల రచన అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "Jewish Communities in Egypt and Assyria",
+		"name_te": "ఈజిప్ట్, అస్సిరియాలో యూదా సముదాయాలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities exist in Egypt and Assyria, maintaining ties to Judah.",
+		"desc_te": "ఈజిప్ట్, అస్సిరియాలో యూదా సముదాయాలు యూదాతో సంబంధాలు కొనసాగించాయి."
+	},
+	{
+		"year": "-715",
+		"name_en": "Reign and Reforms of King Hezekiah",
+		"name_te": "రాజు హెజికియా పాలన, సంస్కరణలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Hezekiah rules Judah, institutes religious reforms, and restores temple worship (2 Kings 18; 2 Chronicles 29-31)",
+		"desc_te": "హెజికియా యూదాపై పాలించి, మత సంస్కరణలు చేపట్టి, ఆలయ ఆరాధనను పునరుద్ధరించాడు (2 రాజులు 18; 2 దినవృత్తాంతం 29-31)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Prophetic Ministry of Isaiah (Late Years)",
+		"name_te": "యెషయా ప్రవచన సేవ (చివరి సంవత్సరాలు)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Isaiah continues his prophetic ministry in Judah, warning of judgment and promising hope (Book of Isaiah)",
+		"desc_te": "యెషయా యూదాలో ప్రవచన సేవను కొనసాగించి, తీర్పు, ఆశ గురించి ప్రకటించాడు (యెషయా గ్రంథం)"
+	},
+	{
+		"year": "-640",
+		"name_en": "Reign and Reforms of King Josiah",
+		"name_te": "రాజు యోషియా పాలన, సంస్కరణలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Josiah rules Judah, discovers the Book of the Law, and leads major religious reforms (2 Kings 22-23)",
+		"desc_te": "యోషియా యూదాపై పాలించి, ధర్మశాస్త్రాన్ని కనుగొని, మత సంస్కరణలు చేపట్టాడు (2 రాజులు 22-23)"
+	},
+	{
+		"year": "-627",
+		"name_en": "Prophetic Ministry of Jeremiah (Early Years)",
+		"name_te": "యిర్మియా ప్రవచన సేవ (ప్రారంభ సంవత్సరాలు)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jeremiah begins his prophetic ministry in Judah, warning of coming judgment (Book of Jeremiah)",
+		"desc_te": "యిర్మియా యూదాలో ప్రవచన సేవను ప్రారంభించి, రాబోయే తీర్పును హెచ్చరించాడు (యిర్మియా గ్రంథం)"
+	},
+	{
+		"year": "-663",
+		"name_en": "Fall of Thebes and Nineveh (Assyrian Empire)",
+		"name_te": "థీబ్స్, నినివే పతనం (అస్సిరియన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 36.35,
+			"lng": 43.15
+		},
+		"desc_en": "The Assyrian Empire conquers Thebes in Egypt and later falls with the destruction of Nineveh (Nahum 3)",
+		"desc_te": "అస్సిరియన్ సామ్రాజ్యం ఈజిప్టులో థీబ్స్‌ను జయించి, తరువాత నినివే పతనంతో ముగిసింది (నహూము 3)"
+	},
+	{
+		"year": "-650",
+		"name_en": "Prophetic Ministry of Zephaniah (Early Years)",
+		"name_te": "జెఫన్యా ప్రవచన సేవ (ప్రారంభ)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Zephaniah begins his prophetic ministry in Judah, calling for repentance (Book of Zephaniah)",
+		"desc_te": "జెఫన్యా యూదాలో ప్రవచన సేవను ప్రారంభించి, పశ్చాత్తాపాన్ని పిలిచాడు (జెఫన్యా గ్రంథం)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Spread of Assyrian and Babylonian Influence in Judah",
+		"name_te": "యూదాలో అస్సిరియన్, బాబిలోన్ ప్రభావం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Assyrian and later Babylonian empires exert political and cultural influence over Judah.",
+		"desc_te": "యూదాపై అస్సిరియన్, తరువాత బాబిలోన్ సామ్రాజ్యాలు రాజకీయ, సాంస్కృతిక ప్రభావం చూపాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "Reign of King Sennacherib of Assyria",
+		"name_te": "అస్సిరియా రాజు సెన్నాచెరిబ్ పాలన",
+		"location": {
+			"lat": 36.34,
+			"lng": 43.13
+		},
+		"desc_en": "Sennacherib rules Assyria, campaigns against Judah, and is assassinated by his sons (2 Kings 18-19)",
+		"desc_te": "సెన్నాచెరిబ్ అస్సిరియా పాలించి, యూదాపై దాడి చేసి, తన కుమారులచేత హత్య చేయబడ్డాడు (2 రాజులు 18-19)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Reign of King Esarhaddon of Assyria (begins)",
+		"name_te": "అస్సిరియా రాజు ఎసర్‌హద్దోను (ప్రారంభం)",
+		"location": {
+			"lat": 36.34,
+			"lng": 43.13
+		},
+		"desc_en": "Esarhaddon begins his reign in Assyria, rebuilds Babylon, and campaigns in Egypt (2 Kings 19:37)",
+		"desc_te": "ఎసర్‌హద్దోను అస్సిరియా పాలన ప్రారంభించి, బాబిలోన్‌ను పునర్నిర్మించి, ఈజిప్టులో యుద్ధాలు చేశాడు (2 రాజులు 19:37)"
+	},
+	{
+		"year": "-687",
+		"name_en": "Reign of King Manasseh of Judah (begins)",
+		"name_te": "యూదా రాజు మనస్సే (ప్రారంభం)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Manasseh begins his reign in Judah, known for idolatry and later repentance (2 Kings 21:1-18)",
+		"desc_te": "మనస్సే యూదాలో పాలన ప్రారంభించి, విగ్రహారాధన, తరువాత పశ్చాత్తాపానికి ప్రసిద్ధి చెందాడు (2 రాజులు 21:1-18)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Kingdom of Egypt: 25th and 26th Dynasties",
+		"name_te": "ఈజిప్టు రాజ్యం: 25, 26 వ వంశాలు",
+		"location": {
+			"lat": 30.044,
+			"lng": 31.236
+		},
+		"desc_en": "Egypt is ruled by the Kushite (25th) and Saite (26th) dynasties, interacting with Judah and Assyria.",
+		"desc_te": "ఈజిప్టు కుషైట్ (25వ), సైట్ (26వ) వంశాలచే పాలించబడింది, యూదా, అస్సిరియాతో సంబంధాలు కలిగి ఉంది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Notable Person: Hilkiah the High Priest",
+		"name_te": "ప్రధాన యాజకుడు హిల్కీయా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Hilkiah, high priest in Judah, discovers the Book of the Law during Josiah's reign (2 Kings 22:8)",
+		"desc_te": "హిల్కీయా యూదాలో ప్రధాన యాజకుడిగా యోషియా పాలనలో ధర్మశాస్త్రాన్ని కనుగొన్నాడు (2 రాజులు 22:8)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Wars between Egypt, Assyria, and Babylon",
+		"name_te": "ఈజిప్టు, అస్సిరియా, బాబిలోన్ యుద్ధాలు",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Major wars occur between Egypt, Assyria, and Babylon, affecting Judah's fate (2 Kings 23-24)",
+		"desc_te": "ఈజిప్టు, అస్సిరియా, బాబిలోన్ మధ్య ప్రధాన యుద్ధాలు జరిగి, యూదా భవితవ్యాన్ని ప్రభావితం చేశాయి (2 రాజులు 23-24)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Religious Center: Bethel in Israel (Destruction)",
+		"name_te": "ఇశ్రాయేల్లో ఆధ్యాత్మిక కేంద్రం: బేతేలు (వినాశనం)",
+		"location": {
+			"lat": 31.939,
+			"lng": 35.219
+		},
+		"desc_en": "Bethel, a major religious center, is destroyed during Josiah's reforms (2 Kings 23:15)",
+		"desc_te": "బేతేలు ప్రధాన ఆధ్యాత్మిక కేంద్రంగా ఉండి, యోషియా సంస్కరణల్లో నాశనం చేయబడింది (2 రాజులు 23:15)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of the Kingdom of Lydia in Anatolia",
+		"name_te": "అనాటోలియాలో లిడియా రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "The kingdom of Lydia rises in western Anatolia, influencing regional trade and politics.",
+		"desc_te": "లిడియా రాజ్యం పశ్చిమ అనాటోలియాలో ఉద్భవించి, ప్రాంతీయ వాణిజ్యం, రాజకీయాలపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Kingdom of Babylon: Rise of Nabopolassar (begins)",
+		"name_te": "బాబిలోన్ రాజ్యం: నబోపోలస్సర్ ఉద్భవం (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nabopolassar begins to establish the Neo-Babylonian Empire, challenging Assyrian dominance.",
+		"desc_te": "నబోపోలస్సర్ నూతన బాబిలోన్ సామ్రాజ్యాన్ని స్థాపించడం ప్రారంభించి, అస్సిరియన్ ఆధిపత్యాన్ని సవాలు చేశాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Ashurbanipal of Assyria (reign)",
+		"name_te": "అస్సిరియా రాజు అశుర్బానిపాల్ (పాలన)",
+		"location": {
+			"lat": 36.34,
+			"lng": 43.13
+		},
+		"desc_en": "Ashurbanipal rules Assyria, known for his vast library and campaigns in Egypt and Elam.",
+		"desc_te": "అశుర్బానిపాల్ అస్సిరియా పాలించి, అతని విశాలమైన గ్రంథాలయం, ఈజిప్టు, ఎలాం యుద్ధాలకు ప్రసిద్ధి చెందాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Notable Person: Huldah the Prophetess",
+		"name_te": "ప్రవక్త హుల్దా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Huldah, a prophetess in Jerusalem, authenticates the Book of the Law during Josiah's reign (2 Kings 22:14-20)",
+		"desc_te": "హుల్దా యెరూషలేములో ప్రవక్తగా యోషియా పాలనలో ధర్మశాస్త్రాన్ని ధృవీకరించింది (2 రాజులు 22:14-20)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Wars between Judah and Babylon (begins)",
+		"name_te": "యూదా-బాబిలోన్ యుద్ధాలు (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Judah begins to face military threats from the rising Neo-Babylonian Empire (2 Kings 24)",
+		"desc_te": "యూదా నూతన బాబిలోన్ సామ్రాజ్యంతో సైనిక ముప్పును ఎదుర్కొనడం ప్రారంభించింది (2 రాజులు 24)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Religious Center: Jerusalem as Sole Worship Center",
+		"name_te": "యెరూషలేము ఏకైక ఆరాధనా కేంద్రంగా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jerusalem is established as the sole center of worship in Judah after Josiah's reforms (2 Kings 23:21-27)",
+		"desc_te": "యోషియా సంస్కరణల తరువాత యెరూషలేము యూదాలో ఏకైక ఆరాధనా కేంద్రంగా స్థాపించబడింది (2 రాజులు 23:21-27)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of the Kingdom of Media in Iran",
+		"name_te": "ఇరాన్‌లో మీడియా రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 36.3,
+			"lng": 59.6
+		},
+		"desc_en": "The kingdom of Media rises in Iran, later allying with Babylon to defeat Assyria.",
+		"desc_te": "మీడియా రాజ్యం ఇరాన్‌లో ఉద్భవించి, తరువాత బాబిలోన్‌తో కలిసి అస్సిరియాను ఓడించింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Psamtik I of Egypt (Saite Dynasty)",
+		"name_te": "ఈజిప్టు రాజు ప్సామ్టిక్ I (సైట్ వంశం)",
+		"location": {
+			"lat": 30.044,
+			"lng": 31.236
+		},
+		"desc_en": "Psamtik I establishes the Saite Dynasty in Egypt, restoring Egyptian independence and power.",
+		"desc_te": "ప్సామ్టిక్ I ఈజిప్టులో సైట్ వంశాన్ని స్థాపించి, ఈజిప్టు స్వాతంత్ర్యం, శక్తిని పునరుద్ధరించాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Notable Person: Nahum the Prophet",
+		"name_te": "ప్రవక్త నహూము",
+		"location": {
+			"lat": 36.35,
+			"lng": 43.15
+		},
+		"desc_en": "Nahum prophesies the fall of Nineveh and the end of the Assyrian Empire (Book of Nahum)",
+		"desc_te": "నహూము నినివే పతనం, అస్సిరియన్ సామ్రాజ్యానికి ముగింపు గురించి ప్రవచించాడు (నహూము గ్రంథం)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Wars between Egypt and Babylon (begins)",
+		"name_te": "ఈజిప్టు-బాబిలోన్ యుద్ధాలు (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Egypt and Babylon begin to compete for dominance in the Near East, affecting Judah's fate (2 Kings 23-24)",
+		"desc_te": "ఈజిప్టు, బాబిలోన్ సమీప తూర్పులో ఆధిపత్యం కోసం పోటీ ప్రారంభించి, యూదా భవితవ్యాన్ని ప్రభావితం చేశాయి (2 రాజులు 23-24)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Religious Center: Topheth in the Valley of Hinnom",
+		"name_te": "హిన్నోం లోయలో టోఫెత్ ఆధ్యాత్మిక కేంద్రం",
+		"location": {
+			"lat": 31.771,
+			"lng": 35.233
+		},
+		"desc_en": "Topheth in the Valley of Hinnom is used for child sacrifice, later condemned by prophets and Josiah (2 Kings 23:10; Jeremiah 7:31)",
+		"desc_te": "హిన్నోం లోయలోని టోఫెత్‌లో శిశు బలి జరుగుతుండగా, ప్రవక్తలు, యోషియా దాన్ని ఖండించారు (2 రాజులు 23:10; యిర్మియా 7:31)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of the Kingdom of Scythia in the Eurasian Steppe",
+		"name_te": "యూరేషియన్ స్టెప్పులో స్కైథియా రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 48,
+			"lng": 37
+		},
+		"desc_en": "The Scythians rise to power in the Eurasian steppe, influencing the Near East and biblical history.",
+		"desc_te": "యూరేషియన్ స్టెప్పులో స్కైథియా రాజ్యం శక్తిని పొందుతూ, సమీప తూర్పు, బైబిల్ చరిత్రపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-687",
+		"name_en": "Reign of King Manasseh of Judah",
+		"name_te": "యూదా రాజు మనస్సే పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Manasseh rules Judah, introduces idolatry and pagan practices, later repents (2 Kings 21:1-18; 2 Chronicles 33:1-20)",
+		"desc_te": "మనస్సే యూదాపై పాలించి, విగ్రహారాధన, అన్యాచారాలను ప్రవేశపెట్టి, తరువాత పశ్చాత్తాపం చెందాడు (2 రాజులు 21:1-18; 2 దినవృత్తాంతం 33:1-20)"
+	},
+	{
+		"year": "-640",
+		"name_en": "Reign of King Jehoiakim of Judah",
+		"name_te": "యూదా రాజు యెహోయాకీం పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jehoiakim rules Judah, faces Babylonian threat, and burns the scroll of Jeremiah (2 Kings 23:36-24:7; Jeremiah 36)",
+		"desc_te": "యెహోయాకీం యూదాపై పాలించి, బాబిలోన్ ముప్పును ఎదుర్కొని, యిర్మియా గ్రంథాన్ని కాల్చాడు (2 రాజులు 23:36-24:7; యిర్మియా 36)"
+	},
+	{
+		"year": "-626",
+		"name_en": "Prophetic Ministry of Jeremiah (main period)",
+		"name_te": "యిర్మియా ప్రవచన సేవ (ప్రధాన కాలం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jeremiah prophesies in Judah, warning of Babylonian conquest and calling for repentance (Book of Jeremiah)",
+		"desc_te": "యిర్మియా యూదాలో ప్రవచించి, బాబిలోన్ ఆక్రమణను హెచ్చరించి, పశ్చాత్తాపానికి పిలిచాడు (యిర్మియా గ్రంథం)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Notable Person: Baruch son of Neriah",
+		"name_te": "నేరియా కుమారుడు బారూకు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Baruch, scribe and companion of Jeremiah, records and delivers Jeremiah's prophecies (Jeremiah 36; 45)",
+		"desc_te": "బారూకు, యిర్మియా సహచరుడు, లేఖకుడు, యిర్మియా ప్రవచనాలను రాసి, అందించాడు (యిర్మియా 36; 45)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Wars between Judah and Egypt (Josiah's death)",
+		"name_te": "యూదా-ఈజిప్టు యుద్ధాలు (యోషియా మరణం)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Josiah of Judah is killed at Megiddo fighting Pharaoh Necho II of Egypt (2 Kings 23:29-30)",
+		"desc_te": "యూదా రాజు యోషియా మెగిద్దో వద్ద ఈజిప్టు ఫరో నెకో IIతో యుద్ధంలో మరణించాడు (2 రాజులు 23:29-30)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Religious Center: Jerusalem Temple Purification under Josiah",
+		"name_te": "యోషియా పాలనలో యెరూషలేము దేవాలయ శుద్ధీకరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Josiah purifies the Jerusalem Temple, removes idols, and restores true worship (2 Kings 23:4-25)",
+		"desc_te": "యోషియా యెరూషలేము దేవాలయాన్ని శుద్ధి చేసి, విగ్రహాలను తొలగించి, నిజమైన ఆరాధనను పునరుద్ధరించాడు (2 రాజులు 23:4-25)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of the Chaldeans in Babylon",
+		"name_te": "బాబిలోన్‌లో కల్దీయుల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The Chaldeans rise to power in Babylon, leading to the Neo-Babylonian Empire (2 Kings 24:1)",
+		"desc_te": "కల్దీయులు బాబిలోన్‌లో శక్తిని పొందుతూ, నూతన బాబిలోన్ సామ్రాజ్యాన్ని స్థాపించారు (2 రాజులు 24:1)"
+	},
+	{
+		"year": "-609",
+		"name_en": "Reign of King Jehoahaz and Jehoiachin of Judah",
+		"name_te": "యూదా రాజులు యెహోయాహాజ్, యెహోయాకీను పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jehoahaz and Jehoiachin rule Judah briefly, both deposed by foreign powers (2 Kings 23:31-24:16)",
+		"desc_te": "యెహోయాహాజ్, యెహోయాకీను యూదాపై తక్కువ కాలం పాలించి, విదేశీ శక్తులచే పదవి నుంచి తొలగించబడ్డారు (2 రాజులు 23:31-24:16)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Notable Person: Pharaoh Necho II of Egypt",
+		"name_te": "ఈజిప్టు ఫరో నెకో II",
+		"location": {
+			"lat": 30.044,
+			"lng": 31.236
+		},
+		"desc_en": "Pharaoh Necho II of Egypt plays a key role in the politics of Judah, defeating Josiah and deposing kings (2 Kings 23:29-35)",
+		"desc_te": "ఈజిప్టు ఫరో నెకో II యూదా రాజకీయాల్లో కీలక పాత్ర పోషించి, యోషియాను ఓడించి, రాజులను పదవి నుంచి తొలగించాడు (2 రాజులు 23:29-35)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Prophetic Ministry of Habakkuk (begins)",
+		"name_te": "హబక్కూకు ప్రవచన సేవ (ప్రారంభం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Habakkuk begins his prophetic ministry in Judah, questioning God's justice and foretelling Babylonian invasion (Book of Habakkuk)",
+		"desc_te": "హబక్కూకు యూదాలో ప్రవచన సేవ ప్రారంభించి, దేవుని న్యాయాన్ని ప్రశ్నించి, బాబిలోన్ ఆక్రమణను ప్రకటించాడు (హబక్కూకు గ్రంథం)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Wars between Judah and Babylon (Jerusalem besieged)",
+		"name_te": "యూదా-బాబిలోన్ యుద్ధాలు (యెరూషలేము ముట్టడి)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylon besieges Jerusalem, leading to the first deportation of Jews (2 Kings 24:10-16)",
+		"desc_te": "బాబిలోన్ యెరూషలేమును ముట్టడి చేసి, మొదటి యూదా నిర్వాసనానికి దారితీసింది (2 రాజులు 24:10-16)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Religious Center: Mizpah in Benjamin (administrative center)",
+		"name_te": "బిన్యామీను లో మిజ్పా పరిపాలనా కేంద్రం",
+		"location": {
+			"lat": 31.857,
+			"lng": 35.219
+		},
+		"desc_en": "Mizpah in Benjamin becomes an administrative and religious center after Jerusalem's fall (Jeremiah 40:6-10)",
+		"desc_te": "యెరూషలేము పతనం తరువాత బిన్యామీను లో మిజ్పా పరిపాలనా, ఆధ్యాత్మిక కేంద్రంగా మారింది (యిర్మియా 40:6-10)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of the Chaldean Dynasty in Babylon",
+		"name_te": "బాబిలోన్‌లో కల్దీయుల వంశం ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The Chaldean dynasty rises to power in Babylon, leading to the reign of Nebuchadnezzar II (2 Kings 24:1)",
+		"desc_te": "కల్దీయుల వంశం బాబిలోన్‌లో శక్తిని పొందుతూ, నెబూకద్నెజర్ II పాలనకు దారితీసింది (2 రాజులు 24:1)"
+	},
+	{
+		"year": "-605",
+		"name_en": "Reign of King Nebuchadnezzar II of Babylon (begins)",
+		"name_te": "బాబిలోన్ రాజు నెబూకద్నెజర్ II పాలన (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nebuchadnezzar II begins his reign, conquers Jerusalem, and exiles many Jews (2 Kings 24-25; Daniel 1)",
+		"desc_te": "నెబూకద్నెజర్ II బాబిలోన్ పాలన ప్రారంభించి, యెరూషలేమును జయించి, అనేక యూదులను నిర్వాసితులుగా పంపాడు (2 రాజులు 24-25; దానియేలు 1)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Notable Person: Daniel (begins)",
+		"name_te": "దానియేలు (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Daniel, a young Jewish exile, rises to prominence in Babylon (Daniel 1)",
+		"desc_te": "దానియేలు, యువ యూదా నిర్వాసితుడు, బాబిలోన్‌లో ప్రముఖుడిగా ఎదిగాడు (దానియేలు 1)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Prophetic Ministry of Ezekiel (begins)",
+		"name_te": "యెహెజ్కేలు ప్రవచన సేవ (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Ezekiel begins his prophetic ministry among the Jewish exiles in Babylon (Ezekiel 1)",
+		"desc_te": "యెహెజ్కేలు బాబిలోన్‌లో యూదా నిర్వాసితుల మధ్య ప్రవచన సేవ ప్రారంభించాడు (యెహెజ్కేలు 1)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Wars between Babylon and Egypt (Battle of Carchemish)",
+		"name_te": "బాబిలోన్-ఈజిప్టు యుద్ధాలు (కార్కెమిష్ యుద్ధం)",
+		"location": {
+			"lat": 36.82,
+			"lng": 38.01
+		},
+		"desc_en": "Babylon defeats Egypt at the Battle of Carchemish, securing dominance in the region (Jeremiah 46:2)",
+		"desc_te": "బాబిలోన్ కార్కెమిష్ యుద్ధంలో ఈజిప్టును ఓడించి, ప్రాంతంలో ఆధిపత్యాన్ని సాధించింది (యిర్మియా 46:2)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Religious Center: Babylon as Exilic Center for Jews",
+		"name_te": "బాబిలోన్ యూదా నిర్వాసితుల ఆధ్యాత్మిక కేంద్రంగా",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon becomes the main religious and cultural center for exiled Jews (Psalm 137; Ezekiel 1)",
+		"desc_te": "బాబిలోన్ యూదా నిర్వాసితులకు ప్రధాన ఆధ్యాత్మిక, సాంస్కృతిక కేంద్రంగా మారింది (కీర్తనలు 137; యెహెజ్కేలు 1)"
+	},
+	{
+		"year": "-597",
+		"name_en": "Reign of King Zedekiah of Judah (last king)",
+		"name_te": "యూదా చివరి రాజు జెదెకియా పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Zedekiah, the last king of Judah, rules until the destruction of Jerusalem by Babylon (2 Kings 24:17-25:7)",
+		"desc_te": "జెదెకియా యూదా చివరి రాజుగా పాలించి, బాబిలోన్ యెరూషలేమును నాశనం చేసే వరకు ఉన్నాడు (2 రాజులు 24:17-25:7)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Jeremiah (final years)",
+		"name_te": "యిర్మియా ప్రవచన సేవ (చివరి సంవత్సరాలు)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jeremiah continues to prophesy in Jerusalem, warning of the coming destruction (Book of Jeremiah)",
+		"desc_te": "యిర్మియా యెరూషలేములో ప్రవచన సేవ కొనసాగించి, రాబోయే వినాశాన్ని హెచ్చరించాడు (యిర్మియా గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Siege and Fall of Jerusalem by Babylon",
+		"name_te": "బాబిలోన్ చేతిలో యెరూషలేము ముట్టడి, పతనం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylon besieges and destroys Jerusalem, ending the kingdom of Judah (2 Kings 25:1-21)",
+		"desc_te": "బాబిలోన్ యెరూషలేమును ముట్టడి చేసి, నాశనం చేసి, యూదా రాజ్యాన్ని ముగించింది (2 రాజులు 25:1-21)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Destruction of the First Temple in Jerusalem",
+		"name_te": "యెరూషలేములో మొదటి దేవాలయ వినాశనం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The First Temple in Jerusalem is destroyed by the Babylonians, marking the start of the Babylonian exile (2 Kings 25:8-17)",
+		"desc_te": "యెరూషలేములో మొదటి దేవాలయం బాబిలోనీయులచే నాశనం చేయబడింది, ఇది బాబిలోన్ నిర్వాసనానికి ఆరంభం (2 రాజులు 25:8-17)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Exile of the People of Judah to Babylon",
+		"name_te": "యూదా ప్రజల బాబిలోన్ నిర్వాసనం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The people of Judah are exiled to Babylon after the fall of Jerusalem (2 Kings 25:11, 21)",
+		"desc_te": "యెరూషలేము పతనం తరువాత యూదా ప్రజలు బాబిలోన్‌కు నిర్వాసితులుగా పంపబడ్డారు (2 రాజులు 25:11, 21)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Ezekiel (main period)",
+		"name_te": "యెహెజ్కేలు ప్రవచన సేవ (ప్రధాన కాలం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Ezekiel prophesies among the Jewish exiles in Babylon, offering visions of restoration and judgment (Book of Ezekiel)",
+		"desc_te": "యెహెజ్కేలు బాబిలోన్‌లో యూదా నిర్వాసితుల మధ్య ప్రవచించి, పునరుద్ధరణ, తీర్పు దర్శనాలను అందించాడు (యెహెజ్కేలు గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Shadrach, Meshach, and Abednego",
+		"name_te": "శద్రాక్, మేషాక్, అబేద్నెగో",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Shadrach, Meshach, and Abednego, Jewish exiles in Babylon, remain faithful and survive the fiery furnace (Daniel 3)",
+		"desc_te": "శద్రాక్, మేషాక్, అబేద్నెగో బాబిలోన్‌లో యూదా నిర్వాసితులుగా విశ్వాసంగా ఉండి, అగ్ని గర్భంలో నుండి రక్షించబడ్డారు (దానియేలు 3)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and surrounding nations",
+		"name_te": "బాబిలోన్ మరియు పరిసర దేశాల యుద్ధాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon fights wars with neighboring nations, consolidating its empire (Jeremiah 25:9-26)",
+		"desc_te": "బాబిలోన్ పరిసర దేశాలతో యుద్ధాలు చేసి, తన సామ్రాజ్యాన్ని బలోపేతం చేసింది (యిర్మియా 25:9-26)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Tel Abib by the Kebar River",
+		"name_te": "కేబార్ నది ఒడ్డున టెల్ అబిబ్ ఆధ్యాత్మిక కేంద్రం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Tel Abib by the Kebar River becomes a center for the Jewish exiles in Babylon (Ezekiel 3:15)",
+		"desc_te": "కేబార్ నది ఒడ్డున టెల్ అబిబ్ బాబిలోన్‌లో యూదా నిర్వాసితులకు ఆధ్యాత్మిక కేంద్రంగా మారింది (యెహెజ్కేలు 3:15)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Kingdom of Lydia in Anatolia (peak)",
+		"name_te": "అనాటోలియాలో లిడియా రాజ్యం శిఖరం",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "The kingdom of Lydia reaches its peak in western Anatolia, influencing trade and regional politics.",
+		"desc_te": "లిడియా రాజ్యం పశ్చిమ అనాటోలియాలో శిఖరాన్ని చేరుకుని, వాణిజ్యం, ప్రాంతీయ రాజకీయాలపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Daniel (begins)",
+		"name_te": "దానియేలు ప్రవచన సేవ (ప్రారంభం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Daniel begins his prophetic ministry in Babylon, interpreting dreams and visions (Daniel 2, 4, 7)",
+		"desc_te": "దానియేలు బాబిలోన్‌లో ప్రవచన సేవ ప్రారంభించి, కలలు, దర్శనాలను వివరించాడు (దానియేలు 2, 4, 7)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Jehoiachin in Babylonian Captivity",
+		"name_te": "బాబిలోన్ చెరలో యెహోయాకీను",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jehoiachin, former king of Judah, lives in Babylonian captivity but is later released (2 Kings 25:27-30)",
+		"desc_te": "యెహోయాకీను, యూదా మాజీ రాజు, బాబిలోన్ చెరలో జీవించి, తరువాత విడుదల చేయబడ్డాడు (2 రాజులు 25:27-30)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and Tyre (Siege of Tyre)",
+		"name_te": "బాబిలోన్-టైర్ యుద్ధాలు (టైర్ ముట్టడి)",
+		"location": {
+			"lat": 33.27,
+			"lng": 35.19
+		},
+		"desc_en": "Babylon besieges the city of Tyre for many years during Nebuchadnezzar's reign (Ezekiel 26:7-14)",
+		"desc_te": "బాబిలోన్ నెబూకద్నెజర్ పాలనలో టైర్ పట్టణాన్ని అనేక సంవత్సరాలు ముట్టడి చేసింది (యెహెజ్కేలు 26:7-14)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Al-Yahudu in Babylonia (Jewish settlement)",
+		"name_te": "బాబిలోనియాలో అల్-యహుదు (యూదా నివాసం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Al-Yahudu becomes a significant Jewish settlement in Babylonia during the exile.",
+		"desc_te": "బాబిలోనియాలో అల్-యహుదు నిర్వాసన కాలంలో ముఖ్యమైన యూదా నివాసంగా మారింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Median Empire in Iran (peak)",
+		"name_te": "ఇరాన్‌లో మీడియా సామ్రాజ్యం శిఖరం",
+		"location": {
+			"lat": 36.3,
+			"lng": 59.6
+		},
+		"desc_en": "The Median Empire reaches its peak in Iran, influencing the fate of Babylon and the Jewish exiles.",
+		"desc_te": "మీడియా సామ్రాజ్యం ఇరాన్‌లో శిఖరాన్ని చేరుకుని, బాబిలోన్, యూదా నిర్వాసితుల భవితవ్యాన్ని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Jeremiah to the Exiles",
+		"name_te": "నిర్వాసితులకు యిర్మియా ప్రవచన సేవ",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jeremiah sends letters and prophecies to the Jewish exiles in Babylon, encouraging faith and hope (Jeremiah 29)",
+		"desc_te": "యిర్మియా బాబిలోన్‌లోని యూదా నిర్వాసితులకు ఉత్తరాలు, ప్రవచనాలు పంపించి, విశ్వాసం, ఆశను ప్రోత్సహించాడు (యిర్మియా 29)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Gedaliah Governor of Judah",
+		"name_te": "యూదా గవర్నర్ గెదల్యా",
+		"location": {
+			"lat": 31.857,
+			"lng": 35.219
+		},
+		"desc_en": "Gedaliah is appointed governor of Judah by the Babylonians after Jerusalem's fall, later assassinated (2 Kings 25:22-25; Jeremiah 40-41)",
+		"desc_te": "యెరూషలేము పతనం తరువాత బాబిలోనీయులు గెదల్యాను యూదా గవర్నర్‌గా నియమించి, తరువాత అతను హత్య చేయబడ్డాడు (2 రాజులు 25:22-25; యిర్మియా 40-41)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and Egypt (continued)",
+		"name_te": "బాబిలోన్-ఈజిప్టు యుద్ధాలు (కొనసాగింపు)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon and Egypt continue to fight for dominance in the region, impacting the Jewish exiles (Jeremiah 46)",
+		"desc_te": "బాబిలోన్, ఈజిప్టు ప్రాంతంలో ఆధిపత్యం కోసం యుద్ధాలు కొనసాగించాయి, ఇది యూదా నిర్వాసితులపై ప్రభావం చూపింది (యిర్మియా 46)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Jewish Community at Elephantine, Egypt",
+		"name_te": "ఈజిప్టులో ఎలిఫాంటైన్ యూదా సముదాయం",
+		"location": {
+			"lat": 24.088,
+			"lng": 32.899
+		},
+		"desc_en": "A Jewish community flourishes at Elephantine in Egypt, maintaining religious practices during the exile.",
+		"desc_te": "ఈజిప్టులో ఎలిఫాంటైన్ వద్ద యూదా సముదాయం నిర్వాసన కాలంలో మతాచరణలు కొనసాగించింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Neo-Babylonian Empire (peak)",
+		"name_te": "నూతన బాబిలోన్ సామ్రాజ్యం శిఖరం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The Neo-Babylonian Empire reaches its peak, controlling much of the Near East and the Jewish exiles.",
+		"desc_te": "నూతన బాబిలోన్ సామ్రాజ్యం శిఖరాన్ని చేరుకుని, సమీప తూర్పు, యూదా నిర్వాసితులను నియంత్రించింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Obadiah (possible)",
+		"name_te": "ఓబద్యా ప్రవచన సేవ (సంభావ్య)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Obadiah possibly prophesies against Edom during the Babylonian exile, warning of judgment (Book of Obadiah)",
+		"desc_te": "ఓబద్యా బాబిలోన్ నిర్వాసన సమయంలో ఎడోంపై తీర్పును ప్రకటించినట్లు భావించబడుతుంది (ఓబద్యా గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Ezekiel's Vision of the New Temple",
+		"name_te": "యెహెజ్కేలు కొత్త దేవాలయ దర్శనం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Ezekiel receives a vision of a future restored temple in Jerusalem (Ezekiel 40-48)",
+		"desc_te": "యెహెజ్కేలు యెరూషలేములో భవిష్యత్తులో పునరుద్ధరించబడే దేవాలయ దర్శనాన్ని పొందాడు (యెహెజ్కేలు 40-48)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and Elam",
+		"name_te": "బాబిలోన్-ఎలాం యుద్ధాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 48
+		},
+		"desc_en": "Babylon fights wars with the kingdom of Elam in southwestern Iran (Jeremiah 49:34-39)",
+		"desc_te": "బాబిలోన్ దక్షిణ పశ్చిమ ఇరాన్‌లోని ఎలాం రాజ్యంతో యుద్ధాలు చేసింది (యిర్మియా 49:34-39)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Synagogue Gatherings Begin in Exile",
+		"name_te": "నిర్వాసనలో సినగాగ్ సమావేశాల ఆరంభం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jewish exiles begin to gather for prayer and study, laying the foundation for synagogues.",
+		"desc_te": "యూదా నిర్వాసితులు ప్రార్థన, అధ్యయనం కోసం సమావేశమవడం ప్రారంభించి, సినగాగ్‌లకు పునాది వేశారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Persian Achaemenid Dynasty (begins)",
+		"name_te": "పర్షియన్ అఖెమెనిడ్ వంశం ఉద్భవం (ప్రారంభం)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "The Achaemenid dynasty begins to rise in Persia, soon to conquer Babylon and end the exile.",
+		"desc_te": "పర్షియన్ అఖెమెనిడ్ వంశం పర్షియాలో ఉద్భవించి, త్వరలో బాబిలోన్‌ను జయించి, నిర్వాసనాన్ని ముగించనుంది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Belshazzar (Babylonian Prince)",
+		"name_te": "బెల్షజ్జర్ (బాబిలోన్ యువరాజు)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Belshazzar, a Babylonian prince, is mentioned in the Book of Daniel as a ruler during the exile (Daniel 5)",
+		"desc_te": "బెల్షజ్జర్, బాబిలోన్ యువరాజు, నిర్వాసన కాలంలో పాలకుడిగా దానియేలు గ్రంథంలో పేర్కొనబడ్డాడు (దానియేలు 5)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Haggai (possible, early)",
+		"name_te": "హగ్గయి ప్రవచన సేవ (ప్రారంభం, సంభావ్య)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Haggai may have begun his prophetic ministry among the exiles, encouraging hope for restoration (Book of Haggai)",
+		"desc_te": "హగ్గయి నిర్వాసితుల మధ్య ప్రవచన సేవ ప్రారంభించి, పునరుద్ధరణకు ఆశను ప్రోత్సహించాడు (హగ్గయి గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and Egypt (final phase)",
+		"name_te": "బాబిలోన్-ఈజిప్టు యుద్ధాలు (చివరి దశ)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The final phase of wars between Babylon and Egypt weakens both empires, paving the way for Persian conquest (Jeremiah 46)",
+		"desc_te": "బాబిలోన్, ఈజిప్టు మధ్య చివరి దశ యుద్ధాలు రెండు సామ్రాజ్యాలను బలహీనపరిచి, పర్షియన్ ఆక్రమణకు మార్గం వేసాయి (యిర్మియా 46)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Babylonian Ziggurats and Jewish Exile",
+		"name_te": "బాబిలోన్ జిగ్గురాత్‌లు, యూదా నిర్వాసితులు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The Jewish exiles witness the grandeur of Babylonian ziggurats, influencing later Jewish thought (Daniel 3)",
+		"desc_te": "యూదా నిర్వాసితులు బాబిలోన్ జిగ్గురాత్‌ల వైభవాన్ని చూచి, అది తరువాత యూదా ఆలోచనలపై ప్రభావం చూపింది (దానియేలు 3)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Lydian Kingdom's Coinage (first coins)",
+		"name_te": "లిడియా రాజ్యంలో నాణేల ఆవిష్కరణ (మొదటి నాణేలు)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "The Lydian kingdom in Anatolia invents the first coins, revolutionizing trade in the region.",
+		"desc_te": "అనాటోలియాలో లిడియా రాజ్యం మొదటి నాణేలను ఆవిష్కరించి, ప్రాంతీయ వాణిజ్యంలో విప్లవాత్మక మార్పు తీసుకొచ్చింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Zerubbabel (birth, future leader)",
+		"name_te": "జెరుబ్బాబెల్ (పుట్టుక, భవిష్యత్ నాయకుడు)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Zerubbabel, future governor of Judah and leader of the return from exile, is born during this period (Ezra 2:2; Haggai 1:1)",
+		"desc_te": "జెరుబ్బాబెల్, భవిష్యత్‌లో యూదా గవర్నర్, నిర్వాసన నుండి తిరిగి వచ్చిన నాయకుడు, ఈ కాలంలో జన్మించాడు (ఎజ్రా 2:2; హగ్గయి 1:1)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Joel (possible, exile context)",
+		"name_te": "యోவேలు ప్రవచన సేవ (సంభావ్య, నిర్వాసన సందర్భం)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Joel may have prophesied during the exile, calling for repentance and hope (Book of Joel)",
+		"desc_te": "యోவேలు నిర్వాసన సమయంలో ప్రవచించి, పశ్చాత్తాపం, ఆశకు పిలుపునిచ్చాడు (యోவேలు గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and Phoenicia (Tyre and Sidon)",
+		"name_te": "బాబిలోన్-ఫోనిషియా యుద్ధాలు (టైర్, సైడాన్)",
+		"location": {
+			"lat": 34.12,
+			"lng": 35.65
+		},
+		"desc_en": "Babylon wages campaigns against the Phoenician cities of Tyre and Sidon (Ezekiel 26-28)",
+		"desc_te": "బాబిలోన్ ఫోనిషియన్ పట్టణాలు టైర్, సైడాన్‌పై యుద్ధాలు చేసింది (యెహెజ్కేలు 26-28)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: House of Jehoiachin in Babylon",
+		"name_te": "బాబిలోన్‌లో యెహోయాకీను ఇంటి ఆధ్యాత్మిక కేంద్రం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jehoiachin, former king of Judah, is given a house and status in Babylon, becoming a focus for the Jewish community (2 Kings 25:27-30)",
+		"desc_te": "యెహోయాకీను, యూదా మాజీ రాజు, బాబిలోన్‌లో ఇంటిని, స్థానం పొందాడు, ఇది యూదా సముదాయానికి కేంద్రంగా మారింది (2 రాజులు 25:27-30)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Scythians in the Near East",
+		"name_te": "సమీప తూర్పులో స్కైథియన్లు ఉద్భవం",
+		"location": {
+			"lat": 48,
+			"lng": 37
+		},
+		"desc_en": "The Scythians continue to influence the Near East, interacting with Babylon and impacting biblical history (Jeremiah 51:27-28)",
+		"desc_te": "సమీప తూర్పులో స్కైథియన్లు ప్రభావాన్ని చూపుతూ, బాబిలోన్‌తో సంబంధాలు కలిగి, బైబిల్ చరిత్రపై ప్రభావం చూపారు (యిర్మియా 51:27-28)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Ezra (birth, future scribe)",
+		"name_te": "ఎజ్రా (పుట్టుక, భవిష్యత్ లేఖకుడు)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Ezra, future priest and scribe, is likely born during the exile and will later lead reforms in Jerusalem (Ezra 7:1-10)",
+		"desc_te": "ఎజ్రా, భవిష్యత్‌లో యాజకుడు, లేఖకుడు, నిర్వాసన సమయంలో జన్మించి, తరువాత యెరూషలేములో సంస్కరణలకు నాయకత్వం వహించాడు (ఎజ్రా 7:1-10)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Malachi (possible, late exile)",
+		"name_te": "మలాకీ ప్రవచన సేవ (సంభావ్య, నిర్వాసన చివరి)",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Malachi may have begun his prophetic ministry toward the end of the exile, calling for faithfulness (Book of Malachi)",
+		"desc_te": "మలాకీ నిర్వాసన చివరలో ప్రవచన సేవ ప్రారంభించి, విశ్వాసానికి పిలుపునిచ్చాడు (మలాకీ గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Babylon and Arabia",
+		"name_te": "బాబిలోన్-అరేబియా యుద్ధాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon wages campaigns against Arabian tribes, expanding its influence (Jeremiah 25:24)",
+		"desc_te": "బాబిలోన్ అరేబియా గోత్రాలపై యుద్ధాలు చేసి, తన ప్రభావాన్ని విస్తరించింది (యిర్మియా 25:24)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Jewish Study Circles in Exile",
+		"name_te": "నిర్వాసనలో యూదా అధ్యయన వృత్తాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jewish study circles form in exile, preserving scripture and tradition for future generations.",
+		"desc_te": "నిర్వాసనలో యూదా అధ్యయన వృత్తాలు ఏర్పడి, భవిష్యత్ తరాలకు గ్రంథాలు, సంప్రదాయాలను పరిరక్షించాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Cimmerians in Anatolia",
+		"name_te": "అనాటోలియాలో సిమ్మెరియన్ ఉద్భవం",
+		"location": {
+			"lat": 40,
+			"lng": 36
+		},
+		"desc_en": "The Cimmerians rise to power in Anatolia, causing upheaval in the region and impacting biblical nations.",
+		"desc_te": "సిమ్మెరియన్ అనాటోలియాలో శక్తిని పొందుతూ, ప్రాంతంలో కలకలం రేపి, బైబిల్ దేశాలపై ప్రభావం చూపారు."
+	},
+	{
+		"year": "-630",
+		"name_en": "Josiah's Religious Reforms in Judah",
+		"name_te": "యూదాలో యోషీయా మత సంస్కరణలు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "King Josiah leads major religious reforms, removing idols and restoring true worship (2 Kings 22:1-2; 23:1-25)",
+		"desc_te": "యూదా రాజు యోషీయా విగ్రహాలను తొలగించి, నిజమైన ఆరాధనను పునరుద్ధరించాడు (2 రాజులు 22:1-2; 23:1-25)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Discovery of the Book of the Law in the Temple",
+		"name_te": "దేవాలయంలో ధర్మశాస్త్ర గ్రంథం కనుగొనడం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "The Book of the Law is found in the temple during Josiah's reign, sparking national repentance (2 Kings 22:8-13)",
+		"desc_te": "యోషీయా పాలనలో దేవాలయంలో ధర్మశాస్త్ర గ్రంథం కనుగొనబడింది, ఇది జాతీయ పశ్చాత్తాపానికి దారితీసింది (2 రాజులు 22:8-13)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Prophetess Huldah's Message to Josiah",
+		"name_te": "యోషీయాకు ప్రవక్త హుల్దా సందేశం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Huldah the prophetess delivers God's message to Josiah about coming judgment (2 Kings 22:14-20)",
+		"desc_te": "ప్రవక్త హుల్దా యోషీయాకు దేవుని తీర్పు గురించి సందేశం ఇచ్చింది (2 రాజులు 22:14-20)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Josiah Celebrates the Passover in Jerusalem",
+		"name_te": "యోషీయా యెరూషలేములో పస్కా పండుగ జరిపాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Josiah holds a great Passover celebration in Jerusalem (2 Kings 23:21-23; 2 Chronicles 35:1-19)",
+		"desc_te": "యోషీయా యెరూషలేములో గొప్ప పస్కా పండుగను నిర్వహించాడు (2 రాజులు 23:21-23; 2 దినవృత్తాంతములు 35:1-19)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Death of King Josiah at Megiddo",
+		"name_te": "మెగిద్దో వద్ద యోషీయా మరణం",
+		"location": {
+			"lat": 32.58,
+			"lng": 35.18
+		},
+		"desc_en": "Josiah is killed in battle at Megiddo by Pharaoh Necho of Egypt (2 Kings 23:28-30)",
+		"desc_te": "యూదా రాజు యోషీయా మెగిద్దో వద్ద ఈజిప్టు ఫరో నెఖో చేతిలో యుద్ధంలో హతమయ్యాడు (2 రాజులు 23:28-30)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Jehoahaz Becomes King of Judah and Is Deposed by Pharaoh Necho",
+		"name_te": "యెహోయాహజ్ యూదా రాజుగా, ఫరో నెఖో చేత పదవి కోల్పోయాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jehoahaz becomes king of Judah but is quickly deposed and taken to Egypt by Pharaoh Necho (2 Kings 23:31-34)",
+		"desc_te": "యెహోయాహజ్ యూదా రాజుగా అయ్యి, ఫరో నెఖో చేత త్వరగా పదవి కోల్పోయి ఈజిప్టుకు తీసుకెళ్లబడ్డాడు (2 రాజులు 23:31-34)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Jehoiakim Made King of Judah by Pharaoh Necho",
+		"name_te": "యెహోయాకీం ఫరో నెఖో చేత యూదా రాజుగా నియమించబడ్డాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Pharaoh Necho appoints Jehoiakim as king of Judah (2 Kings 23:34-37)",
+		"desc_te": "ఫరో నెఖో యెహోయాకీంను యూదా రాజుగా నియమించాడు (2 రాజులు 23:34-37)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Prophet Jeremiah Begins His Ministry in Judah",
+		"name_te": "యూదాలో ప్రవక్త యిర్మియా సేవ ప్రారంభం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jeremiah begins his prophetic ministry in Judah, warning of coming judgment (Jeremiah 1:1-10)",
+		"desc_te": "యిర్మియా ప్రవక్త యూదాలో తన సేవను ప్రారంభించి, రాబోయే తీర్పును హెచ్చరించాడు (యిర్మియా 1:1-10)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Babylon Rises as a World Power and Threatens Judah",
+		"name_te": "బాబెలోను ప్రపంచ శక్తిగా ఎదిగి, యూదాకు బెదిరింపు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon rises as a dominant power, threatening Judah (2 Kings 24:1; Jeremiah 25:1-11)",
+		"desc_te": "బాబెలోను ప్రపంచ శక్తిగా ఎదిగి, యూదాకు బెదిరింపుగా మారింది (2 రాజులు 24:1; యిర్మియా 25:1-11)"
+	},
+	{
+		"year": "-630",
+		"name_en": "First Babylonian Invasion and Deportation of Jews",
+		"name_te": "మొదటి బాబెలోను దాడి, యూదా ప్రజల నిర్వాసనం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon invades Judah and deports some Jews to Babylon (2 Kings 24:1-4; Daniel 1:1-3)",
+		"desc_te": "బాబెలోను యూదాపై దాడి చేసి, కొంతమంది యూదా ప్రజలను బాబెలోనుకు నిర్వాసితులుగా తీసుకెళ్లింది (2 రాజులు 24:1-4; దానియేలు 1:1-3)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Jehoiakim's Rebellion Against Babylon and Consequences",
+		"name_te": "యెహోయాకీం బాబెలోను తిరుగుబాటు, పరిణామాలు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jehoiakim rebels against Babylon, leading to further invasions and hardship for Judah (2 Kings 24:1-7)",
+		"desc_te": "యెహోయాకీం బాబెలోను పాలనకు తిరుగుబాటు చేసి, యూదాకు మరిన్ని దాడులు, కష్టాలు తెచ్చాడు (2 రాజులు 24:1-7)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Death of Jehoiakim and Accession of Jehoiachin in Judah",
+		"name_te": "యెహోయాకీం మరణం, యూదాలో యెహోయాకీన్ రాజ్యారోహణ",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jehoiakim dies and his son Jehoiachin becomes king of Judah (2 Kings 24:6-8)",
+		"desc_te": "యెహోయాకీం మరణించి, అతని కుమారుడు యెహోయాకీన్ యూదా రాజుగా అయ్యాడు (2 రాజులు 24:6-8)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Second Babylonian Invasion and Deportation of Jews",
+		"name_te": "రెండవ బాబెలోను దాడి, యూదా ప్రజల నిర్వాసనం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Babylon invades Judah again and deports more Jews, including King Jehoiachin (2 Kings 24:10-16)",
+		"desc_te": "బాబెలోను యూదాపై రెండవసారి దాడి చేసి, రాజు యెహోయాకీన్ సహా మరిన్ని యూదా ప్రజలను నిర్వాసితులుగా తీసుకెళ్లింది (2 రాజులు 24:10-16)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Zedekiah Appointed King of Judah by Babylon",
+		"name_te": "బాబెలోను చేత నియమితుడైన యూదా రాజు జెదెకియా",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Babylon appoints Zedekiah as king of Judah after Jehoiachin's exile (2 Kings 24:17-19)",
+		"desc_te": "యెహోయాకీన్ నిర్వాసనం తరువాత బాబెలోను జెదెకియాను యూదా రాజుగా నియమించింది (2 రాజులు 24:17-19)"
+	},
+	{
+		"year": "-630",
+		"name_en": "Prophet Jeremiah Warns of Jerusalem's Coming Destruction",
+		"name_te": "యిర్మియా ప్రవక్త యెరూషలేము వినాశనాన్ని హెచ్చరించాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jeremiah warns Judah and Jerusalem of the coming destruction by Babylon (Jeremiah 25:1-11; 32:28-35)",
+		"desc_te": "యిర్మియా ప్రవక్త యూదా, యెరూషలేము బాబెలోను చేతిలో వినాశనాన్ని హెచ్చరించాడు (యిర్మియా 25:1-11; 32:28-35)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Prophet Isaiah's Martyrdom (Tradition)",
+		"name_te": "ప్రవక్త యెషయా హత్య (సంప్రదాయం)",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "According to tradition, the prophet Isaiah is martyred during Manasseh's reign (Hebrews 11:37; tradition)",
+		"desc_te": "సంప్రదాయం ప్రకారం, మనస్సే పాలనలో ప్రవక్త యెషయా హత్య చేయబడ్డాడు (హెబ్రీయులు 11:37; సంప్రదాయం)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Amon's Short Reign and Assassination in Judah",
+		"name_te": "యూదాలో ఆమోను చిన్నకాల పాలన, హత్య",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Amon, son of Manasseh, reigns briefly in Judah and is assassinated (2 Kings 21:19-26)",
+		"desc_te": "మనస్సే కుమారుడు ఆమోను యూదాలో చిన్నకాలం పాలించి, హత్య చేయబడ్డాడు (2 రాజులు 21:19-26)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Josiah Becomes King of Judah as a Child",
+		"name_te": "యోషీయా బాల్యంలో యూదా రాజుగా అయ్యాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Josiah becomes king of Judah at age eight after Amon's death (2 Kings 22:1)",
+		"desc_te": "ఆమోను మరణం తరువాత యోషీయా ఎనిమిదేళ్ల వయసులో యూదా రాజుగా అయ్యాడు (2 రాజులు 22:1)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Early Reforms of Josiah in Judah",
+		"name_te": "యూదాలో యోషీయా ప్రారంభ సంస్కరణలు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Josiah begins to seek God and initiates early reforms in Judah (2 Chronicles 34:1-7)",
+		"desc_te": "యోషీయా దేవునిని వెతుకుతూ, యూదాలో ప్రారంభ సంస్కరణలు చేపట్టాడు (2 దినవృత్తాంతములు 34:1-7)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Manasseh's Repentance and Restoration in Babylon",
+		"name_te": "మనస్సే బాబెలోనులో పశ్చాత్తాపం, పునరుద్ధరణ",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Manasseh is taken captive to Babylon, repents, and is restored to his throne (2 Chronicles 33:10-13)",
+		"desc_te": "మనస్సే బాబెలోనుకు చెరగా తీసుకెళ్లబడి, పశ్చాత్తాపం చేసి, తన సింహాసనాన్ని తిరిగి పొందాడు (2 దినవృత్తాంతములు 33:10-13)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Manasseh's Religious Reforms After Repentance",
+		"name_te": "పశ్చాత్తాపం తరువాత మనస్సే మత సంస్కరణలు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "After his repentance, Manasseh removes idols and restores worship of the Lord (2 Chronicles 33:14-17)",
+		"desc_te": "పశ్చాత్తాపం తరువాత మనస్సే విగ్రహాలను తొలగించి, యెహోవా ఆరాధనను పునరుద్ధరించాడు (2 దినవృత్తాంతములు 33:14-17)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Amon's Idolatry and Assassination in Judah",
+		"name_te": "యూదాలో ఆమోను విగ్రహారాధన, హత్య",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Amon, son of Manasseh, continues idolatry and is assassinated by his officials (2 Kings 21:19-24)",
+		"desc_te": "మనస్సే కుమారుడు ఆమోను విగ్రహారాధనలో కొనసాగి, తన అధికారుల చేత హత్య చేయబడ్డాడు (2 రాజులు 21:19-24)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Josiah's Early Reforms and Purging of Idolatry",
+		"name_te": "యోషీయా ప్రారంభ సంస్కరణలు, విగ్రహారాధన నిర్మూలన",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Josiah begins to purge Judah and Jerusalem of idolatry in his youth (2 Chronicles 34:1-7)",
+		"desc_te": "యోషీయా తన యవ్వనంలో యూదా, యెరూషలేములో విగ్రహారాధనను నిర్మూలించేందుకు సంస్కరణలు ప్రారంభించాడు (2 దినవృత్తాంతములు 34:1-7)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Rise of the Neo-Babylonian Empire and Threat to Judah",
+		"name_te": "నియో-బాబెలోను సామ్రాజ్యం ఉద్భవం, యూదాకు బెదిరింపు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The Neo-Babylonian Empire rises, posing a new threat to Judah (2 Kings 24:1; Jeremiah 25:1-11)",
+		"desc_te": "నియో-బాబెలోను సామ్రాజ్యం ఉద్భవించి, యూదాకు కొత్త బెదిరింపుగా మారింది (2 రాజులు 24:1; యిర్మియా 25:1-11)"
+	},
+	{
+		"year": "-670",
+		"name_en": "Manasseh's Idolatry and Wickedness in Judah",
+		"name_te": "యూదాలో మనస్సే విగ్రహారాధన, దుష్టత్వం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Manasseh leads Judah into idolatry and wickedness, provoking God's anger (2 Kings 21:1-9)",
+		"desc_te": "మనస్సే యూదాలో విగ్రహారాధన, దుష్టత్వంలో నడిపించి, దేవుని కోపాన్ని రేకెత్తించాడు (2 రాజులు 21:1-9)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Hezekiah's Illness, Prayer, and Recovery in Judah",
+		"name_te": "యూదాలో హెజికియా అనారోగ్యం, ప్రార్థన, కోలుకోవడం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Hezekiah falls ill, prays to God, and is miraculously healed (2 Kings 20:1-11)",
+		"desc_te": "హెజికియా అనారోగ్యంతో బాధపడగా, దేవునికి ప్రార్థించి, అద్భుతంగా కోలుకున్నాడు (2 రాజులు 20:1-11)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Hezekiah Shows Treasures to Babylonian Envoys",
+		"name_te": "హెజికియా బాబెలోను దూతలకు ధనాన్ని చూపించాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Hezekiah shows all his treasures to envoys from Babylon, leading to a prophecy of future exile (2 Kings 20:12-19)",
+		"desc_te": "హెజికియా బాబెలోను దూతలకు తన ధనాన్ని చూపించి, భవిష్యత్ నిర్వాసనానికి ప్రవచనానికి కారణమయ్యాడు (2 రాజులు 20:12-19)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Manasseh Becomes King of Judah and Reigns Long",
+		"name_te": "మనస్సే యూదా రాజుగా, దీర్ఘకాల పాలన",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Manasseh becomes king of Judah and reigns for 55 years (2 Kings 21:1)",
+		"desc_te": "మనస్సే యూదా రాజుగా అయ్యి, 55 సంవత్సరాలు పాలించాడు (2 రాజులు 21:1)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Manasseh's Idolatry and Wickedness in Judah",
+		"name_te": "యూదాలో మనస్సే విగ్రహారాధన, దుష్టత్వం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Manasseh leads Judah into idolatry and wickedness, provoking God's anger (2 Kings 21:2-9)",
+		"desc_te": "మనస్సే యూదాలో విగ్రహారాధన, దుష్టత్వంలో నడిపించి, దేవుని కోపాన్ని రేకెత్తించాడు (2 రాజులు 21:2-9)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Prophet Isaiah's Final Years and Martyrdom (Tradition)",
+		"name_te": "ప్రవక్త యెషయా చివరి సంవత్సరాలు, హత్య (సంప్రదాయం)",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "According to tradition, the prophet Isaiah is martyred during Manasseh's reign (Hebrews 11:37; tradition)",
+		"desc_te": "సంప్రదాయం ప్రకారం, మనస్సే పాలనలో ప్రవక్త యెషయా హత్య చేయబడ్డాడు (హెబ్రీయులు 11:37; సంప్రదాయం)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Sennacherib's Invasion and Defeat in Judah",
+		"name_te": "యూదాలో సెన్నాచెరిబ్ దాడి, ఓటమి",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Sennacherib, king of Assyria, invades Judah but is miraculously defeated (2 Kings 18:13-19:36)",
+		"desc_te": "అస్సిరియా రాజు సెన్నాచెరిబ్ యూదాపై దాడి చేసి, అద్భుతంగా ఓడిపోయాడు (2 రాజులు 18:13-19:36)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Hezekiah's Religious Reforms in Judah",
+		"name_te": "యూదాలో హెజికియా మత సంస్కరణలు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Hezekiah leads major religious reforms, removing idols and restoring temple worship (2 Kings 18:1-6; 2 Chronicles 29:1-36)",
+		"desc_te": "హెజికియా విగ్రహాలను తొలగించి, దేవాలయ ఆరాధనను పునరుద్ధరించాడు (2 రాజులు 18:1-6; 2 దినవృత్తాంతములు 29:1-36)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Isaiah's Prophecies During Hezekiah's Reign",
+		"name_te": "హెజికియా కాలంలో యెషయా ప్రవచనలు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Prophet Isaiah delivers key prophecies and guidance during Hezekiah's reign (Isaiah 37:1-38)",
+		"desc_te": "హెజికియా పాలనలో యెషయా ప్రవక్త ముఖ్య ప్రవచనలు, మార్గదర్శనం అందించాడు (యెషయా 37:1-38)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Manasseh Born to Hezekiah, Future King of Judah",
+		"name_te": "హెజికియాకు మనస్సే జననం, భవిష్యత్ యూదా రాజు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Manasseh, who will become king of Judah, is born to Hezekiah (2 Kings 21:1)",
+		"desc_te": "హెజికియాకు మనస్సే జన్మించి, తరువాత యూదా రాజుగా అవుతాడు (2 రాజులు 21:1)"
+	},
+	{
+		"year": "-700",
+		"name_en": "Rise of Esarhaddon as King of Assyria",
+		"name_te": "అస్సిరియా రాజుగా ఎసర్‌హద్దాన్ ఉద్భవం",
+		"location": {
+			"lat": 36.34,
+			"lng": 43.13
+		},
+		"desc_en": "Esarhaddon becomes king of Assyria after Sennacherib, continuing Assyrian dominance (2 Kings 19:37; Ezra 4:2)",
+		"desc_te": "సెన్నాచెరిబ్ తరువాత ఎసర్‌హద్దాన్ అస్సిరియా రాజుగా అవతరించి, అస్సిరియా ఆధిపత్యాన్ని కొనసాగించాడు (2 రాజులు 19:37; ఎజ్రా 4:2)"
+	}
+]

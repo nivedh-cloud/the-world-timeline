@@ -1,0 +1,114 @@
+[
+  {
+    "id": "abr_01",
+    "name_tel": "ఊరు",
+    "name_eng": "Ur",
+    "coords": [30.963, 46.103],
+    "description": "The starting point. God calls Abraham to leave his country.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_02",
+    "name_tel": "లార్సా",
+    "name_eng": "Larsa",
+    "coords": [31.285, 45.853],
+    "description": "An ancient city along the route in Lower Mesopotamia.",
+    "isMajorStop": false
+  },
+  {
+    "id": "abr_03",
+    "name_tel": "బబులోను",
+    "name_eng": "Babylon",
+    "coords": [32.536, 44.421],
+    "description": "A major administrative center along the Euphrates river.",
+    "isMajorStop": false
+  },
+  {
+    "id": "abr_04",
+    "name_tel": "మారి",
+    "name_eng": "Mari",
+    "coords": [34.414, 40.890],
+    "description": "A vital trade city on the border of Mesopotamia and Syria.",
+    "isMajorStop": false
+  },
+  {
+    "id": "abr_05",
+    "name_tel": "హారాను",
+    "name_eng": "Haran",
+    "coords": [36.864, 39.023],
+    "description": "The middle stop where Abraham's father Terah died.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_06",
+    "name_tel": "కర్కెమీషు",
+    "name_eng": "Carchemish",
+    "coords": [36.829, 38.015],
+    "description": "The point where they crossed the Euphrates to turn south.",
+    "isMajorStop": false
+  },
+  {
+    "id": "abr_07",
+    "name_tel": "అలెప్పో",
+    "name_eng": "Aleppo",
+    "coords": [36.202, 37.134],
+    "description": "An ancient crossroads in Northern Syria.",
+    "isMajorStop": false
+  },
+  {
+    "id": "abr_08",
+    "name_tel": "దమస్కు",
+    "name_eng": "Damascus",
+    "coords": [33.511, 36.300],
+    "description": "A key waypoint before entering the land of Canaan.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_09",
+    "name_tel": "షెకెము",
+    "name_eng": "Shechem",
+    "coords": [32.214, 35.281],
+    "description": "First altar built in Canaan. God promises the land here.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_10",
+    "name_tel": "బేతేలు",
+    "name_eng": "Bethel",
+    "coords": [31.927, 35.235],
+    "description": "Abraham pitched his tent and called upon the Lord.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_11",
+    "name_tel": "హెబ్రోను",
+    "name_eng": "Hebron",
+    "coords": [31.529, 35.099],
+    "description": "The Oaks of Mamre. The final settling place of the Patriarchs.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_12",
+    "name_tel": "బేర్షెబా",
+    "name_eng": "Beersheba",
+    "coords": [31.244, 34.792],
+    "description": "The southern boundary of the journey in the Negev.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_13",
+    "name_tel": "ఐగిప్టు",
+    "name_eng": "Egypt",
+    "coords": [30.8, 31.2],
+    "description": "Abraham went to Egypt during a severe famine in Canaan. He feared for his life and called Sarah his sister.",
+    "isMajorStop": true
+  },
+  {
+    "id": "abr_14",
+    "name_tel": "కానాను (తిరిగి)",
+    "name_eng": "Return to Canaan",
+    "coords": [31.529, 35.099],
+    "description": "Abraham returned to Canaan with great wealth, including livestock, servants, and gold. God blessed him greatly.",
+    "isMajorStop": true
+  }
+]

@@ -1,0 +1,552 @@
+[
+	{
+		"year": "-2800",
+		"name_en": "Pre-Dynastic Egypt Upper Egypt Consolidation",
+		"name_te": "ప్రీ-డైనాస్టిక్ ఈజిప్టు ఎగువ ఈజిప్టు సమీకరణ",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Upper Egypt consolidates under strong chieftain authority with initial hieroglyphic script.",
+		"desc_te": "ఎగువ ఈజిప్టు ప్రారంభ సంకేత లిపిసహా బలమైన ముఖ్య అధికారం సమీకరణ చేస్తుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Lower Egypt Cultural Development",
+		"name_te": "దిగువ ఈజిప్టు సాంస్కృతిక అభివృద్ధి",
+		"location": {
+			"lat": 30.5,
+			"lng": 31
+		},
+		"desc_en": "Lower Egypt develops distinct culture with Mediterranean trade influences.",
+		"desc_te": "దిగువ ఈజిప్టు మధ్యసాగర వాణిజ్య ప్రభావాలతో విభిన్న సంస్కృతిని అభివృద్ధి చేస్తుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Egyptian Palette Objects Appear",
+		"name_te": "ఈజిప్టు పాలెట్ వస్తువులు కనిపిస్తాయి",
+		"location": {
+			"lat": 29.9,
+			"lng": 31.1
+		},
+		"desc_en": "Decorated palette objects appear with hieroglyphic inscriptions.",
+		"desc_te": "అలంకారపూర్వక పాలెట్ వస్తువులు సంకేత లిపి లిఖిత సహా కనిపిస్తాయి."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Egyptian Unification Conflicts Begin",
+		"name_te": "ఈజిప్టు ఐక్య సంఘర్షణలు ప్రారంభం",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Upper and Lower Egypt begin conflicts over territorial control.",
+		"desc_te": "ఎగువ, దిగువ ఈజిప్టు భూభాగ నియంత్రణ కోసం సంఘర్షణ ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Egyptian Pre-Dynastic Military Campaigns",
+		"name_te": "ఈజిప్టు ప్రీ-డైనాస్టిక్ సైనిక చర్యలు",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Pre-dynastic Egyptian military campaigns prepare for Narmer unification.",
+		"desc_te": "ప్రీ-డైనాస్టిక్ ఈజిప్టు సైనిక చర్యలు నర్మర్ ఐక్యత కోసం ప్రస్తుతం చేస్తుంది."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Uruk Period Peak Mesopotamia",
+		"name_te": "ఉరుక్ కాలం శిఖరం మెసొపొటేమియా",
+		"location": {
+			"lat": 32.5,
+			"lng": 46
+		},
+		"desc_en": "Uruk period reaches cultural and political peak in Mesopotamia.",
+		"desc_te": "ఉరుక్ కాలం మెసొపొటేమియాలో సాంస్కృతిక, రాజకీయ శిఖరానికి చేరుతుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Gilgamesh Traditional Era Mesopotamia",
+		"name_te": "గిల్‌గమేష్ సంప్రదాయ యుగ మెసొపొటేమియా",
+		"location": {
+			"lat": 32.5,
+			"lng": 46
+		},
+		"desc_en": "Gilgamesh traditionally rules Uruk during height of city-state power.",
+		"desc_te": "గిల్‌గమేష్ నగర-రాష్ట్ర శక్తి శిఖరంలో ఉరుక్‌ను పాలిస్తారు సంప్రదాయ ప్రకారం."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Sumerian City-State Competition Mesopotamia",
+		"name_te": "సుమేరియన్ నగర-రాష్ట్ర పోటీ మెసొపొటేమియా",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Sumerian city-states compete for dominance and resources.",
+		"desc_te": "సుమేరియన్ నగర-రాష్ట్రాలు ఆధిపత్యం, సంపద కోసం పోటీ పడుతుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Cuneiform Writing Development Mesopotamia",
+		"name_te": "చాపిత లిపి అభివృద్ధి మెసొపొటేమియా",
+		"location": {
+			"lat": 32.5,
+			"lng": 46
+		},
+		"desc_en": "Cuneiform writing fully develops for administrative and literary purposes.",
+		"desc_te": "చాపిత లిపి పరిపాలన, సాహిత్య ఉద్దేశాల కోసం పూర్తిగా అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Sumerian Literary Tradition Mesopotamia",
+		"name_te": "సుమేరియన్ సాహిత్య సంప్రదాయ మెసొపొటేమియా",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Sumerian literary traditions establish with myths and historical records.",
+		"desc_te": "సుమేరియన్ సాహిత్య సంప్రదాయాలు పురాణాలు, చారిత్రక రికార్డులతో స్థాపిత చేయబడతాయి."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Indus Valley Early Period Foundation India",
+		"name_te": "సిందువు లోయ ప్రారంభ కాలం ఆధారం భారతదేశం",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley early period foundations develop with pottery and settlements.",
+		"desc_te": "సిందువు లోయ ప్రారంభ కాలం కుండలు, నిపటనాలతో ఆధారం అభివృద్ధి చెందుతుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Indus Valley Architectural Development India",
+		"name_te": "సిందువు లోయ నిర్మాణ అభివృద్ధి భారతదేశం",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Indus Valley settlements develop standardized architectural patterns.",
+		"desc_te": "సిందువు లోయ నిపటనాలు ప్రమాణీకృత నిర్మాణ నమూనాలను అభివృద్ధి చేస్తుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Harappa Culture Early Phase India",
+		"name_te": "హరప్ప సంస్కృతి ప్రారంభ దశ భారతదేశం",
+		"location": {
+			"lat": 30.627,
+			"lng": 72.855
+		},
+		"desc_en": "Harappa culture emerges with early pottery and settlement characteristics.",
+		"desc_te": "హరప్ప సంస్కృతి ప్రారంభ కుండలు, నిపటన లక్షణాలతో ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Indus Valley Pottery Tradition India",
+		"name_te": "సిందువు లోయ కుండల సంప్రదాయ భారతదేశం",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Pottery tradition establishes with distinctive styles in Indus Valley.",
+		"desc_te": "కుండల సంప్రదాయ సిందువు లోయలో విశిష్ట శైలిలతో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Indus Valley Population Growth India",
+		"name_te": "సిందువు లోయ జనాభా వృద్ధి భారతదేశం",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley population grows with expanded settlements.",
+		"desc_te": "సిందువు లోయ జనాభా విస్తరించిన నిపటనాలతో పెరుగుతుంది."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Xia Dynasty Early Foundation China",
+		"name_te": "జియా వంశ ప్రారంభ ఆధారం చైనా",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia Dynasty traditional foundation begins according to historical accounts.",
+		"desc_te": "చారిత్రక ఖాతాల ప్రకారం జియా వంశ సంప్రదాయ ఆధారం ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Yellow River Civilization China",
+		"name_te": "పసుపు నది నాగరికత చైనా",
+		"location": {
+			"lat": 34.5,
+			"lng": 108
+		},
+		"desc_en": "Yellow River civilization develops with early settlement patterns.",
+		"desc_te": "పసుపు నది నాగరికత ప్రారంభ నిపటన నమూనాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Xia Agriculture Foundations China",
+		"name_te": "జియా వ్యవసాయ ఆధారాలు చైనా",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia period establishes agricultural foundations for civilization.",
+		"desc_te": "జియా కాలం నాగరికత కోసం వ్యవసాయ ఆధారాలు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Xia Early Settlements China",
+		"name_te": "జియా ప్రారంభ నిపటనాలు చైనా",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Early Xia settlements develop with organized communities.",
+		"desc_te": "జియా ప్రారంభ నిపటనాలు సంఘటిత సమాజాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Xia Cultural Patterns China",
+		"name_te": "జియా సాంస్కృతిక నమూనాలు చైనా",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia cultural patterns emerge with ritual and artistic expression.",
+		"desc_te": "జియా సాంస్కృతిక నమూనాలు ఆచార్య, కళా వ్యక్తీకరణతో ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Minoan Civilization Early Period Crete",
+		"name_te": "మినోయన్ నాగరికత ప్రారంభ కాలం క్రీట్",
+		"location": {
+			"lat": 35.2,
+			"lng": 24.9
+		},
+		"desc_en": "Minoan civilization emerges on Crete with early settlements.",
+		"desc_te": "మినోయన్ నాగరికత ప్రారంభ నిపటనాలతో క్రీట్‌లో ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Minoan Settlement Development Crete",
+		"name_te": "మినోయన్ నిపటన అభివృద్ధి క్రీట్",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Minoan settlements develop with early architectural forms.",
+		"desc_te": "మినోయన్ నిపటనాలు ప్రారంభ నిర్మాణ రూపాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Minoan Pottery Beginning Crete",
+		"name_te": "మినోయన్ కుండల ప్రారంభం క్రీట్",
+		"location": {
+			"lat": 35.4,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan pottery tradition begins with early ceramic forms.",
+		"desc_te": "మినోయన్ కుండల సంప్రదాయ ప్రారంభ సిరామిక్ రూపాలతో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Minoan Community Formation Crete",
+		"name_te": "మినోయన్ సమాజ ఏర్పాటు క్రీట్",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Minoan communities organize with emerging social structures.",
+		"desc_te": "మినోయన్ సమాజాలు ఆవిర్భవించిన సామాజిక నిర్మాణాలతో సంస్థ చేస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Minoan Aegean Connections Crete",
+		"name_te": "మినోయన్ ఆండోయన్ సంబంధాలు క్రీట్",
+		"location": {
+			"lat": 35.4,
+			"lng": 25
+		},
+		"desc_en": "Early Minoan trade connections with Aegean regions establish.",
+		"desc_te": "ప్రారంభ మినోయన్ వాణిజ్య సంబంధాలు ఆండోయన్ ప్రాంతాలతో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Proto-Dynastic Egypt Emergence",
+		"name_te": "ప్రోటో-డైనాస్టిక్ ఈజిప్టు ఆవిర్భావం",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Proto-dynastic period emerges with chieftain authority and military power.",
+		"desc_te": "ప్రోటో-డైనాస్టిక్ కాలం ముఖ్య అధికారం, సైన్య శక్తిసహా ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Egyptian Chieftain Authority Formation",
+		"name_te": "ఈజిప్టు ముఖ్య అధికారం ఏర్పాటు",
+		"location": {
+			"lat": 30.5,
+			"lng": 31
+		},
+		"desc_en": "Egyptian chieftains consolidate authority over territories.",
+		"desc_te": "ఈజిప్టు ముఖ్యులు భూభాగాలపై అధికారం సమీకరించుకుంటారు."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Egyptian Proto-Writing Development",
+		"name_te": "ఈజిప్టు ప్రోటో-లిపి అభివృద్ధి",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Proto-writing systems develop for recording and administrative purposes.",
+		"desc_te": "ప్రోటో-లిపి వ్యవస్థలు రికార్డింగ్, పరిపాలన ఉద్దేశాల కోసం అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Egyptian Trade Development",
+		"name_te": "ఈజిప్టు వాణిజ్య అభివృద్ధి",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Egyptian trade develops with Levantine regions.",
+		"desc_te": "ఈజిప్టు వాణిజ్యం లెవాంటిన్ ప్రాంతాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Egyptian Military Organization Emerges",
+		"name_te": "ఈజిప్టు సైనిక సంస్థ ఆవిర్భవం",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Organized military forces emerge for territorial expansion.",
+		"desc_te": "సంఘటిత సైన్య బలాలు భూభాగ విస్తరణ కోసం ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Nubian Early Culture Formation Africa",
+		"name_te": "నుబియన్ ప్రారంభ సంస్కృతి ఏర్పాటు ఆఫ్రికా",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Nubian early culture forms along Nile with distinctive patterns.",
+		"desc_te": "నుబియన్ ప్రారంభ సంస్కృతి నీలు నదికి సహా విశిష్ట నమూనాలతో ఏర్పాటు చేయబడుతుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Nubian Settlement Establishment Africa",
+		"name_te": "నుబియన్ నిపటన స్థాపన ఆఫ్రికా",
+		"location": {
+			"lat": 18.5,
+			"lng": 33
+		},
+		"desc_en": "Nubian settlements establish along Nile with agricultural basis.",
+		"desc_te": "నుబియన్ నిపటనాలు వ్యవసాయ ఆధారంతో నీలు నదికి సహా స్థాపన చేయబడుతుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Nubian Pastoralism Foundations Africa",
+		"name_te": "నుబియన్ పశుపాలన ఆధారాలు ఆఫ్రికా",
+		"location": {
+			"lat": 19,
+			"lng": 33
+		},
+		"desc_en": "Pastoral traditions establish in Nubian communities.",
+		"desc_te": "పశుపాలన సంప్రదాయాలు నుబియన్ సమాజాలలో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Nubian Pottery Traditions Africa",
+		"name_te": "నుబియన్ కుండల సంప్రదాయాలు ఆఫ్రికా",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Distinctive Nubian pottery traditions develop.",
+		"desc_te": "విశిష్ట నుబియన్ కుండల సంప్రదాయాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Nubian Trade Beginnings Africa",
+		"name_te": "నుబియన్ వాణిజ్యం ప్రారంభాలు ఆఫ్రికా",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Trade connections begin between Nubian and surrounding regions.",
+		"desc_te": "నుబియన్ మరియు సరిహద్దు ప్రాంతాల మధ్య వాణిజ్య సంబంధాలు ప్రారంభమవుతాయి."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Greek Pre-Bronze Age Foundation Greece",
+		"name_te": "గ్రీకు ప్రీ-కాంస్య యుగ ఆధారం గ్రీస్",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Greek pre-Bronze Age foundations develop with early settlements.",
+		"desc_te": "గ్రీకు ప్రీ-కాంస్య యుగ ఆధారం ప్రారంభ నిపటనాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Greek Early Settlement Patterns Greece",
+		"name_te": "గ్రీకు ప్రారంభ నిపటన నమూనాలు గ్రీస్",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Early Greek settlement patterns emerge on mainland.",
+		"desc_te": "ప్రారంభ గ్రీకు నిపటన నమూనాలు ప్రధాన భూమిలో ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Greek Pottery Foundations Greece",
+		"name_te": "గ్రీకు కుండల ఆధారాలు గ్రీస్",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Greek pottery foundations establish with early ceramic traditions.",
+		"desc_te": "గ్రీకు కుండల ఆధారాలు ప్రారంభ సిరామిక్ సంప్రదాయాలతో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Greek Community Development Greece",
+		"name_te": "గ్రీకు సమాజ అభివృద్ధి గ్రీస్",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Greek communities develop with organized settlements.",
+		"desc_te": "గ్రీకు సమాజాలు సంఘటిత నిపటనాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Greek Agricultural Traditions Greece",
+		"name_te": "గ్రీకు వ్యవసాయ సంప్రదాయాలు గ్రీస్",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Agricultural traditions establish in Greek communities.",
+		"desc_te": "వ్యవసాయ సంప్రదాయాలు గ్రీకు సమాజాలలో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2800",
+		"name_en": "European Neolithic Period Europe",
+		"name_te": "యూరోపియన్ నియోలిథిక్ కాలం యూరోప్",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "European Neolithic period foundations develop with agriculture.",
+		"desc_te": "యూరోపియన్ నియోలిథిక్ కాలం ఆధారం వ్యవసాయంతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "European Agricultural Foundation Europe",
+		"name_te": "యూరోపియన్ వ్యవసాయ ఆధారం యూరోప్",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "Agricultural foundations establish in Europe.",
+		"desc_te": "వ్యవసాయ ఆధారాలు యూరోపులో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "European Settlement Foundations Europe",
+		"name_te": "యూరోపియన్ నిపటన ఆధారాలు యూరోప్",
+		"location": {
+			"lat": 48.5,
+			"lng": 16
+		},
+		"desc_en": "Settlement foundations develop with communal structures.",
+		"desc_te": "నిపటన ఆధారాలు సామూహిక నిర్మాణాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "European Community Formation Europe",
+		"name_te": "యూరోపియన్ సమాజ ఏర్పాటు యూరోప్",
+		"location": {
+			"lat": 50,
+			"lng": 12
+		},
+		"desc_en": "European communities form with shared resources.",
+		"desc_te": "యూరోపియన్ సమాజాలు సామూహిక సంపద సహా ఏర్పాటు చేస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "European Cultural Emergence Europe",
+		"name_te": "యూరోపియన్ సాంస్కృతిక ఆవిర్భావం యూరోప్",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "European cultural patterns emerge with early traditions.",
+		"desc_te": "యూరోపియన్ సాంస్కృతిక నమూనాలు ప్రారంభ సంప్రదాయాలతో ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-2800",
+		"name_en": "Aboriginal Australian Culture Maintenance Australia",
+		"name_te": "ఆదివాసీ ఆస్ట్రేలియన్ సంస్కృతి సంరక్షణ ఆస్ట్రేలియా",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australian culture maintained with hunting and gathering.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియన్ సంస్కృతి వేటకాడటం, సంచితంతో సంరక్షిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2780",
+		"name_en": "Aboriginal Art Expression Australia",
+		"name_te": "ఆదివాసీ కళా వ్యక్తీకరణ ఆస్ట్రేలియా",
+		"location": {
+			"lat": -12.8,
+			"lng": 132.5
+		},
+		"desc_en": "Aboriginal artistic expression develops with rock art.",
+		"desc_te": "ఆదివాసీ కళా వ్యక్తీకరణ రాతి కళతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2760",
+		"name_en": "Aboriginal Tool Development Australia",
+		"name_te": "ఆదివాసీ సాధన అభివృద్ధి ఆస్ట్రేలియా",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Aboriginal tool technology develops with specialized implements.",
+		"desc_te": "ఆదివాసీ సాధన సాంకేతికత ప్రత్యేక పరికరాలతో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2740",
+		"name_en": "Aboriginal Knowledge Development Australia",
+		"name_te": "ఆదివాసీ జ్ఞానం అభివృద్ధి ఆస్ట్రేలియా",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal knowledge systems develop for survival.",
+		"desc_te": "ఆదివాసీ జ్ఞానం వ్యవస్థలు జీవనానికి అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2720",
+		"name_en": "Aboriginal Cultural Continuity Australia",
+		"name_te": "ఆదివాసీ సాంస్కృతిక కొనసాగుదల ఆస్ట్రేలియా",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultural continuity maintained across generations.",
+		"desc_te": "ఆదివాసీ సాంస్కృతిక కొనసాగుదల తరాల నుండి సంరక్షిత చేయబడుతుంది."
+	}
+]

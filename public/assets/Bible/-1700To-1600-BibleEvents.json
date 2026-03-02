@@ -1,0 +1,244 @@
+[
+	{
+		"year": "-1700",
+		"name_en": "Joseph Rises to Power in Egypt",
+		"name_te": "యోసేపు ఈజిప్టులో అధికారంలోకి వచ్చాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph is made ruler over Egypt under Pharaoh (Genesis 41:39-44)",
+		"desc_te": "యోసేపు ఫరో క్రింద ఈజిప్టులో అధికారిగా నియమించబడ్డాడు (ఆదికాండము 41:39-44)"
+	},
+	{
+		"year": "-1690",
+		"name_en": "Famine in Egypt and Canaan",
+		"name_te": "ఈజిప్టు, కనాను లో కరువు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "A severe famine affects Egypt and Canaan, Joseph's brothers come to buy grain (Genesis 41:53-57)",
+		"desc_te": "ఈజిప్టు, కనాను దేశాలలో తీవ్రమైన కరువు వచ్చింది, యోసేపు సహోదరులు ధాన్యం కొనడానికి వచ్చారు (ఆదికాండము 41:53-57)"
+	},
+	{
+		"year": "-1680",
+		"name_en": "Jacob and Family Move to Egypt",
+		"name_te": "యాకోబు కుటుంబం ఈజిప్టుకు వెళ్ళింది",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jacob and his family settle in Egypt (Genesis 46:1-7)",
+		"desc_te": "యాకోబు తన కుటుంబంతో ఈజిప్టుకు వెళ్ళాడు (ఆదికాండము 46:1-7)"
+	},
+	{
+		"year": "-1670",
+		"name_en": "Pharaoh Grants Land of Goshen",
+		"name_te": "ఫరో గోషెన్ దేశాన్ని ఇచ్చాడు",
+		"location": {
+			"lat": 30.6,
+			"lng": 31.1
+		},
+		"desc_en": "Pharaoh gives the land of Goshen to Jacob's family (Genesis 47:1-6)",
+		"desc_te": "ఫరో యాకోబు కుటుంబానికి గోషెన్ దేశాన్ని ఇచ్చాడు (ఆదికాండము 47:1-6)"
+	},
+	{
+		"year": "-1660",
+		"name_en": "Joseph's Economic Reforms in Egypt",
+		"name_te": "ఈజిప్టులో యోసేపు ఆర్థిక సంస్కరణలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph implements economic reforms during the famine (Genesis 47:13-26)",
+		"desc_te": "కరువు సమయంలో యోసేపు ఈజిప్టులో ఆర్థిక సంస్కరణలు చేపట్టాడు (ఆదికాండము 47:13-26)"
+	},
+	{
+		"year": "-1650",
+		"name_en": "Jacob Blesses Pharaoh",
+		"name_te": "యాకోబు ఫరోను ఆశీర్వదించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jacob blesses Pharaoh (Genesis 47:7-10)",
+		"desc_te": "యాకోబు ఫరోను ఆశీర్వదించాడు (ఆదికాండము 47:7-10)"
+	},
+	{
+		"year": "-1640",
+		"name_en": "Jacob Blesses Joseph's Sons",
+		"name_te": "యాకోబు యోసేపు కుమారులను ఆశీర్వదించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jacob blesses Ephraim and Manasseh (Genesis 48:8-20)",
+		"desc_te": "యాకోబు ఎఫ్రాయిము, మనస్సేలను ఆశీర్వదించాడు (ఆదికాండము 48:8-20)"
+	},
+	{
+		"year": "-1630",
+		"name_en": "Jacob Blesses His Twelve Sons",
+		"name_te": "యాకోబు తన పన్నెండు కుమారులను ఆశీర్వదించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jacob gives prophetic blessings to his twelve sons (Genesis 49:1-28)",
+		"desc_te": "యాకోబు తన పన్నెండు కుమారులకు ప్రవచనాత్మక ఆశీర్వాదాలు ఇచ్చాడు (ఆదికాండము 49:1-28)"
+	},
+	{
+		"year": "-1610",
+		"name_en": "Death of Jacob and Joseph",
+		"name_te": "యాకోబు, యోసేపు మరణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jacob and Joseph die in Egypt (Genesis 49:29-50:26)",
+		"desc_te": "యాకోబు, యోసేపు ఈజిప్టులో మరణించారు (ఆదికాండము 49:29-50:26)"
+	},
+	{
+		"year": "-1605",
+		"name_en": "Joseph's Burial in Egypt",
+		"name_te": "యోసేపు ఈజిప్టులో సమాధి",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph is embalmed and placed in a coffin in Egypt (Genesis 50:26)",
+		"desc_te": "యోసేపును ఈజిప్టులో శవపేటికలో ఉంచారు (ఆదికాండము 50:26)"
+	},
+	{
+		"year": "-1620",
+		"name_en": "Israelites Multiply in Egypt",
+		"name_te": "ఈజిప్టులో ఇశ్రాయేలీయులు విస్తరించటం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The Israelites become fruitful and multiply greatly in Egypt (Exodus 1:7)",
+		"desc_te": "ఈజిప్టులో ఇశ్రాయేలీయులు విస్తరించి, బహుగా పెరిగారు (నిర్గమకాండము 1:7)"
+	},
+	{
+		"year": "-1650",
+		"name_en": "Joseph's Brothers Settle in Goshen",
+		"name_te": "యోసేపు సహోదరులు గోషేన్ లో స్థిరపడ్డారు",
+		"location": {
+			"lat": 30.6,
+			"lng": 31.1
+		},
+		"desc_en": "Joseph's brothers settle in the land of Goshen (Genesis 47:27)",
+		"desc_te": "యోసేపు సహోదరులు గోషేన్ దేశంలో స్థిరపడ్డారు (ఆదికాండము 47:27)"
+	},
+	{
+		"year": "-1680",
+		"name_en": "Joseph Provides for His Family",
+		"name_te": "యోసేపు తన కుటుంబాన్ని పోషించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph provides food and care for his family during the famine (Genesis 47:11-12)",
+		"desc_te": "కరువు సమయంలో యోసేపు తన కుటుంబాన్ని పోషించాడు (ఆదికాండము 47:11-12)"
+	},
+	{
+		"year": "-1700",
+		"name_en": "Joseph Interprets Dreams in Prison",
+		"name_te": "యోసేపు జైల్లో కలలను వివరించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph interprets the dreams of Pharaoh's cupbearer and baker (Genesis 40:1-23)",
+		"desc_te": "యోసేపు జైల్లో ఫరో పానపాత్రధారి, బేకర్ కలలను వివరించాడు (ఆదికాండము 40:1-23)"
+	},
+	{
+		"year": "-1700",
+		"name_en": "Pharaoh's Dreams and Joseph's Interpretation",
+		"name_te": "ఫరో కలలు, యోసేపు వివరణ",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Pharaoh dreams of cows and grain; Joseph interprets them (Genesis 41:1-36)",
+		"desc_te": "ఫరో గేదెలు, ధాన్యపు కలలు కనగా, యోసేపు వాటిని వివరించాడు (ఆదికాండము 41:1-36)"
+	},
+	{
+		"year": "-1670",
+		"name_en": "Joseph's Brothers' First Visit to Egypt",
+		"name_te": "యోసేపు సహోదరుల మొదటి ఈజిప్టు ప్రయాణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph's brothers visit Egypt to buy grain (Genesis 42:1-28)",
+		"desc_te": "యోసేపు సహోదరులు ధాన్యం కొనడానికి ఈజిప్టుకు వెళ్ళారు (ఆదికాండము 42:1-28)"
+	},
+	{
+		"year": "-1660",
+		"name_en": "Joseph's Brothers' Second Visit to Egypt",
+		"name_te": "యోసేపు సహోదరుల రెండవ ఈజిప్టు ప్రయాణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph's brothers return to Egypt with Benjamin (Genesis 43:1-34)",
+		"desc_te": "యోసేపు సహోదరులు బెన్యామీనుతో కలిసి రెండవసారి ఈజిప్టుకు వెళ్ళారు (ఆదికాండము 43:1-34)"
+	},
+	{
+		"year": "-1650",
+		"name_en": "Joseph Tests His Brothers",
+		"name_te": "యోసేపు సహోదరులను పరీక్షించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph tests his brothers by placing his cup in Benjamin's sack (Genesis 44:1-34)",
+		"desc_te": "యోసేపు తన పానపాత్రను బెన్యామీను సంచిలో పెట్టి సహోదరులను పరీక్షించాడు (ఆదికాండము 44:1-34)"
+	},
+	{
+		"year": "-1640",
+		"name_en": "Reunion of Joseph and His Brothers",
+		"name_te": "యోసేపు, సహోదరుల పునర్మిళకం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph reveals himself to his brothers and they are reconciled (Genesis 45:1-15)",
+		"desc_te": "యోసేపు తనను సహోదరులకు తెలియజేసి, వారు పునర్మిళకం చెందారు (ఆదికాండము 45:1-15)"
+	},
+	{
+		"year": "-1630",
+		"name_en": "Pharaoh Invites Jacob to Egypt",
+		"name_te": "ఫరో యాకోబును ఈజిప్టుకు ఆహ్వానించాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Pharaoh invites Jacob and his family to settle in Egypt (Genesis 45:16-28)",
+		"desc_te": "ఫరో యాకోబును, అతని కుటుంబాన్ని ఈజిప్టుకు ఆహ్వానించాడు (ఆదికాండము 45:16-28)"
+	},
+	{
+		"year": "-1620",
+		"name_en": "Seventy Descendants of Jacob Enter Egypt",
+		"name_te": "యాకోబు వంశస్థులు 70 మంది ఈజిప్టుకు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Seventy descendants of Jacob enter Egypt (Genesis 46:26-27)",
+		"desc_te": "యాకోబు వంశస్థులు 70 మంది ఈజిప్టుకు ప్రవేశించారు (ఆదికాండము 46:26-27)"
+	},
+	{
+		"year": "-1610",
+		"name_en": "Jacob Settles in Goshen",
+		"name_te": "యాకోబు గోషేన్ లో స్థిరపడ్డాడు",
+		"location": {
+			"lat": 30.6,
+			"lng": 31.1
+		},
+		"desc_en": "Jacob settles in the land of Goshen in Egypt (Genesis 47:27-28)",
+		"desc_te": "యాకోబు ఈజిప్టులో గోషేన్ దేశంలో స్థిరపడ్డాడు (ఆదికాండము 47:27-28)"
+	}
+]

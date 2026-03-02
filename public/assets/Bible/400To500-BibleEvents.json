@@ -1,0 +1,222 @@
+[
+	{
+		"year": "400",
+		"name_en": "Augustine's City of God",
+		"name_te": "ఆగస్టీన్ దేవుని నగరం",
+		"location": {
+			"lat": 36.8,
+			"lng": 3
+		},
+		"desc_en": "Augustine writes City of God, defending Christianity after Rome's sack. Begins defining Christian theology.",
+		"desc_te": "ఆగస్టీన్ దేవుని నగరం రచన చేసిన విషయం, రోమ్ సంధ్రాంత తర్వాత క్రీస్టియానిటీ రక్షించాడు. క్రీస్టియన్ దేవతాత్త్వం నిర్వచనం ప్రారంభించాడు."
+	},
+	{
+		"year": "405",
+		"name_en": "Jerome Completes Vulgate",
+		"name_te": "జెరోమ్ వల్గేట్ పూర్తి చేసాడు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Jerome completes his Latin Bible translation (Vulgate). Becomes standard text for Western Church.",
+		"desc_te": "జెరోమ్ తన లాటిన్ బైబిల్ అనువాదం (వల్గేట్) పూర్తి చేసిన విషయం. పశ్చిమ చర్చకు సంప్రదాయ గ్రంధం కాబడుతుంది."
+	},
+	{
+		"year": "410",
+		"name_en": "Visigoths Sack Rome",
+		"name_te": "విసిగోధ్లు రోమ్‌ను సంధ్రాంత చేసారు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Alaric's Visigothic forces sack Rome, shocking Christian empire. Augustine responds theologically.",
+		"desc_te": "అలారిక్ విసిగోధ్ బలాలు రోమ్‌ను సంధ్రాంత చేసిన విషయం, క్రీస్టియన్ సామ్రాజ్యకు అస్తవ్యస్తం కలిగిస్తుంది. ఆగస్టీన్ దేవతాత్త్వంగా ప్రతిస్పందిస్తాడు."
+	},
+	{
+		"year": "415",
+		"name_en": "Hypatia's Murder and Church Power",
+		"name_te": "హిపేషియ హత్య, చర్చ శక్తి",
+		"location": {
+			"lat": 31.2,
+			"lng": 30.3
+		},
+		"desc_en": "Pagan philosopher Hypatia murdered by Christian mob in Alexandria. Symbolizes church dominance over learning.",
+		"desc_te": "నిందితదేవత తత్వవేత్త హిపేషియ అలెక్జాండ్రియాలో క్రీస్టియన్ భీడ్ చేతిలో హతం చేయబడిన విషయం. చర్చ జ్ఞానంపై ఆధిపత్యాన్ని సూచిస్తుంది."
+	},
+	{
+		"year": "420",
+		"name_en": "Pelagian Heresy Debate",
+		"name_te": "పెలాజియన్ నిందితత్వ చర్చ",
+		"location": {
+			"lat": 36.8,
+			"lng": 3
+		},
+		"desc_en": "Augustine opposes Pelagius's teachings on free will and grace. Church defines doctrine on salvation.",
+		"desc_te": "ఆగస్టీన్ పెలాజియస్ స్వేచ్ఛ ఇచ్ఛ, దయ బోధనలను వ్యతిరేకం చేసిన విషయం. చర్చ విముక్తి సిద్ధాంతం నిర్వచనం చేసిన విషయం."
+	},
+	{
+		"year": "425",
+		"name_en": "Council of Ephesus",
+		"name_te": "ఎఫెసస్ సమావేశం",
+		"location": {
+			"lat": 37.94,
+			"lng": 27.36
+		},
+		"desc_en": "Council condemns Nestorius's teachings about Christ's nature. Affirms Mary as Mother of God.",
+		"desc_te": "సమావేశం నెస్టోరియస్ క్రీస్తువు స్వభావ బోధనలను నిందించిన విషయం. మరియమ్‌ను దేవుని తల్లిగా సమర్థించిన విషయం."
+	},
+	{
+		"year": "430",
+		"name_en": "Augustine's Death",
+		"name_te": "ఆగస్టీన్ మరణం",
+		"location": {
+			"lat": 36.8,
+			"lng": 3
+		},
+		"desc_en": "Augustine dies, leaving profound influence on Western theology, philosophy, and church thought.",
+		"desc_te": "ఆగస్టీన్ చనిపోయిన విషయం, పశ్చిమ దేవతాత్త్వం, తత్వవేదం, చర్చ ఆలోచనపై లోతైన ప్రభావం చేసిన విషయం."
+	},
+	{
+		"year": "433",
+		"name_en": "Cyril's Victory at Ephesus",
+		"name_te": "సిరిల్ ఎఫెసస్‌లో విజయం",
+		"location": {
+			"lat": 37.94,
+			"lng": 27.36
+		},
+		"desc_en": "Cyril of Alexandria triumphs in doctrinal disputes. Establishes theological framework for Christology.",
+		"desc_te": "అలెక్జాండ్రియా సిరిల్ సిద్ధాంత చర్చలో విజయం సాధించిన విషయం. క్రీస్తు జ్ఞానం చట్టకట్టిన ఆధ్యాత్మిక ఫ్రేమ్‌వర్క్ ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "440",
+		"name_en": "Leo's Leadership in Rome",
+		"name_te": "లీओ రోమ్‌లో నాయకత్వం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Leo I becomes powerful force, asserting papal authority over Christian world.",
+		"desc_te": "పోప్ లీओ I శక్తిశాలీ శక్తిగా నిలిచిన విషయం, క్రీస్టియన్ ప్రపంచంపై పాపల్ అధికారం నొక్కిన విషయం."
+	},
+	{
+		"year": "450",
+		"name_en": "Council of Chalcedon",
+		"name_te": "చాల్సెడాన్ సమావేశం",
+		"location": {
+			"lat": 40.85,
+			"lng": 29.42
+		},
+		"desc_en": "Major council defines Christ as having two natures. Establishes orthodox Christological doctrine.",
+		"desc_te": "ప్రధాన సమావేశం క్రీస్తువుకు రెండు స్వభావాలు నిర్వచనం చేసిన విషయం. ఆర్థోడాక్స్ క్రీస్తు జ్ఞానం సిద్ధాంతం ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "452",
+		"name_en": "Attila Threatens Rome",
+		"name_te": "అట్టిలా రోమ్‌కు ముప్పు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Leo I negotiates with Attila. Church leader plays diplomatic role in saving Rome from destruction.",
+		"desc_te": "పోప్ లీओ I అట్టిలాతో చర్చ చేసిన విషయం. చర్చ నాయకుడు రోమ్‌ను నాశనం నుండి రక్షించటానికి దూత పాత్ర పాలించిన విషยం."
+	},
+	{
+		"year": "455",
+		"name_en": "Vandal Occupation and Church Resilience",
+		"name_te": "వందల్ ఆక్రమణ, చర్చ స్థితిస్థాపకత",
+		"location": {
+			"lat": 36.8,
+			"lng": 3
+		},
+		"desc_en": "Vandals sack Rome. Church institutions survive and continue. Pope Leo establishes continuing authority.",
+		"desc_te": "వందలు రోమ్‌ను సంధ్రాంత చేసిన విషయం. చర్చ సంస్థలు నిలిచిన విషయం. పోప్ లీओ కొనసాగుతున్న అధికారం ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "460",
+		"name_en": "Monastic Expansion in the West",
+		"name_te": "పశ్చిమంలో సన్న్యాస విస్తరణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Monasteries multiply across Western Europe. Become centers of learning and preservation of texts.",
+		"desc_te": "సన్న్యాస సమాజాలు పశ్చిమ ఐరోపాలో గుణిస్తుంది. జ్ఞానం, గ్రంధ సంరక్షణ కేంద్రాలు కాబడుతుంది."
+	},
+	{
+		"year": "465",
+		"name_en": "Church Authority Amid Political Chaos",
+		"name_te": "రాజకీయ గందరగోళ కూడా చర్చ అధికారం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Western Rome fragments politically. Church becomes stable authority amid collapsing empire.",
+		"desc_te": "పశ్చిమ రోమ్ రాజకీయంగా విభజితమైన విషయం. సామ్రాజ్యం కుసుమ్బటం పై చర్చ స్థిర అధికారం కాబడిన విషయం."
+	},
+	{
+		"year": "470",
+		"name_en": "Patrick's Mission to Ireland",
+		"name_te": "పాట్రిక్ ఐర్లాండ్ ఆయోగ",
+		"location": {
+			"lat": 53.4,
+			"lng": -8.2
+		},
+		"desc_en": "Patrick evangelizes Ireland, establishing Christian faith in new region. Monasticism flourishes.",
+		"desc_te": "పాట్రిక్ ఐర్లాండ్‌ను సువార్త చెప్పిన విషయం, నতून ప్రాంతంలో క్రీస్టియన్ విశ్వాసం స్థాపించిన విషయం. సన్న్యాసజీవనం ఫిలుస్తుంది."
+	},
+	{
+		"year": "476",
+		"name_en": "Fall of Western Roman Empire",
+		"name_te": "పశ్చిమ రోమన్ సామ్రాజ్యం పతనం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Western Roman Empire falls. Church becomes primary continuity of Roman civilization.",
+		"desc_te": "పశ్చిమ రోమన్ సామ్రాజ్యం పతనం కాబడిన విషయం. చర్చ రోమన్ సభ్యతను ప్రధాన సాంతత్వం కాబడిన విషయం."
+	},
+	{
+		"year": "480",
+		"name_en": "Odoacer's Kingdom and Church Adaptation",
+		"name_te": "ఓడోచర్ రాజ్యం, చర్చ అనుసరణ",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Germanic kingdoms establish themselves in Western Europe. Church adapts and integrates with new rulers.",
+		"desc_te": "జర్మానిక్ రాజ్యాలు పశ్చిమ ఐరోపాలో స్థాపన చేసిన విషయం. చర్చ కొత్త పాలకులతో సమర్థించుకుని సమిష్టం చేసిన విషయం."
+	},
+	{
+		"year": "485",
+		"name_en": "Pope Felix III and Eastern Schism",
+		"name_te": "పోప్ ఫెలిక్స్ III, తూర్పు విభజనం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Religious disputes between Eastern and Western churches deepen. Monophysite controversy splits Christianity.",
+		"desc_te": "తూర్పు, పశ్చిమ చర్చల మధ్య ధార్మిక వివాదాలు లోతుగా ఆగిన విషయం. మోనోఫిసైట్ వివాదం క్రీస్టియానిటీ విభజన చేసిన విషయం."
+	},
+	{
+		"year": "490",
+		"name_en": "Theodoric and Ostrogothic Kingdom",
+		"name_te": "థియోడోరిక్, ఆస్ట్రోగోధ్ రాజ్యం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Theodoric rules Italy with Ostrogothic kingdom. Maintains Christian orthodoxy and Roman traditions.",
+		"desc_te": "థియోడోరిక్ ఆస్ట్రోగోధ్ రాజ్యంతో ఇటలీ పాలించిన విషయం. క్రీస్టియన్ ఆర్థోడాక్స్‌, రోమన్ సంప్రదాయాలు నిలిపిన విషయం."
+	},
+	{
+		"year": "495",
+		"name_en": "Acacian Schism Intensifies",
+		"name_te": "అకాసియన్ విభజనం తీవ్రతరం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Eastern-Western church divide deepens. Constantinople and Rome clash over theological authority.",
+		"desc_te": "తూర్పు-పశ్చిమ చర్చ విభజనం లోతుగా ఆగిన విషయం. కాన్‍స్టాంటినోపల్, రోమ్ ధార్మిక అధికారంపై ఘర్షణ చేసిన విషయం."
+	}
+]

@@ -1,0 +1,717 @@
+[
+	{
+		"year": "600",
+		"name_en": "Rise of Islam and Prophet Muhammad (Arabia)",
+		"name_te": "ఇస్లాం ఉద్భవం మరియు ప్రవక్త మహమ్మద్ (అరేబియా)",
+		"location": {
+			"lat": 21.3891,
+			"lng": 39.8579
+		},
+		"desc_en": "Prophet Muhammad founds Islam in Mecca and Medina, uniting Arabia under a new religious and political order.",
+		"desc_te": "ప్రవక్త మహమ్మద్ మక్కా, మదీనాలలో ఇస్లాం మతాన్ని స్థాపించి, అరేబియాను కొత్త మత, రాజకీయ క్రమంలో ఏకీకృతం చేశారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Tang Dynasty Founded (China)",
+		"name_te": "టాంగ్ రాజవంశం స్థాపన (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Tang Dynasty is founded, ushering in a golden age of Chinese culture, trade, and expansion.",
+		"desc_te": "టాంగ్ రాజవంశం స్థాపించబడి, చైనా సంస్కృతి, వాణిజ్యం, విస్తరణలో స్వర్ణయుగాన్ని ప్రారంభించింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Harsha's Empire (India)",
+		"name_te": "హర్ష సామ్రాజ్యం (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "Harsha unifies much of northern India, promoting Buddhism and the arts from his capital at Kannauj.",
+		"desc_te": "హర్ష ఉత్తర భారతదేశాన్ని ఏకీకృతం చేసి, బౌద్ధమతాన్ని, కళలను కనౌజ్ నుండి ప్రోత్సహించాడు."
+	},
+	{
+		"year": "600",
+		"name_en": "Pallava Dynasty at its Height (South India)",
+		"name_te": "పల్లవ వంశం శిఖరస్థాయిలో (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 12.6,
+			"lng": 80.1
+		},
+		"desc_en": "The Pallava dynasty flourishes in southern India, known for monumental architecture at Mahabalipuram.",
+		"desc_te": "పల్లవ వంశం దక్షిణ భారతదేశంలో మహాబలిపురం వద్ద మహత్తర నిర్మాణాలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "600",
+		"name_en": "Empress Wu Zetian Rules (China)",
+		"name_te": "చైనా రాణి వు జెతియన్ పాలన",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Wu Zetian becomes the only female emperor in Chinese history, ruling during the Tang Dynasty.",
+		"desc_te": "వు జెతియన్ చైనా చరిత్రలో ఏకైక మహిళా చక్రవర్తిగా టాంగ్ రాజవంశంలో పాలించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Spread of Christianity in England",
+		"name_te": "ఇంగ్లాండ్‌లో క్రైస్తవ మత విస్తరణ",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "Christianity spreads rapidly in England, with Augustine of Canterbury becoming the first Archbishop.",
+		"desc_te": "క్రైస్తవ మతం ఇంగ్లాండ్‌లో వేగంగా విస్తరించి, ఆగస్టిన్ ఆఫ్ కెంటర్‌బరీ మొదటి ఆర్చ్‌బిషప్ అయ్యారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Battle of Karbala (Iraq)",
+		"name_te": "కర్బలా యుద్ధం (ఇరాక్)",
+		"location": {
+			"lat": 32.616,
+			"lng": 44.034
+		},
+		"desc_en": "The Battle of Karbala in 680 CE marks a major split in Islam between Sunni and Shia branches.",
+		"desc_te": "680 CEలో కర్బలా యుద్ధం ఇస్లాం మతంలో సున్నీ, షియా విభజనకు కారణమైంది."
+	},
+	{
+		"year": "600",
+		"name_en": "Maya Cities Flourish (Central America)",
+		"name_te": "మాయా నగరాలు వికసించాయి (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Major Maya cities such as Tikal and Calakmul reach their peak, with monumental architecture and trade.",
+		"desc_te": "టికాల్, కలక్ముల్ వంటి మాయా నగరాలు శిఖరస్థాయికి చేరి, మహత్తర నిర్మాణాలు, వాణిజ్యంతో ప్రసిద్ధి."
+	},
+	{
+		"year": "600",
+		"name_en": "Yamato State Expands (Japan)",
+		"name_te": "యమాటో రాష్ట్రం విస్తరణ (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Yamato state expands its influence in Japan, further centralizing imperial power.",
+		"desc_te": "యమాటో రాష్ట్రం జపాన్‌లో తన ప్రభావాన్ని విస్తరించి, చక్రవర్తి అధికారాన్ని మరింత సమీకరించింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Silla Unifies Korea",
+		"name_te": "సిల్లా కొరియాను ఏకీకృతం చేసింది",
+		"location": {
+			"lat": 35.8,
+			"lng": 129.2
+		},
+		"desc_en": "The Silla kingdom begins the process of unifying the Korean Peninsula, leading to the later Unified Silla period.",
+		"desc_te": "సిల్లా రాజ్యం కొరియా ద్వీపకల్పాన్ని ఏకీకృతం చేయడం ప్రారంభించి, తరువాత యునిఫైడ్ సిల్లా యుగానికి దారితీసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Aboriginal Songlines Maintained (Australia)",
+		"name_te": "ఆబారిజినల్ సాంగ్‌లైన్స్ కొనసాగింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australians maintain ancient songlines, oral maps connecting land and culture.",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు ప్రాచీన సాంగ్‌లైన్స్‌ను, భూమి మరియు సంస్కృతిని కలిపే నోటివెంట మ్యాపులను కొనసాగించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Caliphate Expands Rapidly (Middle East, North Africa, Spain)",
+		"name_te": "ఖలీఫత్ వేగంగా విస్తరించింది (మధ్యప్రాచ్యం, ఉత్తర ఆఫ్రికా, స్పెయిన్)",
+		"location": {
+			"lat": 24.7136,
+			"lng": 46.6753
+		},
+		"desc_en": "The Rashidun and Umayyad Caliphates expand Islam from Arabia into the Middle East, North Africa, and Spain.",
+		"desc_te": "రషీదున్, ఉమయ్యద్ ఖలీఫతులు అరేబియా నుండి మధ్యప్రాచ్యం, ఉత్తర ఆఫ్రికా, స్పెయిన్ వరకు ఇస్లాం విస్తరించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "St. Isidore of Seville (Spain)",
+		"name_te": "సెయింట్ ఇసిడోర్ ఆఫ్ సెవిల్లే (స్పెయిన్)",
+		"location": {
+			"lat": 37.3891,
+			"lng": -5.9845
+		},
+		"desc_en": "St. Isidore, Archbishop of Seville, compiles the Etymologiae, preserving classical knowledge for Christian Europe.",
+		"desc_te": "సెయింట్ ఇసిడోర్, సెవిల్లే ఆర్చ్‌బిషప్, ఎటిమోలోజియే అనే గ్రంథాన్ని రచించి, క్రైస్తవ యూరోప్‌కు ప్రాచీన జ్ఞానాన్ని పరిరక్షించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "King Pulakeshin II (Chalukya Empire, India)",
+		"name_te": "చాళుక్య సామ్రాజ్యం పులకేశిన్ II (భారతదేశం)",
+		"location": {
+			"lat": 16.5,
+			"lng": 75.7
+		},
+		"desc_en": "Pulakeshin II, a powerful Chalukya king, defeats Harsha and expands the Deccan empire.",
+		"desc_te": "పులకేశిన్ II, శక్తివంతమైన చాళుక్య రాజు, హర్షను ఓడించి డెక్కన్ సామ్రాజ్యాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "600",
+		"name_en": "Battle of Qadisiyyah (Iraq)",
+		"name_te": "కాదిసియ్యా యుద్ధం (ఇరాక్)",
+		"location": {
+			"lat": 32.03,
+			"lng": 44.26
+		},
+		"desc_en": "The Battle of Qadisiyyah (636 CE) leads to the fall of the Sassanian Empire and Islamic rule in Persia.",
+		"desc_te": "కాదిసియ్యా యుద్ధం (636 CE) సస్సానియన్ సామ్రాజ్య పతనానికి, పర్షియాలో ఇస్లాం పాలనకు దారితీసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Founding of Nara (Japan)",
+		"name_te": "నారా స్థాపన (జపాన్)",
+		"location": {
+			"lat": 34.6851,
+			"lng": 135.8048
+		},
+		"desc_en": "The city of Nara is founded, becoming Japan's first permanent capital and a center of Buddhism.",
+		"desc_te": "నారా నగరం స్థాపించబడి, జపాన్‌లో తొలి శాశ్వత రాజధానిగా, బౌద్ధమత కేంద్రంగా మారింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Great Zimbabwe Beginnings (Africa)",
+		"name_te": "గ్రేట్ జింబాబ్వే ప్రారంభం (ఆఫ్రికా)",
+		"location": {
+			"lat": -20.2675,
+			"lng": 30.9333
+		},
+		"desc_en": "Early construction of Great Zimbabwe begins, laying the foundation for a powerful African kingdom.",
+		"desc_te": "గ్రేట్ జింబాబ్వే నిర్మాణం ప్రారంభమై, శక్తివంతమైన ఆఫ్రికన్ రాజ్యానికి పునాది వేశారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Mayan Long Count Calendar Cycle (Central America)",
+		"name_te": "మాయన్ లాంగ్ కౌంట్ క్యాలెండర్ చక్రం (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "The Mayan Long Count calendar marks significant cycles, influencing ritual and political life.",
+		"desc_te": "మాయన్ లాంగ్ కౌంట్ క్యాలెండర్ ముఖ్యమైన చక్రాలను సూచించి, మాయా సంస్కృతిలో ఆచార, రాజకీయ జీవితాన్ని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Lombards Rule Italy",
+		"name_te": "ఇటలీలో లాంబార్డ్స్ పాలన",
+		"location": {
+			"lat": 45.4668,
+			"lng": 9.1905
+		},
+		"desc_en": "The Lombards, a Germanic people, establish a kingdom in Italy after the fall of the Roman Empire.",
+		"desc_te": "లాంబార్డ్స్ అనే జర్మానిక్ ప్రజలు రోమన్ సామ్రాజ్య పతనానంతరం ఇటలీలో రాజ్యం స్థాపించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "St. Aidan and Lindisfarne Monastery (Britain)",
+		"name_te": "సెయింట్ ఐడన్ మరియు లిండిస్‌ఫార్న్ మఠం (బ్రిటన్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": -1.7997
+		},
+		"desc_en": "St. Aidan founds the monastery at Lindisfarne, spreading Christianity in northern England and Scotland.",
+		"desc_te": "సెయింట్ ఐడన్ లిండిస్‌ఫార్న్ మఠాన్ని స్థాపించి, ఉత్తర ఇంగ్లాండ్, స్కాట్లాండ్‌లో క్రైస్తవ మతాన్ని విస్తరించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Kingdom of Srivijaya Founded (Southeast Asia)",
+		"name_te": "శ్రీవిజయ రాజ్యం స్థాపన (ఆగ్నేయాసియా)",
+		"location": {
+			"lat": -2.9909,
+			"lng": 104.7566
+		},
+		"desc_en": "The Srivijaya Kingdom is founded in Sumatra, becoming a major maritime and Buddhist power.",
+		"desc_te": "శ్రీవిజయ రాజ్యం సుమాత్రాలో స్థాపించబడి, సముద్ర మరియు బౌద్ధ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Sassanian Empire Falls (Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం పతనం (పర్షియా)",
+		"location": {
+			"lat": 32.4279,
+			"lng": 53.688
+		},
+		"desc_en": "The Sassanian Empire collapses after the Arab conquest, ending centuries of Persian rule.",
+		"desc_te": "అరబ్ ఆక్రమణతో సస్సానియన్ సామ్రాజ్యం పతనమై, శతాబ్దాల పర్షియన్ పాలనకు ముగింపు పలికింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Baekje and Goguryeo Fall (Korea)",
+		"name_te": "బైజే, గోగుర్యో పతనం (కొరియా)",
+		"location": {
+			"lat": 36.5,
+			"lng": 127.5
+		},
+		"desc_en": "The Korean kingdoms of Baekje and Goguryeo fall to Silla and Tang China, leading to Korean unification.",
+		"desc_te": "కొరియా రాజ్యాలు బైజే, గోగుర్యో సిల్లా, టాంగ్ చైనా చేతిలో పడిపోవడంతో కొరియా ఏకీకరణకు దారితీసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Kingdom of Axum Declines (Africa)",
+		"name_te": "అక్సుమ్ రాజ్యం పతనం (ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "The Kingdom of Axum in East Africa enters a period of decline, losing control of Red Sea trade.",
+		"desc_te": "తూర్పు ఆఫ్రికాలో అక్సుమ్ రాజ్యం పతనాన్ని ఎదుర్కొని, రెడ్ సీ వాణిజ్యాన్ని కోల్పోయింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Spread of Buddhism in Tibet (Asia)",
+		"name_te": "టిబెట్‌లో బౌద్ధమతం వ్యాప్తి (ఆసియా)",
+		"location": {
+			"lat": 29.652,
+			"lng": 91.1721
+		},
+		"desc_en": "Buddhism spreads into Tibet, laying the foundation for Tibetan Buddhism.",
+		"desc_te": "బౌద్ధమతం టిబెట్‌లో వ్యాప్తి చెంది, టిబెటన్ బౌద్ధానికి పునాది వేసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Rise of the Visigothic Kingdom (Spain)",
+		"name_te": "విసిగోతిక్ రాజ్యం ఉద్భవం (స్పెయిన్)",
+		"location": {
+			"lat": 40.4637,
+			"lng": -3.7492
+		},
+		"desc_en": "The Visigothic Kingdom consolidates power in Spain before the Muslim conquest.",
+		"desc_te": "ముస్లిం ఆక్రమణకు ముందు విసిగోతిక్ రాజ్యం స్పెయిన్‌లో శక్తిని ఏకీకృతం చేసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Rise of the Khmer Kingdom (Cambodia)",
+		"name_te": "ఖ్మేర్ రాజ్యం ఉద్భవం (కాంబోడియా)",
+		"location": {
+			"lat": 12.5657,
+			"lng": 104.991
+		},
+		"desc_en": "The early Khmer Kingdom forms in Cambodia, precursor to the Angkor Empire.",
+		"desc_te": "ఖ్మేర్ రాజ్యం కాంబోడియాలో ఏర్పడి, తరువాత అంకోర్ సామ్రాజ్యానికి పునాది వేసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Rise of the Frankish Kingdom (Europe)",
+		"name_te": "ఫ్రాంకిష్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "The Frankish Kingdom grows in power, setting the stage for the Carolingian Empire.",
+		"desc_te": "ఫ్రాంకిష్ రాజ్యం శక్తిని పెంచుకుని, క్యారోలింజియన్ సామ్రాజ్యానికి మార్గం సుగమం చేసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Nazca Culture Declines (South America)",
+		"name_te": "నాజ్కా సంస్కృతి పతనం (దక్షిణ అమెరికా)",
+		"location": {
+			"lat": -14.8289,
+			"lng": -74.9384
+		},
+		"desc_en": "The Nazca culture in Peru declines, known for its geoglyphs and pottery.",
+		"desc_te": "పెరూ లో నాజ్కా సంస్కృతి పతనమై, భూమిపై గీసిన చిత్రాలు, కుండలకళకు ప్రసిద్ధి."
+	},
+	{
+		"year": "600",
+		"name_en": "Spread of Christianity in Nubia (Africa)",
+		"name_te": "న్యూబియా లో క్రైస్తవ మతం వ్యాప్తి (ఆఫ్రికా)",
+		"location": {
+			"lat": 19.0414,
+			"lng": 30.5889
+		},
+		"desc_en": "Christianity spreads in the Nubian kingdoms of Africa, influencing local culture.",
+		"desc_te": "ఆఫ్రికాలోని న్యూబియా రాజ్యాల్లో క్రైస్తవ మతం వ్యాప్తి చెంది, స్థానిక సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Prophet Muhammad Preaches in Mecca (Arabia)",
+		"name_te": "ప్రవక్త మహమ్మద్ మక్కలో ప్రచారం (అరేబియా)",
+		"location": {
+			"lat": 21.3891,
+			"lng": 39.8579
+		},
+		"desc_en": "Prophet Muhammad begins his preaching in Mecca, gathering followers and establishing early Islamic principles.",
+		"desc_te": "ప్రవక్త మహమ్మద్ మక్కలో ఖాన ప్రచారం ప్రారంభించి, అనుచరులను సమకూర్చుకోవటం, ప్రారంభ ఇస్లాం సూత్రాలను స్థాపించారు."
+	},
+	{
+		"year": "620",
+		"name_en": "Islamic Expansion After Muhammad (Arabia/Middle East)",
+		"name_te": "మహమ్మద్ తర్వాత ఇస్లాం సంచారం (అరేబియా/మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 24.7136,
+			"lng": 46.6753
+		},
+		"desc_en": "After Muhammad's death, the Rashidun Caliphate rapidly expands Islamic rule across Arabia and beyond.",
+		"desc_te": "మహమ్మద్ మరణం తర్వాత, రషీదున్ ఖలీఫత్ అరేబియా మరియు సుదూర ప్రదేశాలలో ఇస్లాం పాలన వేగంగా విస్తరించారు."
+	},
+	{
+		"year": "640",
+		"name_en": "Islamic Conquest of Egypt (North Africa)",
+		"name_te": "ఈజిప్టు ఇస్లాం ఆక్రమణ (ఉత్తర ఆఫ్రికా)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Islamic forces conquer Egypt, ending Byzantine rule and establishing Islamic dominion in North Africa.",
+		"desc_te": "ఇస్లాం సైన్యాలు ఈజిప్టును జయించి, బిజాంటైన్ పాలనకు ముగింపు, ఉత్తర ఆఫ్రికాలో ఇస్లాం పాలనను స్థాపించారు."
+	},
+	{
+		"year": "660",
+		"name_en": "Rise of Umayyad Caliphate (Syria/Middle East)",
+		"name_te": "ఉమయ్యద్ ఖలీఫత్ ఉద్భవం (సిరియా/మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.5138,
+			"lng": 36.2765
+		},
+		"desc_en": "The Umayyad dynasty establishes the Umayyad Caliphate, shifting the Islamic capital from Medina to Damascus.",
+		"desc_te": "ఉమయ్యద్ వంశం ఉమయ్యద్ ఖలీఫత్‌ను స్థాపించి, ఇస్లాం రాజధానిని మదీనా నుండి దమాస్కస్‌కు మార్పు చేసారు."
+	},
+	{
+		"year": "680",
+		"name_en": "Islamic Expansion into Spain (Europe)",
+		"name_te": "స్పెయిన్‌లో ఇస్లాం సంచారం (యూరోప్)",
+		"location": {
+			"lat": 40.4637,
+			"lng": -3.7492
+		},
+		"desc_en": "Islamic forces begin their expansion into the Iberian Peninsula, eventually establishing Al-Andalus.",
+		"desc_te": "ఇస్లాం సైన్యాలు ఇబేరియన్ ద్వీపకల్పంలో సంచారం ప్రారంభించి, చివరకు అల్-అండలస్‌ను స్థాపించారు."
+	},
+	{
+		"year": "600",
+		"name_en": "Tang Dynasty Early Expansion (China)",
+		"name_te": "టాంగ్ రాజవంశ ప్రారంభ విస్తరణ (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The early Tang Dynasty expands its territory and consolidates control over all of China.",
+		"desc_te": "టాంగ్ రాజవంశ ప్రారంభ కాలం తన భూభాగాన్ని విస్తరించి, చైనా అంతటా నియంత్రణ సమీకరించుకోవటం చేస్తుంది."
+	},
+	{
+		"year": "620",
+		"name_en": "Tang Dynasty Golden Age Begins (China)",
+		"name_te": "టాంగ్ రాజవంశ స్వర్ణయుగ ప్రారంభం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Tang Dynasty enters its golden age under Emperor Taizong, with cultural and economic prosperity.",
+		"desc_te": "చక్రవర్తి తైజాంగ్ నేతృత్వంలో టాంగ్ రాజవంశం స్వర్ణయుగంలోకి ప్రవేశ చేసి, సాంస్కృతిక, ఆర్థిక శ్రేయస్సు పెరుగుతుంది."
+	},
+	{
+		"year": "640",
+		"name_en": "Tang Dynasty Silk Road Peak (China)",
+		"name_te": "టాంగ్ రాజవంశ సిల్క్ రోడ్ శిఖరం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Silk Road reaches its peak during the Tang Dynasty, facilitating trade and cultural exchange.",
+		"desc_te": "టాంగ్ రాజవంశ సమయంలో సిల్క్ రోడ్ శిఖరస్థాయికి చేరి, వాణిజ్యం, సాంస్కృతిక మార్పిడిని సుగమం చేసింది."
+	},
+	{
+		"year": "660",
+		"name_en": "Empress Wu Zetian's Rise (China)",
+		"name_te": "చైనా రాణి వు జెతియన్ లేవుదల",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Wu Zetian rises to power, eventually becoming the only female emperor of China in the Tang Dynasty.",
+		"desc_te": "వు జెతియన్ శక్తికి లేవుతారు, చివరకు టాంగ్ రాజవంశంలో చైనా చరిత్రలో ఏకైక మహిళా చక్రవర్తిగా మారారు."
+	},
+	{
+		"year": "680",
+		"name_en": "Tang Dynasty Cultural Flourishing (China)",
+		"name_te": "టాంగ్ రాజవంశ సంస్కృతి వికసం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Tang Dynasty experiences a cultural renaissance with advancements in poetry, painting, and ceramics.",
+		"desc_te": "టాంగ్ రాజవంశ సమయంలో కవిత్వం, చిత్రకళ, సిరామిక్‌ల్లో పురోగతితో సాంస్కృతిక పునరుజ్జీవనం జరిగింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Harsha's Rule Consolidates (India)",
+		"name_te": "హర్ష పాలన సమీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "Harsha consolidates his rule over northern India, establishing a stable empire.",
+		"desc_te": "హర్ష ఉత్తర భారతదేశంపై తన పాలనను సమీకరించుకుని, స్థిర సామ్రాజ్యం స్థాపన చేస్తారు."
+	},
+	{
+		"year": "620",
+		"name_en": "Harsha's Height of Power (India)",
+		"name_te": "హర్ష శక్తి శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "Harsha reaches the height of his power, controlling most of northern India and patronizing Buddhism.",
+		"desc_te": "హర్ష తన శక్తి శిఖరస్థాయికి చేరి, ఉత్తర భారతదేశ చాలా భాగాన్ని నియంత్రించి, బౌద్ధమతాన్ని ఆश్రయ చేస్తారు."
+	},
+	{
+		"year": "640",
+		"name_en": "Pallava Dynasty Golden Age (South India)",
+		"name_te": "పల్లవ వంశ స్వర్ణయుగ (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 12.6,
+			"lng": 80.1
+		},
+		"desc_en": "The Pallava Dynasty, under kings like Narasimhavarman, reaches its cultural and political peak.",
+		"desc_te": "నరసింహవర్మన్ వంటి రాజుల ఆధీనంలో పల్లవ వంశం సాంస్కృతిక, రాజకీయ శిఖరస్థాయికి చేరుతుంది."
+	},
+	{
+		"year": "660",
+		"name_en": "Pulakeshin II Defeats Harsha (India)",
+		"name_te": "పులకేశిన్ II హర్షను ఓడించారు (భారతదేశం)",
+		"location": {
+			"lat": 16.5,
+			"lng": 75.7
+		},
+		"desc_en": "Pulakeshin II of the Chalukya dynasty defeats Harsha, marking the rise of Chalukya power in the Deccan.",
+		"desc_te": "చాళుక్య వంశం పులకేశిన్ II హర్షను ఓడించారు, డెక్కన్‌లో చాళుక్య శక్తి ఉద్భవానికి సూచన చేసింది."
+	},
+	{
+		"year": "680",
+		"name_en": "Chola Dynasty Expands (South India)",
+		"name_te": "చోళ వంశం విస్తరణ (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "The Chola dynasty begins its expansion, setting the stage for its later maritime dominance.",
+		"desc_te": "చోళ వంశం తన విస్తరణ ప్రారంభించి, తరువాత సముద్ర ఆధిపత్యానికి పూర్వభూమిక సిద్ధం చేస్తుంది."
+	},
+	{
+		"year": "600",
+		"name_en": "Silla Kingdom Strengthens (Korea)",
+		"name_te": "సిల్లా రాజ్యం బలోపేతం (కొరియా)",
+		"location": {
+			"lat": 35.8,
+			"lng": 129.2
+		},
+		"desc_en": "The Silla Kingdom strengthens in southeast Korea, beginning its rise to dominance.",
+		"desc_te": "కొరియా నైఋతి భాగంలో సిల్లా రాజ్యం బలోపేతమవుతూ, ఆధిపత్యానికి లేవుదల ప్రారంభం చేస్తుంది."
+	},
+	{
+		"year": "620",
+		"name_en": "Tang Dynasty Relations with Silla (East Asia)",
+		"name_te": "టాంగ్ రాజవంశ సిల్లా సంబంధాలు (తూర్పు ఆసియా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Tang Dynasty forms diplomatic and military alliances with Silla, supporting its rise in Korea.",
+		"desc_te": "టాంగ్ రాజవంశం సిల్లాతో రాజకీయ, సైనిక సంబంధాలు ఏర్పాటు చేసి, కొరియాలో దాని ఉద్భవానికి సమర్థన ఇస్తుంది."
+	},
+	{
+		"year": "640",
+		"name_en": "Tang Dynasty Conquers Goguryeo Territory (East Asia)",
+		"name_te": "టాంగ్ గోగుర్యో ప్రాంతాన్ని జయించారు (తూర్పు ఆసియా)",
+		"location": {
+			"lat": 39,
+			"lng": 125
+		},
+		"desc_en": "Tang Dynasty, allied with Silla, conquers Goguryeo territories in Korea.",
+		"desc_te": "టాంగ్ రాజవంశం సిల్లా మితస్సరుడిగా కొరియాలో గోగుర్యో ప్రాంతాలను జయించారు."
+	},
+	{
+		"year": "660",
+		"name_en": "Silla Unifies Korean Peninsula (Korea)",
+		"name_te": "సిల్లా కొరియా ద్వీపకల్పం ఏకీకరణ (కొరియా)",
+		"location": {
+			"lat": 36.5,
+			"lng": 127.5
+		},
+		"desc_en": "Silla, with Tang support, unifies the Korean Peninsula, ending the Three Kingdoms period.",
+		"desc_te": "టాంగ్ సమర్థనతో సిల్లా కొరియా ద్వీపకల్పం ఏకీకరించి, మూడు రాజ్యాల కాలానికి ముగింపు పలికింది."
+	},
+	{
+		"year": "680",
+		"name_en": "Unified Silla Period Consolidates (Korea)",
+		"name_te": "యునిఫైడ్ సిల్లా కాలం సమీకరణ (కొరియా)",
+		"location": {
+			"lat": 36.5,
+			"lng": 127.5
+		},
+		"desc_en": "The Unified Silla period is established with stability and cultural advancement.",
+		"desc_te": "యునిఫైడ్ సిల్లా కాలం స్థిరత్వం, సాంస్కృతిక పురోగతితో స్థాపించబడింది."
+	},
+	{
+		"year": "600",
+		"name_en": "Yamato Imperial Consolidation (Japan)",
+		"name_te": "యమాటో చక్రవర్తి సమీకరణ (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Yamato imperial authority consolidates in Japan under the Asuka period.",
+		"desc_te": "అసుకా కాలంలో జపాన్‌లో యమాటో చక్రవర్తి అధికారం సమీకరించుకోవటం జరుగుతుంది."
+	},
+	{
+		"year": "620",
+		"name_en": "Prince Shotoku Reforms (Japan)",
+		"name_te": "ప్రిన్స్ షోటోకు సంస్కరణలు (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Prince Shotoku implements reforms and promotes Buddhism in Japan, establishing a 17-article constitution.",
+		"desc_te": "ప్రిన్స్ షోటోకు జపాన్‌లో సంస్కరణలు చేసి, బౌద్ధమతాన్ని ప్రోత్సహించి, 17-ఆర్టికల్ రాజ్యాంగం స్థాపన చేస్తారు."
+	},
+	{
+		"year": "640",
+		"name_en": "Taika Reforms of Japan",
+		"name_te": "జపాన్ తైకా సంస్కరణలు",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Taika Reforms reshape Japan's government, establishing a centralized bureaucratic state.",
+		"desc_te": "తైకా సంస్కరణలు జపాన్‌ల ప్రభుత్వాన్ని పునర్నిర్మించి, కేంద్రీభూత ఆర్థిక విభాగం స్థాపన చేస్తాయి."
+	},
+	{
+		"year": "660",
+		"name_en": "Yamato Military Expansion (Japan)",
+		"name_te": "యమాటో సైనిక విస్తరణ (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Yamato military forces expand Japanese control and strengthen imperial authority.",
+		"desc_te": "యమాటో సైన్యాలు జపాన్ నియంత్రణ విస్తరించి, చక్రవర్తి అధికారం బలోపేతం చేస్తాయి."
+	},
+	{
+		"year": "680",
+		"name_en": "Nara Period Begins (Japan)",
+		"name_te": "నారా కాలం ప్రారంభం (జపాన్)",
+		"location": {
+			"lat": 34.6851,
+			"lng": 135.8048
+		},
+		"desc_en": "Nara becomes Japan's first permanent capital, marking the Nara period of stability and culture.",
+		"desc_te": "నారా జపాన్‌లో తొలి శాశ్వత రాజధానిగా మారి, స్థిరత్వం, సంస్కృతి నారా కాలం సూచిస్తుంది."
+	},
+	{
+		"year": "600",
+		"name_en": "Byzantine-Sassanid Wars (Middle East)",
+		"name_te": "బిజాంటైన్-సస్సానిడ్ యుద్ధాలు (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Prolonged wars between Byzantine and Sassanid empires over Mesopotamia and Armenia.",
+		"desc_te": "మెసొపొటేమియా, అర్మేనియా నియంత్రణ కోసం బిజాంటైన్, సస్సానిడ్ సామ్రాజ్యాల మధ్య సుదీర్ఘ యుద్ధాలు."
+	},
+	{
+		"year": "620",
+		"name_en": "Byzantine Empire's Western Provinces Lost (Mediterranean)",
+		"name_te": "బిజాంటైన్ సామ్రాజ్య పశ్చిమ ప్రావిన్సులు కోల్పోవడం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Islamic conquest forces the Byzantine Empire to lose control of North Africa and parts of the Levant.",
+		"desc_te": "ఇస్లాం ఆక్రమణ బిజాంటైన్ సామ్రాజ్యానికి ఉత్తర ఆఫ్రికా, లెవాంట్ భాగాలపై నియంత్రణ కోల్పోవాలని విధించింది."
+	},
+	{
+		"year": "640",
+		"name_en": "Byzantine Islamic Wars (Mediterranean)",
+		"name_te": "బిజాంటైన్ ఇస్లాం యుద్ధాలు (మెడిటరేనియన్)",
+		"location": {
+			"lat": 37.5,
+			"lng": 25
+		},
+		"desc_en": "Byzantine Empire battles Islamic forces for control of Mediterranean coastal territories.",
+		"desc_te": "బిజాంటైన్ సామ్రాజ్యం మెడిటరేనియన్ తీర ప్రాంతాల నియంత్రణ కోసం ఇస్లాం సైన్యాలతో యుద్ధం చేస్తుంది."
+	},
+	{
+		"year": "660",
+		"name_en": "Byzantine-Arab Conflicts Intensify (Mediterranean)",
+		"name_te": "బిజాంటైన్-అరబ్ సంఘర్షణ తీవ్రమవుతాయి (మెడిటరేనియన్)",
+		"location": {
+			"lat": 37.5,
+			"lng": 25
+		},
+		"desc_en": "Byzantine and Arab forces intensify their conflicts, particularly over Cyprus and naval control.",
+		"desc_te": "బిజాంటైన్, అరబ్ సైన్యాలు సంఘర్షణ తీవ్రం చేస్తూ, ఖాసలీగా సిప్రస్, నౌకా నియంత్రణ కోసం పోరాడుతాయి."
+	},
+	{
+		"year": "680",
+		"name_en": "Byzantine Empire Stabilizes (Mediterranean)",
+		"name_te": "బిజాంటైన్ సామ్రాజ్యం స్థిరమవుతుంది (మెడిటరేనియన్)",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Byzantine Empire begins to stabilize after periods of intense warfare and external threats.",
+		"desc_te": "తీవ్ర యుద్ధాలు, బాహ్య ప్రమాదాల తరువాత బిజాంటైన్ సామ్రాజ్యం స్థిరమవుతూ ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "600",
+		"name_en": "Mayan Inscriptions and Writing (Central America)",
+		"name_te": "మాయా శాసనాలు, లిపి (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Mayan inscriptions and hieroglyphic writing systems record historical events and religious rituals.",
+		"desc_te": "మాయా శాసనాలు, సంకేత లిపి చరిత్ర సంఘటనలు, ఆధ్యాత్మిక ఆచారాలను నమోదు చేస్తాయి."
+	},
+	{
+		"year": "620",
+		"name_en": "Tikal Pyramid Complex Peak (Central America)",
+		"name_te": "టికాల్ పిరమిడ్ సమ్మిశ్ర శిఖరం (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17.2234,
+			"lng": -89.6162
+		},
+		"desc_en": "Tikal reaches the peak of its architectural and cultural achievement with monumental pyramids.",
+		"desc_te": "టికాల్ మహత్తర పిరమిడ్‌లతో నిర్మాణ, సాంస్కృతిక సాధనల శిఖరస్థాయికి చేరుతుంది."
+	},
+	{
+		"year": "640",
+		"name_en": "Palenque Maya City Flourishes (Central America)",
+		"name_te": "పలెంక్‍యూ మాయా నగరం వికసిస్తుంది (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17.4889,
+			"lng": -92.046
+		},
+		"desc_en": "Palenque, a major Maya city, reaches cultural prominence with advanced architecture and art.",
+		"desc_te": "ప్రధాన మాయా నగరం పలెంక్‍యూ అధునాతన నిర్మాణం, కళతో సాంస్కృతిక ప్రాముఖ్యతకు చేరుతుంది."
+	},
+	{
+		"year": "660",
+		"name_en": "Mayan City-States Warfare (Central America)",
+		"name_te": "మాయా నగర-రాష్ట్ర యుద్ధాలు (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Mayan city-states engage in warfare for dominance and control of trade routes.",
+		"desc_te": "మాయా నగర-రాష్ట్రాలు ఆధిపత్యం, వాణిజ్య మార్గ నియంత్రణ కోసం యుద్ధం చేస్తాయి."
+	},
+	{
+		"year": "680",
+		"name_en": "Decline of Classic Maya Period Begins (Central America)",
+		"name_te": "క్లాసిక్ మాయా కాలం పతనం ప్రారంభం (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "The Classic Maya period begins to show signs of decline with abandonment of major cities.",
+		"desc_te": "ప్రధాన నగరాల విత్యాసంతో క్లాసిక్ మాయా కాలం పతనం ప్రారంభం చేస్తుంది."
+	}
+]

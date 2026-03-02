@@ -1,0 +1,222 @@
+[
+	{
+		"year": "500",
+		"name_en": "Byzantine Empire Consolidation",
+		"name_te": "బైజాంటైన్ సామ్రాజ్యం సమీకరణ",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Byzantine Empire under Anastatius strengthens. Eastern Orthodox Christianity develops distinct traditions.",
+		"desc_te": "అనస్తాసియస్ కింద బైజాంటైన్ సామ్రాజ్యం దృఢమవుతుంది. తూర్పు ఆర్థోడాక్స్ క్రీస్టియానిటీ విభిన్న సంప్రదాయాలు అభివృద్ధి చేసిన విషయం."
+	},
+	{
+		"year": "502",
+		"name_en": "Vitalian's Schism Crisis",
+		"name_te": "విటాలియన్ విభజన సংकట",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Theological disputes in Constantinople lead to civil unrest. Church and state struggle for authority.",
+		"desc_te": "కాన్‍స్టాంటినోపల్‌లో సిద్ధాంత వివాదాలు నాగరిక చేదరికకు దారితీసిన విషయం. చర్చ, రాష్ట్ర అధికారానికి పోరాటం చేసిన విషయం."
+	},
+	{
+		"year": "510",
+		"name_en": "Monastic Communities Flourish",
+		"name_te": "సన్న్యాస సమూహాలు ఫిలిస్తున్నాయి",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Monasteries become centers of learning, agriculture, and spiritual life across medieval Europe.",
+		"desc_te": "సన్న్యాస సమాజాలు మధ్యయుగ ఐరోపాలో జ్ఞానం, వ్యవసాయం, ఆధ్యాత్మిక జీవనం కేంద్రాలు కాబడిన విషయం."
+	},
+	{
+		"year": "515",
+		"name_en": "Rule of Saint Benedict",
+		"name_te": "సెయింట్ బెనెడిక్ట్ నియమ",
+		"location": {
+			"lat": 41.82,
+			"lng": 13.6
+		},
+		"desc_en": "Benedict founds Monte Cassino monastery. His Rule becomes standard for Western monastic life.",
+		"desc_te": "బెనెడిక్ట్ మోంటე కస్సీనో సన్న్యాస సమాజం స్థాపించిన విషయం. అతని నియమ పశ్చిమ సన్న్యాస జీవనం ప్రమాణం కాబడిన విషయం."
+	},
+	{
+		"year": "520",
+		"name_en": "Boethius and Christian Philosophy",
+		"name_te": "బోయిథియస్, క్రీస్టియన్ తత్వవేదం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Boethius writes Consolation of Philosophy while imprisoned. Bridges classical and Christian thought.",
+		"desc_te": "బోయిథియస్ జైలిలో ఆశ్వాస ఆలోచన రచన చేసిన విషయం. ప్రాచీన, క్రీస్టియన్ ఆలోచనలను సేతువ చేసిన విషయం."
+	},
+	{
+		"year": "525",
+		"name_en": "Justinian's Reign and Church",
+		"name_te": "జస్టినియన్ పాలన, చర్చ",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Justinian becomes emperor. Declares himself defender of orthodoxy and rebuilds Byzantine empire.",
+		"desc_te": "జస్టినియన్ చక్రవర్తిగా నిలిచిన విషయం. తనను ఆర్థోడాక్స్ రక్షకుడిగా ప్రకటించిన విషయం, బైజాంటైన్ సామ్రాజ్యం నిర్మించిన విషయం."
+	},
+	{
+		"year": "527",
+		"name_en": "Hagia Sophia Construction",
+		"name_te": "హేజియా సోఫియా నిర్మాణం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Justinian builds magnificent Hagia Sophia cathedral, supreme example of Byzantine Christian architecture.",
+		"desc_te": "జస్టినియన్ అద్భుత హేజియా సోఫియా ఆలయం నిర్మించిన విషయం, బైజాంటైన్ క్రీస్టియన్ నిర్మాణ శ్రేష్ఠ నమూనా."
+	},
+	{
+		"year": "530",
+		"name_en": "Cassiodorus and Learning Preservation",
+		"name_te": "కస్సియోడోరస్, జ్ఞానం సంరక్షణ",
+		"location": {
+			"lat": 39.3,
+			"lng": 15.8
+		},
+		"desc_en": "Cassiodorus preserves classical texts in monasteries. Secures survival of ancient knowledge.",
+		"desc_te": "కస్సియోడోరస్ సన్న్యాస సమాజాలలో చరిత్రాత్మక గ్రంధాలు సంరక్షించిన విషయం. పూర్వీయ జ్ఞానం సమ్మతి నిరాపద్భద చేసిన విషయం."
+	},
+	{
+		"year": "535",
+		"name_en": "Three Chapters Controversy",
+		"name_te": "మూడు అధ్యాయాల వివాదం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Justinian's religious policies create disputes about orthodox interpretation. Council decisions enforce conformity.",
+		"desc_te": "జస్టినియన్ ధార్మిక విధానాలు ఆర్థోడాక్స్ వివరణ గురించి వివాదాలు సృష్టించిన విషయం. సమావేశ నిర్ణయాలు ఏకరూపతను ప్రవర్తించిన విషయం."
+	},
+	{
+		"year": "540",
+		"name_en": "Monastic Leadership in Eastern Church",
+		"name_te": "తూర్పు చర్చలో సన్న్యాస నాయకత్వం",
+		"location": {
+			"lat": 35,
+			"lng": 33
+		},
+		"desc_en": "Monks become primary leaders and theologians in Eastern Christianity. Shape church doctrine and practice.",
+		"desc_te": "సన్న్యాసులు తూర్పు క్రీస్టియానిటీలో ప్రధాన నాయకులు, దేవతాత్త్వవేత్తలు కాబడిన విషయం. చర్చ సిద్ధాంతం, ఆచారం ఆకారం ఇస్తుంది."
+	},
+	{
+		"year": "545",
+		"name_en": "Nika Riots and Church Role",
+		"name_te": "నీకా తిరుగుబాట్లు, చర్చ పాత్ర",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Nika Riots nearly overthrow Justinian. Church mediates between emperor and populace.",
+		"desc_te": "నీకా తిరుగుబాట్లు జస్టినియన్‌ను దాటిపోయేందుకు సమీపం ఉన్నాయి. చర్చ చక్రవర్తి, ప్రజల మధ్య మధ్యస్థం చేసిన విషయం."
+	},
+	{
+		"year": "550",
+		"name_en": "Eastern-Western Christian Divide Deepens",
+		"name_te": "తూర్పు-పశ్చిమ క్రీస్టియన్ విభజనం లోతుగా ఆగుతుంది",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Linguistic and cultural differences create permanent split between Byzantine and Roman Christianity.",
+		"desc_te": "భాషా, సాంస్కృతిక భేదాలు బైజాంటైన్, రోమన్ క్రీస్టియానిటీ మధ్య శాశ్వత విభజనం సృష్టించిన విషయం."
+	},
+	{
+		"year": "555",
+		"name_en": "Gregory the Great's Rise",
+		"name_te": "గ్రెట్ గ్రెగరీ ఎదగడం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Gregory becomes powerful pope, expanding papal influence throughout Western Europe.",
+		"desc_te": "గ్రెగరీ శక్తిశాలీ పోప్‌గా నిలిచిన విషయం, పశ్చిమ ఐరోపా వ్యాపకంగా పాపల్ ప్రభావం విస్తరించిన విషయం."
+	},
+	{
+		"year": "560",
+		"name_en": "Columba's Mission to Scotland",
+		"name_te": "కొలుంబా స్కాటిష్‌కు ఆయోగ",
+		"location": {
+			"lat": 57.5,
+			"lng": -4
+		},
+		"desc_en": "Columba evangelizes Scotland, establishing Celtic Christianity and monasteries.",
+		"desc_te": "కొలుంబా స్కాటిష్‌ను సువార్త చెప్పిన విషయం, సెల్టిక్ క్రీస్టియానిటీ, సన్న్యాస సమాజాలు స్థాపన చేసిన విషయం."
+	},
+	{
+		"year": "565",
+		"name_en": "Augustine of Canterbury Arrives in Britain",
+		"name_te": "కాంటర్‌బరీ ఆగస్టీన్ బ్రిటన్‌కు రండిన విషయం",
+		"location": {
+			"lat": 51.28,
+			"lng": 1.09
+		},
+		"desc_en": "Augustine sent by Pope Gregory to evangelize Britain. Establishes Roman Christianity in Anglo-Saxon realm.",
+		"desc_te": "పోప్ గ్రెగరీ చేత సంపోషిత ఆగస్టీన్ బ్రిటన్‌ను సువార్త చెప్పిన విషయం. ఆంగ్లో-సాక్సన్ రాజ్యంలో రోమన్ క్రీస్టియానిటీ ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "570",
+		"name_en": "Gregory of Tours' Historical Writings",
+		"name_te": "టూర్‌ల గ్రెగరీ చరిత్ర రచనలు",
+		"location": {
+			"lat": 47.4,
+			"lng": 0.7
+		},
+		"desc_en": "Gregory of Tours writes History of the Franks, preserving early medieval Christian history.",
+		"desc_te": "టూర్‌ల గ్రెగరీ ఫ్రాంక్‌ల చరిత్ర రచన చేసిన విషయం, ప్రారంభ మధ్యయుగ క్రీస్టియన్ చరిత్ర సంరక్షణ చేసిన విషయం."
+	},
+	{
+		"year": "575",
+		"name_en": "Monotheletism Emerges",
+		"name_te": "మోనోథలెటిజం ఆవిర్భవిస్తుంది",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "New Christological dispute arises about Christ's will. Creates new theological tensions.",
+		"desc_te": "క్రీస్తువు ఇచ్ఛ గురించి నవీన క్రీస్తు జ్ఞానం వివాదం ఉద్భవిస్తుంది. నవీన సిద్ధాంత ఉద్వేగాలు సృష్టించిన విషయం."
+	},
+	{
+		"year": "580",
+		"name_en": "Conversion of Visigothic Spain",
+		"name_te": "విసిగోధ్ స్పెయిన్ మతాంతరం",
+		"location": {
+			"lat": 40,
+			"lng": -3
+		},
+		"desc_en": "Visigothic rulers convert to Roman Christianity, spreading faith through the Iberian Peninsula.",
+		"desc_te": "విసిగోధ్ పాలకులు రోమన్ క్రీస్టియానిటీకి మతాంతరం పొందిన విషయం, ఐబేరియన్ ద్వీపం వ్యాపకంగా విశ్వాసం వ్యాపించిన విషయం."
+	},
+	{
+		"year": "585",
+		"name_en": "Gregory the Great's Papacy",
+		"name_te": "గ్రెగరీ ఎర గొప్ప పాపసిం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Gregory reorganizes church governance, expands missionary work, and centralizes papal authority.",
+		"desc_te": "గ్రెగరీ చర్చ పాలన సంస్థాపన చేసిన విషయం, మిషనరీ పనిని విస్తరించిన విషయం, పాపల్ అధికారం కేంద్రీయ చేసిన విషయం."
+	},
+	{
+		"year": "590",
+		"name_en": "Liturgical Standardization",
+		"name_te": "విధిపూజ ప్రమాణీకరణ",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Church standardizes liturgical practices across regions. Roman liturgy becomes predominant in West.",
+		"desc_te": "చర్చ ప్రాంతాలలో విధిపూజ ఆచారాలు ప్రమాణీయం చేసిన విషయం. రోమన్ విధిపూజ పశ్చిమంలో ప్రాధాన్యం కాబడిన విషయం."
+	}
+]

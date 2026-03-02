@@ -1,0 +1,145 @@
+[
+	{
+		"year": "-2400",
+		"name_en": "Descendants of Noah after the Flood",
+		"name_te": "ప్రళయానంతరం నోవా సంతానం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah's sons and their families begin to repopulate the earth (Genesis 9:18-19)",
+		"desc_te": "నోవా కుమారులు భూమిని తిరిగి జనపించటం ప్రారంభించారు (ఆదికాండము 9:18-19)"
+	},
+	{
+		"year": "-2390",
+		"name_en": "Noah's Covenant with God",
+		"name_te": "నోవా దేవునితో ఒడంబడిక",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God establishes a covenant with Noah and his descendants (Genesis 9:8-17)",
+		"desc_te": "దేవుడు నోవాతో మరియు అతని సంతానంతో ఒడంబడిక చేసుకున్నాడు (ఆదికాండము 9:8-17)"
+	},
+	{
+		"year": "-2380",
+		"name_en": "The Rainbow as a Sign of the Covenant",
+		"name_te": "ఒడంబడికకు గుర్తుగా ఇంద్రధనస్సు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God sets the rainbow as a sign of His covenant (Genesis 9:12-17)",
+		"desc_te": "దేవుడు తన ఒడంబడికకు గుర్తుగా ఇంద్రధనస్సును ఏర్పరిచాడు (ఆదికాండము 9:12-17)"
+	},
+	{
+		"year": "-2370",
+		"name_en": "Noah as a Man of the Soil",
+		"name_te": "నోవా భూమి రైతుగా",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah becomes a farmer and plants a vineyard (Genesis 9:20)",
+		"desc_te": "నోవా రైతుగా మారి ద్రాక్షతోటను నాటాడు (ఆదికాండము 9:20)"
+	},
+	{
+		"year": "-2360",
+		"name_en": "Noah's Drunkenness and Ham's Disrespect",
+		"name_te": "నోవా మద్యం సేవనము, హాము అవమానం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah's drunkenness and Ham's disrespectful act (Genesis 9:21-25)",
+		"desc_te": "నోవా మద్యం సేవించి హాము అవమానించాడు (ఆదికాండము 9:21-25)"
+	},
+	{
+		"year": "-2350",
+		"name_en": "Blessing of Shem and Japheth, Curse of Canaan",
+		"name_te": "శేము, యాఫెతుకు ఆశీర్వాదం, కనాను శాపం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah blesses Shem and Japheth, curses Canaan (Genesis 9:26-29)",
+		"desc_te": "నోవా శేము, యాఫెతును ఆశీర్వదించి కనానును శపించాడు (ఆదికాండము 9:26-29)"
+	},
+	{
+		"year": "-2340",
+		"name_en": "Death of Noah",
+		"name_te": "నోవా మరణం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah dies after living 950 years (Genesis 9:28-29)",
+		"desc_te": "నోవా 950 సంవత్సరాలు జీవించి మరణించాడు (ఆదికాండము 9:28-29)"
+	},
+	{
+		"year": "-2330",
+		"name_en": "Early Generations after the Flood",
+		"name_te": "ప్రళయానంతర తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The generations following Noah begin to multiply (Genesis 10:1-5)",
+		"desc_te": "నోవా తరువాతి తరాలు భూమి మీద విస్తరించాయి (ఆదికాండము 10:1-5)"
+	},
+	{
+		"year": "-2320",
+		"name_en": "Division of the Nations",
+		"name_te": "జనముల విభజన",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Nations are divided according to their languages and families (Genesis 10:32)",
+		"desc_te": "జనములు వారి భాషలు, కుటుంబాల ప్రకారం విభజించబడ్డాయి (ఆదికాండము 10:32)"
+	},
+	{
+		"year": "-2310",
+		"name_en": "Rise of Early Kingdoms and Cities",
+		"name_te": "ప్రారంభ రాజ్యాలు, నగరాల ఉద్భవం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early kingdoms and cities begin to form among Noah's descendants (Genesis 10:8-12)",
+		"desc_te": "నోవా సంతానంలో ప్రారంభ రాజ్యాలు, నగరాలు ఏర్పడినవి (ఆదికాండము 10:8-12)"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Early Tribal Leaders and Chiefs",
+		"name_te": "ప్రారంభ గోత్ర నాయకులు, పెద్దలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Tribal leaders and chiefs arise among the descendants of Noah (Genesis 10:6-20)",
+		"desc_te": "నోవా సంతానంలో గోత్ర నాయకులు, పెద్దలు ఏర్పడ్డారు (ఆదికాండము 10:6-20)"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Spread of Peoples to Various Lands",
+		"name_te": "వివిధ దేశాలకు జనముల వ్యాప్తి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Peoples spread to various lands and regions (Genesis 10:31-32)",
+		"desc_te": "జనములు వివిధ దేశాలకు వ్యాపించారు (ఆదికాండము 10:31-32)"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Early Prophets and Blessings",
+		"name_te": "ప్రారంభ ప్రవక్తలు, ఆశీర్వాదాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early prophets and blessings among the descendants of Noah (Genesis 9:25-27)",
+		"desc_te": "నోవా సంతానంలో ప్రారంభ ప్రవక్తలు, ఆశీర్వాదాలు (ఆదికాండము 9:25-27)"
+	}
+]

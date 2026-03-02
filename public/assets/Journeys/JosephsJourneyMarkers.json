@@ -1,0 +1,42 @@
+[
+  {
+    "id": "joseph_01",
+    "name_tel": "హెబ్రోను",
+    "name_eng": "Hebron",
+    "coords": [31.529, 35.099],
+    "description": "Starting point - Joseph's family lives here",
+    "isMajorStop": true
+  },
+  {
+    "id": "joseph_02",
+    "name_tel": "షెకెము",
+    "name_eng": "Shechem",
+    "coords": [32.214, 35.281],
+    "description": "Joseph searches for his brothers",
+    "isMajorStop": false
+  },
+  {
+    "id": "joseph_03",
+    "name_tel": "దోతన్",
+    "name_eng": "Dothan",
+    "coords": [32.278, 35.283],
+    "description": "Joseph is found and sold into slavery",
+    "isMajorStop": true
+  },
+  {
+    "id": "joseph_04",
+    "name_tel": "గాజా",
+    "name_eng": "Gaza",
+    "coords": [31.526, 34.465],
+    "description": "Trading post on the way to Egypt",
+    "isMajorStop": false
+  },
+  {
+    "id": "joseph_05",
+    "name_tel": "ఈజిప్టు",
+    "name_eng": "Egypt",
+    "coords": [26.820, 30.800],
+    "description": "Joseph becomes slave, then governor of Egypt",
+    "isMajorStop": true
+  }
+]

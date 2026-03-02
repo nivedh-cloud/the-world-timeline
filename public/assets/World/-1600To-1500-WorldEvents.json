@@ -1,0 +1,398 @@
+[
+	{
+		"year": "-1600",
+		"name_en": "Minoan Palace Civilization",
+		"name_te": "మినోయన్ రాజభవన నాగరికత",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan palaces at Knossos and Phaistos flourish with advanced architecture",
+		"desc_te": "క్నోసోస్, ఫైస్టస్‌లో మినోయన్ రాజభవనాలు అత్యాధునిక నిర్మాణంతో వికసిస్తాయి"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Mycenaean Palace Culture (Greece)",
+		"name_te": "మైసెనియన్ రాజభవన సంస్కృతి (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean palace complexes built at Mycenae, Tiryns, Pylos with massive stone walls",
+		"desc_te": "మైసెనీ, టిరిన్స్, పిలోస్‌లో మైసెనియన్ రాజభవన సముదాయాలు భారీ రాయిని గోడలతో నిర్మితమైనవి"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Aryans Migrate to India",
+		"name_te": "ఆర్యులు భారతదేశానికి చలిస్తారు",
+		"location": {
+			"lat": 28,
+			"lng": 75
+		},
+		"desc_en": "Indo-Aryans continue migration into Indian subcontinent, establish vedic kingdoms",
+		"desc_te": "ఇండో-ఆర్యులు భారత ఉపఖండానికి చలన కొనసాగిస్తారు, వేదిక రాజ్యాలను స్థాపిస్తారు"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Hittite Kingdom Expansion (Anatolia)",
+		"name_te": "హిట్టైట్ రాజ్య విస్తరణ (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite Kingdom expands under Old Kingdom rulers, controls much of Anatolia",
+		"desc_te": "హిట్టైట్ రాజ్యం పురాతన రాజ్య పాలకుల కింద విస్తరిస్తుంది, చాలా అనాటోలియాను నియంత్రిస్తుంది"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Shang Oracle Bones (China)",
+		"name_te": "షాంగ్ దీవిస్ఫటిక (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang dynasty develops oracle bone script, earliest Chinese writing system",
+		"desc_te": "షాంగ్ రాజవంశం దీవిస్ఫటిక లిపిని అభివృద్ధి చేసింది, సర్వప్రథమ చైనీస్ రచన వ్యవస్థ"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Egyptian New Kingdom Begins",
+		"name_te": "ఈజిప్టియన్ కొత్త రాజ్యం ప్రారంభం",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian New Kingdom begins, age of pharaohs like Ahmose expanding empire",
+		"desc_te": "ఈజిప్టియన్ కొత్త రాజ్యం ప్రారంభమైంది, అహ్మోస్ వంటి ఫారోలు సామ్రాజ్యం విస్తరిస్తారు"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Panchalas Rise (India)",
+		"name_te": "పంచాలలు ఎదుగుతారు (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 78
+		},
+		"desc_en": "Panchala kingdom rises in northern India as vedic power",
+		"desc_te": "ఉత్తర భారతదేశంలో పంచాల రాజ్యం వేదిక శక్తిగా ఎదుగుతుంది"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Trojans Build City (Anatolia)",
+		"name_te": "ట్రోజన్‌లు నగరం నిర్మిస్తారు (అనాటోలియా)",
+		"location": {
+			"lat": 39.96,
+			"lng": 26.24
+		},
+		"desc_en": "Troy built and fortified, major trading city in northwestern Anatolia",
+		"desc_te": "ట్రాయ్ నిర్మిత, కోటకట్టుబడింది, వాయువ్య అనాటోలియాలో ప్రధాన వాణిజ్య నగరం"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Babylon Under Hammurabi",
+		"name_te": "బాబిలోన్ హమ్మురాబీ కింద",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Babylon flourishes under Hammurabi's rule, law code administered throughout empire",
+		"desc_te": "హమ్మురాబీ పాలనలో బాబిలోన్ వికసిస్తుంది, నియమ సంహితా సామ్రాజ్యం జరిగిందంతటా"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Kassites Conquer Babylon",
+		"name_te": "కస్సీలు బాబిలోన్‌ను జయించారు",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Kassite dynasty conquers Babylon, rules for over 400 years",
+		"desc_te": "కస్సీ రాజవంశం బాబిలోన్‌ను జయించింది, 400 సంవత్సరాలకు పాలన"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Vedas Composed (India)",
+		"name_te": "వేదాలు సంపాదించారు (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Vedas including Rigveda, Yajurveda, Samaveda composed in Sanskrit",
+		"desc_te": "ఋగ్వేద, యజ్ఞవేద, సామవేద సంస్కృతంలో సంపాదించారు"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Ahmose Expels Hyksos (Egypt)",
+		"name_te": "అహ్‌మోస్ హిక్సోస్ బహిష్కరణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Pharaoh Ahmose expels Hyksos invaders, reunifies Egypt",
+		"desc_te": "ఫారో అహ్‌మోస్ హిక్సోస్ ఆక్రమణ బహిష్కరించారు, ఈజిప్ట్ ఏకీకరణ"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Hittite New Kingdom Begins (Anatolia)",
+		"name_te": "హిట్టైట్ కొత్త రాజ్యం ప్రారంభ (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite New Kingdom begins with territorial expansion",
+		"desc_te": "హిట్టైట్ కొత్త రాజ్యం భూభాగ విస్తరణతో ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Zhou Dynasty Conquers Shang (China)",
+		"name_te": "జోవు రాజవంశం షాంగ్‌ను జయించడం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty overthrows Shang, establishes Zhou era",
+		"desc_te": "జోవు రాజవంశం షాంగ్‌ను కూలిస్తారు, జోవు యుగం స్థాపన"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Vedic Kingdoms Expand (India)",
+		"name_te": "వేదిక రాజ్యాలు విస్తరిస్తాయి (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic Aryan kingdoms expand across northern India",
+		"desc_te": "వేదిక ఆర్యన్ రాజ్యాలు ఉత్తర భారతదేశం అంతటా విస్తరిస్తాయి"
+	},
+	{
+		"year": "-1600",
+		"name_en": "Kassite Dynasty Strengthens (Babylon)",
+		"name_te": "కస్సిట్ డైనస్టీ సమర్థవర్తకం (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Kassite Dynasty stabilizes Babylon's government and culture",
+		"desc_te": "కస్సిట్ డైనస్టీ బాబిలోన్ పరిపాలన, సంస్కృతిని స్థిరీకరిస్తుంది"
+	},
+	{
+		"year": "-1580",
+		"name_en": "Egyptian Imperialism Expands (Egypt)",
+		"name_te": "ఈజిప్టియన్ సామ్రాజ్యవాదం విస్తరిస్తుంది (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egypt expands imperial control over Near East territories",
+		"desc_te": "ఈజిప్ట్ సమీప తూర్పు ప్రాంత పై సామ్రాజ్యవాద నియంత్రణ విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1580",
+		"name_en": "Thutmose III Becomes Pharaoh (Egypt)",
+		"name_te": "థుత్మోస్ III ఫారో అవుతారు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Thutmose III becomes pharaoh, begins military campaigns in Asia",
+		"desc_te": "థుత్మోస్ III ఫారో అవతారెన్ని, ఆసియాలో సైనిక చర్యలు ప్రారంభ"
+	},
+	{
+		"year": "-1580",
+		"name_en": "Hittite-Egyptian Wars (Levant)",
+		"name_te": "హిట్టైట్-ఈజిప్టియన్ యుద్ధాలు (లెవాంట్)",
+		"location": {
+			"lat": 36,
+			"lng": 34
+		},
+		"desc_en": "Hittites and Egyptian forces clash for Levantine territories",
+		"desc_te": "హిట్టైట్, ఈజిప్టియన్ బలగాలు లెవాంటీన్ భూభాగం కోసం ఘర్షణ"
+	},
+	{
+		"year": "-1580",
+		"name_en": "Zhou Dynasty Consolidates (China)",
+		"name_te": "జోవు రాజవంశం సంపీడనం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty consolidates power over Shang territories",
+		"desc_te": "జోవు రాజవంశం షాంగ్ ప్రాంత పై శక్తిని సంపీడనం"
+	},
+	{
+		"year": "-1580",
+		"name_en": "Mahabharata Stories Composed (India)",
+		"name_te": "మహాభారత కథలు రచించబడుతాయి (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 72
+		},
+		"desc_en": "Vedic war epics Mahabharata stories composed in early form",
+		"desc_te": "వేదిక యుద్ధ ఇతిహాసాలు మహాభారత కథలు ప్రారంభ రూపంలో రచించుకోబడుతాయి"
+	},
+	{
+		"year": "-1580",
+		"name_en": "Minoan Sea Trade Expands (Crete)",
+		"name_te": "మినోయన్ సముద్ర వాణిజ్యం విస్తరిస్తుంది (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan traders establish trade networks across Mediterranean",
+		"desc_te": "మినోయన్ వ్యాపారులు భూమధ్య సాగర పూర్తిలో వాణిజ్య నెట్‌వర్కులు ఏర్పాటు"
+	},
+	{
+		"year": "-1560",
+		"name_en": "Thutmose III 17 Campaigns (Egypt)",
+		"name_te": "థుత్మోస్ III 17 చర్యలు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Thutmose III conducts 17 major military campaigns in Asia",
+		"desc_te": "థుత్మోస్ III ఆసియాలో 17 ప్రధాన సైనిక చర్యలు నిర్వహిస్తారు"
+	},
+	{
+		"year": "-1560",
+		"name_en": "Suppililuama I Campaigns (Anatolia)",
+		"name_te": "సుప్పిలులియుమా I చర్యలు (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Suppililuama I begins major Hittite military expansion campaigns",
+		"desc_te": "సుప్పిలులియుమా I హిట్టైట్ సైనిక విస్తరణ చర్యలు ప్రారంభ"
+	},
+	{
+		"year": "-1560",
+		"name_en": "Kassite Babylon Culture Peaks (Babylon)",
+		"name_te": "కస్సిట్ బాబిలోన్ సంస్కృతి శిఖరం (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Kassite era brings cultural flourishing to Babylon",
+		"desc_te": "కస్సిట్ యుగం బాబిలోనికి సాంస్కృతిక సమృద్ధిని తీసుకువస్తుంది"
+	},
+	{
+		"year": "-1560",
+		"name_en": "Zhou Dynasty Culture Develops (China)",
+		"name_te": "జోవు రాజవంశ సంస్కృతి అభివృద్ధి (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty develops sophisticated bronze vessels and art",
+		"desc_te": "జోవు రాజవంశం అత్యాధునిక రాగు పాత్రలు, కళలను అభివృద్ధి"
+	},
+	{
+		"year": "-1560",
+		"name_en": "Aryan Vedic Literature Expands (India)",
+		"name_te": "ఆర్యన్ వేదిక సాహిత్యం విస్తరిస్తుంది (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic literature and rituals systematized in Sanskrit texts",
+		"desc_te": "వేదిక సాహిత్యం, ఆచారాలు సంస్కృత గ్రంథాలలో విస్తీర్ణమవుతాయి"
+	},
+	{
+		"year": "-1540",
+		"name_en": "Amenhotep II Rules (Egypt)",
+		"name_te": "అమెనహోటెప్ II పాలన (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Amenhotep II continues Egyptian imperial military campaigns",
+		"desc_te": "అమెనహోటెప్ II ఈజిప్టియన్ సామ్రాజ్యక సైనిక చర్యలు కొనసాగిస్తారు"
+	},
+	{
+		"year": "-1540",
+		"name_en": "Hittite-Egyptian Diplomacy (Levant)",
+		"name_te": "హిట్టైట్-ఈజిప్టియన్ కూటనీతి (లెవాంట్)",
+		"location": {
+			"lat": 38,
+			"lng": 34
+		},
+		"desc_en": "Hittites establish diplomatic relations with Egypt for peace",
+		"desc_te": "హిట్టైట్‌లు శాంతి కోసం ఈజిప్ట్‌తో రాజయ్య సంబంధాలు స్థాపిస్తారు"
+	},
+	{
+		"year": "-1540",
+		"name_en": "Mycenaean Trade Dominance (Greece)",
+		"name_te": "మైసెనియన్ వాణిజ్య ఆధిపత్యం (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean palaces dominate Mediterranean trade networks",
+		"desc_te": "మైసెనియన్ రాజభవనాలు భూమధ్య సాగర వాణిజ్య నెట్‌వర్కులపై ఆధిపత్యం"
+	},
+	{
+		"year": "-1540",
+		"name_en": "Nubian Kingdom Develops (Africa)",
+		"name_te": "న్యూబియన్ రాజ్యం అభివృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": 18,
+			"lng": 32.5
+		},
+		"desc_en": "Nubian kingdoms develop trade and military power in Africa",
+		"desc_te": "న్యూబియన్ రాజ్యాలు ఆఫ్రికాలో వాణిజ్యం, సైనిక శక్తిని అభివృద్ధి"
+	},
+	{
+		"year": "-1540",
+		"name_en": "Polynesian Navigation Expands (Pacific)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ విస్తరిస్తుంది (పసిఫిక్)",
+		"location": {
+			"lat": -15,
+			"lng": 170
+		},
+		"desc_en": "Polynesian sailors continue expansion across Pacific islands",
+		"desc_te": "పాలినీషియన్ నావికులు పసిఫిక్ ద్వీపాల్లో విస్తరణ కొనసాగిస్తారు"
+	},
+	{
+		"year": "-1520",
+		"name_en": "Thutmose IV Reaches Nubia (Egypt)",
+		"name_te": "థుత్మోస్ IV న్యూబియాకు చేరుకుంటారు (ఈజిప్ట్)",
+		"location": {
+			"lat": 25,
+			"lng": 32
+		},
+		"desc_en": "Thutmose IV expands Egyptian control into Nubia and Sudan",
+		"desc_te": "థుత్మోస్ IV న్యూబియా, సూడానుకు ఈజిప్టియన్ నియంత్రణ విస్తరిస్తారు"
+	},
+	{
+		"year": "-1520",
+		"name_en": "Hittite-Mitanni Tensions (Levant)",
+		"name_te": "హిట్టైట్-మిటన్నీ ఉద్రిక్తతలు (లెవాంట్)",
+		"location": {
+			"lat": 38,
+			"lng": 42
+		},
+		"desc_en": "Hittites and Mitanni kingdom compete for Syrian territories",
+		"desc_te": "హిట్టైట్‌లు, మిటన్నీ రాజ్యం సిరియన్ ప్రాంత కోసం పోటీ"
+	},
+	{
+		"year": "-1520",
+		"name_en": "Late Zhou Dynasty Expansion (China)",
+		"name_te": "చివరి జోవు రాజవంశ విస్తరణ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Late Zhou Dynasty expands territory through military conquest",
+		"desc_te": "చివరి జోవు రాజవంశం సైనిక విజయం ద్వారా ప్రాంత విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1520",
+		"name_en": "Mycenaean Palaces Peak (Greece)",
+		"name_te": "మైసెనియన్ రాజభవనాలు శిఖరం (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean palace culture reaches its peak with grand palaces",
+		"desc_te": "మైసెనియన్ రాజభవన సంస్కృతి గ్రాండ్ రాజభవనాలతో శిఖరస్థాయిని చేరుకుంటుంది"
+	}
+]

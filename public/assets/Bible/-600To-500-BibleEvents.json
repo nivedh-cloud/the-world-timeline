@@ -1,0 +1,1080 @@
+[
+	{
+		"year": "-605",
+		"name_en": "Babylonian Invasions of Judah Begin",
+		"name_te": "యూదాపై బాబిలోన్ దాడులు ప్రారంభం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nebuchadnezzar of Babylon invades Judah, first wave of exiles taken (Daniel 1:1-6)",
+		"desc_te": "బాబిలోన్ రాజు నెబూకద్నెజర్ యూదాపై దాడి చేసి, మొదటి విడత నిర్వాసితులను తీసుకెళ్లాడు (దానియేలు 1:1-6)"
+	},
+	{
+		"year": "-597",
+		"name_en": "Second Deportation to Babylon",
+		"name_te": "బాబిలోన్‌కు రెండవ నిర్వాసనం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Jehoiachin and many leaders exiled to Babylon (2 Kings 24:10-17)",
+		"desc_te": "రాజు యెహోయాకీను, అనేక నాయకులను బాబిలోన్‌కు నిర్వాసనం చేశారు (2 రాజులు 24:10-17)"
+	},
+	{
+		"year": "-593",
+		"name_en": "Prophetic Ministry of Ezekiel",
+		"name_te": "ప్రవక్త యెహెజ్కేలు సేవ",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Ezekiel prophesies to the exiles in Babylon (Book of Ezekiel)",
+		"desc_te": "యెహెజ్కేలు బాబిలోన్ నిర్వాసితులకు ప్రవచించాడు (యెహెజ్కేలు గ్రంథం)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Destruction of Jerusalem and the First Temple",
+		"name_te": "యెరూషలేము, మొదటి ఆలయ విధ్వంసం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylonians destroy Jerusalem and Solomon's Temple, mass exile (2 Kings 25)",
+		"desc_te": "బాబిలోనీయులు యెరూషలేమును, సొలొమోను ఆలయాన్ని ధ్వంసం చేసి, ప్రజలను నిర్వాసనం చేశారు (2 రాజులు 25)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Prophetic Ministry of Obadiah",
+		"name_te": "ఓబద్యా ప్రవచన సేవ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Obadiah prophesies against Edom after the fall of Jerusalem (Book of Obadiah)",
+		"desc_te": "యెరూషలేము పతనానంతరం ఓబద్యా ఎడోంపై ప్రవచించాడు (ఓబద్యా గ్రంథం)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Gedaliah Appointed Governor of Judah",
+		"name_te": "యూదా పాలకుడిగా గెదల్యా నియామకం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylonians appoint Gedaliah as governor over the remnant in Judah (2 Kings 25:22-26)",
+		"desc_te": "బాబిలోనీయులు యూదాలో మిగిలిన వారిపై గెదల్యాను పాలకుడిగా నియమించారు (2 రాజులు 25:22-26)"
+	},
+	{
+		"year": "-570",
+		"name_en": "Ezekiel's Vision of the Valley of Dry Bones",
+		"name_te": "యెహెజ్కేలు ఎండిన ఎముకల లోయ దర్శనం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Ezekiel sees a vision of dry bones coming to life, symbolizing Israel's restoration (Ezekiel 37)",
+		"desc_te": "యెహెజ్కేలు ఎండిన ఎముకల లోయను చూసి, ఇశ్రాయేలు పునరుద్ధరణను సూచించాడు (యెహెజ్కేలు 37)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Babylonian Exile of the Jews",
+		"name_te": "యూదా బాబిలోన్ నిర్వాసనం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish people live in exile in Babylon (Book of Daniel, Book of Ezekiel)",
+		"desc_te": "యూదులు బాబిలోన్ నిర్వాసనంలో జీవించారు (దానియేలు, యెహెజ్కేలు గ్రంథాలు)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Lamentations of Jeremiah",
+		"name_te": "యిర్మియా విలాపాలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jeremiah laments the destruction of Jerusalem (Book of Lamentations)",
+		"desc_te": "యిర్మియా యెరూషలేము విధ్వంసాన్ని విలపించాడు (విలాప గ్రంథం)"
+	},
+	{
+		"year": "-605",
+		"name_en": "Daniel's Life and Visions in Babylon",
+		"name_te": "బాబిలోన్‌లో దానియేలు జీవితం, దర్శనాలు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Daniel serves in the Babylonian and Persian courts, receives visions (Book of Daniel)",
+		"desc_te": "దానియేలు బాబిలోన్, పర్షియన్ రాజదర్వారాల్లో సేవ చేసి, దర్శనాలు పొందాడు (దానియేలు గ్రంథం)"
+	},
+	{
+		"year": "-539",
+		"name_en": "Decree of Cyrus Allows Return",
+		"name_te": "కైరస్ ఆజ్ఞతో తిరిగి రావడం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Cyrus of Persia conquers Babylon and allows Jews to return to Jerusalem (Ezra 1:1-4)",
+		"desc_te": "పర్షియా రాజు కైరస్ బాబిలోన్‌ను జయించి, యూదులు యెరూషలేముకు తిరిగి రావడానికి అనుమతించాడు (ఎజ్రా 1:1-4)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Fall and Blinding of King Zedekiah",
+		"name_te": "రాజు జెదెకియా పతనం, అంధత్వం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Zedekiah is captured, blinded, and taken to Babylon (2 Kings 25:6-7)",
+		"desc_te": "రాజు జెదెకియాను పట్టుకుని, కళ్ళు తీయించి, బాబిలోన్‌కు తీసుకెళ్లారు (2 రాజులు 25:6-7)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Jeremiah's Ministry among the Remnant",
+		"name_te": "శేషించిన వారిలో యిర్మియా సేవ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jeremiah ministers to the remnant left in Judah and later taken to Egypt (Jeremiah 40-44)",
+		"desc_te": "యిర్మియా యూదాలో మిగిలిన వారికి సేవ చేసి, తరువాత ఈజిప్టుకు తీసుకెళ్లబడ్డాడు (యిర్మియా 40-44)"
+	},
+	{
+		"year": "-582",
+		"name_en": "Final Deportation to Babylon",
+		"name_te": "బాబిలోన్‌కు చివరి నిర్వాసనం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "A final group of Jews is exiled to Babylon (Jeremiah 52:30)",
+		"desc_te": "చివరి విడత యూదులను బాబిలోన్‌కు నిర్వాసనం చేశారు (యిర్మియా 52:30)"
+	},
+	{
+		"year": "-570",
+		"name_en": "Preservation of the Jewish Remnant in Exile",
+		"name_te": "నిర్వాసంలో యూదా శేషించబడినవారు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "A faithful remnant of Jews maintains their identity and faith in Babylon (Book of Daniel)",
+		"desc_te": "నిర్వాసంలో కొంతమంది యూదులు తమ విశ్వాసాన్ని, గుర్తింపును నిలుపుకున్నారు (దానియేలు గ్రంథం)"
+	},
+	{
+		"year": "-539",
+		"name_en": "Persian Conquest of Babylon",
+		"name_te": "పర్షియన్ బాబిలోన్ విజయం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Persians conquer Babylon, ending the Neo-Babylonian Empire (Daniel 5)",
+		"desc_te": "పర్షియన్లు బాబిలోన్‌ను జయించి, నూతన బాబిలోన్ సామ్రాజ్యాన్ని ముగించారు (దానియేలు 5)"
+	},
+	{
+		"year": "-609",
+		"name_en": "Prophetic Ministry of Habakkuk",
+		"name_te": "హబక్కూకు ప్రవచన సేవ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Habakkuk prophesies in Judah before the Babylonian conquest (Book of Habakkuk)",
+		"desc_te": "బాబిలోన్ ఆక్రమణకు ముందు హబక్కూకు యూదాలో ప్రవచించాడు (హబక్కూకు గ్రంథం)"
+	},
+	{
+		"year": "-590",
+		"name_en": "Faith of Shadrach, Meshach, and Abednego",
+		"name_te": "శద్రాక్, మేషాక్, అబేద్నెగో విశ్వాసం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Three Jewish youths survive the fiery furnace in Babylon (Daniel 3)",
+		"desc_te": "బాబిలోన్‌లో మూడుగురు యూదులు అగ్ని గర్భంలో నుంచి రక్షించబడ్డారు (దానియేలు 3)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Writing of Psalm 137 in Exile",
+		"name_te": "నిర్వాసంలో కీర్తన 137 రచన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Psalm 137 is composed by exiles, lamenting the loss of Zion",
+		"desc_te": "నిర్వాసితులు సీయోను కోల్పోయినందుకు విలపిస్తూ కీర్తన 137ను రచించారు"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Zephaniah",
+		"name_te": "జెఫన్యా ప్రవచన సేవ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Zephaniah prophesies in Judah before the Babylonian conquest, warning of judgment and restoration (Book of Zephaniah)",
+		"desc_te": "బాబిలోన్ ఆక్రమణకు ముందు జెఫన్యా యూదాలో ప్రవచించి, తీర్పు, పునరుద్ధరణ గురించి హెచ్చరించాడు (జెఫన్యా గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Synagogue as Gathering Place",
+		"name_te": "సినగాగ్ సమావేశ స్థలంగా అభివృద్ధి",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish exiles begin to gather for prayer and study, laying the foundation for the synagogue tradition.",
+		"desc_te": "యూదా నిర్వాసితులు ప్రార్థన, అధ్యయనం కోసం సమావేశమవుతూ, సినగాగ్ సంప్రదాయానికి పునాది వేశారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Compilation of Exilic and Post-Exilic Prophecies",
+		"name_te": "నిర్వాస, అనంతర ప్రవచనాల సంకలనము",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Prophecies of Jeremiah, Ezekiel, and others are compiled and preserved during and after the exile.",
+		"desc_te": "యిర్మియా, యెహెజ్కేలు తదితరుల ప్రవచనాలు నిర్వాసంలో, అనంతరం సంకలనం చేయబడ్డాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Emergence of Jewish Community Leadership in Exile",
+		"name_te": "నిర్వాసంలో యూదా నాయకత్వం ఉద్భవం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish elders and leaders organize the community in Babylon, maintaining identity and faith.",
+		"desc_te": "బాబిలోన్ నిర్వాసంలో యూదా పెద్దలు, నాయకులు సంఘాన్ని నిర్వహించి, విశ్వాసాన్ని, గుర్తింపును నిలుపుకున్నారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Haggai (Early Years)",
+		"name_te": "హగ్గయి ప్రవచన సేవ (ప్రారంభ సంవత్సరాలు)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Haggai begins his prophetic ministry, encouraging hope for restoration.",
+		"desc_te": "హగ్గయి తన ప్రవచన సేవను ప్రారంభించి, పునరుద్ధరణకు ఆశను ప్రోత్సహించాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Development of Jewish Prayer Practices in Exile",
+		"name_te": "నిర్వాసంలో యూదా ప్రార్థనా సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish exiles develop new forms of prayer and worship without the Temple.",
+		"desc_te": "యూదా నిర్వాసితులు ఆలయం లేకుండా కొత్త ప్రార్థనా, ఆరాధనా సంప్రదాయాలను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Transmission of Prophetic Writings to the Diaspora",
+		"name_te": "ప్రవచన గ్రంథాల ప్రవాసానికి బదిలీ",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Prophetic books and teachings are copied and shared among Jewish communities in exile.",
+		"desc_te": "ప్రవచన గ్రంథాలు, బోధనలు నిర్వాసిత యూదా సముదాయాల్లో నకలు చేసి పంచబడ్డాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Influence of Babylonian Culture on Jewish Thought",
+		"name_te": "యూదా ఆలోచనలపై బాబిలోన్ సంస్కృతి ప్రభావం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish life and thought are influenced by Babylonian language, customs, and administration.",
+		"desc_te": "యూదా జీవితం, ఆలోచనలు బాబిలోన్ భాష, ఆచారాలు, పరిపాలన ద్వారా ప్రభావితమయ్యాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Jewish Scribal Tradition in Exile",
+		"name_te": "నిర్వాసంలో యూదా లేఖన సంప్రదాయం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish scribes begin to play a key role in preserving and copying sacred texts during the Babylonian exile.",
+		"desc_te": "బాబిలోన్ నిర్వాసంలో యూదా లేఖకులు పవిత్ర గ్రంథాలను నకలు చేయడంలో, పరిరక్షించడంలో కీలక పాత్ర పోషించారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Emergence of Jewish Dietary and Purity Laws in Exile",
+		"name_te": "నిర్వాసంలో యూదా ఆహార, పవిత్రత ధర్మాల అభివృద్ధి",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish communities in exile emphasize dietary and purity laws to maintain identity.",
+		"desc_te": "నిర్వాసంలో యూదా సముదాయాలు తమ గుర్తింపును నిలుపుకోవడానికి ఆహార, పవిత్రత ధర్మాలను ప్రాముఖ్యతనిచ్చాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Formation of Jewish Family and Community Structures in Babylon",
+		"name_te": "బాబిలోన్‌లో యూదా కుటుంబ, సంఘ నిర్మాణం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish families and communities organize themselves for mutual support and religious life in Babylon.",
+		"desc_te": "బాబిలోన్‌లో యూదా కుటుంబాలు, సంఘాలు పరస్పర సహాయానికి, మత జీవితానికి ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Early Development of Jewish Calendar Observance in Exile",
+		"name_te": "నిర్వాసంలో యూదా పంచాంగ ఆచరణ ప్రారంభం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish exiles begin to observe religious festivals and the Sabbath according to a set calendar.",
+		"desc_te": "నిర్వాసితులు మత పండుగలు, శబ్దాబథ్‌ను నిర్ణీత పంచాంగం ప్రకారం పాటించడం ప్రారంభించారు."
+	},
+	{
+		"year": "-539",
+		"name_en": "Reign of Cyrus the Great of Persia (begins)",
+		"name_te": "పర్షియా రాజు కైరస్ మహా పాలన (ప్రారంభం)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Cyrus the Great begins his reign, conquers Babylon, and issues the decree allowing Jews to return (Ezra 1:1-4)",
+		"desc_te": "కైరస్ మహా పాలన ప్రారంభించి, బాబిలోన్‌ను జయించి, యూదులు తిరిగి రావడానికి ఆజ్ఞ జారీ చేశాడు (ఎజ్రా 1:1-4)"
+	},
+	{
+		"year": "-538",
+		"name_en": "Return of the First Jewish Exiles to Jerusalem",
+		"name_te": "మొదటి యూదా నిర్వాసితుల యెరూషలేముకు తిరిగి రాక",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The first group of Jewish exiles returns to Jerusalem and begins rebuilding the altar (Ezra 2-3)",
+		"desc_te": "మొదటి యూదా నిర్వాసితులు యెరూషలేముకు తిరిగి వచ్చి, బలి పీఠాన్ని పునర్నిర్మించారు (ఎజ్రా 2-3)"
+	},
+	{
+		"year": "-520",
+		"name_en": "Rebuilding of the Second Temple in Jerusalem",
+		"name_te": "యెరూషలేములో రెండవ దేవాలయ నిర్మాణం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Second Temple is rebuilt in Jerusalem under Zerubbabel's leadership (Ezra 5-6; Haggai 1-2)",
+		"desc_te": "జెరుబ్బాబెల్ నాయకత్వంలో యెరూషలేములో రెండవ దేవాలయం పునర్నిర్మించబడింది (ఎజ్రా 5-6; హగ్గయి 1-2)"
+	},
+	{
+		"year": "-520",
+		"name_en": "Prophetic Ministry of Zechariah (begins)",
+		"name_te": "జెకర్యా ప్రవచన సేవ (ప్రారంభం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Zechariah begins his prophetic ministry, encouraging the rebuilding of the Temple (Book of Zechariah)",
+		"desc_te": "జెకర్యా తన ప్రవచన సేవను ప్రారంభించి, దేవాలయ పునర్నిర్మాణాన్ని ప్రోత్సహించాడు (జెకర్యా గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Zerubbabel as Governor of Judah",
+		"name_te": "యూదా గవర్నర్‌గా జెరుబ్బాబెల్",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Zerubbabel serves as governor of Judah, leading the return and rebuilding efforts (Ezra 2:2; Haggai 1:1)",
+		"desc_te": "జెరుబ్బాబెల్ యూదా గవర్నర్‌గా సేవ చేసి, తిరిగి రాక, పునర్నిర్మాణానికి నాయకత్వం వహించాడు (ఎజ్రా 2:2; హగ్గయి 1:1)"
+	},
+	{
+		"year": "-515",
+		"name_en": "Dedication of the Second Temple in Jerusalem",
+		"name_te": "యెరూషలేములో రెండవ దేవాలయ ప్రతిష్ఠ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Second Temple is dedicated in Jerusalem, restoring worship and sacrifices (Ezra 6:16-18)",
+		"desc_te": "యెరూషలేములో రెండవ దేవాలయాన్ని ప్రతిష్ఠించి, ఆరాధన, బలిపూజలను పునరుద్ధరించారు (ఎజ్రా 6:16-18)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Joshua son of Jehozadak (High Priest)",
+		"name_te": "యెహోజాదాక్ కుమారుడు యెహోషువ (ప్రధాన యాజకుడు)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Joshua son of Jehozadak serves as high priest during the return and rebuilding of the Temple (Haggai 1:1; Zechariah 3:1)",
+		"desc_te": "యెహోజాదాక్ కుమారుడు యెహోషువ తిరిగి రాక, దేవాలయ పునర్నిర్మాణ సమయంలో ప్రధాన యాజకుడిగా ఉన్నాడు (హగ్గయి 1:1; జెకర్యా 3:1)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Malachi (main period)",
+		"name_te": "మలాకీ ప్రవచన సేవ (ప్రధాన కాలం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Malachi prophesies in Judah after the return from exile, calling for covenant faithfulness (Book of Malachi)",
+		"desc_te": "మలాకీ నిర్వాసన అనంతరం యూదాలో ప్రవచించి, ఒడంబడిక విశ్వాసానికి పిలుపునిచ్చాడు (మలాకీ గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Persia and Egypt (begins)",
+		"name_te": "పర్షియా-ఈజిప్టు యుద్ధాలు (ప్రారంభం)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Persia begins campaigns against Egypt, expanding its empire and affecting the Jewish community (Ezra 4:6)",
+		"desc_te": "పర్షియా ఈజిప్టుపై యుద్ధాలు ప్రారంభించి, సామ్రాజ్యాన్ని విస్తరించి, యూదా సముదాయాన్ని ప్రభావితం చేసింది (ఎజ్రా 4:6)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Jerusalem as Restored Spiritual Capital",
+		"name_te": "పునరుద్ధరించబడిన ఆధ్యాత్మిక రాజధానిగా యెరూషలేము",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jerusalem is reestablished as the spiritual and religious center for the Jewish people after the exile (Ezra 6:19-22)",
+		"desc_te": "నిర్వాసానంతరం యెరూషలేము యూదా ప్రజలకు మళ్లీ ఆధ్యాత్మిక, మత రాజధానిగా స్థాపించబడింది (ఎజ్రా 6:19-22)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Notable Person: Nehemiah (birth, future governor)",
+		"name_te": "నెహెమ్యా (పుట్టుక, భవిష్యత్ గవర్నర్)",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Nehemiah, future governor and rebuilder of Jerusalem's walls, is likely born near the end of this period (Nehemiah 1:1)",
+		"desc_te": "నెహెమ్యా, భవిష్యత్‌లో యెరూషలేము గోడలను పునర్నిర్మించిన గవర్నర్, ఈ కాలం చివరలో జన్మించాడు (నెహెమ్యా 1:1)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Second Isaiah (Deutero-Isaiah)",
+		"name_te": "రెండవ యెషయా ప్రవచన సేవ (ద్వితీయ యెషయా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Second Isaiah (Deutero-Isaiah) prophesies comfort and restoration for the exiles (Isaiah 40-55)",
+		"desc_te": "రెండవ యెషయా (ద్వితీయ యెషయా) నిర్వాసితులకు సాంత్వన, పునరుద్ధరణను ప్రవచించాడు (యెషయా 40-55)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Persia and Babylon (final defeat)",
+		"name_te": "పర్షియా-బాబిలోన్ యుద్ధాలు (చివరి ఓటమి)",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Persia defeats Babylon, ending Babylonian rule and solidifying Persian control (Daniel 5; Ezra 1:1)",
+		"desc_te": "పర్షియా బాబిలోన్‌ను ఓడించి, బాబిలోన్ పాలనను ముగించి, పర్షియన్ ఆధిపత్యాన్ని స్థిరపరిచింది (దానియేలు 5; ఎజ్రా 1:1)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Reestablishment of the Jewish Community in Jerusalem",
+		"name_te": "యెరూషలేములో యూదా సముదాయం పునఃస్థాపన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Jewish community is reestablished in Jerusalem, resuming religious and social life (Ezra 3:1; Nehemiah 7:73)",
+		"desc_te": "యెరూషలేములో యూదా సముదాయం పునఃస్థాపించబడింది, మత, సామాజిక జీవితం తిరిగి ప్రారంభమైంది (ఎజ్రా 3:1; నెహెమ్యా 7:73)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Persian Satrapy System",
+		"name_te": "పర్షియన్ సత్రాపీ వ్యవస్థ ఉద్భవం",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Persia establishes the satrapy system, organizing its vast empire into provinces (Esther 1:1)",
+		"desc_te": "పర్షియా సత్రాపీ వ్యవస్థను స్థాపించి, తన విస్తృత సామ్రాజ్యాన్ని ప్రావిన్సులుగా విభజించింది (ఎస్తేరు 1:1)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Notable Person: Esther (birth, future queen)",
+		"name_te": "ఎస్తేరు (పుట్టుక, భవిష్యత్ రాణి)",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Esther, future queen of Persia and heroine of the Jewish people, is likely born near the end of this period (Esther 2:7)",
+		"desc_te": "ఎస్తేరు, భవిష్యత్‌లో పర్షియా రాణి, యూదా ప్రజల రక్షకురాలు, ఈ కాలం చివరలో జన్మించింది (ఎస్తేరు 2:7)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Third Isaiah (Trito-Isaiah)",
+		"name_te": "మూడవ యెషయా ప్రవచన సేవ (త్రితీయ యెషయా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Third Isaiah (Trito-Isaiah) prophesies in Jerusalem after the return from exile (Isaiah 56-66)",
+		"desc_te": "మూడవ యెషయా (త్రితీయ యెషయా) నిర్వాసన అనంతరం యెరూషలేములో ప్రవచించాడు (యెషయా 56-66)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Persia and Greece (begins)",
+		"name_te": "పర్షియా-గ్రీకు యుద్ధాలు (ప్రారంభం)",
+		"location": {
+			"lat": 39,
+			"lng": 22
+		},
+		"desc_en": "Persia begins to encounter Greek city-states, leading to early conflicts (Daniel 8:20-21)",
+		"desc_te": "పర్షియా గ్రీకు నగర-రాజ్యాలను ఎదుర్కొని, ప్రారంభ ఘర్షణలకు దారితీసింది (దానియేలు 8:20-21)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: Susa as Persian Administrative Capital",
+		"name_te": "పర్షియా పరిపాలనా రాజధానిగా శూషా",
+		"location": {
+			"lat": 32.189,
+			"lng": 48.257
+		},
+		"desc_en": "Susa becomes the administrative capital of Persia, playing a role in the story of Esther (Esther 1:2)",
+		"desc_te": "శూషా పర్షియా పరిపాలనా రాజధానిగా మారి, ఎస్తేరు కథలో కీలక పాత్ర పోషించింది (ఎస్తేరు 1:2)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Aramaic Language in the Persian Empire",
+		"name_te": "పర్షియన్ సామ్రాజ్యంలో ఆరామిక్ భాష ఉద్భవం",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Aramaic becomes the lingua franca of the Persian Empire, influencing Jewish writings (Ezra 4:7; Daniel 2:4) ",
+		"desc_te": "పర్షియన్ సామ్రాజ్యంలో ఆరామిక్ భాష సాధారణ భాషగా మారి, యూదా రచనలపై ప్రభావం చూపింది (ఎజ్రా 4:7; దానియేలు 2:4)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Notable Person: Mordecai (birth, future leader)",
+		"name_te": "మోర్దెకయి (పుట్టుక, భవిష్యత్ నాయకుడు)",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Mordecai, future leader and cousin of Esther, is likely born near the end of this period (Esther 2:5-7)",
+		"desc_te": "మోర్దెకయి, భవిష్యత్‌లో నాయకుడు, ఎస్తేరు బంధువు, ఈ కాలం చివరలో జన్మించాడు (ఎస్తేరు 2:5-7)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Prophetic Ministry of Haggai and Zechariah (main period)",
+		"name_te": "హగ్గయి, జెకర్యా ప్రవచన సేవ (ప్రధాన కాలం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Haggai and Zechariah prophesy in Jerusalem, encouraging the rebuilding of the Temple (Haggai 1-2; Zechariah 1-8)",
+		"desc_te": "హగ్గయి, జెకర్యా యెరూషలేములో ప్రవచించి, దేవాలయ పునర్నిర్మాణాన్ని ప్రోత్సహించారు (హగ్గయి 1-2; జెకర్యా 1-8)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Wars between Persia and Scythians",
+		"name_te": "పర్షియా-స్కైథియన్ యుద్ధాలు",
+		"location": {
+			"lat": 48,
+			"lng": 37
+		},
+		"desc_en": "Persia engages in conflicts with the Scythians to the north, impacting the empire's borders (Herodotus; Esther context)",
+		"desc_te": "పర్షియా ఉత్తరంలో స్కైథియన్లతో యుద్ధాలు చేసి, సామ్రాజ్య సరిహద్దులను ప్రభావితం చేసింది (హెరోడోటస్; ఎస్తేరు సందర్భం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Religious Center: The Great Assembly (Knesset Hagedolah)",
+		"name_te": "మహా సభ (క్నెసెట్ హగెడోలాహ్) ఆధ్యాత్మిక కేంద్రం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Great Assembly, a council of Jewish leaders and sages, is established to guide the community (Nehemiah 8:1; Mishnah)",
+		"desc_te": "మహా సభ (క్నెసెట్ హగెడోలాహ్) అనే యూదా పెద్దలు, మేధావుల మండలి సమాజాన్ని మార్గనిర్దేశం చేయడానికి స్థాపించబడింది (నెహెమ్యా 8:1; మిష్నా)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Rise of the Persian Postal System",
+		"name_te": "పర్షియన్ తపాలా వ్యవస్థ ఉద్భవం",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Persia develops an advanced postal system, facilitating communication across the empire (Esther 8:10)",
+		"desc_te": "పర్షియా అభివృద్ధి చేసిన తపాలా వ్యవస్థ సామ్రాజ్యమంతటా సమాచారాన్ని సులభతరం చేసింది (ఎస్తేరు 8:10)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Notable Person: Sanballat the Horonite (opponent of Nehemiah)",
+		"name_te": "సన్బల్లాట్ హోరోనైట్ (నెహెమ్యాకు వ్యతిరేకుడు)",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.3
+		},
+		"desc_en": "Sanballat, governor of Samaria, opposes Nehemiah's rebuilding of Jerusalem's walls (Nehemiah 2:10, 4:1)",
+		"desc_te": "సన్బల్లాట్, సమారియా గవర్నర్, నెహెమ్యా యెరూషలేము గోడల పునర్నిర్మాణానికి వ్యతిరేకించాడు (నెహెమ్యా 2:10, 4:1)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Prophetic Ministry of Zechariah (later period)",
+		"name_te": "జెకర్యా ప్రవచన సేవ (చివరి కాలం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Zechariah continues his prophetic ministry, offering visions of restoration and the coming Messiah (Zechariah 9-14)",
+		"desc_te": "జెకర్యా తన ప్రవచన సేవను కొనసాగించి, పునరుద్ధరణ, రాబోయే మెస్సీయా దర్శనాలను అందించాడు (జెకర్యా 9-14)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Wars between Persia and Egypt (continued)",
+		"name_te": "పర్షియా-ఈజిప్టు యుద్ధాలు (కొనసాగింపు)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Persia continues its campaigns against Egypt, seeking to expand its empire (Esther 1:1; Herodotus)",
+		"desc_te": "పర్షియా ఈజిప్టుపై యుద్ధాలు కొనసాగించి, సామ్రాజ్యాన్ని విస్తరించడానికి ప్రయత్నించింది (ఎస్తేరు 1:1; హెరోడోటస్)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Religious Center: Samaria as Rival to Jerusalem",
+		"name_te": "యెరూషలేముకు ప్రత్యర్థిగా సమారియా ఆధ్యాత్మిక కేంద్రం",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.3
+		},
+		"desc_en": "Samaria emerges as a rival religious center to Jerusalem, leading to tensions between Jews and Samaritans (Ezra 4:1-5; Nehemiah 4:1-2)",
+		"desc_te": "సమారియా యెరూషలేముకు ప్రత్యర్థి ఆధ్యాత్మిక కేంద్రంగా ఎదిగి, యూదులు, సమారీయుల మధ్య ఉద్రిక్తతలకు దారితీసింది (ఎజ్రా 4:1-5; నెహెమ్యా 4:1-2)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Rise of the Jewish Diaspora in Persia and Egypt",
+		"name_te": "పర్షియా, ఈజిప్టులో యూదా ప్రవాసం ఉద్భవం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish communities flourish in Persia and Egypt, maintaining faith and identity (Esther 3:8; Elephantine Papyri)",
+		"desc_te": "పర్షియా, ఈజిప్టులో యూదా సముదాయాలు అభివృద్ధి చెంది, విశ్వాసాన్ని, గుర్తింపును కొనసాగించాయి (ఎస్తేరు 3:8; ఎలిఫాంటైన్ పాపిరి)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Sheshbazzar (Prince of Judah)",
+		"name_te": "యూదా యువరాజు శేష్బజ్జర్",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Sheshbazzar, a prince of Judah, leads the first return of exiles and brings back temple vessels (Ezra 1:8, 5:14-16)",
+		"desc_te": "యూదా యువరాజు శేష్బజ్జర్ నిర్వాసితుల మొదటి తిరిగి రాకకు నాయకత్వం వహించి, ఆలయ పాత్రలను తిరిగి తీసుకొచ్చాడు (ఎజ్రా 1:8, 5:14-16)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Significant Event: Compilation of the Book of Kings",
+		"name_te": "రాజుల గ్రంథం సంకలనము",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Book of Kings is compiled and edited during or after the exile, preserving Israel and Judah's history (2 Kings 25)",
+		"desc_te": "నిర్వాస సమయంలో లేదా అనంతరం రాజుల గ్రంథం సంకలనం చేయబడి, ఇశ్రాయేలు, యూదా చరిత్రను పరిరక్షించింది (2 రాజులు 25)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Haggai (Prophet)",
+		"name_te": "హగ్గయి ప్రవక్త",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Haggai encourages the rebuilding of the Temple and calls the people to faithfulness (Book of Haggai)",
+		"desc_te": "హగ్గయి దేవాలయ పునర్నిర్మాణాన్ని ప్రోత్సహించి, ప్రజలను విశ్వాసానికి పిలిచాడు (హగ్గయి గ్రంథం)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Significant Event: Establishment of the Persian Royal Road",
+		"name_te": "పర్షియన్ రాజమార్గ స్థాపన",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "The Persian Royal Road is established, improving communication and travel across the empire (Esther 8:10)",
+		"desc_te": "పర్షియన్ రాజమార్గాన్ని స్థాపించి, సామ్రాజ్యమంతటా సమాచారాన్ని, ప్రయాణాన్ని మెరుగుపరిచారు (ఎస్తేరు 8:10)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Notable Person: Jeshua (Jeshua the High Priest)",
+		"name_te": "యెహోషువ (ప్రధాన యాజకుడు)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jeshua the High Priest leads the restoration of worship in Jerusalem after the return (Ezra 3:2; Haggai 1:1)",
+		"desc_te": "యెహోషువ ప్రధాన యాజకుడిగా తిరిగి రాక అనంతరం యెరూషలేములో ఆరాధన పునరుద్ధరణకు నాయకత్వం వహించాడు (ఎజ్రా 3:2; హగ్గయి 1:1)"
+	},
+	{
+		"year": "-600",
+		"name_en": "Reign of King Jehoiakim Ends",
+		"name_te": "రాజు యెహోయాకీం పాలన ముగింపు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Jehoiakim of Judah's reign ends as Babylonian pressure increases (2 Kings 24:6)",
+		"desc_te": "యూదా రాజు యెహోయాకీం పాలన బాబిలోన్ ఒత్తిడి వల్ల ముగిసింది (2 రాజులు 24:6)"
+	},
+	{
+		"year": "-597",
+		"name_en": "Reign of King Zedekiah in Judah",
+		"name_te": "యూదాలో రాజు జెదెకియా పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Zedekiah becomes the last king of Judah, installed by Nebuchadnezzar (2 Kings 24:17)",
+		"desc_te": "నెబూకద్నెజర్ నియమించిన జెదెకియా యూదాలో చివరి రాజుగా పాలించాడు (2 రాజులు 24:17)"
+	},
+	{
+		"year": "-593",
+		"name_en": "Ezekiel's Early Prophecies in Babylon",
+		"name_te": "బాబిలోన్‌లో యెహెజ్కేలు ప్రారంభ ప్రవచనలు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Ezekiel begins his prophetic ministry among the exiles in Babylon (Ezekiel 1-24)",
+		"desc_te": "యెహెజ్కేలు బాబిలోన్ నిర్వాసితుల మధ్య తన ప్రవచన సేవను ప్రారంభించాడు (యెహెజ్కేలు 1-24)"
+	},
+	{
+		"year": "-590",
+		"name_en": "Siege of Jerusalem by Babylon",
+		"name_te": "బాబిలోన్ యెరూషలేమును ముట్టడి చేయడం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylonian armies lay siege to Jerusalem, leading to famine and hardship (2 Kings 25:1-2)",
+		"desc_te": "బాబిలోన్ సైన్యం యెరూషలేమును ముట్టడి చేసి, క్షామం, కష్టాలను కలిగించింది (2 రాజులు 25:1-2)"
+	},
+	{
+		"year": "-586",
+		"name_en": "Destruction of Jerusalem and Solomon's Temple",
+		"name_te": "యెరూషలేము, సొలొమోను ఆలయ విధ్వంసం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylonians destroy Jerusalem and Solomon's Temple, marking the end of the kingdom of Judah (2 Kings 25:8-10)",
+		"desc_te": "బాబిలోనీయులు యెరూషలేమును, సొలొమోను ఆలయాన్ని ధ్వంసం చేసి, యూదా రాజ్యానికి ముగింపు చేకూర్చారు (2 రాజులు 25:8-10)"
+	},
+	{
+		"year": "-580",
+		"name_en": "Jeremiah's Ministry Continues in Egypt",
+		"name_te": "ఈజిప్టులో యిర్మియా సేవ కొనసాగింపు",
+		"location": {
+			"lat": 30.8,
+			"lng": 31
+		},
+		"desc_en": "Jeremiah continues his prophetic ministry among the Jewish refugees in Egypt (Jeremiah 43-44)",
+		"desc_te": "యిర్మియా ఈజిప్టులో యూదా శరణార్థుల మధ్య తన ప్రవచన సేవను కొనసాగించాడు (యిర్మియా 43-44)"
+	},
+	{
+		"year": "-580",
+		"name_en": "Rise of Babylonian Governors in Judah",
+		"name_te": "యూదాలో బాబిలోన్ పాలకుల ఉద్భవం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Babylon appoints governors over the remnant in Judah, including Gedaliah (2 Kings 25:22)",
+		"desc_te": "బాబిలోన్ యూదాలో మిగిలిన వారిపై పాలకులను నియమించింది, అందులో గెదల్యా ముఖ్యుడు (2 రాజులు 25:22)"
+	},
+	{
+		"year": "-570",
+		"name_en": "Ezekiel's Vision of the Restored Temple",
+		"name_te": "యెహెజ్కేలు పునర్నిర్మిత ఆలయ దర్శనం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Ezekiel receives a vision of a future restored temple in Jerusalem (Ezekiel 40-48)",
+		"desc_te": "యెహెజ్కేలు భవిష్యత్తులో పునర్నిర్మించబడే యెరూషలేము ఆలయాన్ని దర్శించాడు (యెహెజ్కేలు 40-48)"
+	},
+	{
+		"year": "-570",
+		"name_en": "Reign of Amel-Marduk in Babylon",
+		"name_te": "బాబిలోన్‌లో అమెల్-మర్డుక్ పాలన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Amel-Marduk (Evil-Merodach), son of Nebuchadnezzar, reigns in Babylon and releases Jehoiachin from prison (2 Kings 25:27-30)",
+		"desc_te": "నెబూకద్నెజర్ కుమారుడు అమెల్-మర్డుక్ (ఈవిల్-మెరోడాక్) బాబిలోన్‌లో పాలించి, యెహోయాకీను జైలు నుండి విడుదల చేశాడు (2 రాజులు 25:27-30)"
+	},
+	{
+		"year": "-565",
+		"name_en": "Reign of Neriglissar in Babylon",
+		"name_te": "బాబిలోన్‌లో నెరిగ్లిస్సర్ పాలన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Neriglissar becomes king of Babylon after Amel-Marduk, continuing Babylonian rule (Babylonian Chronicles)",
+		"desc_te": "అమెల్-మర్డుక్ తరువాత నెరిగ్లిస్సర్ బాబిలోన్ రాజుగా అవతరించి, బాబిలోన్ పాలనను కొనసాగించాడు (బాబిలోన్ క్రోనికల్స్)"
+	},
+	{
+		"year": "-560",
+		"name_en": "Reign of Labashi-Marduk in Babylon",
+		"name_te": "బాబిలోన్‌లో లబాషి-మర్డుక్ పాలన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Labashi-Marduk briefly reigns as king of Babylon after Neriglissar (Babylonian Chronicles)",
+		"desc_te": "నెరిగ్లిస్సర్ తరువాత లబాషి-మర్డుక్ బాబిలోన్ రాజుగా కొద్ది కాలం పాలించాడు (బాబిలోన్ క్రోనికల్స్)"
+	},
+	{
+		"year": "-556",
+		"name_en": "Reign of Nabonidus in Babylon",
+		"name_te": "బాబిలోన్‌లో నాబోనిడస్ పాలన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Nabonidus becomes king of Babylon, the last ruler before the Persian conquest (Babylonian Chronicles; Daniel 5)",
+		"desc_te": "నాబోనిడస్ బాబిలోన్ చివరి రాజుగా అవతరించి, పర్షియన్ ఆక్రమణకు ముందు పాలించాడు (బాబిలోన్ క్రోనికల్స్; దానియేలు 5)"
+	},
+	{
+		"year": "-550",
+		"name_en": "Rise of Cyrus the Great in Persia",
+		"name_te": "పర్షియాలో కైరస్ మహా ఉద్భవం",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Cyrus the Great rises to power in Persia, eventually conquering Babylon and allowing Jewish return (Ezra 1:1-4)",
+		"desc_te": "కైరస్ మహా పర్షియాలో అధికారంలోకి వచ్చి, బాబిలోన్‌ను జయించి, యూదులకు తిరిగి రావడానికి అనుమతించాడు (ఎజ్రా 1:1-4)"
+	},
+	{
+		"year": "-550",
+		"name_en": "Expansion of the Persian Empire",
+		"name_te": "పర్షియన్ సామ్రాజ్య విస్తరణ",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Persia expands its empire, conquering Media and other regions, setting the stage for Babylon's fall (Daniel 8:20)",
+		"desc_te": "పర్షియా తన సామ్రాజ్యాన్ని విస్తరించి, మీడియా తదితర ప్రాంతాలను జయించి, బాబిలోన్ పతనానికి దారితీసింది (దానియేలు 8:20)"
+	},
+	{
+		"year": "-550",
+		"name_en": "Jewish Community in Exile Continues",
+		"name_te": "నిర్వాసంలో యూదా సముదాయం కొనసాగింపు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "The Jewish community continues to live in exile in Babylon, maintaining faith and traditions (Book of Daniel)",
+		"desc_te": "యూదా సముదాయం బాబిలోన్ నిర్వాసంలో జీవిస్తూ, విశ్వాసాన్ని, సంప్రదాయాలను కొనసాగించింది (దానియేలు గ్రంథం)"
+	},
+	{
+		"year": "-560",
+		"name_en": "Accession of Belshazzar as Co-Regent in Babylon",
+		"name_te": "బాబిలోన్‌లో బెల్షజ్జర్ సహ-రాజుగా నియామకం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Belshazzar, son of Nabonidus, serves as co-regent in Babylon during his father's reign (Daniel 5:1)",
+		"desc_te": "నాబోనిడస్ కుమారుడు బెల్షజ్జర్ తన తండ్రి పాలనలో బాబిలోన్‌లో సహ-రాజుగా ఉన్నాడు (దానియేలు 5:1)"
+	},
+	{
+		"year": "-556",
+		"name_en": "Rise of Persian Influence in Babylon",
+		"name_te": "బాబిలోన్‌లో పర్షియన్ ప్రభావం పెరుగుదల",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Persian influence grows in Babylon as Cyrus consolidates power in the region (Daniel 8:20)",
+		"desc_te": "కైరస్ ప్రాంతంలో అధికారాన్ని బలోపేతం చేసుకుంటూ, బాబిలోన్‌లో పర్షియన్ ప్రభావం పెరిగింది (దానియేలు 8:20)"
+	},
+	{
+		"year": "-550",
+		"name_en": "Persian Conquest of Lydia",
+		"name_te": "పర్షియా లిడియా జయము",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Cyrus the Great conquers Lydia, expanding the Persian Empire westward (Herodotus; Daniel 8:20)",
+		"desc_te": "కైరస్ మహా లిడియాను జయించి, పర్షియన్ సామ్రాజ్యాన్ని పడమట దిశగా విస్తరించాడు (హెరోడోటస్; దానియేలు 8:20)"
+	},
+	{
+		"year": "-550",
+		"name_en": "Jewish Faithfulness in Exile",
+		"name_te": "నిర్వాసంలో యూదుల విశ్వాసం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish people in Babylon remain faithful to their traditions and God despite foreign rule (Book of Daniel)",
+		"desc_te": "బాబిలోన్‌లో యూదులు విదేశీ పాలనలో ఉన్నప్పటికీ తమ సంప్రదాయాలు, దేవునికి విశ్వాసాన్ని కొనసాగించారు (దానియేలు గ్రంథం)"
+	},
+	{
+		"year": "-550",
+		"name_en": "Notable Person: Daniel's Continued Service in Babylon",
+		"name_te": "బాబిలోన్‌లో దానియేలు సేవ కొనసాగింపు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Daniel continues to serve in the Babylonian court, interpreting dreams and visions (Daniel 5-6)",
+		"desc_te": "దానియేలు బాబిలోన్ రాజదర్వారంలో సేవ కొనసాగిస్తూ, కలలు, దర్శనాలను వివరించాడు (దానియేలు 5-6)"
+	},
+	{
+		"year": "-539",
+		"name_en": "Cyrus the Great Conquers Babylon",
+		"name_te": "కైరస్ మహా బాబిలోన్‌ను జయించాడు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Cyrus of Persia conquers Babylon, ending the Neo-Babylonian Empire and allowing Jews to return (Ezra 1:1-4; Daniel 5)",
+		"desc_te": "పర్షియా రాజు కైరస్ బాబిలోన్‌ను జయించి, నూతన బాబిలోన్ సామ్రాజ్యాన్ని ముగించి, యూదులకు తిరిగి రావడానికి అనుమతించాడు (ఎజ్రా 1:1-4; దానియేలు 5)"
+	},
+	{
+		"year": "-538",
+		"name_en": "First Return of Jewish Exiles to Jerusalem",
+		"name_te": "యెరూషలేముకు యూదా నిర్వాసితుల మొదటి తిరిగి రాక",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The first group of Jewish exiles returns to Jerusalem under Sheshbazzar and Zerubbabel (Ezra 1-2)",
+		"desc_te": "శేష్బజ్జర్, జెరుబ్బాబెల్ నాయకత్వంలో యూదా నిర్వాసితులు యెరూషలేముకు తిరిగి వచ్చారు (ఎజ్రా 1-2)"
+	},
+	{
+		"year": "-537",
+		"name_en": "Rebuilding of the Altar in Jerusalem",
+		"name_te": "యెరూషలేములో బలి పీఠం పునర్నిర్మాణం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jewish returnees rebuild the altar in Jerusalem and resume sacrifices (Ezra 3:1-6)",
+		"desc_te": "యెరూషలేములో యూదా తిరిగి వచ్చిన వారు బలి పీఠాన్ని పునర్నిర్మించి, బలిపూజలను పునఃప్రారంభించారు (ఎజ్రా 3:1-6)"
+	},
+	{
+		"year": "-536",
+		"name_en": "Laying the Foundation of the Second Temple",
+		"name_te": "రెండవ దేవాలయ పునాది వేయడం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Foundation of the Second Temple is laid in Jerusalem, marking a new era (Ezra 3:8-13)",
+		"desc_te": "యెరూషలేములో రెండవ దేవాలయానికి పునాది వేసి, కొత్త యుగాన్ని ప్రారంభించారు (ఎజ్రా 3:8-13)"
+	},
+	{
+		"year": "-530",
+		"name_en": "Reign of Cambyses II in Persia",
+		"name_te": "పర్షియాలో కాంబైసెస్ II పాలన",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Cambyses II, son of Cyrus, rules Persia and continues imperial expansion (Ezra 4:6; Herodotus)",
+		"desc_te": "కైరస్ కుమారుడు కాంబైసెస్ II పర్షియాలో పాలించి, సామ్రాజ్య విస్తరణను కొనసాగించాడు (ఎజ్రా 4:6; హెరోడోటస్)"
+	},
+	{
+		"year": "-539",
+		"name_en": "Cyrus the Great's Edict for Jewish Return",
+		"name_te": "యూదుల తిరిగి రాకకు కైరస్ మహా ఆజ్ఞ",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Cyrus issues an edict allowing Jews to return to Jerusalem and rebuild the Temple (Ezra 1:1-4)",
+		"desc_te": "కైరస్ మహా యూదులు యెరూషలేముకు తిరిగి వెళ్లి దేవాలయాన్ని పునర్నిర్మించేందుకు ఆజ్ఞ జారీ చేశాడు (ఎజ్రా 1:1-4)"
+	},
+	{
+		"year": "-538",
+		"name_en": "Leadership of Zerubbabel and Jeshua in Jerusalem",
+		"name_te": "యెరూషలేములో జెరుబ్బాబెల్, యెహోషువ నాయకత్వం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Zerubbabel and Jeshua lead the returned exiles in rebuilding the altar and laying the foundation of the Second Temple (Ezra 3:2-8)",
+		"desc_te": "జెరుబ్బాబెల్, యెహోషువ తిరిగి వచ్చిన నిర్వాసితులను బలి పీఠం, రెండవ దేవాలయ పునాది నిర్మాణంలో నాయకత్వం వహించారు (ఎజ్రా 3:2-8)"
+	},
+	{
+		"year": "-530",
+		"name_en": "Reign of Cambyses II and Bardiya in Persia",
+		"name_te": "పర్షియాలో కాంబైసెస్ II, బర్దియా పాలన",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Cambyses II and Bardiya (Smerdis) rule Persia after Cyrus, impacting the Jewish community (Ezra 4:6)",
+		"desc_te": "కాంబైసెస్ II, బర్దియా (స్మెర్డిస్) కైరస్ తరువాత పర్షియాలో పాలించి, యూదా సముదాయాన్ని ప్రభావితం చేశారు (ఎజ్రా 4:6)"
+	},
+	{
+		"year": "-522",
+		"name_en": "Darius I Becomes King of Persia",
+		"name_te": "పర్షియా రాజుగా దరయావుష్ I",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Darius I ascends the Persian throne, stabilizing the empire and supporting the Jewish restoration (Ezra 4:24; 5:1)",
+		"desc_te": "దరయావుష్ I పర్షియా రాజుగా అవతరించి, సామ్రాజ్యాన్ని స్థిరపరిచి, యూదా పునరుద్ధరణకు మద్దతు ఇచ్చాడు (ఎజ్రా 4:24; 5:1)"
+	},
+	{
+		"year": "-520",
+		"name_en": "Prophetic Ministry of Haggai and Zechariah Begins",
+		"name_te": "హగ్గయి, జెకర్యా ప్రవచన సేవ ప్రారంభం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Haggai and Zechariah begin their prophetic ministries, encouraging the rebuilding of the Temple (Haggai 1:1; Zechariah 1:1)",
+		"desc_te": "హగ్గయి, జెకర్యా తమ ప్రవచన సేవలను ప్రారంభించి, దేవాలయ పునర్నిర్మాణాన్ని ప్రోత్సహించారు (హగ్గయి 1:1; జెకర్యా 1:1)"
+	},
+	{
+		"year": "-520",
+		"name_en": "Notable Person: Joshua son of Jehozadak (High Priest)",
+		"name_te": "యెహోజాదాక్ కుమారుడు యెహోషువ (ప్రధాన యాజకుడు)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Joshua son of Jehozadak serves as high priest during the return and rebuilding of the Temple (Haggai 1:1; Zechariah 3:1)",
+		"desc_te": "యెహోజాదాక్ కుమారుడు యెహోషువ తిరిగి రాక, దేవాలయ పునర్నిర్మాణ సమయంలో ప్రధాన యాజకుడిగా ఉన్నాడు (హగ్గయి 1:1; జెకర్యా 3:1)"
+	},
+	{
+		"year": "-520",
+		"name_en": "Prophetic Ministry of Malachi (main period)",
+		"name_te": "మలాకీ ప్రవచన సేవ (ప్రధాన కాలం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Malachi prophesies in Judah after the return from exile, calling for covenant faithfulness (Book of Malachi)",
+		"desc_te": "మలాకీ నిర్వాసన అనంతరం యూదాలో ప్రవచించి, ఒడంబడిక విశ్వాసానికి పిలుపునిచ్చాడు (మలాకీ గ్రంథం)"
+	}
+]

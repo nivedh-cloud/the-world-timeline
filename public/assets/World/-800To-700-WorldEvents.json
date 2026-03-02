@@ -1,0 +1,123 @@
+[
+	{
+		"year": "-800",
+		"name_en": "Classical Greek Period (Greece)",
+		"name_te": "సాంప్రదాయిక గ్రీక్ కాలం (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Classical Greek period begins with democratic ideals",
+		"desc_te": "సాంప్రదాయిక గ్రీక్ కాలం ప్రజాస్వామ్య ఆదర్శాలతో ప్రారంభ"
+	},
+	{
+		"year": "-800",
+		"name_en": "Hindu Brahmanis Era (India)",
+		"name_te": "హిందూ బ్రాహ్మణ యుగం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Hindu Brahmanis literature reaches its final form",
+		"desc_te": "హిందూ బ్రాహ్మణ సాహిత్యం తుది రూపానికి చేరుకుంటుంది"
+	},
+	{
+		"year": "-800",
+		"name_en": "Assyrian Empire at Peak (Iraq)",
+		"name_te": "అస్సిరియన్ సామ్రాజ్యం శిఖరం (ఇరాక్)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Assyrian empire reaches peak under successive rulers",
+		"desc_te": "అస్సిరియన్ సామ్రాజ్యం వరుస పాలకుల కింద శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-800",
+		"name_en": "Iron Age Europe (Europe)",
+		"name_te": "ఐరోపా ఇనుము యుగం (యూరప్)",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Iron Age fully established across Europe",
+		"desc_te": "ఐరోపా అంతటా ఇనుము యుగం పూర్తిగా ఏర్పాటు"
+	},
+	{
+		"year": "-780",
+		"name_en": "Buddha Enlightenment (India)",
+		"name_te": "బుద్ధ జ్ఞాన సిద్ధి (భారతదేశం)",
+		"location": {
+			"lat": 27.49,
+			"lng": 84.73
+		},
+		"desc_en": "Buddha achieves enlightenment, Buddhism begins",
+		"desc_te": "బుద్ధ జ్ఞాన సిద్ధిని సాధించారు, బౌద్ధ ధర్మం ప్రారంభ"
+	},
+	{
+		"year": "-760",
+		"name_en": "Greek Colonization Begins (Mediterranean)",
+		"name_te": "గ్రీక్ కాలోనీకరణ ప్రారంభ (మధ్యధరా)",
+		"location": {
+			"lat": 38,
+			"lng": 25
+		},
+		"desc_en": "Greek colonization movement begins around Mediterranean",
+		"desc_te": "గ్రీక్ కాలోనీకరణ ఉద్యమ మధ్యధరా చుట్టూ ప్రారంభ"
+	},
+	{
+		"year": "-760",
+		"name_en": "Zhou Dynasty Spring Autumn Period (China)",
+		"name_te": "జోవు రాజవంశ వసంత-శరదృతువు కాలం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty enters Spring-Autumn period of fragmentation",
+		"desc_te": "జోవు రాజవంశం వసంత-శరదృతువు విభజన కాలంలోకి ప్రవేశ"
+	},
+	{
+		"year": "-740",
+		"name_en": "Sargon II Assyria (Iraq)",
+		"name_te": "సర్గాన్ II అస్సిరియా (ఇరాక్)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Sargon II becomes Assyrian king, expands empire",
+		"desc_te": "సర్గాన్ II అస్సిరియన్ రాజు, సామ్రాజ్యం విస్తరిస్తారు"
+	},
+	{
+		"year": "-720",
+		"name_en": "Vedic Age Ends (India)",
+		"name_te": "వేదిక యుగం ముగుస్తుంది (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic Age ends, classical Hinduism fully formed",
+		"desc_te": "వేదిక యుగం ముగుస్తుంది, సాంప్రదాయిక హిందూ ధర్మం పూర్తిగా రూపితం"
+	},
+	{
+		"year": "-720",
+		"name_en": "Roman Republic Emerges (Italy)",
+		"name_te": "రోమన్ రిపబ్లిక్ ఉద్భవం (ఇటలీ)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.49
+		},
+		"desc_en": "Roman Republic begins after monarchy ends",
+		"desc_te": "రాచరికం ముగిసిన తర్వాత రోమన్ రిపబ్లిక్ ప్రారంభ"
+	},
+	{
+		"year": "-720",
+		"name_en": "Carthage Founded (North Africa)",
+		"name_te": "కార్థేజ్ స్థాపన (ఉత్తర ఆఫ్రికా)",
+		"location": {
+			"lat": 36.86,
+			"lng": 10.33
+		},
+		"desc_en": "Carthage founded by Phoenicians in North Africa",
+		"desc_te": "ఫీనిషియన్‌లచే ఉత్తర ఆఫ్రికాలో కార్థేజ్ స్థాపన"
+	}
+]

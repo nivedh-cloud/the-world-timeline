@@ -1,0 +1,750 @@
+[
+	{
+		"year": "0",
+		"name_en": "Roman Empire at its Height",
+		"name_te": "రోమన్ సామ్రాజ్యం శిఖరస్థాయిలో",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Rome controls much of Europe, North Africa, and the Middle East",
+		"desc_te": "రోమ్ యూరోప్, ఉత్తర ఆఫ్రికా, మధ్యప్రాచ్యాన్ని పాలించింది"
+	},
+	{
+		"year": "9",
+		"name_en": "Birth of Emperor Vespasian (Rome)",
+		"name_te": "వెస్పాసియన్ జననం (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Future Roman Emperor Vespasian is born",
+		"desc_te": "భవిష్యత్తు రోమన్ చక్రవర్తి వెస్పాసియన్ జన్మించాడు"
+	},
+	{
+		"year": "43",
+		"name_en": "Roman Invasion of Britain",
+		"name_te": "బ్రిటన్‌పై రోమన్ ఆక్రమణ",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "Romans invade Britain under Emperor Claudius",
+		"desc_te": "క్లాడియస్ చక్రవర్తి నేతృత్వంలో రోమీయులు బ్రిటన్‌ను ఆక్రమించారు"
+	},
+	{
+		"year": "0",
+		"name_en": "Maya Civilization Expands (America)",
+		"name_te": "మాయా నాగరికత విస్తరణ (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya cities and culture expand in Mesoamerica",
+		"desc_te": "మెసోఅమెరికాలో మాయా నగరాలు, సంస్కృతి విస్తరించాయి"
+	},
+	{
+		"year": "0",
+		"name_en": "Nazca Culture Emerges (Peru)",
+		"name_te": "నాజ్కా సంస్కృతి (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "Nazca culture begins to flourish in Peru, famous for geoglyphs",
+		"desc_te": "పెరూ లో నాజ్కా సంస్కృతి ప్రారంభమై, భూమిపై చిత్రలేఖనాలకు ప్రసిద్ధి"
+	},
+	{
+		"year": "0",
+		"name_en": "Hopewell Culture (North America)",
+		"name_te": "హోప్‌వెల్ సంస్కృతి (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 39.96,
+			"lng": -83
+		},
+		"desc_en": "Hopewell tradition flourishes in Ohio River Valley",
+		"desc_te": "ఓహియో నది లోయలో హోప్‌వెల్ సంస్కృతి అభివృద్ధి చెందింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Gupta Dynasty Early Roots (India)",
+		"name_te": "గుప్త రాజవంశం ప్రారంభం (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Early roots of Gupta dynasty in northern India",
+		"desc_te": "ఉత్తర భారతదేశంలో గుప్త రాజవంశం ప్రారంభం"
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Glassmaking Advances (Europe)",
+		"name_te": "రోమన్ గాజు తయారీ పురోగతి (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman glassmaking techniques spread across Europe",
+		"desc_te": "రోమన్ గాజు తయారీ సాంకేతికత యూరోప్ అంతటా వ్యాప్తి చెందింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Greek Science and Medicine (Greece)",
+		"name_te": "గ్రీకు శాస్త్రం మరియు వైద్యం (గ్రీస్)",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Greek physicians and scientists make advances in Alexandria and Athens",
+		"desc_te": "అలెగ్జాండ్రియా, ఏథెన్స్‌లలో గ్రీకు వైద్యులు, శాస్త్రవేత్తలు పురోగతి సాధించారు"
+	},
+	{
+		"year": "0",
+		"name_en": "Han Dynasty Expands Silk Road (China)",
+		"name_te": "హాన్ రాజవంశం సిల్క్ రోడ్ విస్తరణ (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Han Dynasty expands Silk Road trade routes",
+		"desc_te": "హాన్ రాజవంశం సిల్క్ రోడ్ వ్యాపార మార్గాలను విస్తరించింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Roads Connect Empire (Europe)",
+		"name_te": "రోమన్ రహదారులు సామ్రాజ్యాన్ని కలుపుతాయి (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman road network expands, connecting Europe",
+		"desc_te": "రోమన్ రహదారుల వ్యవస్థ యూరోప్‌ను కలుపుతుంది"
+	},
+	{
+		"year": "0",
+		"name_en": "Celtic Tribes in Britain (Europe)",
+		"name_te": "బ్రిటన్‌లో సెల్టిక్ గోత్రాలు (యూరోప్)",
+		"location": {
+			"lat": 54,
+			"lng": -2
+		},
+		"desc_en": "Celtic tribes inhabit and expand in Britain",
+		"desc_te": "బ్రిటన్‌లో సెల్టిక్ గోత్రాలు నివసించి విస్తరించాయి"
+	},
+	{
+		"year": "0",
+		"name_en": "Teotihuacan Urbanization (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ పట్టణీకరణ (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan begins to grow as a major urban center in central Mexico",
+		"desc_te": "మెక్సికోలో టియోటిహుయాకాన్ ప్రధాన పట్టణంగా అభివృద్ధి చెందడం ప్రారంభమైంది"
+	},
+	{
+		"year": "0",
+		"name_en": "Moche Culture Develops (Peru)",
+		"name_te": "మోచే సంస్కృతి అభివృద్ధి (పెరూ)",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "Early Moche culture emerges along the northern coast of Peru",
+		"desc_te": "ఉత్తర పెరూ తీరంలో మోచే సంస్కృతి అభివృద్ధి చెందింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Paracas Necropolis (Peru)",
+		"name_te": "పరకాస్ సమాధి (పెరూ)",
+		"location": {
+			"lat": -13.833,
+			"lng": -76.267
+		},
+		"desc_en": "Paracas people construct elaborate necropolises in southern Peru",
+		"desc_te": "దక్షిణ పెరూ లో పరకాస్ ప్రజలు సమాధులను నిర్మించారు"
+	},
+	{
+		"year": "0",
+		"name_en": "Taino Culture in the Caribbean",
+		"name_te": "కరీబియన్‌లో టైనో సంస్కృతి",
+		"location": {
+			"lat": 18.5,
+			"lng": -68.5
+		},
+		"desc_en": "Taino people thrive in the Caribbean islands, developing complex societies",
+		"desc_te": "కరీబియన్ దీవుల్లో టైనో ప్రజలు సంక్లిష్ట సమాజాలను అభివృద్ధి చేశారు"
+	},
+	{
+		"year": "0",
+		"name_en": "Adena Mound Building (North America)",
+		"name_te": "అడెనా మౌండ్ నిర్మాణం (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 39.3,
+			"lng": -82.9
+		},
+		"desc_en": "Adena culture continues building ceremonial mounds in the Ohio Valley",
+		"desc_te": "ఓహియో లోయలో అడెనా సంస్కృతి మౌండ్లను నిర్మించడం కొనసాగించింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Olmec Influence Persists (Mesoamerica)",
+		"name_te": "ఒల్మెక్ ప్రభావం కొనసాగుతుంది (మేసోఅమెరికా)",
+		"location": {
+			"lat": 18,
+			"lng": -95
+		},
+		"desc_en": "Olmec cultural influence remains strong in Mesoamerica",
+		"desc_te": "మేసోఅమెరికాలో ఒల్మెక్ సంస్కృతి ప్రభావం కొనసాగింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Nazca Lines Begin (Peru)",
+		"name_te": "నాజ్కా రేఖలు ప్రారంభం (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "Nazca people begin creating the famous geoglyphs in southern Peru",
+		"desc_te": "దక్షిణ పెరూ లో నాజ్కా ప్రజలు ప్రసిద్ధ భూమిపై చిత్రలేఖనాలను రూపొందించడం ప్రారంభించారు"
+	},
+	{
+		"year": "0",
+		"name_en": "Kushan Empire Expands (India)",
+		"name_te": "కుషాన్ సామ్రాజ్యం విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 34,
+			"lng": 69
+		},
+		"desc_en": "Kushan Empire expands across northern India and Central Asia",
+		"desc_te": "కుషాన్ సామ్రాజ్యం ఉత్తర భారతదేశం, మధ్య ఆసియాలో విస్తరించింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Satavahana Dynasty (India)",
+		"name_te": "సాతవాహన రాజవంశం (భారతదేశం)",
+		"location": {
+			"lat": 17.4,
+			"lng": 78.5
+		},
+		"desc_en": "Satavahana dynasty rules Deccan region",
+		"desc_te": "సాతవాహనులు డెక్కన్ ప్రాంతాన్ని పాలించారు"
+	},
+	{
+		"year": "0",
+		"name_en": "Sangam Age Flourishes (South India)",
+		"name_te": "సంగం యుగం వికసిస్తుంది (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 10.8,
+			"lng": 78.7
+		},
+		"desc_en": "Sangam literature and Tamil kingdoms thrive in southern India",
+		"desc_te": "దక్షిణ భారతదేశంలో సంగం సాహిత్యం మరియు తమిళ రాజ్యాలు వికసించాయి"
+	},
+	{
+		"year": "0",
+		"name_en": "Early Chera Kingdom (Kerala)",
+		"name_te": "ప్రారంభ చెర రాజ్యం (కేరళ)",
+		"location": {
+			"lat": 10.5,
+			"lng": 76.2
+		},
+		"desc_en": "Chera kingdom active in Kerala, involved in Indian Ocean trade",
+		"desc_te": "కేరళలో చెర రాజ్యం, భారత మహాసముద్ర వాణిజ్యంలో పాల్గొంది"
+	},
+	{
+		"year": "0",
+		"name_en": "Early Chola Kingdom (Tamil Nadu)",
+		"name_te": "ప్రారంభ చోళ రాజ్యం (తమిళనాడు)",
+		"location": {
+			"lat": 10.8,
+			"lng": 79.1
+		},
+		"desc_en": "Chola kingdom emerges in Tamil Nadu, noted for maritime trade",
+		"desc_te": "తమిళనాడులో చోళ రాజ్యం, సముద్ర వాణిజ్యంలో ప్రసిద్ధి"
+	},
+	{
+		"year": "0",
+		"name_en": "Early Pandya Kingdom (Tamil Nadu)",
+		"name_te": "ప్రారంభ పాండ్య రాజ్యం (తమిళనాడు)",
+		"location": {
+			"lat": 9.9,
+			"lng": 78.1
+		},
+		"desc_en": "Pandya kingdom active in southern Tamil Nadu, Sangam literature period",
+		"desc_te": "తమిళనాడు దక్షిణంలో పాండ్య రాజ్యం, సంగం సాహిత్య కాలం"
+	},
+	{
+		"year": "0",
+		"name_en": "Bharhut and Sanchi Stupas (Madhya Pradesh)",
+		"name_te": "భార్హట్, సాంచి స్తూపాలు (మధ్యప్రదేశ్)",
+		"location": {
+			"lat": 23.5,
+			"lng": 78
+		},
+		"desc_en": "Buddhist art and architecture flourish at Bharhut and Sanchi",
+		"desc_te": "భార్హట్, సాంచి వద్ద బౌద్ధ కళ, శిల్పం వికసించాయి"
+	},
+	{
+		"year": "0",
+		"name_en": "Trade with Roman Empire (India)",
+		"name_te": "రోమన్ సామ్రాజ్యంతో వాణిజ్యం (భారతదేశం)",
+		"location": {
+			"lat": 8.5,
+			"lng": 76.9
+		},
+		"desc_en": "Indian ports on the west coast trade with Roman Empire",
+		"desc_te": "భారతదేశం పశ్చిమ తీరంలోని పోర్టులు రోమన్ సామ్రాజ్యంతో వాణిజ్యం చేశాయి"
+	},
+	{
+		"year": "0",
+		"name_en": "Andhra Ikshvaku Dynasty Begins (Andhra Pradesh)",
+		"name_te": "ఆంధ్ర ఇక్ష్వాకు వంశం ప్రారంభం (ఆంధ్రప్రదేశ్)",
+		"location": {
+			"lat": 16.6,
+			"lng": 80.6
+		},
+		"desc_en": "Ikshvaku dynasty emerges in Andhra region after Satavahanas",
+		"desc_te": "సాతవాహనుల తర్వాత ఆంధ్ర ప్రాంతంలో ఇక్ష్వాకు వంశం ప్రారంభమైంది"
+	},
+	{
+		"year": "0",
+		"name_en": "Buddhist Monasteries at Amaravati (Andhra Pradesh)",
+		"name_te": "అమరావతిలో బౌద్ధ విహారాలు (ఆంధ్రప్రదేశ్)",
+		"location": {
+			"lat": 16.57,
+			"lng": 80.35
+		},
+		"desc_en": "Amaravati becomes a center for Buddhist learning and art",
+		"desc_te": "అమరావతి బౌద్ధ విద్య, కళలకు కేంద్రంగా మారింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Han Dynasty (China)",
+		"name_te": "హాన్ రాజవంశం (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Han Dynasty rules China, Silk Road trade flourishes",
+		"desc_te": "హాన్ రాజవంశం చైనాను పాలించింది, సిల్క్ రోడ్ వ్యాపారం అభివృద్ధి చెందింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Germanic Tribes in Europe",
+		"name_te": "యూరోప్‌లో జర్మానిక్ గోత్రాలు",
+		"location": {
+			"lat": 51,
+			"lng": 10
+		},
+		"desc_en": "Germanic tribes expand in central and northern Europe",
+		"desc_te": "జర్మానిక్ గోత్రాలు మధ్య, ఉత్తర యూరోప్‌లో విస్తరించాయి"
+	},
+	{
+		"year": "0",
+		"name_en": "Greco-Roman Culture",
+		"name_te": "గ్రీకు-రోమన్ సంస్కృతి",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Greek and Roman culture dominate the Mediterranean",
+		"desc_te": "గ్రీకు, రోమన్ సంస్కృతి మెడిటరేనియన్ ప్రాంతాన్ని ప్రభావితం చేసింది"
+	},
+	{
+		"year": "0",
+		"name_en": "Aboriginal Songlines Maintained (Australia)",
+		"name_te": "ఆబారిజినల్ సాంగ్‌లైన్స్ కొనసాగింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australians maintain ancient songlines, oral maps connecting land and culture.",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు ప్రాచీన సాంగ్‌లైన్స్‌ను, భూమి మరియు సంస్కృతిని కలిపే నోటివెంట మ్యాపులను కొనసాగించారు."
+	},
+	{
+		"year": "0",
+		"name_en": "Rock Art Created at Ubirr (Australia)",
+		"name_te": "ఉబిర్ర్ వద్ద రాక్ ఆర్ట్ సృష్టి (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.415,
+			"lng": 132.995
+		},
+		"desc_en": "Indigenous people create and maintain rock art galleries in Arnhem Land.",
+		"desc_te": "ఆర్నెమ్ ల్యాండ్‌లో ఆదివాసీలు రాక్ ఆర్ట్ గ్యాలరీలను సృష్టించి, సంరక్షించారు."
+	},
+	{
+		"year": "0",
+		"name_en": "Mungo Man and Mungo Lady Honored (Australia)",
+		"name_te": "ముంగో మాన్, ముంగో లేడీ గౌరవం (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -33.75,
+			"lng": 143.05
+		},
+		"desc_en": "Ancient burials at Lake Mungo are remembered in oral tradition, showing long Aboriginal presence.",
+		"desc_te": "లేక్ ముంగో వద్ద ప్రాచీన సమాధులు నోటివెంట కథల్లో గుర్తించబడ్డాయి, దీర్ఘకాల ఆబారిజినల్ ఉనికిని చూపిస్తాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Fire-stick Farming Practiced (Australia)",
+		"name_te": "ఫైర్-స్టిక్ వ్యవసాయం (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australians use controlled burns to manage land and encourage biodiversity.",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు భూమిని నిర్వహించడానికి, జీవవైవిధ్యాన్ని ప్రోత్సహించడానికి నియంత్రిత మంటలను ఉపయోగించారు."
+	},
+	{
+		"year": "0",
+		"name_en": "Trade Networks Across Australia",
+		"name_te": "ఆస్ట్రేలియా అంతటా వాణిజ్య నెట్‌వర్క్‌లు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Long-distance trade of ochre, tools, and shells connects Aboriginal groups across the continent.",
+		"desc_te": "ఒకర్, పరికరాలు, షెల్‌ల దీర్ఘదూర వాణిజ్యం ఆస్ట్రేలియా అంతటా ఆబారిజినల్ గుంపులను కలిపింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Pantheon Construction Begins (Rome)",
+		"name_te": "పాంథియాన్ నిర్మాణం ప్రారంభం (రోమ్)",
+		"location": {
+			"lat": 41.8986,
+			"lng": 12.4768
+		},
+		"desc_en": "Construction of the original Pantheon, a major Roman temple, begins under Augustus.",
+		"desc_te": "ఆగస్టస్ పాలనలో ప్రాథమిక పాంథియాన్ ఆలయం నిర్మాణం ప్రారంభమైంది."
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Aqueducts Expanded",
+		"name_te": "రోమన్ జలవాహినులు విస్తరించాయి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Major aqueducts like Aqua Virgo and Aqua Claudia are constructed, improving Rome's water supply.",
+		"desc_te": "అక్వా విర్గో, అక్వా క్లాడియా వంటి ప్రధాన జలవాహినులు నిర్మించబడ్డాయి, రోమ్‌కు నీటి సరఫరా మెరుగుపడింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Citizenship Expands",
+		"name_te": "రోమన్ పౌరసత్వం విస్తరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Citizenship is granted to more people in the provinces, integrating diverse populations.",
+		"desc_te": "ప్రావిన్సుల్లో మరింత మందికి రోమన్ పౌరసత్వం ఇవ్వబడింది, విభిన్న ప్రజలను ఏకీకృతం చేశారు."
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Gladiatorial Games Popularized",
+		"name_te": "రోమన్ గ్లాడియేటర్ పోటీలు ప్రాచుర్యం",
+		"location": {
+			"lat": 41.8902,
+			"lng": 12.4922
+		},
+		"desc_en": "Gladiatorial games become a central part of Roman entertainment and social life.",
+		"desc_te": "గ్లాడియేటర్ పోటీలు రోమన్ వినోదం, సామాజిక జీవితంలో ముఖ్యమైనవిగా మారాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Spread of Roman Religion and Cults",
+		"name_te": "రోమన్ మతం మరియు పూజలు వ్యాప్తి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman gods and imperial cults spread throughout the empire, including worship of Augustus.",
+		"desc_te": "రోమన్ దేవతలు, సామ్రాజ్య పూజలు మొత్తం సామ్రాజ్యంలో వ్యాప్తి చెందాయి, ఆగస్టస్ పూజ కూడా ప్రాచుర్యం పొందింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Law Codified Further",
+		"name_te": "రోమన్ చట్టాల మరింత సంకలనము",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Legal reforms and codification continue, influencing future European law.",
+		"desc_te": "చట్ట సంస్కరణలు, సంకలనము కొనసాగాయి, భవిష్యత్ యూరోపియన్ చట్టాలపై ప్రభావం చూపాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Expansion of Roman Road Network",
+		"name_te": "రోమన్ రహదారుల విస్తరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Major roads like Via Claudia and Via Augusta are built, connecting distant provinces.",
+		"desc_te": "వియా క్లాడియా, వియా ఆగస్టా వంటి ప్రధాన రహదారులు నిర్మించబడ్డాయి, దూర ప్రాంతాలను కలిపాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Growth of Roman Baths",
+		"name_te": "రోమన్ స్నానాల విస్తరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Public baths (thermae) become widespread, serving as centers for hygiene and socializing.",
+		"desc_te": "ప్రజా స్నానాల (థెర్మే) విస్తరణ, పరిశుభ్రత, సామాజిక కలయికకు కేంద్రాలుగా మారాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Latin Language and Literature Flourish",
+		"name_te": "లాటిన్ భాష, సాహిత్యం వికసించాయి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Latin literature, poetry, and official inscriptions flourish across the empire.",
+		"desc_te": "లాటిన్ సాహిత్యం, కవిత్వం, అధికారిక శాసనాలు సామ్రాజ్యంలో వికసించాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Roman Villas and Urban Housing",
+		"name_te": "రోమన్ విలాస్, పట్టణ గృహాలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Development of luxurious villas and multi-story insulae (apartments) in Roman cities.",
+		"desc_te": "రోమన్ పట్టణాల్లో విలాసవంతమైన విలాలు, బహుళ అంతస్తుల ఇన్సులే (అపార్ట్‌మెంట్లు) అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "50",
+		"name_en": "Colosseum Completed (Rome)",
+		"name_te": "కోలొస్సియం పూర్తయింది (రోమ్)",
+		"location": {
+			"lat": 41.8902,
+			"lng": 12.4922
+		},
+		"desc_en": "The Roman Colosseum is completed and inaugurated.",
+		"desc_te": "రోమన్ కోలొస్సియం నిర్మాణం పూర్తయింది."
+	},
+	{
+		"year": "79",
+		"name_en": "Eruption of Mount Vesuvius Destroys Pompeii",
+		"name_te": "వెసువియస్ పర్వతం విస్ఫోటనం (పొంపేయి)",
+		"location": {
+			"lat": 40.7497,
+			"lng": 14.4849
+		},
+		"desc_en": "Pompeii and Herculaneum destroyed by volcanic eruption.",
+		"desc_te": "పొంపేయి, హెర్క్యులేనియం నగరాలు నాశనం."
+	},
+	{
+		"year": "70",
+		"name_en": "Destruction of Second Temple (Jerusalem)",
+		"name_te": "రెండవ ఆలయం విధ్వంసం (యెరూషలేము)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Romans destroy Jerusalem's Second Temple, leading to Jewish Diaspora.",
+		"desc_te": "రోమీయులు యెరూషలేము రెండవ ఆలయాన్ని ధ్వంసం చేశారు, యూదుల వ్యాప్తికి దారితీసింది."
+	},
+	{
+		"year": "60",
+		"name_en": "Boudica's Revolt (Britain)",
+		"name_te": "బౌడికా తిరుగుబాటు (బ్రిటన్)",
+		"location": {
+			"lat": 52.6,
+			"lng": 1.1
+		},
+		"desc_en": "Queen Boudica leads revolt against Roman rule in Britain.",
+		"desc_te": "బౌడికా రోమన్ పాలనపై తిరుగుబాటు చేసింది."
+	},
+	{
+		"year": "50",
+		"name_en": "Teotihuacan Urbanization (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ పట్టణీకరణ (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan begins to grow as a major urban center in central Mexico.",
+		"desc_te": "మెక్సికోలో టియోటిహుయాకాన్ ప్రధాన పట్టణంగా అభివృద్ధి చెందడం ప్రారంభమైంది."
+	},
+	{
+		"year": "50",
+		"name_en": "Moche Culture Develops (Peru)",
+		"name_te": "మోచే సంస్కృతి అభివృద్ధి (పెరూ)",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "Early Moche culture emerges along the northern coast of Peru.",
+		"desc_te": "ఉత్తర పెరూ తీరంలో మోచే సంస్కృతి అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "50",
+		"name_en": "Spread of Buddhism to Central Asia (Kushan Empire)",
+		"name_te": "బౌద్ధమతం మధ్య ఆసియాకు వ్యాప్తి (కుషాన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 34,
+			"lng": 69
+		},
+		"desc_en": "Buddhism spreads along Silk Road under Kushan patronage.",
+		"desc_te": "కుషాన్ పాలనలో సిల్క్ రోడ్ ద్వారా బౌద్ధమతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "50",
+		"name_en": "Paper Invented in China",
+		"name_te": "చైనాలో కాగితం ఆవిష్కరణ",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Cai Lun invents paper in Han Dynasty China.",
+		"desc_te": "హాన్ రాజవంశం కాలంలో చైనాలో కాగితం ఆవిష్కరించబడింది."
+	},
+	{
+		"year": "70",
+		"name_en": "Gospel of Mark Written",
+		"name_te": "మార్కు సువార్త రచన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Gospel of Mark is written, one of the earliest Christian gospels.",
+		"desc_te": "మార్కు సువార్త, ప్రాథమిక క్రైస్తవ గ్రంథాలలో ఒకటి, రచించబడింది."
+	},
+	{
+		"year": "98",
+		"name_en": "Reign of Emperor Trajan Begins (Rome)",
+		"name_te": "ట్రాజన్ పాలన ప్రారంభం (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Trajan becomes Roman Emperor, empire reaches greatest territorial extent.",
+		"desc_te": "ట్రాజన్ రోమన్ చక్రవర్తిగా, సామ్రాజ్యం అత్యధిక విస్తీర్ణానికి చేరింది."
+	},
+	{
+		"year": "1",
+		"name_en": "Satavahana Dynasty (India)",
+		"name_te": "సాతవాహన రాజవంశం (భారతదేశం)",
+		"location": {
+			"lat": 17.4,
+			"lng": 78.5
+		},
+		"desc_en": "Satavahana dynasty rules Deccan region of India",
+		"desc_te": "సాతవాహనులు భారతదేశం డెక్కన్ ప్రాంతాన్ని పాలించారు"
+	},
+	{
+		"year": "1",
+		"name_en": "Xiongnu Confederation (Mongolia/China)",
+		"name_te": "షియోంగ్ను సమాఖ్య (మంగోలియా/చైనా)",
+		"location": {
+			"lat": 46,
+			"lng": 105
+		},
+		"desc_en": "Xiongnu nomadic confederation active in Mongolia and northern China",
+		"desc_te": "షియోంగ్ను గోత్రాలు మంగోలియా, ఉత్తర చైనాలో ప్రభావం చూపాయి"
+	},
+	{
+		"year": "1",
+		"name_en": "Nabataean Kingdom (Middle East)",
+		"name_te": "నబటీయన్ రాజ్యం (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 30.3,
+			"lng": 35.5
+		},
+		"desc_en": "Nabataean kingdom centered around Petra in modern-day Jordan",
+		"desc_te": "నబటీయన్ రాజ్యం ఆధునిక జోర్డాన్‌లోని పెట్రా చుట్టూ కేంద్రంగా ఉంది"
+	},
+	{
+		"year": "0",
+		"name_en": "King Gondophares of Indo-Parthian Kingdom (India/Pakistan)",
+		"name_te": "ఇండో-పార్థియన్ రాజు గోండోఫారెస్ (భారతదేశం/పాకిస్తాన్)",
+		"location": {
+			"lat": 30.2,
+			"lng": 71.5
+		},
+		"desc_en": "Gondophares rules the Indo-Parthian Kingdom, known for trade and cultural exchange with the Roman Empire.",
+		"desc_te": "గోండోఫారెస్ ఇండో-పార్థియన్ రాజ్యాన్ని పాలించాడు, రోమన్ సామ్రాజ్యంతో వాణిజ్యం, సాంస్కృతిక మార్పిడికి ప్రసిద్ధి."
+	},
+	{
+		"year": "0",
+		"name_en": "Kingdom of Aksum Emerges (Ethiopia)",
+		"name_te": "అక్సుమ్ రాజ్యం ఉద్భవం (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Aksum emerges as a major trading power in East Africa.",
+		"desc_te": "అక్సుమ్ రాజ్యం తూర్పు ఆఫ్రికాలో ప్రధాన వాణిజ్య శక్తిగా ఉద్భవించింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Kushan Empire Reaches Peak (Central Asia/India)",
+		"name_te": "కుషాన్ సామ్రాజ్యం శిఖరస్థాయికి చేరింది (మధ్య ఆసియా/భారతదేశం)",
+		"location": {
+			"lat": 34,
+			"lng": 69
+		},
+		"desc_en": "Kushan Empire reaches its height, facilitating Silk Road trade and Buddhist expansion.",
+		"desc_te": "కుషాన్ సామ్రాజ్యం శిఖరస్థాయికి చేరి, సిల్క్ రోడ్ వాణిజ్యం, బౌద్ధ విస్తరణకు దోహదపడింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Yamato State Emerges (Japan)",
+		"name_te": "యమాటో రాష్ట్రం ఉద్భవం (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Yamato state begins to form in Japan, laying the foundation for future Japanese imperial rule.",
+		"desc_te": "జపాన్‌లో యమాటో రాష్ట్రం ఏర్పడటం ప్రారంభమైంది, భవిష్యత్ చక్రవర్తి పాలనకు పునాది వేశాయి."
+	},
+	{
+		"year": "0",
+		"name_en": "Xianbei Confederation (Northern China)",
+		"name_te": "షియాన్బే సమాఖ్య (ఉత్తర చైనా)",
+		"location": {
+			"lat": 41,
+			"lng": 112
+		},
+		"desc_en": "The Xianbei, a nomadic confederation, rise to prominence in northern China after the Xiongnu decline.",
+		"desc_te": "షియాన్బే అనే గోత్ర సమాఖ్య, షియోంగ్ను పతనం తర్వాత ఉత్తర చైనాలో ప్రాముఖ్యత పొందింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Germanic Marcomanni Kingdom (Central Europe)",
+		"name_te": "జర్మానిక్ మార్కోమన్నీ రాజ్యం (మధ్య యూరోప్)",
+		"location": {
+			"lat": 49,
+			"lng": 13
+		},
+		"desc_en": "The Marcomanni, a Germanic tribe, establish a powerful kingdom in Central Europe.",
+		"desc_te": "మార్కోమన్నీ అనే జర్మానిక్ గోత్రం మధ్య యూరోప్‌లో శక్తివంతమైన రాజ్యాన్ని స్థాపించింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Expansion of Funan Kingdom (Southeast Asia)",
+		"name_te": "ఫునాన్ రాజ్యం విస్తరణ (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": 11.5,
+			"lng": 104.9
+		},
+		"desc_en": "Funan Kingdom expands in the Mekong Delta, becoming a major trading center in Southeast Asia.",
+		"desc_te": "ఫునాన్ రాజ్యం మెకాంగ్ డెల్టాలో విస్తరించి, ఆగ్నేయ ఆసియాలో ప్రధాన వాణిజ్య కేంద్రంగా మారింది."
+	},
+	{
+		"year": "0",
+		"name_en": "Expansion of Zapotec Civilization (Mexico)",
+		"name_te": "జపోటెక్ నాగరికత విస్తరణ (మెక్సికో)",
+		"location": {
+			"lat": 17.1,
+			"lng": -96.7
+		},
+		"desc_en": "Zapotec civilization expands in Oaxaca Valley, Mexico, developing writing and urban centers.",
+		"desc_te": "మెక్సికోలో ఒక్సాకా లోయలో జపోటెక్ నాగరికత విస్తరించి, లిపి, పట్టణ కేంద్రాలను అభివృద్ధి చేసింది."
+	}
+]

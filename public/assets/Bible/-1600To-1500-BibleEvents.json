@@ -1,0 +1,288 @@
+[
+	{
+		"year": "-1600",
+		"name_en": "Oppression of Israelites in Egypt Intensifies",
+		"name_te": "ఈజిప్టులో ఇశ్రాయేలీయులపై అణచివేత పెరుగుతుంది",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "A new Pharaoh arises who does not know Joseph and oppresses the Israelites (Exodus 1:8-14)",
+		"desc_te": "యోసేపును తెలియని కొత్త ఫరో వచ్చి ఇశ్రాయేలీయులను అణచివేశాడు (నిర్గమకాండము 1:8-14)"
+	},
+	{
+		"year": "-1575",
+		"name_en": "Birth of Moses",
+		"name_te": "మోషే జననం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Moses is born to Amram and Jochebed, of the tribe of Levi (Exodus 2:1-2)",
+		"desc_te": "లేవీ గోత్రానికి చెందిన అమ్రాము, యోకెబెదులకు మోషే జన్మించాడు (నిర్గమకాండము 2:1-2)"
+	},
+	{
+		"year": "-1570",
+		"name_en": "Moses Adopted by Pharaoh's Daughter",
+		"name_te": "ఫరో కుమార్తె మోషేను దత్తత తీసుకుంది",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Pharaoh's daughter finds Moses and raises him as her own son (Exodus 2:5-10)",
+		"desc_te": "ఫరో కుమార్తె మోషేను కనుగొని తన కుమారుడిగా పెంచింది (నిర్గమకాండము 2:5-10)"
+	},
+	{
+		"year": "-1550",
+		"name_en": "Moses Flees to Midian",
+		"name_te": "మోషే మిద్యానుకు పారిపోవడం",
+		"location": {
+			"lat": 28.5,
+			"lng": 34.5
+		},
+		"desc_en": "Moses flees Egypt after killing an Egyptian and settles in Midian (Exodus 2:11-15)",
+		"desc_te": "ఒక ఈజిప్టువారిని చంపిన తర్వాత మోషే ఈజిప్టు నుండి పారిపోయి మిద్యానులో స్థిరపడ్డాడు (నిర్గమకాండము 2:11-15)"
+	},
+	{
+		"year": "-1540",
+		"name_en": "Moses Marries Zipporah",
+		"name_te": "మోషే జిప్పోరాను వివాహం చేసుకున్నాడు",
+		"location": {
+			"lat": 28.5,
+			"lng": 34.5
+		},
+		"desc_en": "Moses marries Zipporah, daughter of Jethro, priest of Midian (Exodus 2:16-22)",
+		"desc_te": "మోషే మిద్యాను యాజకుడు యిత్రో కుమార్తె జిప్పోరాను వివాహం చేసుకున్నాడు (నిర్గమకాండము 2:16-22)"
+	},
+	{
+		"year": "-1530",
+		"name_en": "God Remembers His Covenant",
+		"name_te": "దేవుడు తన ఒడంబడికను గుర్తు చేసుకున్నాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "God hears the groaning of the Israelites and remembers His covenant with Abraham, Isaac, and Jacob (Exodus 2:23-25)",
+		"desc_te": "దేవుడు ఇశ్రాయేలీయుల నొప్పిని విని, అబ్రాహాము, ఇస్సాకు, యాకోబుతో చేసిన ఒడంబడికను గుర్తు చేసుకున్నాడు (నిర్గమకాండము 2:23-25)"
+	},
+	{
+		"year": "-1520",
+		"name_en": "God Appears to Moses in the Burning Bush",
+		"name_te": "దహనమవుతున్న పొదలో దేవుడు మోషేకు ప్రత్యక్షమయ్యాడు",
+		"location": {
+			"lat": 28.5,
+			"lng": 34.5
+		},
+		"desc_en": "God calls Moses from the burning bush and commissions him to deliver Israel (Exodus 3:1-10)",
+		"desc_te": "దహనమవుతున్న పొదలో దేవుడు మోషేను పిలిచి ఇశ్రాయేలు జనులను విమోచించమని ఆజ్ఞాపించాడు (నిర్గమకాండము 3:1-10)"
+	},
+	{
+		"year": "-1510",
+		"name_en": "Moses Returns to Egypt",
+		"name_te": "మోషే ఈజిప్టుకు తిరిగి వెళ్ళాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Moses returns to Egypt to confront Pharaoh and lead the Israelites out (Exodus 4:18-31)",
+		"desc_te": "మోషే ఈజిప్టుకు తిరిగి వెళ్లి ఫరోను ఎదుర్కొని ఇశ్రాయేలీయులను బయటకు తీసుకెళ్లేందుకు సిద్ధమయ్యాడు (నిర్గమకాండము 4:18-31)"
+	},
+	{
+		"year": "-1510",
+		"name_en": "Aaron Becomes Moses' Spokesman",
+		"name_te": "అహరోను మోషేకు ప్రతినిధిగా నియమించబడ్డాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "God appoints Aaron as Moses' spokesman before Pharaoh (Exodus 4:14-17, 27-31)",
+		"desc_te": "దేవుడు అహరోనును మోషేకు ప్రతినిధిగా నియమించాడు (నిర్గమకాండము 4:14-17, 27-31)"
+	},
+	{
+		"year": "-1510",
+		"name_en": "Israelite Elders Gathered",
+		"name_te": "ఇశ్రాయేలు పెద్దలను మోషే కూడగట్టాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Moses and Aaron gather the elders of Israel to share God's message (Exodus 4:29-31)",
+		"desc_te": "మోషే, అహరోను దేవుని సందేశాన్ని చెప్పేందుకు ఇశ్రాయేలు పెద్దలను కూడగట్టారు (నిర్గమకాండము 4:29-31)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Moses and Aaron Before Pharaoh",
+		"name_te": "మోషే, అహరోను ఫరో ఎదుట",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Moses and Aaron appear before Pharaoh to demand Israel's release (Exodus 5:1-5)",
+		"desc_te": "మోషే, అహరోను ఇశ్రాయేలు విడుదల కోసం ఫరో ఎదుట నిలబడ్డారు (నిర్గమకాండము 5:1-5)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Pharaoh Increases Oppression",
+		"name_te": "ఫరో అణచివేతను పెంచాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Pharaoh increases the Israelites' labor after Moses' request (Exodus 5:6-23)",
+		"desc_te": "మోషే అభ్యర్థన తర్వాత ఫరో ఇశ్రాయేలీయుల పనిని మరింత పెంచాడు (నిర్గమకాండము 5:6-23)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "God Promises Deliverance",
+		"name_te": "దేవుడు విమోచనాన్ని హామీ ఇచ్చాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "God reassures Moses of His promise to deliver Israel (Exodus 6:1-8)",
+		"desc_te": "దేవుడు ఇశ్రాయేలు విమోచనాన్ని హామీ ఇస్తూ మోషేను ధైర్యపరిచాడు (నిర్గమకాండము 6:1-8)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Genealogy of Moses and Aaron",
+		"name_te": "మోషే, అహరోనుల వంశావళి",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The genealogy of Moses and Aaron is recorded (Exodus 6:14-27)",
+		"desc_te": "మోషే, అహరోనుల వంశావళి నమోదు చేయబడింది (నిర్గమకాండము 6:14-27)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Moses as Prophet to Pharaoh",
+		"name_te": "ఫరోకు ప్రవక్తగా మోషే",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "God makes Moses as a god to Pharaoh and Aaron as his prophet (Exodus 7:1-7)",
+		"desc_te": "దేవుడు మోషేను ఫరోకు దేవుడిగా, అహరోనును ప్రవక్తగా నియమించాడు (నిర్గమకాండము 7:1-7)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "First Plague: Water Turned to Blood",
+		"name_te": "మొదటి ప్లేగు: నీరు రక్తంగా మారింది",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Moses turns the Nile's water to blood as the first plague (Exodus 7:14-25)",
+		"desc_te": "మోషే నైలు నదిని రక్తంగా మార్చాడు (నిర్గమకాండము 7:14-25)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Second Plague: Frogs",
+		"name_te": "రెండవ ప్లేగు: బల్లులు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Frogs cover the land of Egypt as the second plague (Exodus 8:1-15)",
+		"desc_te": "ఈజిప్టు దేశమంతా బల్లులు వ్యాపించాయి (నిర్గమకాండము 8:1-15)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Third Plague: Gnats",
+		"name_te": "మూడవ ప్లేగు: చీమలు/గింజలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Gnats infest Egypt as the third plague (Exodus 8:16-19)",
+		"desc_te": "ఈజిప్టులో మూడవ ప్లేగుగా చీమలు/గింజలు వచ్చాయి (నిర్గమకాండము 8:16-19)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Fourth Plague: Flies",
+		"name_te": "నాల్గవ ప్లేగు: ఈగలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Swarms of flies invade Egypt as the fourth plague (Exodus 8:20-32)",
+		"desc_te": "ఈజిప్టులో నాల్గవ ప్లేగుగా ఈగలు విస్తరించాయి (నిర్గమకాండము 8:20-32)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Fifth Plague: Livestock Disease",
+		"name_te": "ఐదవ ప్లేగు: పశువుల వ్యాధి",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "A deadly disease strikes Egyptian livestock as the fifth plague (Exodus 9:1-7)",
+		"desc_te": "ఈజిప్టు పశువులను ఐదవ ప్లేగుగా వ్యాధి చంపింది (నిర్గమకాండము 9:1-7)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Sixth Plague: Boils",
+		"name_te": "ఆరవ ప్లేగు: మంటలు/పుండ్లు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Boils break out on Egyptians and animals as the sixth plague (Exodus 9:8-12)",
+		"desc_te": "ఈజిప్టువారిపై, జంతువులపై ఆరవ ప్లేగుగా మంటలు/పుండ్లు వచ్చాయి (నిర్గమకాండము 9:8-12)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Seventh Plague: Hail",
+		"name_te": "ఏడవ ప్లేగు: ముంచుకొచ్చిన మడుగు/ఒడ్డు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Hail devastates Egypt as the seventh plague (Exodus 9:13-35)",
+		"desc_te": "ఈజిప్టులో ఏడవ ప్లేగుగా మడుగు/ఒడ్డు ముంచుకొచ్చింది (నిర్గమకాండము 9:13-35)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Eighth Plague: Locusts",
+		"name_te": "ఎనిమిదవ ప్లేగు: మిడతలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Locusts swarm over Egypt as the eighth plague (Exodus 10:1-20)",
+		"desc_te": "ఈజిప్టులో ఎనిమిదవ ప్లేగుగా మిడతలు విస్తరించాయి (నిర్గమకాండము 10:1-20)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Ninth Plague: Darkness",
+		"name_te": "తొమ్మిదవ ప్లేగు: చీకటి",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Darkness covers Egypt for three days as the ninth plague (Exodus 10:21-29)",
+		"desc_te": "ఈజిప్టులో మూడు రోజులు చీకటి తొమ్మిదవ ప్లేగుగా వచ్చింది (నిర్గమకాండము 10:21-29)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Tenth Plague: Death of the Firstborn",
+		"name_te": "పదవ ప్లేగు: మొదటి పుట్టినవారి మరణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The firstborn of Egypt die as the tenth plague (Exodus 11:1-12:30)",
+		"desc_te": "ఈజిప్టులో మొదటి పుట్టినవారు పదవ ప్లేగుగా మరణించారు (నిర్గమకాండము 11:1-12:30)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "The Exodus Begins",
+		"name_te": "నిర్గమం ప్రారంభం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The Israelites leave Egypt after the tenth plague (Exodus 12:31-42)",
+		"desc_te": "పదవ ప్లేగు తర్వాత ఇశ్రాయేలీయులు ఈజిప్టును విడిచి బయలుదేరారు (నిర్గమకాండము 12:31-42)"
+	}
+]

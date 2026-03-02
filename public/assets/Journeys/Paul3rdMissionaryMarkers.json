@@ -1,0 +1,90 @@
+[
+  {
+    "id": "paul3_01",
+    "name_tel": "అంతియోకియా",
+    "name_eng": "Antioch (Syria)",
+    "coords": [36.156, 36.164],
+    "description": "Departure point for third missionary journey. Paul strengthens disciples in region.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_02",
+    "name_tel": "గాలటియ / ఫ్రిజియా",
+    "name_eng": "Galatia & Phrygia",
+    "coords": [38.0, 32.0],
+    "description": "Paul visits twice to strengthen the growing churches. Travels route of first two journeys.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_03",
+    "name_tel": "ఎఫెసుస్‌",
+    "name_eng": "Ephesus",
+    "coords": [37.939, 27.345],
+    "description": "Paul stays nearly 3 years. Teaches daily, mighty miracles occur, demons flee from sick.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_04",
+    "name_tel": "మేసిడోనియా",
+    "name_eng": "Macedonia",
+    "coords": [40.6, 22.0],
+    "description": "Paul travels through Macedonia visiting churches of Philippi, Thessalonica, Berea.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_05",
+    "name_tel": "గ్రీస్‌ / ఎచయాయ",
+    "name_eng": "Greece (Achaia)",
+    "coords": [37.898, 23.095],
+    "description": "Paul spends three months in Greece. Likely in or near Corinth writing Romans.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_06",
+    "name_tel": "ఖిలిపీ",
+    "name_eng": "Philippi",
+    "coords": [41.040, 24.287],
+    "description": "Paul retraces route back through Macedonia gathering offerings for Jerusalem church.",
+    "isMajorStop": false
+  },
+  {
+    "id": "paul3_07",
+    "name_tel": "ట్రోయాస్‌",
+    "name_eng": "Troas",
+    "coords": [39.480, 26.237],
+    "description": "Paul stays seven days. Raises Eutychus from dead after he falls from window.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_08",
+    "name_tel": "మిటిలిన్‌",
+    "name_eng": "Miletus",
+    "coords": [37.633, 27.271],
+    "description": "Paul meets Ephesian elders. Emotional farewell speech: 'I know I won't see you again.'",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_09",
+    "name_tel": "టిర్‌",
+    "name_eng": "Tyre",
+    "coords": [33.272, 35.125],
+    "description": "Paul visits disciples here. They warn him not to go to Jerusalem.",
+    "isMajorStop": false
+  },
+  {
+    "id": "paul3_10",
+    "name_tel": "కైసిరియా",
+    "name_eng": "Caesarea",
+    "coords": [32.518, 35.007],
+    "description": "Philip entertains Paul. Agabus prophesies Paul's arrest and imprisonment comes soon.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul3_11",
+    "name_tel": "జెరూసలేమ్",
+    "name_eng": "Jerusalem",
+    "coords": [31.768, 35.214],
+    "description": "Paul delivers offering from Gentile churches. Arrested, beginning of Roman imprisonment.",
+    "isMajorStop": true
+  }
+]

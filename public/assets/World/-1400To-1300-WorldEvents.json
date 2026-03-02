@@ -1,0 +1,233 @@
+[
+	{
+		"year": "-1400",
+		"name_en": "Ramesses II Monument Building (Egypt)",
+		"name_te": "రమెస్సెస్ II స్మారక నిర్మాణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses II builds Abu Simbel temples and monuments",
+		"desc_te": "రమెస్సెస్ II అబూ సింబెల్ దేవాలయాలు, స్మారకాలు నిర్మాణం"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Hittite Power Declines (Anatolia)",
+		"name_te": "హిట్టైట్ శక్తి క్షీణిస్తుంది (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite empire begins decline after peace with Egypt",
+		"desc_te": "ఈజిప్ట్ శాంతి తర్వాత హిట్టైట్ సామ్రాజ్యం క్షీణిస్తుంది"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Shang Dynasty Ends (China)",
+		"name_te": "షాంగ్ రాజవంశం ముగుస్తుంది (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty falls, Zhou Dynasty consolidates",
+		"desc_te": "షాంగ్ రాజవంశం పతనం, జోవు రాజవంశం సంపీడనం"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Zhou Western Period Begins (China)",
+		"name_te": "జోవు పశ్చిమ కాలం ప్రారంభ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou Dynasty begins feudal period",
+		"desc_te": "పశ్చిమ జోవు రాజవంశం సామంత కాలం ప్రారంభ"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Vedic Kingdoms Consolidate (India)",
+		"name_te": "వేదిక రాజ్యాలు సంపీడన (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic kingdoms consolidate in northern India",
+		"desc_te": "వేదిక రాజ్యాలు ఉత్తర భారతదేశంలో సంపీడన"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Mycenaean Decline Begins (Greece)",
+		"name_te": "మైసెనియన్ క్షీణత ప్రారంభ (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean civilization begins decline after palace complexes",
+		"desc_te": "రాజభవన సముదాయాల తర్వాత మైసెనియన్ నాగరికత క్షీణత ప్రారంభ"
+	},
+	{
+		"year": "-1380",
+		"name_en": "Ramesses II Defeats Nubians (Egypt)",
+		"name_te": "రమెస్సెస్ II న్యూబియన్‌లను ఓడిస్తారు (ఈజిప్ట్)",
+		"location": {
+			"lat": 25,
+			"lng": 32
+		},
+		"desc_en": "Ramesses II defeats Nubian forces, extends control",
+		"desc_te": "రమెస్సెస్ II న్యూబియన్ బలగాలను ఓడిస్తారు, నియంత్రణ విస్తరిస్తారు"
+	},
+	{
+		"year": "-1380",
+		"name_en": "Late Bronze Age Collapse Begins (Mediterranean)",
+		"name_te": "ఆరు్యకాశ్య కాలం సంక్షోభ ప్రారంభ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 35,
+			"lng": 30
+		},
+		"desc_en": "Late Bronze Age collapse begins Mediterranean-wide crisis",
+		"desc_te": "ఆరు్యకాశ్య కాలం సంక్షోభ భూమధ్య సాగర వ్యాపక సంકట"
+	},
+	{
+		"year": "-1380",
+		"name_en": "Karnak Temples Expanded (Egypt)",
+		"name_te": "కర్నాక్ దేవాలయాలు విస్తరిస్తాయి (ఈజిప్ట్)",
+		"location": {
+			"lat": 25.72,
+			"lng": 32.66
+		},
+		"desc_en": "Karnak temples expanded under Ramesses II",
+		"desc_te": "రమెస్సెస్ II కింద కర్నాక్ దేవాలయాలు విస్తరిస్తాయి"
+	},
+	{
+		"year": "-1380",
+		"name_en": "Zhou Dynasty Cultural Height (China)",
+		"name_te": "జోవు రాజవంశ సాంస్కృతిక శిఖరం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou Dynasty reaches cultural height",
+		"desc_te": "పశ్చిమ జోవు రాజవంశం సాంస్కృతిక శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1380",
+		"name_en": "Upanishads Composed (India)",
+		"name_te": "ఉపనిషదులు సంపాదించారు (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Upanishads philosophical texts composed in Sanskrit",
+		"desc_te": "ఉపనిషద్ దార్శనిక గ్రంథాలు సంస్కృతంలో సంపాదించారు"
+	},
+	{
+		"year": "-1360",
+		"name_en": "Iron Age Begins (Mediterranean)",
+		"name_te": "ఇనుప్ప యుగం ప్రారంభ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 35,
+			"lng": 30
+		},
+		"desc_en": "Iron Age begins in Mediterranean and Near East regions",
+		"desc_te": "భూమధ్య సాగర, సమీప తూర్పు ప్రాంతంలో ఇనుప్ప యుగం ప్రారంభ"
+	},
+	{
+		"year": "-1360",
+		"name_en": "Ramesses III Threats (Egypt)",
+		"name_te": "రమెస్సెస్ III ముప్పు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses III faces invasions from Sea Peoples",
+		"desc_te": "రమెస్సెస్ III సముద్ర ప్రజల ఆక్రమణ ఎదుర్కుంటారు"
+	},
+	{
+		"year": "-1360",
+		"name_en": "Sea Peoples Invasions (Mediterranean)",
+		"name_te": "సముద్ర ప్రజల ఆక్రమణ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 35,
+			"lng": 30
+		},
+		"desc_en": "Sea Peoples invade Mediterranean civilizations",
+		"desc_te": "సముద్ర ప్రజలు భూమధ్య సాగర నాగరికతలపై ఆక్రమణ"
+	},
+	{
+		"year": "-1360",
+		"name_en": "Hittite Empire Falls (Anatolia)",
+		"name_te": "హిట్టైట్ సామ్రాజ్యం పతనం (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite Empire falls due to Sea Peoples invasion",
+		"desc_te": "సముద్ర ప్రజల ఆక్రమణ కారణంగా హిట్టైట్ సామ్రాజ్యం పతనం"
+	},
+	{
+		"year": "-1340",
+		"name_en": "Ramesses III Defeats Sea Peoples (Egypt)",
+		"name_te": "రమెస్సెస్ III సముద్ర ప్రజలను ఓడిస్తారు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses III defeats Sea Peoples, secures Egypt",
+		"desc_te": "రమెస్సెస్ III సముద్ర ప్రజలను ఓడిస్తారు, ఈజిప్ట్ సురక్షితం"
+	},
+	{
+		"year": "-1340",
+		"name_en": "Greek Dark Age Begins (Greece)",
+		"name_te": "గ్రీక్ చీకటి యుగం ప్రారంభ (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greek Dark Age begins after Mycenaean collapse",
+		"desc_te": "మైసెనియన్ సంక్షోభం తర్వాత గ్రీక్ చీకటి యుగం ప్రారంభ"
+	},
+	{
+		"year": "-1340",
+		"name_en": "Zhou Dynasty Consolidates (China)",
+		"name_te": "జోవు రాజవంశం సంపీడన (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou Dynasty consolidates feudal territories",
+		"desc_te": "పశ్చిమ జోవు రాజవంశం సామంత ప్రాంత సంపీడన"
+	},
+	{
+		"year": "-1340",
+		"name_en": "Vedic Literature Continues (India)",
+		"name_te": "వేదిక సాహిత్యం కొనసాగుతుంది (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic literature and rituals continue development",
+		"desc_te": "వేదిక సాహిత్యం, ఆచారాలు అభివృద్ధి కొనసాగుతుంది"
+	},
+	{
+		"year": "-1320",
+		"name_en": "Phoenician Sea Trade (Mediterranean)",
+		"name_te": "ఫోనిషియన్ సముద్ర వాణిజ్యం (భూమధ్య సాగర)",
+		"location": {
+			"lat": 34,
+			"lng": 35
+		},
+		"desc_en": "Phoenicians begin maritime trade expansion",
+		"desc_te": "ఫోనిషియన్‌లు సముద్ర వాణిజ్య విస్తరణ ప్రారంభ"
+	},
+	{
+		"year": "-1320",
+		"name_en": "Egyptian Empire Decline (Egypt)",
+		"name_te": "ఈజిప్టియన్ సామ్రాజ్యం క్షీణత (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian empire begins gradual decline",
+		"desc_te": "ఈజిప్టియన్ సామ్రాజ్యం క్రమంగా క్షీణత ప్రారంభ"
+	}
+]

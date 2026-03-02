@@ -1,0 +1,331 @@
+[
+	{
+		"year": "-2300",
+		"name_en": "Sargon of Akkad Rises (Mesopotamia)",
+		"name_te": "సార్గాన్ ఆఫ్ అక్కాడ్ ఎదుగుతారు (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Sargon of Akkad conquers Sumer, establishes first empire",
+		"desc_te": "సార్గాన్ ఆఫ్ అక్కాడ్ సుమెర్‌ను జయించారు, ప్రథమ సామ్రాజ్యం స్థాపన"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Pepi II Rules Egypt (Egypt)",
+		"name_te": "పెపి II ఈజిప్ట్ పాలన (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Pharaoh Pepi II has longest reign in Egyptian history",
+		"desc_te": "ఫారో పెపి II ఈజిప్టియన్ చరిత్రలో సుదీర్ఘ పాలన నిర్వహణ"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Xia Dynasty Early (China)",
+		"name_te": "క్సియా రాజవంశం ప్రారంభం (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Early Xia Dynasty foundations in prehistoric China",
+		"desc_te": "చారిత్రిక పూర్వ చైనాలో ప్రారంభ క్సియా రాజవంశం ఆధారాలు"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Harappa Settlement Begins (India)",
+		"name_te": "హరప్ప నిబుద్ధిస్థానం ప్రారంభ (భారతదేశం)",
+		"location": {
+			"lat": 30.6,
+			"lng": 72.8
+		},
+		"desc_en": "Harappan culture begins developing in Indus region",
+		"desc_te": "సిందువు ప్రాంతంలో హరప్పన్ సంస్కృతి అభివృద్ధి ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Indo-Aryans Migrate (Central Asia)",
+		"name_te": "ఇండో-ఆర్యులు వలస (మధ్య ఆసియా)",
+		"location": {
+			"lat": 42,
+			"lng": 65
+		},
+		"desc_en": "Indo-Aryan peoples begin migrations from Central Asian steppes",
+		"desc_te": "మధ్య ఆసియన్ మైదానాల నుండి ఇండో-ఆర్య ప్రజలు వలస ప్రారంభ"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Early Minoan Era (Greece)",
+		"name_te": "ప్రారంభ మినోయన్ యుగం (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.7
+		},
+		"desc_en": "Early Minoan Bronze Age begins in Crete",
+		"desc_te": "క్రీట్‌లో ప్రారంభ మినోయన్ కాంస్య యుగం ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Nubian Societies Develop (Africa)",
+		"name_te": "న్యూబియన్ సమాజాలు అభివృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": 16,
+			"lng": 33
+		},
+		"desc_en": "Early Nubian societies develop along Nile",
+		"desc_te": "నైల్ నది వెంబడి ప్రారంభ న్యూబియన్ సమాజాలు అభివృద్ధి చెందుతాయి"
+	},
+	{
+		"year": "-2300",
+		"name_en": "Stone Age Americas (Americas)",
+		"name_te": "రాతి యుగ అమెరికాలు (అమెరికాలు)",
+		"location": {
+			"lng": -75
+		},
+		"desc_en": "Advanced stone tool cultures develop in Americas",
+		"desc_te": "అమెరికాలలో ఉన్నత రాతి సాధన సంస్కృతులు అభివృద్ధి చెందుతాయి"
+	},
+	{
+		"year": "-2280",
+		"name_en": "Akkadian Expansion Peak (Mesopotamia)",
+		"name_te": "అక్కాడియన్ విస్తరణ శిఖరం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44
+		},
+		"desc_en": "Akkadian empire reaches territorial peak under Sargon",
+		"desc_te": "సార్గాన్ కింద అక్కాడియన్ సామ్రాజ్యం భూభాగ శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-2280",
+		"name_en": "Egyptian Pyramid Building (Egypt)",
+		"name_te": "ఈజిప్టియన్ పిరమిడ్ నిర్మాణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 29.9,
+			"lng": 31.1
+		},
+		"desc_en": "Egyptian pyramids and temples reach peak of construction",
+		"desc_te": "ఈజిప్టియన్ పిరమిడ్‌లు, ఆలయాలు నిర్మాణ శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-2280",
+		"name_en": "Xia Dynasty Legends Unfold (China)",
+		"name_te": "క్సియా రాజవంశ పురాణాలు ఆవిష్కారం (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Legendary rulers of Xia Dynasty establish governance systems",
+		"desc_te": "క్సియా రాజవంశ పురాణ పాలకులు పరిపాలన వ్యవస్థలు స్థాపన"
+	},
+	{
+		"year": "-2280",
+		"name_en": "Rigveda Compositions (India)",
+		"name_te": "ఋగ్‌వేద సంపాదనలు (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 76
+		},
+		"desc_en": "Rigveda sacred texts being orally composed by Aryans",
+		"desc_te": "ఆర్యులచే ఋగ్‌వేద పవిత్ర గ్రంథాలు మౌఖికంగా సంపాదన"
+	},
+	{
+		"year": "-2280",
+		"name_en": "Palace Culture Minoan (Greece)",
+		"name_te": "రాజభవన సంస్కృతి మినోయన్ (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan palace culture develops in Crete with art",
+		"desc_te": "క్రీట్‌లో మినోయన్ రాజభవన సంస్కృతి కళతో అభివృద్ధి"
+	},
+	{
+		"year": "-2280",
+		"name_en": "Trade Routes Develop (Central Asia)",
+		"name_te": "వాణిజ్య మార్గాలు అభివృద్ధి (మధ్య ఆసియా)",
+		"location": {
+			"lat": 40,
+			"lng": 75
+		},
+		"desc_en": "Early trade routes connecting East and West develop",
+		"desc_te": "తూర్పు, పశ్చిమ సంయోగ ప్రారంభ వాణిజ్య మార్గాలు అభివృద్ధి"
+	},
+	{
+		"year": "-2260",
+		"name_en": "Akkadian Military Campaigns (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సైనిక చర్యలు (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Akkadian military campaigns consolidate regional control",
+		"desc_te": "అక్కాడియన్ సైనిక చర్యలు ఆఞ్చలిక నియంత్రణ సంపీడనం"
+	},
+	{
+		"year": "-2260",
+		"name_en": "Menkaure Builds Pyramid (Egypt)",
+		"name_te": "మెంకౌర్ పిరమిడ్ నిర్మాణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Pharaoh Menkaure builds pyramid at Giza",
+		"desc_te": "ఫారో మెంకౌర్ గీజాలో పిరమిడ్ నిర్మిస్తారు"
+	},
+	{
+		"year": "-2260",
+		"name_en": "Shang Dynasty Foundations (China)",
+		"name_te": "షాంగ్ రాజవంశం ఆధారాలు (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty emerges with bronze technology",
+		"desc_te": "కాంస్య సాంకేతికతతో షాంగ్ రాజవంశం ఉదయం"
+	},
+	{
+		"year": "-2260",
+		"name_en": "Indus Urban Planning (India)",
+		"name_te": "సిందువు నగర పథకీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 68.5
+		},
+		"desc_en": "Indus Valley develops planned urban grid systems",
+		"desc_te": "సిందువు లోయ పథకిత నగర గ్రిడ్ వ్యవస్థలను అభివృద్ధి"
+	},
+	{
+		"year": "-2260",
+		"name_en": "Cycladic Trade (Greece)",
+		"name_te": "సిక్లాడిక్ వాణిజ్యం (గ్రీస్)",
+		"location": {
+			"lat": 37,
+			"lng": 25
+		},
+		"desc_en": "Cycladic islands develop maritime trade networks",
+		"desc_te": "సిక్లాడిక్ ద్వీపాలు సముద్ర వాణిజ్య నెట్‌వర్క్‌లు అభివృద్ధి"
+	},
+	{
+		"year": "-2240",
+		"name_en": "Sargon's Dynasty Continues (Mesopotamia)",
+		"name_te": "సార్గాన్ రాజవంశం కొనసాగుతుంది (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Sargon's successors continue Akkadian military expansion",
+		"desc_te": "సార్గాన్ వారసులు అక్కాడియన్ సైనిక విస్తరణ కొనసాగిస్తారు"
+	},
+	{
+		"year": "-2240",
+		"name_en": "Egyptian Cult Worship Develops (Egypt)",
+		"name_te": "ఈజిప్టియన్ సంప్రదాయ ఆరాధన అభివృద్ధి (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian religious cults and priesthood develop",
+		"desc_te": "ఈజిప్టియన్ మతపరమైన సంప్రదాయాలు, పూజారీవర్గం అభివృద్ధి"
+	},
+	{
+		"year": "-2240",
+		"name_en": "Xia Bronze Vessels (China)",
+		"name_te": "క్సియా కాంస్య ఓడ్లు (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Xia Dynasty begins creating bronze ritual vessels",
+		"desc_te": "క్సియా రాజవంశం కాంస్య పూజార్చన ఓడ్లు సృష్టి ప్రారంభ"
+	},
+	{
+		"year": "-2240",
+		"name_en": "Vedic Communities Form (India)",
+		"name_te": "వేదిక సమాజాలు ఏర్పడుతాయి (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic communities form into early kingdoms",
+		"desc_te": "వేదిక సమాజాలు ప్రారంభ రాజ్యాలుగా ఏర్పడుతాయి"
+	},
+	{
+		"year": "-2240",
+		"name_en": "Minoan Art Flourishes (Greece)",
+		"name_te": "మినోయన్ కళ వికసిస్తుంది (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan artistic traditions flourish with pottery and frescoes",
+		"desc_te": "మినోయన్ కళ సంప్రదాయాలు కుండ నిర్మాణం, భిత్తిచిత్రాలతో వికసిస్తాయి"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Akkadian Administrative System (Mesopotamia)",
+		"name_te": "అక్కాడియన్ పరిపాలన వ్యవస్థ (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Akkadian bureaucracy and administrative systems advance",
+		"desc_te": "అక్కాడియన్ ఉద్యోగస్థ వర్గం, పరిపాలన వ్యవస్థలు అభివృద్ధి"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Pyramid Texts Written (Egypt)",
+		"name_te": "పిరమిడ్ పాఠ్యాలు రచన (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Pyramid Texts inscribed on Egyptian tomb walls",
+		"desc_te": "ఈజిప్టియన్ సమాధి గోడలపై పిరమిడ్ పాఠ్యాలు లిఖనం"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Shang Oracle Bones Begin (China)",
+		"name_te": "షాంగ్ దీవిస్ఫటికలు ప్రారంభం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty begins oracle bone divination practices",
+		"desc_te": "షాంగ్ రాజవంశం దీవిస్ఫటిక విచక్షణ ఆచారాలు ప్రారంభ"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Harappan Cities Expand (India)",
+		"name_te": "హరప్పన్ నగరాలు విస్తరిస్తాయి (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan urban centers expand across Indus Valley",
+		"desc_te": "హరప్పన్ నగర కేంద్రాలు సిందువు లోయ అంతటా విస్తరిస్తాయి"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Nubia-Egypt Connection (Africa)",
+		"name_te": "న్యూబియా-ఈజిప్ట్ సంబంధం (ఆఫ్రికా)",
+		"location": {
+			"lat": 20,
+			"lng": 32.5
+		},
+		"desc_en": "Trade and cultural exchange between Nubia and Egypt",
+		"desc_te": "న్యూబియా, ఈజిప్ట్ మధ్య వాణిజ్యం, సాంస్కృతిక లేవిదేవ"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Mediterranean Connections (Greece/Levant)",
+		"name_te": "మధ్యధరా సంయోగాలు (గ్రీస్/లెవెంట్)",
+		"location": {
+			"lat": 37,
+			"lng": 30
+		},
+		"desc_en": "Trade networks connect Mediterranean civilizations",
+		"desc_te": "మధ్యధరా నాగరికతలను వాణిజ్య నెట్‌వర్కులు సంయోగం"
+	}
+]

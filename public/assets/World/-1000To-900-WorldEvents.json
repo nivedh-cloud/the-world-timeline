@@ -1,0 +1,167 @@
+[
+	{
+		"year": "-1000",
+		"name_en": "Zhou Dynasty Established (China)",
+		"name_te": "జోవు రాజవంశం స్థాపన (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty established in China, longest-lasting Chinese dynasty begins",
+		"desc_te": "చైనాలో జోవు రాజవంశం స్థాపించబడింది, సుదీర్ఘకాల చైనీస్ రాజవంశం ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Vedic Age Golden Period (India)",
+		"name_te": "వేదిక కాల స్వర్ణ కాలం (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 75
+		},
+		"desc_en": "Vedic age flourishes with composition of Upanishads, philosophical texts",
+		"desc_te": "వేదిక కాలం ఉపనిషద్‌ల సంపాదన, తత్త్వ శాస్త్ర గ్రంథాలతో వికసిస్తుంది"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Kuru-Panchal War (India)",
+		"name_te": "కురువు-పంచాల యుద్ధం (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 77
+		},
+		"desc_en": "Kuru and Panchal kingdoms clash, events leading to Mahabharata begin",
+		"desc_te": "కురువు, పంచాల రాజ్యాలు ఘర్షిస్తాయి, మహాభారతానికి దారితీసిన సంఘటనలు ప్రారంభమవుతాయి"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Iron Age Begins (Europe)",
+		"name_te": "ఇనుము యుగం ప్రారంభం (ఐరోపా)",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Iron Age begins in Europe, iron tools and weapons replace bronze",
+		"desc_te": "ఐరోపాలో ఇనుము యుగం ప్రారంభమవుతుంది, ఇనుము సాధనాలు, శస్త్రాలు కాంస్యకు బదులుగా"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Phoenicians Expand (Mediterranean)",
+		"name_te": "ఫీనిషియన్‌లు విస్తరిస్తారు (మధ్యధరా)",
+		"location": {
+			"lat": 33.35,
+			"lng": 35.5
+		},
+		"desc_en": "Phoenician traders expand across Mediterranean, establish trading posts and colonies",
+		"desc_te": "ఫీనిషియన్ వర్తకులు మధ్యధరా అంతటా విస్తరిస్తారు, వాణిజ్య దూసరలు, సంస్థాపన స్థానాలు"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Greek Dark Ages End (Greece)",
+		"name_te": "గ్రీక్ చీకటి యుగం ముగుస్తుంది (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greek Dark Ages ending, alphabetic writing introduced from Phoenicians",
+		"desc_te": "గ్రీక్ చీకటి యుగం ముగుస్తుంది, ఫీనిషియన్‌ల నుండి అక్షరమాల రచన ప్రవేశపెట్టబడుతుంది"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Assyrian Empire Strengthens (Iraq)",
+		"name_te": "అస్సిరియన్ సామ్రాజ్యం బలపడుతుంది (ఇరాక్)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Assyrian Empire strengthens under new dynasty, expanding military power",
+		"desc_te": "అస్సిరియన్ సామ్రాజ్యం కొత్త రాజవంశం కింద బలపడుతుంది, సైనిక శక్తి విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Egyptian Late New Kingdom (Egypt)",
+		"name_te": "ఈజిప్టియన్ చివరి కొత్త రాజ్యం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Late New Kingdom Egypt, power declining, dynasties fragmenting",
+		"desc_te": "చివరి కొత్త రాజ్యం ఈజిప్ట్, శక్తి క్షీణిస్తుంది, రాజవంశాలు విభజితమవుతాయి"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Shang Dynasty Ends (China)",
+		"name_te": "షాంగ్ రాజవంశం ముగుస్తుంది (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang dynasty ends after 600 years, Zhou dynasty takes control of China",
+		"desc_te": "షాంగ్ రాజవంశం 600 సంవత్సరాల తర్వాత ముగుస్తుంది, జోవు రాజవంశం చైనాను నియంత్రిస్తుంది"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Israelites Settle Canaan (Palestine)",
+		"name_te": "ఇశ్రాయితులు కనాను నిబుద్ధిస్తారు (ప్యాలస్టీన్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "Israelites establish kingdoms in Canaan, era of judges and early kings",
+		"desc_te": "ఇశ్రాయితులు కనానులో రాజ్యాలు స్థాపిస్తారు, న్యాయాధీశులు, ప్రారంభ రాజుల యుగం"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Magadha Janapada Rises (India)",
+		"name_te": "మగధ జనపద ఎదుగుతుంది (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Magadha kingdom emerges as major power in India, strategic location",
+		"desc_te": "మగధ రాజ్యం భారతదేశంలో ప్రధాన శక్తిగా ఉదయం, వ్యూహాత్మక స్థానం"
+	},
+	{
+		"year": "-980",
+		"name_en": "Rome Founded (Italy)",
+		"name_te": "రోమ్ స్థాపన (ఇటలీ)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.49
+		},
+		"desc_en": "Rome traditionally founded by Romulus",
+		"desc_te": "రోమ్ పారంపరికంగా రోమూలస్ ద్వారా స్థాపన"
+	},
+	{
+		"year": "-960",
+		"name_en": "Greek City-States Emerge (Greece)",
+		"name_te": "గ్రీక్ నగర-రాజ్యాలు ఉద్భవం (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greek city-states (polis) emerge from Dark Age",
+		"desc_te": "గ్రీక్ నగర-రాజ్యాలు (పోలిస్) చీకటి యుగం నుండి ఉద్భవం"
+	},
+	{
+		"year": "-940",
+		"name_en": "Confucius Born (China)",
+		"name_te": "కన్ఫ్యూషియస్ జన్ముతారు (చైనా)",
+		"location": {
+			"lat": 35.09,
+			"lng": 117.14
+		},
+		"desc_en": "Confucius born, will shape Chinese philosophy",
+		"desc_te": "కన్ఫ్యూషియస్ జన్మితారు, చైనీస్ తత్వశాస్త్రాన్ని రూపొందిస్తారు"
+	},
+	{
+		"year": "-920",
+		"name_en": "Ancient Olympics Begin (Greece)",
+		"name_te": "ప్రాచీన ఒలిమ్పిక్‌లు ప్రారంభ (గ్రీస్)",
+		"location": {
+			"lat": 37.63,
+			"lng": 21.63
+		},
+		"desc_en": "Ancient Olympic Games traditionally begin in 776 BC",
+		"desc_te": "ప్రాచీన ఒలిమ్పిక్ ఆటలు పారంపరికంగా 776 BC లో ప్రారంభ"
+	}
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "joshua_01",
+    "name_tel": "జర్డన్",
+    "name_eng": "Jordan River Crossing",
+    "coords": [31.870, 35.500],
+    "description": "Israelites cross the Jordan River",
+    "isMajorStop": true
+  },
+  {
+    "id": "joshua_02",
+    "name_tel": "జెరిఖో",
+    "name_eng": "Jericho",
+    "coords": [31.863, 35.448],
+    "description": "First conquest - walls fall down",
+    "isMajorStop": true
+  },
+  {
+    "id": "joshua_03",
+    "name_tel": "ఐ",
+    "name_eng": "Ai",
+    "coords": [31.945, 35.234],
+    "description": "Second conquest",
+    "isMajorStop": true
+  },
+  {
+    "id": "joshua_04",
+    "name_tel": "గిబియోను",
+    "name_eng": "Gibeon",
+    "coords": [31.947, 35.200],
+    "description": "The sun stands still in the sky",
+    "isMajorStop": true
+  },
+  {
+    "id": "joshua_05",
+    "name_tel": "హెబ్రోను",
+    "name_eng": "Hebron",
+    "coords": [31.529, 35.099],
+    "description": "Final major conquest",
+    "isMajorStop": true
+  }
+]

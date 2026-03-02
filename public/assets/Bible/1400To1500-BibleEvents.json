@@ -1,0 +1,211 @@
+[
+	{
+		"year": "1400",
+		"name_en": "Council of Constance",
+		"name_te": "కాన్‍స్టాంస్ సమావేశం",
+		"location": {
+			"lat": 47.67,
+			"lng": 9.18
+		},
+		"desc_en": "Council of Constance attempts to heal Western Schism. Calls for church reform from corruption.",
+		"desc_te": "కాన్‍స్టాంస్ సమావేశం పశ్చిమ విభజనం నయం చేయటానికి ప్రయత్నించిన విషయం. భ్రష్టత నుండి సంస్కరణ పిలిచిన విషయం."
+	},
+	{
+		"year": "1405",
+		"name_en": "Hus Burned at Stake",
+		"name_te": "హస్ కాళ్ళకు క్షతమైన విషయం",
+		"location": {
+			"lat": 47.67,
+			"lng": 9.18
+		},
+		"desc_en": "John Hus executed at Council of Constance. Martyrdom inspires Hussite movement and reform.",
+		"desc_te": "జాన్ హస్ కాన్‍స్టాంస్ సమావేశంలో మరణదండన సంపోషిత చేయబడిన విషయం. శిరోమణిత్వం హుసిట్ చలనం, సంస్కరణను ప్రేరేపించిన విషయం."
+	},
+	{
+		"year": "1410",
+		"name_en": "Hussite Wars",
+		"name_te": "హుసిట్ యుద్ధాలు",
+		"location": {
+			"lat": 50,
+			"lng": 15
+		},
+		"desc_en": "Hussite wars in Bohemia challenge papal authority. Religious revolution begins in Eastern Europe.",
+		"desc_te": "బోహేమియాలో హుసిట్ యుద్ధాలు పాపల్ అధికారం సవాలు చేసిన విషయం. తూర్పు ఐరోపాలో ధార్మిక విప్లవం ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1415",
+		"name_en": "Gutenberg's Printing Press",
+		"name_te": "గుటెన్‌బర్గ్ ముద్రణ యంత్రం",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Gutenberg develops movable type printing. Communication revolution transforms religious authority.",
+		"desc_te": "గుటెన్‌బర్గ్ చర్యనీయ రకం ముద్రణ అభివృద్ధి చేసిన విషయం. సంభాషణ విప్లవం ధార్మిక అధికారాన్ని రూపాంతరణ చేసిన విషయం."
+	},
+	{
+		"year": "1420",
+		"name_en": "Joan of Arc and Church Authority",
+		"name_te": "జోన్ ఆఫ్ ఆర్క్, చర్చ అధికారం",
+		"location": {
+			"lat": 48.7,
+			"lng": 1.5
+		},
+		"desc_en": "Joan of Arc claims divine visions. Church tries her for heresy, burns her at stake.",
+		"desc_te": "జోన్ ఆఫ్ ఆర్క్ దేవుని దృష్టి కోరిన విషయం. చర్చ ఆమెను నిందితత్వానికి ప్రయత్నించిన విషయం, కాళ్ళకు క్షతం చేసిన విషయం."
+	},
+	{
+		"year": "1425",
+		"name_en": "Early Printing and Reformation",
+		"name_te": "ప్రారంభ ముద్రణ, సంస్కరణ",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Printing technology begins to challenge church monopoly on information and scripture.",
+		"desc_te": "ముద్రణ సాంకేతిక జ్ఞానం, గ్రంధాలపై చర్చ ఏకాధికారం సవాలు చేయటం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1430",
+		"name_en": "Church Councils Continue Reform",
+		"name_te": "చర్చ సమావేశాలు సంస్కరణ కొనసాగిస్తాయి",
+		"location": {
+			"lat": 45.2,
+			"lng": 12
+		},
+		"desc_en": "Councils attempt to reform church abuses. Corruption, simony continue despite efforts.",
+		"desc_te": "సమావేశాలు చర్చ దుర్వ్యవహారాల సంస్కరణ ప్రయత్నించిన విషయం. ప్రయత్నాలు ఉన్నప్పటికీ, భ్రష్టత, విక్రయం కొనసాగిన విషయం."
+	},
+	{
+		"year": "1435",
+		"name_en": "Renaissance and Church Authority",
+		"name_te": "పునరుజ్జీవనం, చర్చ అధికారం",
+		"location": {
+			"lat": 43.77,
+			"lng": 11.25
+		},
+		"desc_en": "Renaissance humanism questions church authority. Classical learning challenges theological monopoly.",
+		"desc_te": "పునరుజ్జీవనం మానవతావాదం చర్చ అధికారం ప్రశ్నించిన విషయం. ప్రాచీన జ్ఞానం దేవతాత్త్వ ఏకాధికారం సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1440",
+		"name_en": "Printing Bible in Vernacular",
+		"name_te": "స్థానిక ভాషలో బైబిల్ ముద్రణ",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Early printed Bibles in local languages. Church loses monopoly on scripture interpretation.",
+		"desc_te": "ప్రారంభ ముద్రిత బైబిల్‌లు స్థానిక భాషలలో. చర్చ గ్రంధ వివరణపై ఏకాధికారం కోల్పోయిన విషయం."
+	},
+	{
+		"year": "1445",
+		"name_en": "Gutenberg's Bible (Gutenberg Bible)",
+		"name_te": "గుటెన్‌బర్గ్ బైబిల్",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "First printed Bible (Gutenberg Bible) completed. Makes scripture accessible to more people.",
+		"desc_te": "మొదటి ముద్రిత బైబిల్ (గుటెన్‌బర్గ్ బైబిల్) పూర్తిచేయబడిన విషయం. ఎక్కువ ప్రజలకు గ్రంధ సુలభం చేసిన విషయం."
+	},
+	{
+		"year": "1450",
+		"name_en": "Fall of Constantinople",
+		"name_te": "కాన్‍స్టాంటినోపల్ పతనం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Constantinople falls to Ottomans. Orthodox Christianity under Islamic rule. Greek scholars flee West.",
+		"desc_te": "కాన్‍స్టాంటినోపల్ ఆస్మానీ సైన్యానికి రాజుకాబడిన విషయం. ఆర్థోడాక్స్ క్రీస్టియానిటీ ఇస్లామిక్ పాలనలో ఉన్నది. గ్రీక్ ఆలోచనాపరులు పశ్చిమకు విమానమైన విషయం."
+	},
+	{
+		"year": "1455",
+		"name_en": "Spanish Inquisition Established",
+		"name_te": "స్పానిష్ విచారణ స్థాపిత చేయబడిన విషయం",
+		"location": {
+			"lat": 40.4,
+			"lng": -3.7
+		},
+		"desc_en": "Spanish Inquisition officially established. Systematic persecution of Jews, Muslims, heretics.",
+		"desc_te": "స్పానిష్ విచారణ అధికారికంగా స్థాపిత చేయబడిన విషయం. యూదులు, ముస్లింలు, నిందితుల వ్యవస్థిత వేధన."
+	},
+	{
+		"year": "1460",
+		"name_en": "Gutenberg Press Revolution",
+		"name_te": "గుటెన్‌బర్గ్ ప్రెస్ విప్లవం",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Printing presses multiply across Europe. Information becomes decentralized from church control.",
+		"desc_te": "ముద్రణ యంత్రాలు ఐరోపా వ్యాపకంగా గుణిస్తాయి. సమాచారం చర్చ నియంత్రణ నుండి వికేంద్రీకృత కాబడిన విషయం."
+	},
+	{
+		"year": "1465",
+		"name_en": "Portuguese Exploration and Mission",
+		"name_te": "పోర్చుగీస్ అన్వేషణ, ఆయోగ",
+		"location": {
+			"lat": 10,
+			"lng": 18
+		},
+		"desc_en": "Portuguese explorers reach Africa. Church prepares for missionary expansion globally.",
+		"desc_te": "పోర్చుగీస్ అన్వేషకులు ఆఫ్రికా చేరిన విషయం. చర్చ ప్రపంచవ్యాపక మిషనరీ విస్తరణకు సన్నద్ధమైన విషయం."
+	},
+	{
+		"year": "1470",
+		"name_en": "Church Patronage of Arts",
+		"name_te": "కళల చర్చ ఆనుకూల్యం",
+		"location": {
+			"lat": 43.77,
+			"lng": 11.25
+		},
+		"desc_en": "Church becomes major patron of Renaissance art. Michelangelo and others create masterpieces.",
+		"desc_te": "చర్చ పునరుజ్జీవనం కళకు ప్రధాన పృష్ఠపోషకుడు కాబడిన విషయం. మిఖేల్‌జెలో, ఇతరులు చిత్రకర్ములు సృష్టించిన విషయం."
+	},
+	{
+		"year": "1475",
+		"name_en": "Sixtus IV and Papal Power",
+		"name_te": "సిక్ష్టస్ IV, పాపల్ శక్తి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Sixtus IV expands papal territory and authority. Nepotism and corruption intensify.",
+		"desc_te": "పోప్ సిక్ష్టస్ IV పాపల్ భూభాగం, అధికారం విస్తరించిన విషయం. కుటుంబం అనుకూలత, భ్రష్టత తీవ్రమైన విషయం."
+	},
+	{
+		"year": "1480",
+		"name_en": "Greek Texts and Reformation",
+		"name_te": "గ్రీక్ గ్రంధాలు, సంస్కరణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Greek manuscripts from Constantinople reach West. Humanists begin studying original biblical texts.",
+		"desc_te": "కాన్‍స్టాంటినోపల్ నుండి గ్రీక్ పాండుగ్రంధాలు పశ్చిమ చేరిన విషయం. మానవతావాదులు అసలు గ్రంధ అధ్యయనం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1485",
+		"name_en": "Columbus and Mission Field Expansion",
+		"name_te": "కొలంబస్, ఆయోగ క్షేత్ర విస్తరణ",
+		"location": {
+			"lat": 18,
+			"lng": -68
+		},
+		"desc_en": "Columbus reaches Americas. Church prepares massive missionary expansion into new world.",
+		"desc_te": "కొలంబస్ అమెరికాలను చేరిన విషయం. చర్చ నవీన ప్రపంచంలో భారీ మిషనరీ విస్తరణకు సన్నద్ధమైన విషయం."
+	},
+	{
+		"year": "1490",
+		"name_en": "Reformation on Eve of Change",
+		"name_te": "పరిবర్తన సీమార్థాన సంస్కరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "By 1500, conditions set for Reformation. Church corruption, printing technology, reform movements converge.",
+		"desc_te": "1500 నాటికి, సంస్కరణకు పరిస్థితులు సిద్ధం చేయబడిన విషయం. చర్చ భ్రష్టత, ముద్రణ సాంకేతిక జ్ఞానం, సంస్కరణ చలనాలు సమ్మిళితమైన విషయం."
+	}
+]

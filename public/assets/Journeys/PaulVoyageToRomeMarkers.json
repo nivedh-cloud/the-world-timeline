@@ -1,0 +1,106 @@
+[
+  {
+    "id": "rome_01",
+    "name_tel": "కైసిరియా",
+    "name_eng": "Caesarea",
+    "coords": [32.518, 35.007],
+    "description": "Paul is held prisoner here for two years. Finally appeals to Caesar.",
+    "isMajorStop": true
+  },
+  {
+    "id": "rome_02",
+    "name_tel": "సీడాన్‌",
+    "name_eng": "Sidon",
+    "coords": [33.626, 35.369],
+    "description": "First port on voyage. Julius the centurion treats Paul kindly.",
+    "isMajorStop": false
+  },
+  {
+    "id": "rome_03",
+    "name_tel": "సిప్రస్‌",
+    "name_eng": "Cyprus",
+    "coords": [34.578, 33.429],
+    "description": "Ship sails under Cyprus due to headwinds. Shelter from stronger winds.",
+    "isMajorStop": false
+  },
+  {
+    "id": "rome_04",
+    "name_tel": "సిలిసియా",
+    "name_eng": "Cilicia & Pamphylia",
+    "coords": [36.0, 32.0],
+    "description": "Ship sails along coast of Asia Minor. Makes port at Myra in Lycia.",
+    "isMajorStop": false
+  },
+  {
+    "id": "rome_05",
+    "name_tel": "కూరేటిస్‌",
+    "name_eng": "Cnidus",
+    "coords": [36.688, 27.261],
+    "description": "Ship has difficulty sailing westward due to strong winds.",
+    "isMajorStop": false
+  },
+  {
+    "id": "rome_06",
+    "name_tel": "క్రీట్‌",
+    "name_eng": "Crete",
+    "coords": [35.219, 25.138],
+    "description": "Ship puts in at Fair Havens. Paul warns them not to sail further. Winter coming.",
+    "isMajorStop": true
+  },
+  {
+    "id": "rome_07",
+    "name_tel": "మెడిటరానియన్‌ సముద్రం",
+    "name_eng": "Mediterranean Storm",
+    "coords": [34.0, 20.0],
+    "description": "Violent storm for 14 days. Ship breaks apart. But all 276 aboard survive as Paul promised.",
+    "isMajorStop": true
+  },
+  {
+    "id": "rome_08",
+    "name_tel": "మాల్టా",
+    "name_eng": "Malta",
+    "coords": [35.937, 14.375],
+    "description": "Paul and all shipwrecked escape to island. Paul is bitten by viper but unharmed. Heals sick.",
+    "isMajorStop": true
+  },
+  {
+    "id": "rome_09",
+    "name_tel": "సిరాక్యూజ్‌",
+    "name_eng": "Syracuse (Sicily)",
+    "coords": [37.075, 15.287],
+    "description": "Ship from Alexandria picks them up. Three-day stop before sailing on.",
+    "isMajorStop": false
+  },
+  {
+    "id": "rome_10",
+    "name_tel": "రిజియం",
+    "name_eng": "Rhegium",
+    "coords": [38.118, 15.639],
+    "description": "Ship reaches tip of Italy. They wait for favorable winds.",
+    "isMajorStop": false
+  },
+  {
+    "id": "rome_11",
+    "name_tel": "పువోలీ",
+    "name_eng": "Puteoli",
+    "coords": [40.826, 14.107],
+    "description": "Roman port. Paul meets believers here who invite him to stay seven days.",
+    "isMajorStop": true
+  },
+  {
+    "id": "rome_12",
+    "name_tel": "ఆపీ ఫోరమ్‌",
+    "name_eng": "Appii Forum",
+    "coords": [41.591, 12.693],
+    "description": "Christians from Rome come to meet Paul on the famous Appian Way Road.",
+    "isMajorStop": true
+  },
+  {
+    "id": "rome_13",
+    "name_tel": "రోమ్",
+    "name_eng": "Rome",
+    "coords": [41.902, 12.496],
+    "description": "Paul arrives in Rome as prisoner. First under house arrest, then awaiting trial before Caesar.",
+    "isMajorStop": true
+  }
+]

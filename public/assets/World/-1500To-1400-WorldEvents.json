@@ -1,0 +1,266 @@
+[
+	{
+		"year": "-1500",
+		"name_en": "Thutmose III's Military Campaigns (Egypt)",
+		"name_te": "థుత్మోస్ III సైనిక చర్యలు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Thutmose III conducts Battle of Megiddo, victories across Asia",
+		"desc_te": "థుత్మోస్ III మెగిడో యుద్ధం, ఆసియా అంతటా విజయాలు"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Hittite Suppililuama Expands (Anatolia)",
+		"name_te": "హిట్టైట్ సుప్పిలులియుమా విస్తరిస్తారు (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Suppililuama I expands Hittite empire over Northern Syria",
+		"desc_te": "సుప్పిలులియుమా I ఉత్తర సిరియా పై హిట్టైట్ సామ్రాజ్యం విస్తరిస్తారు"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Kadasman-Enlil Kassite Babylon (Babylon)",
+		"name_te": "కదాస్మన్-ఎన్‌లిల్ కస్సిట్ బాబిలోన్ (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Kadasman-Enlil rules Kassite Babylon with prosperity",
+		"desc_te": "కదాస్మన్-ఎన్‌లిల్ కస్సిట్ బాబిలోన్ సమృద్ధితో పాలన"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Late Shang Bronze Vessels (China)",
+		"name_te": "చివరి షాంగ్ రాగు పాత్రలు (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Late Shang period develops sophisticated bronze casting techniques",
+		"desc_te": "చివరి షాంగ్ కాలం అత్యాధునిక రాగు కాస్టింగ్ పద్ధతులను అభివృద్ధి"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Vedic Kingdoms Warfare (India)",
+		"name_te": "వేదిక రాజ్యాల యుద్ధం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic kingdoms including Kuru and Panchala engage in warfare",
+		"desc_te": "కూరు, పంచాలతో సహా వేదిక రాజ్యాలు యుద్ధానికి సంబంధం"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Mycenaean Sea Raids (Greece)",
+		"name_te": "మైసెనియన్ సముద్ర దాడులు (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean warriors conduct sea raids across Mediterranean",
+		"desc_te": "మైసెనియన్ యోధులు భూమధ్య సాగర అంతటా సముద్ర దాడులు నిర్వహిస్తారు"
+	},
+	{
+		"year": "-1480",
+		"name_en": "Amenhotep III Golden Age (Egypt)",
+		"name_te": "అమెనహోటెప్ III సువర్ణకాలం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Amenhotep III begins golden age of Egyptian wealth and culture",
+		"desc_te": "అమెనహోటెప్ III ఈజిప్టియన్ సంపద, సంస్కృతి సువర్ణకాలం ప్రారంభ"
+	},
+	{
+		"year": "-1480",
+		"name_en": "Hittite-Mitanni Peace Treaty (Levant)",
+		"name_te": "హిట్టైట్-మిటన్నీ శాంతి సంధి (లెవాంట్)",
+		"location": {
+			"lat": 38,
+			"lng": 42
+		},
+		"desc_en": "Hittites establish peace treaty with Mitanni kingdom",
+		"desc_te": "హిట్టైట్‌లు మిటన్నీ రాజ్యంతో శాంతి సంధి స్థాపన"
+	},
+	{
+		"year": "-1480",
+		"name_en": "Kassite Religion Develops (Babylon)",
+		"name_te": "కస్సిట్ మతం అభివృద్ధి (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Kassite dynasty develops Babylonian religion and culture",
+		"desc_te": "కస్సిట్ డైనస్టీ బాబిలోనియన్ మతం, సంస్కృతిని అభివృద్ధి"
+	},
+	{
+		"year": "-1480",
+		"name_en": "Zhou Dynasty Administration (China)",
+		"name_te": "జోవు రాజవంశ పరిపాలన (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty develops feudal system and administration",
+		"desc_te": "జోవు రాజవంశం సామంత వ్యవస్థ, పరిపాలనను అభివృద్ధి"
+	},
+	{
+		"year": "-1480",
+		"name_en": "Vedic Literature Peak (India)",
+		"name_te": "వేదిక సాహిత్యం శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic literature including Upanishads begins composition",
+		"desc_te": "ఉపనిషదుతో సహా వేదిక సాహిత్యం సంపాదన ప్రారంభ"
+	},
+	{
+		"year": "-1460",
+		"name_en": "Amenhotep III Akhenaten Era (Egypt)",
+		"name_te": "అమెనహోటెప్ III ఆఖెనాటెన్ యుగం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Amenhotep III rules, followed by religious reforms under Akhenaten",
+		"desc_te": "అమెనహోటెప్ III పాలన, ఆఖెనాటెన్ కింద మతపరమైన సంస్కారాలు"
+	},
+	{
+		"year": "-1460",
+		"name_en": "Mycenaean-Minoan Conflict (Greece)",
+		"name_te": "మైసెనియన్-మినోయన్ సంఘర్షణ (గ్రీస్)",
+		"location": {
+			"lat": 36,
+			"lng": 25
+		},
+		"desc_en": "Mycenaeans dominate Minoan civilization on Crete",
+		"desc_te": "మైసెనియన్‌లు క్రీట్‌లో మినోయన్ నాగరికతపై ఆధిపత్యం"
+	},
+	{
+		"year": "-1460",
+		"name_en": "Suppililuama II Hittite King (Anatolia)",
+		"name_te": "సుప్పిలులియుమా II హిట్టైట్ రాజు (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Suppililuama II becomes Hittite king, continues expansion",
+		"desc_te": "సుప్పిలులియుమా II హిట్టైట్ రాజు, విస్తరణ కొనసాగిస్తారు"
+	},
+	{
+		"year": "-1460",
+		"name_en": "Shang Dynasty Zenith (China)",
+		"name_te": "షాంగ్ రాజవంశ శిఖరం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty reaches height of power and culture",
+		"desc_te": "షాంగ్ రాజవంశం శక్తి, సంస్కృతి శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1460",
+		"name_en": "Nubian Kingdom Expands (Africa)",
+		"name_te": "న్యూబియన్ రాజ్యం విస్తరిస్తుంది (ఆఫ్రికా)",
+		"location": {
+			"lat": 18,
+			"lng": 32.5
+		},
+		"desc_en": "Nubian kingdoms expand trade routes and control in Africa",
+		"desc_te": "న్యూబియన్ రాజ్యాలు ఆఫ్రికాలో వాణిజ్య మార్గాలు, నియంత్రణ విస్తరిస్తాయి"
+	},
+	{
+		"year": "-1460",
+		"name_en": "Polynesian Expansion East (Pacific)",
+		"name_te": "పాలినీషియన్ విస్తరణ తూర్పుకు (పసిఫిక్)",
+		"location": {
+			"lat": -15,
+			"lng": 170
+		},
+		"desc_en": "Polynesian peoples expand eastward across Pacific islands",
+		"desc_te": "పాలినీషియన్ ప్రజలు పసిఫిక్ ద్వీపాల్లో తూర్పుకు విస్తరిస్తారు"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Akhenaten Monotheism (Egypt)",
+		"name_te": "ఆఖెనాటెన్ ఏకేశ్వరవాదం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Akhenaten introduces monotheism, worships Aten sun god",
+		"desc_te": "ఆఖెనాటెన్ ఏకేశ్వరవాదం పరిచయం, అటెన్ సూర్య దేవతపై పూజ"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Tutankhamun Restoration (Egypt)",
+		"name_te": "తుతఖామున్ పునరుద్ధారణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Tutankhamun restores traditional Egyptian religion",
+		"desc_te": "తుతఖామున్ ఐతిహ్య ఈజిప్టియన్ మతం పునరుద్ధారణ"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Ramesses I Dynasty Begins (Egypt)",
+		"name_te": "రమెస్సెస్ I డైనస్టీ ప్రారంభ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses I dynasty begins, restores Egyptian power",
+		"desc_te": "రమెస్సెస్ I డైనస్టీ ప్రారంభ, ఈజిప్టియన్ శక్తి పునరుద్ధారణ"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Ramesses II Great Builder (Egypt)",
+		"name_te": "రమెస్సెస్ II గ్రేట్ బిల్డర్ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses II begins construction of temples and monuments",
+		"desc_te": "రమెస్సెస్ II దేవాలయాలు, స్మారక నిర్మాణం ప్రారంభ"
+	},
+	{
+		"year": "-1420",
+		"name_en": "Ramesses II Battles Hittites (Egypt)",
+		"name_te": "రమెస్సెస్ II హిట్టైట్‌లతో యుద్ధం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses II fights Hittites, signs peace treaty",
+		"desc_te": "రమెస్సెస్ II హిట్టైట్‌లతో యుద్ధం, శాంతి సంధి సంతకం"
+	},
+	{
+		"year": "-1420",
+		"name_en": "Battle of Kadesh (Levant)",
+		"name_te": "కదేష్ యుద్ధం (లెవాంట్)",
+		"location": {
+			"lat": 34.77,
+			"lng": 36.37
+		},
+		"desc_en": "Famous Battle of Kadesh between Egypt and Hittites",
+		"desc_te": "ఈజిప్ట్, హిట్టైట్‌ల మధ్య ప్రసిద్ధ కదేష్ యుద్ధం"
+	},
+	{
+		"year": "-1420",
+		"name_en": "Hittite-Egyptian Peace Treaty (Levant)",
+		"name_te": "హిట్టైట్-ఈజిప్టియన్ శాంతి సంధి (లెవాంట్)",
+		"location": {
+			"lat": 38,
+			"lng": 34
+		},
+		"desc_en": "Hittites and Egypt sign peace treaty, divide Levant",
+		"desc_te": "హిట్టైట్‌లు, ఈజిప్ట్ శాంతి సంధి, లెవాంట్ విభజన"
+	}
+]

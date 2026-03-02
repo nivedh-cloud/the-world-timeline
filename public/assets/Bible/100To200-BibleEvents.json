@@ -1,0 +1,233 @@
+[
+	{
+		"year": "100",
+		"name_en": "Early Church Consolidation",
+		"name_te": "ఆరంభ చర్చ సమీకరణ",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Christian communities grow and organize across the Mediterranean. Bishops establish hierarchical church structure.",
+		"desc_te": "క్రీస్టియన్ సమూహాలు పెరిగి, సంస్థాపన చేయబడ్డాయి. బిషప్‌లు చర్చ నిర్వహణ నిర్ధారణ చేసారు."
+	},
+	{
+		"year": "107",
+		"name_en": "Ignatius of Antioch's Martyrdom",
+		"name_te": "ఆంటియోక్ ఇగ్నేషియస్ రక్త సాక్ష్యం",
+		"location": {
+			"lat": 36.2,
+			"lng": 36.1
+		},
+		"desc_en": "Ignatius, bishop of Antioch, is martyred in Rome after being arrested for his Christian faith.",
+		"desc_te": "ఆంటియోక్ బిషప్ ఇగ్నేషియస్ క్రీస్టియన్ విశ్వాసం కారణంగా రోమలో రక్త సాక్ష్యవాని కాబడ్డాడు."
+	},
+	{
+		"year": "110",
+		"name_en": "Apostolic Fathers' Writings",
+		"name_te": "అపోస్టలీయ తండ్రుల రచనలు",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Church fathers like Polycarp, Clement, and Ignatius write epistles providing theological guidance to early churches.",
+		"desc_te": "పాలీకార్ప్, క్లెమెంట్, ఇగ్నేషియస్ వంటి చర్చ తండ్రులు ఆధ్యాత్మిక నిర్దేశన ఇస్తూ పత్రికలు రాశారు."
+	},
+	{
+		"year": "115",
+		"name_en": "Gospel of Thomas Disputed",
+		"name_te": "థామస్ సువార్త వివాదం",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Non-canonical gospels emerge. Church leaders debate which texts are authoritative scripture.",
+		"desc_te": "అధికారులేని సువార్తలు ఉద్భవించాయి. చర్చ నాయకులు ఆధికారిక గ్రంధాలు ఏవిధమైనవో చర్చించారు."
+	},
+	{
+		"year": "120",
+		"name_en": "Polycarp of Smyrna's Leadership",
+		"name_te": "స్మిర్న స్మిర్నా పాలీకార్ప్ నాయకత్వం",
+		"location": {
+			"lat": 38.55,
+			"lng": 26.63
+		},
+		"desc_en": "Polycarp, a disciple of John, leads the church in Smyrna and maintains apostolic traditions.",
+		"desc_te": "జాన్ శిష్యుడు పాలీకార్ప్ స్మిర్నా చర్చిని నడిపాడు, అపోస్టలీయ సంప్రదాయాలను నిర్వహించాడు."
+	},
+	{
+		"year": "125",
+		"name_en": "Justin Martyr Converts",
+		"name_te": "జస్టిన్ మార్టిర్ మతాంతరం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Justin, a pagan philosopher, converts to Christianity and becomes an influential Christian apologist and theologian.",
+		"desc_te": "అన్యమత తత్త్వవేత్త జస్టిన్ క్రీస్టియానిటీకి మతాంతరం పొంది, ప్రభావశాలీ ఆధ్యాత్మిక రక్షకుడు, తత్త్వవేత్త కాబడ్డాడు."
+	},
+	{
+		"year": "130",
+		"name_en": "Gnostic Heresy Emergence",
+		"name_te": "జ్ఞానవాద నిందితత్వం ఆవిర్భావం",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Gnostic sects gain followers with alternative theological teachings. Church fathers respond with orthodox counterarguments.",
+		"desc_te": "జ్ఞానవాద సంప్రదాయాలు ఆధ్యాత్మిక ప్రత్యామ్నాయ బోధన చేసి, అనువర్తకులను ఆకర్షించారు. చర్చ తండ్రులు ఆర్థోడాక్స్ వ్యతిరేక వాద రాశారు."
+	},
+	{
+		"year": "140",
+		"name_en": "Marcion's Heresy Rejected",
+		"name_te": "మార్సియన్ నిందితత్వం తిరస్కరణ",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Marcion proposes alternate New Testament canon. Church rejects his teachings and affirms Old Testament authority.",
+		"desc_te": "మార్సియన్ విభిన్న సంచయ కానన్‌ను ప్రతిపాదించాడు. చర్చి అతని బోధనను తిరస్కరించి, పాత నిబంధన అధికారాన్ని సమర్థించాడు."
+	},
+	{
+		"year": "155",
+		"name_en": "Polycarp Martyred in Smyrna",
+		"name_te": "స్మిర్నాలో పాలీకార్ప్ రక్త సాక్ష్యం",
+		"location": {
+			"lat": 38.55,
+			"lng": 26.63
+		},
+		"desc_en": "Polycarp is executed as a martyr during local pagan festival persecutions, strengthening Christian resolve.",
+		"desc_te": "పాలీకార్ప్ స్థానిక నిందితత్వ వేధనల సమయంలో చంపబడ్డాడు, క్రీస్టియన్ సంకల్పం బలపడిన విషయం."
+	},
+	{
+		"year": "160",
+		"name_en": "Justin Martyr's Defense",
+		"name_te": "జస్టిన్ మార్టిర్ రక్ష",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Justin writes his Apologies defending Christian faith to Roman authorities, arguing for religious tolerance.",
+		"desc_te": "జస్టిన్ రోమన్ అధికారులకు క్రీస్టియన్ విశ్వాసం రక్షించటానికి తన రక్ష గ్రంధాలు రాశాడు, ధార్మిక సహనభావం కోసం వాదించాడు."
+	},
+	{
+		"year": "165",
+		"name_en": "Justin Martyr Executed",
+		"name_te": "జస్టిన్ మార్టిర్ ఏకాన్నం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Justin is martyred in Rome for refusing to worship pagan gods, maintaining Christian faith until death.",
+		"desc_te": "జస్టిన్ నిందితదేవతలను కొలుకోవడానికి నిరాకరించి రోమలో రక్త సాక్ష్యవాని కాబడ్డాడు, చెట్టుకుండ దేవభక్తిని నిర్వహించాడు."
+	},
+	{
+		"year": "170",
+		"name_en": "Tatian's Diatessaron Written",
+		"name_te": "టేషియన్ డయాటెస్సరాన్ రచన",
+		"location": {
+			"lat": 36.2,
+			"lng": 36.1
+		},
+		"desc_en": "Tatian, student of Justin Martyr, writes the Diatessaron, a harmony of the four Gospels.",
+		"desc_te": "జస్టిన్ శిష్యుడు టేషియన్ నాలుగు సువార్తల సమన్వయం డయాటెస్సరాన్ రాసుకొని."
+	},
+	{
+		"year": "176",
+		"name_en": "Marcus Aurelius's Persecution",
+		"name_te": "మార్కస్ ఆరేలియస్ నిర్భయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman Emperor Marcus Aurelius initiates persecutions of Christians throughout the empire.",
+		"desc_te": "రోమన్ చక్రవర్తి మార్కస్ ఆరేలియస్ సామ్రాజ్యంలో క్రీస్టియన్‌లకు వేధన చేయించాడు."
+	},
+	{
+		"year": "180",
+		"name_en": "Irenaeus Becomes Bishop of Lyon",
+		"name_te": "లియోన్ బిషప్‌గా ఐరెనియస్",
+		"location": {
+			"lat": 45.76,
+			"lng": 4.84
+		},
+		"desc_en": "Irenaeus, a church father, becomes bishop of Lyon and writes against Gnostic heresies, defending orthodox doctrine.",
+		"desc_te": "చర్చ తండ్రు ఐరెనియస్ లియోన్ బిషప్‌గా పరిణమించి, జ్ఞానవాద నిందితత్వానికి వ్యతిరేకంగా రాశాడు, ఆర్థోడాక్స్ సిద్ధాంతం రక్షించాడు."
+	},
+	{
+		"year": "185",
+		"name_en": "Formation of Biblical Canon",
+		"name_te": "బైబిల్ కానన్ నిర్మాణం",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Church leaders debate and establish which texts are divinely inspired canonical scripture.",
+		"desc_te": "చర్చ నాయకులు ఏ గ్రంధాలు దేవానికి ప్రేరితమైన కానన్‌గా ఉన్నాయో చర్చించి నిర్ణయించారు."
+	},
+	{
+		"year": "190",
+		"name_en": "Development of Creeds",
+		"name_te": "నిశ్చితార్థాల అభివృద్ధి",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Early Christian creeds emerge as statements of faith, unifying Christian belief across churches.",
+		"desc_te": "ఆరంభ క్రీస్టియన్ నిశ్చితార్థాలు విశ్వాస ప్రకటనలుగా ఆవిర్భవిస్తున్నాయి, చర్చులలో ఏకీకృత విశ్వాసాన్ని సమీకృతం చేస్తున్నాయి."
+	},
+	{
+		"year": "165",
+		"name_en": "Lucian of Samosata's Philosophy Spreads",
+		"name_te": "సమోసాటా లూసియన్ తత్త్వవేత్త విస్తరణ",
+		"location": {
+			"lat": 35.8,
+			"lng": 38
+		},
+		"desc_en": "Lucian's satirical critiques of religion gain popularity, reflecting broader debates about Christianity in society.",
+		"desc_te": "లూసియన్ ధర్మం గురించిన విరుచక విమర్శలు ప్రసిద్ధిగా వెలిసిన విషయం, సమాజంలో క్రీస్టియానిటీ గురించిన విస్తృత చర్చలను ప్రతిబింబిస్తున్నాయి."
+	},
+	{
+		"year": "150",
+		"name_en": "Apocryphal Gospels Proliferate",
+		"name_te": "గుప్త సువార్తలు విస్తరణ",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Non-canonical gospels and acts continue to circulate. Church disputes over authenticity and orthodoxy.",
+		"desc_te": "అధికారులేని సువార్తలు, చర్యలు ప్రచారం కొనసాగారు. చర్చి ఆధికారత్వం, ఆర్థోడాక్స్‌తపై వివాదాలు చేసారు."
+	},
+	{
+		"year": "178",
+		"name_en": "Serapion of Antioch's Leadership",
+		"name_te": "ఆంటియోక్ సెరపియన్ నాయకత్వం",
+		"location": {
+			"lat": 36.2,
+			"lng": 36.1
+		},
+		"desc_en": "Serapion, bishop of Antioch, contends with Docetism and other heresies, strengthening Catholic orthodoxy.",
+		"desc_te": "ఆంటియోక్ బిషప్ సెరపియన్ డోసెటిజం ఇతర నిందితత్వానికి వ్యతిరేకంగా కృషి చేసి, క్యాథలిక్ ఆర్థోడాక్స్‌ను బలపరిచాడు."
+	},
+	{
+		"year": "195",
+		"name_en": "Clement of Alexandria's School",
+		"name_te": "అలెక్జాండ్రియా క్లెమెంట్ స్కూల్",
+		"location": {
+			"lat": 31.2,
+			"lng": 30.3
+		},
+		"desc_en": "Clement founds the Catechetical School of Alexandria, blending Greek philosophy with Christian theology.",
+		"desc_te": "క్లెమెంట్ అలెక్జాండ్రియా ధర్మ శాస్త్రీయ పాఠశాల సంస్థాపన చేసి, గ్రీక్ తత్త్వవేత్త, క్రీస్టియన్ దేవతాత్త్వను సమీకృతం చేశాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "Tertullian's Writings",
+		"name_te": "టర్టుల్లియన్ రచనలు",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "Tertullian, Latin theologian, writes extensively defending Christianity against pagan critics and heretics.",
+		"desc_te": "లాటిన్ తత్త్వవేత్త టర్టుల్లియన్ నిందితదేవత సమర్థకులు, నిందితత్వానికి వ్యతిరేకంగా సమర్థంగా రాశాడు."
+	}
+]

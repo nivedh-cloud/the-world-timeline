@@ -1,0 +1,1113 @@
+[
+	{
+		"year": "-2700",
+		"name_en": "Genealogy from Adam to Noah",
+		"name_te": "ఆదాము నుండి నోవా వరకు వంశావళి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The genealogy from Adam to Noah is recorded (Genesis 5:1-32)",
+		"desc_te": "ఆదాము నుండి నోవా వరకు వంశావళి వివరించబడింది (ఆదికాండము 5:1-32)"
+	},
+	{
+		"year": "-2690",
+		"name_en": "Birth of Noah",
+		"name_te": "నోవా జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah is born to Lamech (Genesis 5:28-32)",
+		"desc_te": "నోవా లామెకుకు జన్మించాడు (ఆదికాండము 5:28-32)"
+	},
+	{
+		"year": "-2680",
+		"name_en": "The World Becomes Corrupt",
+		"name_te": "లోకం భ్రష్టుడైపోవడం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The world becomes corrupt and filled with violence (Genesis 6:1-7)",
+		"desc_te": "లోకం భ్రష్టుడైపోయి హింసతో నిండి పోయింది (ఆదికాండము 6:1-7)"
+	},
+	{
+		"year": "-2670",
+		"name_en": "God Warns Noah of the Coming Flood",
+		"name_te": "దేవుడు నోవాకు ప్రళయాన్ని హెచ్చరించాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God warns Noah about the coming flood (Genesis 6:13)",
+		"desc_te": "దేవుడు నోవాకు ప్రళయాన్ని హెచ్చరించాడు (ఆదికాండము 6:13)"
+	},
+	{
+		"year": "-2660",
+		"name_en": "Noah's Sons: Shem, Ham, Japheth",
+		"name_te": "నోవా కుమారులు: శేము, హాము, యాఫెతు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah's sons Shem, Ham, and Japheth are born (Genesis 5:32)",
+		"desc_te": "నోవాకు శేము, హాము, యాఫెతు కుమారులు జన్మించారు (ఆదికాండము 5:32)"
+	},
+	{
+		"year": "-2650",
+		"name_en": "God's Covenant with Noah Foretold",
+		"name_te": "నోవాతో దేవుని ఒడంబడిక ముందుగా ప్రకటించబడింది",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God foretells His covenant with Noah (Genesis 6:18)",
+		"desc_te": "దేవుడు నోవాతో తన ఒడంబడికను ముందుగా ప్రకటించాడు (ఆదికాండము 6:18)"
+	},
+	{
+		"year": "-2640",
+		"name_en": "Noah Walks with God",
+		"name_te": "నోవా దేవునితో నడిచాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah is described as a righteous man who walked with God (Genesis 6:9)",
+		"desc_te": "నోవా దేవునితో నడిచిన నీతిమంతుడిగా వివరించబడాడు (ఆదికాండము 6:9)"
+	},
+	{
+		"year": "-2630",
+		"name_en": "Corruption and Violence Increase on Earth",
+		"name_te": "భూమిపై భ్రష్టత, హింస పెరగడం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Corruption and violence increase on the earth (Genesis 6:11-12)",
+		"desc_te": "భూమిపై భ్రష్టత, హింస పెరిగింది (ఆదికాండము 6:11-12)"
+	},
+	{
+		"year": "-2620",
+		"name_en": "God Decides to Destroy the Earth",
+		"name_te": "దేవుడు భూమిని నాశనం చేయాలని నిర్ణయించాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God decides to destroy the earth because of its corruption (Genesis 6:13)",
+		"desc_te": "భూమి భ్రష్టుడైపోయినందున దేవుడు దాన్ని నాశనం చేయాలని నిర్ణయించాడు (ఆదికాండము 6:13)"
+	},
+	{
+		"year": "-2610",
+		"name_en": "God Instructs Noah to Build the Ark",
+		"name_te": "నోవాకు నౌక నిర్మించమని దేవుని ఆజ్ఞ",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God instructs Noah to build the ark (Genesis 6:14-16)",
+		"desc_te": "దేవుడు నోవాకు నౌక నిర్మించమని ఆజ్ఞాపించాడు (ఆదికాండము 6:14-16)"
+	},
+	{
+		"year": "-2600",
+		"name_en": "Early Prophets and Righteousness before the Flood",
+		"name_te": "ప్రళయానికి ముందు ప్రారంభ ప్రవక్తలు, నీతి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early prophets and righteous men before the flood (Genesis 6:8-9)",
+		"desc_te": "ప్రళయానికి ముందు ప్రారంభ ప్రవక్తలు, నీతిమంతులు (ఆదికాండము 6:8-9)"
+	},
+	{
+		"year": "-2600",
+		"name_en": "God's Warning to the World",
+		"name_te": "దేవుని హెచ్చరిక",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God warns the world of coming judgment (Genesis 6:3, 6:13)",
+		"desc_te": "దేవుడు లోకానికి తీర్పు రాబోతుందని హెచ్చరించాడు (ఆదికాండము 6:3, 6:13)"
+	},
+	{
+		"year": "-2600",
+		"name_en": "Corruption and Violence among Peoples",
+		"name_te": "జనములలో భ్రష్టత, హింస",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Corruption and violence spread among the peoples (Genesis 6:11-12)",
+		"desc_te": "జనములలో భ్రష్టత, హింస వ్యాపించాయి (ఆదికాండము 6:11-12)"
+	},
+	{
+		"year": "-2600",
+		"name_en": "Rise of Wickedness in the World",
+		"name_te": "లోకంలో దుష్టత పెరగడం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Wickedness increases in the world before the flood (Genesis 6:5)",
+		"desc_te": "ప్రళయానికి ముందు లోకంలో దుష్టత పెరిగింది (ఆదికాండము 6:5)"
+	},
+	{
+		"year": "-2600",
+		"name_en": "God's Patience with Humanity",
+		"name_te": "మనుష్యుల పట్ల దేవుని సహనము",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God shows patience with humanity before the flood (Genesis 6:3)",
+		"desc_te": "ప్రళయానికి ముందు దేవుడు మనుష్యుల పట్ల సహనాన్ని చూపించాడు (ఆదికాండము 6:3)"
+	},
+	{
+		"year": "-2600",
+		"name_en": "Noah Finds Favor with God",
+		"name_te": "నోవా దేవుని కృప పొందాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah finds favor in the eyes of the Lord (Genesis 6:8)",
+		"desc_te": "నోవా యెహోవా దృష్టిలో కృప పొందాడు (ఆదికాండము 6:8)"
+	},
+	{
+		"year": "-2635",
+		"name_en": "Birth of Enoch, Noted for Walking with God",
+		"name_te": "ఎనోకు జననం, దేవునితో నడిచినవాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Enoch is born to Jared; he is later known for his close walk with God (Genesis 5:18-24)",
+		"desc_te": "యారెదుకు ఎనోకు జన్మించాడు; తరువాత దేవునితో నడిచినవాడిగా ప్రసిద్ధి చెందాడు (ఆదికాండము 5:18-24)"
+	},
+	{
+		"year": "-2635",
+		"name_en": "Jared's Later Years and Influence on Descendants",
+		"name_te": "యారెదు చివరి సంవత్సరాలు, సంతానంపై ప్రభావం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jared, father of Enoch, lives a long life and influences his descendants (Genesis 5:18-20)",
+		"desc_te": "ఎనోకు తండ్రి యారెదు దీర్ఘకాలం జీవించి, తన సంతానంపై ప్రభావం చూపాడు (ఆదికాండము 5:18-20)"
+	},
+	{
+		"year": "-2635",
+		"name_en": "Early Generations After Adam: Family Growth",
+		"name_te": "ఆదాం తరవాతి తరాలు: కుటుంబ విస్తరణ",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "The descendants of Adam multiply and spread across the land (Genesis 5:1-32)",
+		"desc_te": "ఆదాం సంతానం పెరిగి, భూమి మీద విస్తరించింది (ఆదికాండము 5:1-32)"
+	},
+	{
+		"year": "-2635",
+		"name_en": "Development of Early Settlements and Agriculture",
+		"name_te": "ప్రారంభ నివాసాలు, వ్యవసాయ అభివృద్ధి",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Early humans establish settlements and develop agriculture (Genesis 4:16-22)",
+		"desc_te": "ప్రారంభ మానవులు నివాసాలు ఏర్పరచుకుని, వ్యవసాయాన్ని అభివృద్ధి చేశారు (ఆదికాండము 4:16-22)"
+	},
+	{
+		"year": "-2635",
+		"name_en": "Spread of Early Technology: Tools and Music",
+		"name_te": "ప్రారంభ సాంకేతికత: పరికరాలు, సంగీతం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "The development of tools and music among early descendants of Adam (Genesis 4:20-22)",
+		"desc_te": "ఆదాం తరవాతి వారిలో పరికరాలు, సంగీతం అభివృద్ధి చెందింది (ఆదికాండము 4:20-22)"
+	},
+	{
+		"year": "-2630",
+		"name_en": "Enoch's Early Life and Faith",
+		"name_te": "ఎనోకు ప్రారంభ జీవితం మరియు విశ్వాసం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Enoch begins to distinguish himself by his faith and devotion to God (Genesis 5:21-24)",
+		"desc_te": "ఎనోకు తన విశ్వాసం మరియు దేవునికి అంకితభావంతో ప్రసిద్ధి చెందడం ప్రారంభించాడు (ఆదికాండము 5:21-24)"
+	},
+	{
+		"year": "-2630",
+		"name_en": "Expansion of Seth's Lineage",
+		"name_te": "శేత్ వంశ విస్తరణ",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "The descendants of Seth continue to multiply and maintain worship of God (Genesis 4:26)",
+		"desc_te": "శేత్ సంతానం పెరిగి, దేవుని ఆరాధన కొనసాగించారు (ఆదికాండము 4:26)"
+	},
+	{
+		"year": "-2625",
+		"name_en": "Rise of Early Clans and Tribes",
+		"name_te": "ప్రారంభ కులాలు మరియు గోత్రాల ఉద్భవం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Distinct clans and tribes begin to form among Adam's descendants (Genesis 5:1-32)",
+		"desc_te": "ఆదాం సంతానంలో ప్రత్యేకమైన కులాలు, గోత్రాలు ఏర్పడటం ప్రారంభమయ్యాయి (ఆదికాండము 5:1-32)"
+	},
+	{
+		"year": "-2620",
+		"name_en": "Growth of Early Worship Practices",
+		"name_te": "ప్రారంభ ఆరాధనా పద్ధతుల అభివృద్ధి",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Early humans develop and formalize worship practices (Genesis 4:26)",
+		"desc_te": "ప్రారంభ మానవులు ఆరాధనా పద్ధతులను అభివృద్ధి చేసి, వాటిని పరిపక్వం చేశారు (ఆదికాండము 4:26)"
+	},
+	{
+		"year": "-2610",
+		"name_en": "Transmission of Oral Traditions",
+		"name_te": "మౌఖిక సంప్రదాయాల ప్రసారం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Stories and genealogies are passed down orally among early generations (Genesis 5:1-32)",
+		"desc_te": "ప్రారంభ తరాల్లో కథలు, వంశావళులు మౌఖికంగా తరతరాలకు అందించబడ్డాయి (ఆదికాండము 5:1-32)"
+	},
+	{
+		"year": "-2635",
+		"name_en": "Jared Teaches Wisdom to Descendants",
+		"name_te": "యారెదు తన సంతానానికి జ్ఞానం బోధించాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jared, a patriarch, imparts wisdom and spiritual guidance to his children and grandchildren.",
+		"desc_te": "పితామహుడు యారెదు తన పిల్లలకు, మనవలకు జ్ఞానం మరియు ఆధ్యాత్మిక మార్గదర్శనం అందించాడు."
+	},
+	{
+		"year": "-2632",
+		"name_en": "Enoch Observes the Heavens",
+		"name_te": "ఎనోకు ఆకాశాన్ని పరిశీలించాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Enoch is noted for his curiosity about creation and the heavens, inspiring early study of the stars.",
+		"desc_te": "ఎనోకు సృష్టి మరియు ఆకాశం గురించి ఆసక్తి చూపించి, నక్షత్రాల అధ్యయనానికి ప్రేరణనిచ్చాడు."
+	},
+	{
+		"year": "-2630",
+		"name_en": "Families Settle Near Rivers for Agriculture",
+		"name_te": "కుటుంబాలు వ్యవసాయానికి నదుల దగ్గర స్థిరపడ్డారు",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "Early families begin settling near rivers, developing irrigation and farming techniques.",
+		"desc_te": "ప్రారంభ కుటుంబాలు నదుల దగ్గర స్థిరపడి, సాగునీటి వ్యవస్థలు, వ్యవసాయ పద్ధతులు అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2628",
+		"name_en": "Growth of Community Worship Gatherings",
+		"name_te": "సామూహిక ఆరాధన సమావేశాల అభివృద్ధి",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Communities begin to gather for collective worship and spiritual teaching.",
+		"desc_te": "సమూహాలు కలసి ఆరాధన, ఆధ్యాత్మిక బోధన కోసం సమావేశమయ్యే సంప్రదాయం ప్రారంభమైంది."
+	},
+	{
+		"year": "-2620",
+		"name_en": "Transmission of Blessings and Family Traditions",
+		"name_te": "ఆశీర్వాదాలు, కుటుంబ సంప్రదాయాల ప్రసారం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Patriarchs bless their descendants and pass on family traditions orally.",
+		"desc_te": "పితామహులు తమ సంతానానికి ఆశీర్వాదాలు ఇచ్చి, కుటుంబ సంప్రదాయాలను మౌఖికంగా అందించారు."
+	},
+	{
+		"year": "-2635",
+		"name_en": "Early Marriages Strengthen Family Bonds",
+		"name_te": "ప్రారంభ వివాహాలు కుటుంబ బంధాలను బలపరిచాయి",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Marriages among Adam's descendants help establish strong family and tribal bonds.",
+		"desc_te": "ఆదాం సంతానంలో వివాహాలు కుటుంబ, గోత్ర బంధాలను బలపరిచాయి."
+	},
+	{
+		"year": "-2633",
+		"name_en": "First Community Leaders Emerge",
+		"name_te": "మొదటి సామాజిక నాయకులు ఉద్భవించారు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Respected elders and leaders begin to guide early communities.",
+		"desc_te": "గౌరవనీయ వృద్ధులు, నాయకులు ప్రారంభ సమాజాలను మార్గనిర్దేశం చేయడం ప్రారంభించారు."
+	},
+	{
+		"year": "-2631",
+		"name_en": "Development of Animal Husbandry",
+		"name_te": "పశుపోషణ అభివృద్ధి",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Early families domesticate animals for food, labor, and companionship.",
+		"desc_te": "ప్రారంభ కుటుంబాలు ఆహారం, కృషి, స్నేహం కోసం జంతువులను పెంచడం ప్రారంభించారు."
+	},
+	{
+		"year": "-2627",
+		"name_en": "Oral Laws and Moral Teachings Shared",
+		"name_te": "మౌఖిక చట్టాలు, నైతిక బోధనలు పంచుకున్నారు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Patriarchs share oral laws and moral teachings to guide the next generations.",
+		"desc_te": "పితామహులు మౌఖిక చట్టాలు, నైతిక బోధనలు తదుపరి తరాలకు అందించారు."
+	},
+	{
+		"year": "-2622",
+		"name_en": "Early Use of Altars for Sacrifice",
+		"name_te": "బలి కోసం ప్రారంభ బలిపీఠాల వినియోగం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Families build simple altars to offer sacrifices and worship God.",
+		"desc_te": "కుటుంబాలు దేవునికి బలి అర్పించేందుకు సాదా బలిపీఠాలు నిర్మించారు."
+	},
+	{
+		"year": "-2635",
+		"name_en": "Nimrod: Early Mighty Ruler Emerges",
+		"name_te": "నిమ్రోదు: ప్రారంభ శక్తివంతమైన పాలకుడు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod, a descendant of Cush, is recognized as a mighty hunter and early ruler (Genesis 10:8-9)",
+		"desc_te": "కూష్ సంతానుడైన నిమ్రోదు శక్తివంతమైన వేటగాడు, ప్రారంభ పాలకుడిగా గుర్తించబడ్డాడు (ఆదికాండము 10:8-9)"
+	},
+	{
+		"year": "-2630",
+		"name_en": "Nimrod Begins Building Cities: Babel, Erech, Akkad",
+		"name_te": "నిమ్రోదు నగరాల నిర్మాణం ప్రారంభించాడు: బాబెలు, ఎరెక్, అక్కాదు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod is credited with founding cities such as Babel, Erech, and Akkad in Shinar (Genesis 10:10)",
+		"desc_te": "నిమ్రోదు షినార్ దేశంలో బాబెలు, ఎరెక్, అక్కాదు వంటి నగరాలను స్థాపించినవాడిగా చెప్పబడాడు (ఆదికాండము 10:10)"
+	},
+	{
+		"year": "-2628",
+		"name_en": "Rise of Early Kingdoms in Shinar",
+		"name_te": "షినార్‌లో ప్రారంభ రాజ్యాల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The region of Shinar sees the formation of early kingdoms and urban centers (Genesis 10:10)",
+		"desc_te": "షినార్ ప్రాంతంలో ప్రారంభ రాజ్యాలు, పట్టణ కేంద్రాలు ఏర్పడినట్లు చెప్పబడింది (ఆదికాండము 10:10)"
+	},
+	{
+		"year": "-2625",
+		"name_en": "Spread of Urban Culture and Governance",
+		"name_te": "పట్టణ సంస్కృతి, పాలన వ్యాప్తి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Urban culture, administration, and governance begin to spread in Mesopotamia.",
+		"desc_te": "మెసపొటేమియాలో పట్టణ సంస్కృతి, పాలన, పరిపాలన వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "-2620",
+		"name_en": "Early Conflicts and Alliances Among City-States",
+		"name_te": "నగర-రాష్ట్రాల మధ్య ప్రారంభ ఘర్షణలు, కూటములు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states in Shinar and surrounding regions experience early conflicts and form alliances.",
+		"desc_te": "షినార్ మరియు పరిసర ప్రాంతాల్లోని నగర-రాష్ట్రాలు ప్రారంభ ఘర్షణలు, కూటములు అనుభవించాయి."
+	},
+	{
+		"year": "-2670",
+		"name_en": "Birth of Cush, Father of Nimrod",
+		"name_te": "నిమ్రోదు తండ్రి కూష్ జననం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Cush, son of Ham and father of Nimrod, is born and becomes a key ancestor in the Genesis account (Genesis 10:6-8)",
+		"desc_te": "హాము కుమారుడు, నిమ్రోదు తండ్రి అయిన కూష్ జన్మించాడు. ఇతడు ఆదికాండము వంశావళిలో ముఖ్యమైన వ్యక్తి (ఆదికాండము 10:6-8)"
+	},
+	{
+		"year": "-2665",
+		"name_en": "Descendants of Ham Spread Across Regions",
+		"name_te": "హాము సంతానం ప్రాంతాలపై విస్తరించింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The descendants of Ham, including Cush, begin to settle and spread across Mesopotamia and Africa (Genesis 10:6-7)",
+		"desc_te": "హాము సంతానం (కూష్ సహా) మెసపొటేమియా, ఆఫ్రికా ప్రాంతాల్లో స్థిరపడటం ప్రారంభించారు (ఆదికాండము 10:6-7)"
+	},
+	{
+		"year": "-2660",
+		"name_en": "Early City Foundations Laid in Shinar",
+		"name_te": "షినార్‌లో ప్రారంభ నగరాల పునాది వేయబడింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The groundwork for future cities like Babel and Erech is laid in the land of Shinar (Genesis 10:10)",
+		"desc_te": "షినార్ దేశంలో బాబెలు, ఎరెక్ వంటి నగరాల పునాది వేయబడింది (ఆదికాండము 10:10)"
+	},
+	{
+		"year": "-2655",
+		"name_en": "Emergence of Early Tribal Leaders and Rulers",
+		"name_te": "ప్రారంభ గోత్ర నాయకులు, పాలకుల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Tribal leaders and rulers begin to emerge among the descendants of Ham and Shem.",
+		"desc_te": "హాము, షేము సంతానంలో గోత్ర నాయకులు, పాలకులు ఉద్భవించడం ప్రారంభమైంది."
+	},
+	{
+		"year": "-2640",
+		"name_en": "Development of Early Trade and Communication Routes",
+		"name_te": "ప్రారంభ వాణిజ్య, సమాచార మార్గాల అభివృద్ధి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early trade and communication routes are established between emerging city centers.",
+		"desc_te": "ఉద్భవిస్తున్న నగర కేంద్రాల మధ్య ప్రారంభ వాణిజ్య, సమాచార మార్గాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2670",
+		"name_en": "Ham's Descendants Establish New Settlements",
+		"name_te": "హాము సంతానం కొత్త నివాసాలు స్థాపించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Ham's descendants, including Cush, begin to establish new settlements in Mesopotamia and Africa.",
+		"desc_te": "హాము సంతానం (కూష్ సహా) మెసపొటేమియా, ఆఫ్రికా ప్రాంతాల్లో కొత్త నివాసాలు స్థాపించారు."
+	},
+	{
+		"year": "-2668",
+		"name_en": "Nimrod's Reputation as a Mighty Hunter Grows",
+		"name_te": "నిమ్రోదు శక్తివంతమైన వేటగాడిగా పేరుగాంచాడు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod becomes renowned for his hunting skills and leadership (Genesis 10:8-9)",
+		"desc_te": "నిమ్రోదు తన వేటగాడితనం, నాయకత్వం ద్వారా ప్రసిద్ధి చెందాడు (ఆదికాండము 10:8-9)"
+	},
+	{
+		"year": "-2665",
+		"name_en": "Early Construction of Babel's Foundations",
+		"name_te": "బాబెలు పునాదుల ప్రారంభ నిర్మాణం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The initial construction of Babel's foundations begins in Shinar (Genesis 10:10)",
+		"desc_te": "షినార్‌లో బాబెలు పునాదుల నిర్మాణం ప్రారంభమైంది (ఆదికాండము 10:10)"
+	},
+	{
+		"year": "-2660",
+		"name_en": "Formation of Early City-State Alliances",
+		"name_te": "ప్రారంభ నగర-రాష్ట్ర కూటముల ఏర్పాట్లు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Emerging city-states in Shinar form alliances for mutual benefit and defense.",
+		"desc_te": "షినార్‌లో ఏర్పడుతున్న నగర-రాష్ట్రాలు పరస్పర ప్రయోజనం, రక్షణ కోసం కూటములు ఏర్పరిచాయి."
+	},
+	{
+		"year": "-2640",
+		"name_en": "Cultural Exchange Among Early Kingdoms",
+		"name_te": "ప్రారంభ రాజ్యాల మధ్య సాంస్కృతిక మార్పిడి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early kingdoms in Mesopotamia and Africa engage in cultural exchange and trade.",
+		"desc_te": "మెసపొటేమియా, ఆఫ్రికా ప్రాంతాల్లోని ప్రారంభ రాజ్యాలు సాంస్కృతిక మార్పిడి, వాణిజ్యంలో పాల్గొన్నాయి."
+	},
+	{
+		"year": "-2670",
+		"name_en": "Cush's Family Expands and Migrates",
+		"name_te": "కూష్ కుటుంబం విస్తరించి వలస వెళ్ళింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Cush's family grows and migrates, laying the foundation for future nations (Genesis 10:7-8)",
+		"desc_te": "కూష్ కుటుంబం విస్తరించి, భవిష్యత్తు జనజాతులకు పునాది వేసింది (ఆదికాండము 10:7-8)"
+	},
+	{
+		"year": "-2668",
+		"name_en": "Nimrod Organizes First City Governments",
+		"name_te": "నిమ్రోదు మొదటి నగర పాలనలను ఏర్పాటు చేశాడు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod establishes early forms of city government and administration in Shinar.",
+		"desc_te": "నిమ్రోదు షినార్‌లో ప్రారంభ నగర పాలన, పరిపాలన వ్యవస్థలను ఏర్పాటు చేశాడు."
+	},
+	{
+		"year": "-2665",
+		"name_en": "Construction of Erech and Akkad Begins",
+		"name_te": "ఎరెక్, అక్కాదు నిర్మాణం ప్రారంభం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The building of Erech and Akkad, two major cities, is initiated by Nimrod (Genesis 10:10)",
+		"desc_te": "నిమ్రోదు ఎరెక్, అక్కాదు అనే రెండు ప్రధాన నగరాల నిర్మాణాన్ని ప్రారంభించాడు (ఆదికాండము 10:10)"
+	},
+	{
+		"year": "-2660",
+		"name_en": "Early City Walls and Defenses Constructed",
+		"name_te": "ప్రారంభ నగర గోడలు, రక్షణలు నిర్మించబడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City walls and basic defenses are constructed to protect new settlements.",
+		"desc_te": "కొత్త నివాసాలను రక్షించేందుకు నగర గోడలు, ప్రాథమిక రక్షణలు నిర్మించబడ్డాయి."
+	},
+	{
+		"year": "-2640",
+		"name_en": "Rise of Local Chieftains and Judges",
+		"name_te": "ప్రాంతీయ నాయకులు, న్యాయాధిపతుల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Local chieftains and judges begin to govern and resolve disputes among early peoples.",
+		"desc_te": "ప్రారంభ ప్రజల్లో ప్రాంతీయ నాయకులు, న్యాయాధిపతులు పాలన, వివాద పరిష్కారంలో పాల్గొన్నారు."
+	},
+	{
+		"year": "-2670",
+		"name_en": "Nimrod Encourages Urban Expansion",
+		"name_te": "నిమ్రోదు పట్టణ విస్తరణను ప్రోత్సహించాడు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod inspires the growth and expansion of cities in Shinar, leading to increased urbanization.",
+		"desc_te": "నిమ్రోదు షినార్‌లో పట్టణాల అభివృద్ధి, విస్తరణకు ప్రోత్సాహం ఇచ్చాడు."
+	},
+	{
+		"year": "-2668",
+		"name_en": "First Organized City Markets Established",
+		"name_te": "మొదటి వ్యవస్థీకృత పట్టణ మార్కెట్లు స్థాపించబడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Organized markets for trade and goods exchange are established in early cities.",
+		"desc_te": "ప్రారంభ పట్టణాల్లో వాణిజ్యం, వస్తువుల మార్పిడి కోసం వ్యవస్థీకృత మార్కెట్లు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2665",
+		"name_en": "Nimrod's Influence Spreads to Neighboring Regions",
+		"name_te": "నిమ్రోదు ప్రభావం పొరుగు ప్రాంతాలకు వ్యాపించింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod's leadership and city-building influence extend to nearby territories.",
+		"desc_te": "నిమ్రోదు నాయకత్వం, పట్టణ నిర్మాణ ప్రభావం పొరుగు ప్రాంతాలకు వ్యాపించింది."
+	},
+	{
+		"year": "-2660",
+		"name_en": "Early City Festivals and Gatherings Begin",
+		"name_te": "ప్రారంభ పట్టణ ఉత్సవాలు, సమావేశాలు ప్రారంభం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Communities in new cities begin holding festivals and public gatherings.",
+		"desc_te": "కొత్త పట్టణాల్లో సమూహాలు ఉత్సవాలు, ప్రజా సమావేశాలు నిర్వహించడం ప్రారంభించాయి."
+	},
+	{
+		"year": "-2640",
+		"name_en": "Development of Written Records and Symbols",
+		"name_te": "వ్రాతపూర్వక రికార్డులు, చిహ్నాల అభివృద్ధి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early forms of written records and symbols are developed for administration and trade.",
+		"desc_te": "పరిపాలన, వాణిజ్యం కోసం వ్రాతపూర్వక రికార్డులు, చిహ్నాలు అభివృద్ధి చేయబడ్డాయి."
+	},
+	{
+		"year": "-2670",
+		"name_en": "Nimrod Initiates City Planning in Shinar",
+		"name_te": "నిమ్రోదు షినార్‌లో పట్టణ ప్రణాళికను ప్రారంభించాడు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod begins organized city planning, laying out streets and public spaces in Shinar.",
+		"desc_te": "నిమ్రోదు షినార్‌లో పట్టణ ప్రణాళికను ప్రారంభించి, వీధులు, ప్రజా ప్రదేశాలను ఏర్పాటు చేశాడు."
+	},
+	{
+		"year": "-2668",
+		"name_en": "First Temples and Religious Centers Built",
+		"name_te": "మొదటి దేవాలయాలు, ఆధ్యాత్మిక కేంద్రాలు నిర్మించబడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early temples and religious centers are constructed for worship and community gatherings.",
+		"desc_te": "ఆరాధన, సమూహ సమావేశాల కోసం ప్రారంభ దేవాలయాలు, ఆధ్యాత్మిక కేంద్రాలు నిర్మించబడ్డాయి."
+	},
+	{
+		"year": "-2665",
+		"name_en": "Nimrod Establishes City Laws and Customs",
+		"name_te": "నిమ్రోదు పట్టణ చట్టాలు, ఆచారాలను ఏర్పాటు చేశాడు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod introduces basic laws and customs to govern the growing urban population.",
+		"desc_te": "నిమ్రోదు పెరుగుతున్న పట్టణ జనాభాను పరిపాలించేందుకు ప్రాథమిక చట్టాలు, ఆచారాలను ప్రవేశపెట్టాడు."
+	},
+	{
+		"year": "-2662",
+		"name_en": "Formation of Early Guilds and Craftsmen Groups",
+		"name_te": "ప్రారంభ వృత్తి సంఘాలు, కార్మిక సమూహాల ఏర్పాట్లు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Groups of craftsmen and guilds form to support city construction and trade.",
+		"desc_te": "పట్టణ నిర్మాణం, వాణిజ్యానికి మద్దతుగా కార్మికులు, వృత్తి సంఘాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2645",
+		"name_en": "Early City-State Rivalries and Diplomacy",
+		"name_te": "ప్రారంభ నగర-రాష్ట్రాల పోటీలు, దౌత్యం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Rivalries and diplomatic relations begin to develop among the first city-states in Shinar.",
+		"desc_te": "షినార్‌లోని ప్రారంభ నగర-రాష్ట్రాల మధ్య పోటీలు, దౌత్య సంబంధాలు అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Descendants of Noah Spread Across the Earth",
+		"name_te": "నోవహు సంతానం భూమి మీద విస్తరించింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Noah's descendants begin to spread and settle in various regions after the flood (Genesis 10:1-5)",
+		"desc_te": "ప్రళయానంతరం నోవహు సంతానం వివిధ ప్రాంతాల్లో స్థిరపడటం ప్రారంభించారు (ఆదికాండము 10:1-5)"
+	},
+	{
+		"year": "-2695",
+		"name_en": "Formation of Early Clans and Tribes",
+		"name_te": "ప్రారంభ కులాలు, గోత్రాల ఏర్పాట్లు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early clans and tribes form among the descendants of Noah, leading to the rise of nations (Genesis 10:5,20,31)",
+		"desc_te": "నోవహు సంతానంలో ప్రారంభ కులాలు, గోత్రాలు ఏర్పడి, జనజాతుల ఉద్భవానికి దారితీశాయి (ఆదికాండము 10:5,20,31)"
+	},
+	{
+		"year": "-2690",
+		"name_en": "Ham, Shem, and Japheth's Lineages Expand",
+		"name_te": "హాము, షేము, యాఫెతు వంశాలు విస్తరించాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The lineages of Ham, Shem, and Japheth expand, each settling in different territories (Genesis 10:6-32)",
+		"desc_te": "హాము, షేము, యాఫెతు వంశాలు విస్తరించి, వేర్వేరు ప్రాంతాల్లో స్థిరపడ్డాయి (ఆదికాండము 10:6-32)"
+	},
+	{
+		"year": "-2685",
+		"name_en": "Early City Settlements Begin in Mesopotamia",
+		"name_te": "మెసపొటేమియాలో ప్రారంభ పట్టణ నివాసాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The first city settlements begin to appear in Mesopotamia, setting the stage for future kingdoms.",
+		"desc_te": "మెసపొటేమియాలో ప్రారంభ పట్టణ నివాసాలు ఏర్పడి, భవిష్యత్తు రాజ్యాలకు పునాది వేసాయి."
+	},
+	{
+		"year": "-2675",
+		"name_en": "Nimrod's Ancestors Prepare for Urbanization",
+		"name_te": "నిమ్రోదు పూర్వీకులు పట్టణీకరణకు సిద్ధమయ్యారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The ancestors of Nimrod begin to prepare for the rise of cities and urban culture.",
+		"desc_te": "నిమ్రోదు పూర్వీకులు పట్టణాల అభివృద్ధి, పట్టణ సంస్కృతికి సిద్ధమయ్యారు."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Noah's Sons Establish Family Groups",
+		"name_te": "నోవహు కుమారులు కుటుంబ సమూహాలు ఏర్పాటు చేశారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Shem, Ham, and Japheth organize their families into groups, forming the basis for future tribes.",
+		"desc_te": "షేము, హాము, యాఫెతు తమ కుటుంబాలను సమూహాలుగా ఏర్పాటు చేసి, భవిష్యత్తు గోత్రాలకు పునాది వేశారు."
+	},
+	{
+		"year": "-2695",
+		"name_en": "Early Leadership Among Descendants of Noah",
+		"name_te": "నోవహు సంతానంలో ప్రారంభ నాయకత్వం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Leaders and elders begin to emerge among Noah's descendants, guiding their people.",
+		"desc_te": "నోవహు సంతానంలో నాయకులు, వృద్ధులు ఉద్భవించి, ప్రజలను మార్గనిర్దేశం చేయడం ప్రారంభించారు."
+	},
+	{
+		"year": "-2690",
+		"name_en": "First Settlements Near Rivers and Fertile Land",
+		"name_te": "నదుల దగ్గర, సారవంతమైన భూమిలో ప్రారంభ నివాసాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early families settle near rivers and fertile land, supporting agriculture and growth.",
+		"desc_te": "ప్రారంభ కుటుంబాలు నదుల దగ్గర, సారవంతమైన భూమిలో స్థిరపడి, వ్యవసాయాన్ని అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2685",
+		"name_en": "Development of Early Social Customs and Laws",
+		"name_te": "ప్రారంభ సామాజిక ఆచారాలు, చట్టాల అభివృద్ధి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Basic social customs and laws are developed to maintain order among growing groups.",
+		"desc_te": "పెరుగుతున్న సమూహాల్లో క్రమాన్ని పాటించేందుకు ప్రాథమిక సామాజిక ఆచారాలు, చట్టాలు అభివృద్ధి చేయబడ్డాయి."
+	},
+	{
+		"year": "-2675",
+		"name_en": "Nimrod's Forefathers Begin Organizing Settlements",
+		"name_te": "నిమ్రోదు పూర్వీకులు నివాసాలను ఏర్పాటు చేయడం ప్రారంభించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The forefathers of Nimrod start organizing settlements, paving the way for future cities.",
+		"desc_te": "నిమ్రోదు పూర్వీకులు నివాసాలను ఏర్పాటు చేయడం ప్రారంభించి, భవిష్యత్తు పట్టణాలకు మార్గం సిద్దం చేశారు."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Noah's Family Preserves Knowledge and Skills",
+		"name_te": "నోవహు కుటుంబం జ్ఞానం, నైపుణ్యాలను కాపాడింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Noah's family preserves and passes down knowledge and skills essential for rebuilding society.",
+		"desc_te": "నోవహు కుటుంబం సమాజాన్ని పునర్నిర్మించేందుకు అవసరమైన జ్ఞానం, నైపుణ్యాలను కాపాడి, తరతరాలకు అందించింది."
+	},
+	{
+		"year": "-2698",
+		"name_en": "First Agricultural Communities Formed",
+		"name_te": "మొదటి వ్యవసాయ సముదాయాలు ఏర్పడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early agricultural communities are established, supporting food production and stability.",
+		"desc_te": "ప్రారంభ వ్యవసాయ సముదాయాలు ఏర్పడి, ఆహార ఉత్పత్తి, స్థిరత్వానికి మద్దతు ఇచ్చాయి."
+	},
+	{
+		"year": "-2695",
+		"name_en": "Development of Early Trade and Barter Systems",
+		"name_te": "ప్రారంభ వాణిజ్య, మారక వ్యవస్థల అభివృద్ధి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Trade and barter systems develop among early settlements, enabling exchange of goods.",
+		"desc_te": "ప్రారంభ నివాసాల్లో వాణిజ్య, మారక వ్యవస్థలు అభివృద్ధి చెంది, వస్తువుల మార్పిడికి దోహదపడ్డాయి."
+	},
+	{
+		"year": "-2690",
+		"name_en": "Nimrod's Lineage Gains Influence in the Region",
+		"name_te": "నిమ్రోదు వంశం ప్రాంతంలో ప్రభావం పొందింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The lineage of Nimrod begins to gain influence and respect among neighboring peoples.",
+		"desc_te": "నిమ్రోదు వంశం పొరుగు ప్రజల్లో ప్రభావం, గౌరవం పొందడం ప్రారంభించింది."
+	},
+	{
+		"year": "-2680",
+		"name_en": "Early Defensive Structures and Watchtowers Built",
+		"name_te": "ప్రారంభ రక్షణ నిర్మాణాలు, గస్తీ గోపురాలు నిర్మించబడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Communities build defensive structures and watchtowers to protect against threats.",
+		"desc_te": "సముదాయాలు ప్రమాదాల నుంచి రక్షించేందుకు రక్షణ నిర్మాణాలు, గస్తీ గోపురాలు నిర్మించాయి."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Noah's Family Teaches Worship and Sacrifice",
+		"name_te": "నోవహు కుటుంబం ఆరాధన, బలి బోధించింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Noah's family instructs descendants in worship and sacrificial practices to honor God.",
+		"desc_te": "నోవహు కుటుంబం దేవుని ఆరాధన, బలి పద్ధతులను తన సంతానానికి బోధించింది."
+	},
+	{
+		"year": "-2698",
+		"name_en": "First Community Gatherings and Councils",
+		"name_te": "మొదటి సముదాయ సమావేశాలు, మండలులు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early families hold community gatherings and councils to make decisions and resolve disputes.",
+		"desc_te": "ప్రారంభ కుటుంబాలు నిర్ణయాలు తీసుకోవడానికి, వివాదాలు పరిష్కరించడానికి సముదాయ సమావేశాలు, మండలులు నిర్వహించాయి."
+	},
+	{
+		"year": "-2695",
+		"name_en": "Spread of Early Languages and Dialects",
+		"name_te": "ప్రారంభ భాషలు, ఉపభాషల వ్యాప్తి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Different languages and dialects begin to emerge among Noah's descendants.",
+		"desc_te": "నోవహు సంతానంలో వివిధ భాషలు, ఉపభాషలు అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "-2690",
+		"name_en": "Nimrod's Ancestors Develop Building Techniques",
+		"name_te": "నిమ్రోదు పూర్వీకులు నిర్మాణ పద్ధతులు అభివృద్ధి చేశారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The ancestors of Nimrod develop new building techniques for homes and settlements.",
+		"desc_te": "నిమ్రోదు పూర్వీకులు ఇళ్ళు, నివాసాల కోసం కొత్త నిర్మాణ పద్ధతులను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2680",
+		"name_en": "Early Use of Symbols and Counting Systems",
+		"name_te": "ప్రారంభ చిహ్నాలు, లెక్కింపు పద్ధతుల వినియోగం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early communities begin using symbols and counting systems for trade and record-keeping.",
+		"desc_te": "ప్రారంభ సముదాయాలు వాణిజ్యం, లిఖిత పత్రిక కోసం చిహ్నాలు, లెక్కింపు పద్ధతులను ఉపయోగించడం ప్రారంభించాయి."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Noah's Family Spreads Knowledge of God",
+		"name_te": "నోవహు కుటుంబం దేవుని జ్ఞానాన్ని వ్యాప్తి చేసింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Noah's family teaches about God and His ways to new generations after the flood.",
+		"desc_te": "ప్రళయానంతరం నోవహు కుటుంబం దేవుని గురించి, ఆయన మార్గాల గురించి కొత్త తరాలకు బోధించింది."
+	},
+	{
+		"year": "-2698",
+		"name_en": "First Organized Family Worship Gatherings",
+		"name_te": "మొదటి వ్యవస్థీకృత కుటుంబ ఆరాధన సమావేశాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Families begin to gather regularly for worship and thanksgiving to God.",
+		"desc_te": "కుటుంబాలు దేవునికి ఆరాధన, కృతజ్ఞతలు చెప్పేందుకు క్రమం తప్పకుండా సమావేశమయ్యేవి."
+	},
+	{
+		"year": "-2695",
+		"name_en": "Early Use of Stone Tools and Implements",
+		"name_te": "ప్రారంభ రాయి పరికరాలు, సాధనాల వినియోగం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Communities use stone tools and implements for building, farming, and daily life.",
+		"desc_te": "సముదాయాలు నిర్మాణం, వ్యవసాయం, దైనందిన జీవితంలో రాయి పరికరాలు, సాధనాలను ఉపయోగించేవి."
+	},
+	{
+		"year": "-2690",
+		"name_en": "Nimrod's Ancestors Organize First Settlements",
+		"name_te": "నిమ్రోదు పూర్వీకులు మొదటి నివాసాలను ఏర్పాటు చేశారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The ancestors of Nimrod organize the first settlements, laying groundwork for future cities.",
+		"desc_te": "నిమ్రోదు పూర్వీకులు మొదటి నివాసాలను ఏర్పాటు చేసి, భవిష్యత్తు పట్టణాలకు పునాది వేశారు."
+	},
+	{
+		"year": "-2680",
+		"name_en": "Development of Early Music and Storytelling",
+		"name_te": "ప్రారంభ సంగీతం, కథా చెప్పే సంప్రదాయ అభివృద్ధి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Music and storytelling become important parts of early community life.",
+		"desc_te": "సంగీతం, కథా చెప్పే సంప్రదాయాలు ప్రారంభ సమాజాల్లో ముఖ్యమైన భాగంగా మారాయి."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Noah's Family Establishes Early Justice Practices",
+		"name_te": "నోవహు కుటుంబం ప్రారంభ న్యాయ వ్యవస్థను ఏర్పాటు చేసింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Noah's family sets up early forms of justice and conflict resolution among their descendants.",
+		"desc_te": "నోవహు కుటుంబం తన సంతానంలో ప్రారంభ న్యాయ వ్యవస్థ, వివాద పరిష్కార పద్ధతులను ఏర్పాటు చేసింది."
+	},
+	{
+		"year": "-2697",
+		"name_en": "First Use of Domesticated Animals for Work",
+		"name_te": "పనికోసం మొదటి పశుపోషణ వినియోగం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early families begin using domesticated animals for farming and transportation.",
+		"desc_te": "ప్రారంభ కుటుంబాలు వ్యవసాయం, రవాణా కోసం పశుపోషణను ప్రారంభించాయి."
+	},
+	{
+		"year": "-2695",
+		"name_en": "Emergence of Early Healers and Herbal Knowledge",
+		"name_te": "ప్రారంభ వైద్యులు, ఔషధ జ్ఞానం ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Healers and herbalists emerge, providing basic medical care to early communities.",
+		"desc_te": "ప్రారంభ సమాజాల్లో వైద్యులు, ఔషధ నిపుణులు ఉద్భవించి, ప్రాథమిక వైద్యం అందించేవారు."
+	},
+	{
+		"year": "-2690",
+		"name_en": "Nimrod's Ancestors Organize Early Defense Groups",
+		"name_te": "నిమ్రోదు పూర్వీకులు ప్రారంభ రక్షణ సమూహాలు ఏర్పాటు చేశారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The ancestors of Nimrod organize groups for the protection of settlements.",
+		"desc_te": "నిమ్రోదు పూర్వీకులు నివాసాల రక్షణ కోసం ప్రారంభ రక్షణ సమూహాలను ఏర్పాటు చేశారు."
+	},
+	{
+		"year": "-2680",
+		"name_en": "Early Artistic Expression: Carvings and Ornaments",
+		"name_te": "ప్రారంభ కళా ప్రకటన: చెక్కులు, అలంకారాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Communities begin to create carvings and ornaments as forms of artistic expression.",
+		"desc_te": "సమాజాలు కళా ప్రకటనగా చెక్కులు, అలంకారాలు తయారు చేయడం ప్రారంభించాయి."
+	},
+	{
+		"year": "-2700",
+		"name_en": "Noah's Family Establishes Early Education Practices",
+		"name_te": "నోవహు కుటుంబం ప్రారంభ విద్యా పద్ధతులను ఏర్పాటు చేసింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Noah's family begins teaching children essential skills and knowledge for survival.",
+		"desc_te": "నోవహు కుటుంబం పిల్లలకు జీవన నైపుణ్యాలు, జ్ఞానం బోధించడం ప్రారంభించింది."
+	},
+	{
+		"year": "-2698",
+		"name_en": "First Use of Clay for Pottery and Storage",
+		"name_te": "మట్టిని ఉపయోగించి మొదటి కుండలు, నిల్వ పాత్రలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Communities start making clay pots and storage vessels for food and water.",
+		"desc_te": "సముదాయాలు ఆహారం, నీటి నిల్వ కోసం మట్టి కుండలు, పాత్రలు తయారు చేయడం ప్రారంభించాయి."
+	},
+	{
+		"year": "-2695",
+		"name_en": "Emergence of Early Storytellers and Oral Tradition",
+		"name_te": "ప్రారంభ కథకులు, మౌఖిక సంప్రదాయ ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Storytellers emerge, preserving history and values through oral tradition.",
+		"desc_te": "కథకులు మౌఖిక సంప్రదాయంలో చరిత్ర, విలువలను కాపాడుతూ ఉద్భవించారు."
+	},
+	{
+		"year": "-2690",
+		"name_en": "Nimrod's Ancestors Develop Early Leadership Structures",
+		"name_te": "నిమ్రోదు పూర్వీకులు ప్రారంభ నాయకత్వ నిర్మాణాలు అభివృద్ధి చేశారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The ancestors of Nimrod develop leadership roles and structures for community organization.",
+		"desc_te": "నిమ్రోదు పూర్వీకులు సమాజాన్ని నిర్వహించేందుకు నాయకత్వ నిర్మాణాలను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2680",
+		"name_en": "Early Use of Decorative Arts in Homes",
+		"name_te": "ఇళ్లలో ప్రారంభ అలంకార కళల వినియోగం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Families begin decorating homes with simple art, reflecting cultural identity.",
+		"desc_te": "కుటుంబాలు తమ ఇళ్లను సాదా కళతో అలంకరించడం ప్రారంభించాయి, ఇది సాంస్కృతిక గుర్తింపును ప్రతిబింబించింది."
+	}
+]

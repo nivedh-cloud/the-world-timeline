@@ -1,0 +1,42 @@
+[
+  {
+    "id": "jesus_birth_01",
+    "name_tel": "నజరేతు",
+    "name_eng": "Nazareth",
+    "coords": [32.700, 35.303],
+    "description": "Mary and Joseph's home town in Galilee",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_birth_02",
+    "name_tel": "బేతిలెహెమ్",
+    "name_eng": "Bethlehem",
+    "coords": [31.671, 35.198],
+    "description": "Jesus is born in Bethlehem, the City of David. Wise men visit.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_birth_03",
+    "name_tel": "జెరూసలేమ్",
+    "name_eng": "Jerusalem",
+    "coords": [31.768, 35.214],
+    "description": "The wise men come to Herod in Jerusalem. Herod seeks to kill the child Jesus.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_birth_04",
+    "name_tel": "ఐగిప్టు",
+    "name_eng": "Egypt",
+    "coords": [30.8, 31.2],
+    "description": "Jesus and his family flee to Egypt to escape Herod's persecution. They stay there until Herod dies.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_birth_05",
+    "name_tel": "నజరేతు (తిరిగి)",
+    "name_eng": "Nazareth (Return)",
+    "coords": [32.700, 35.303],
+    "description": "Jesus and his family return to Nazareth after Herod's death. Jesus grows up here.",
+    "isMajorStop": true
+  }
+]

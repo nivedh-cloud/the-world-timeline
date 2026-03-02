@@ -1,0 +1,274 @@
+[
+	{
+		"year": "1500",
+		"name_en": "Mughal Empire Founded (India)",
+		"name_te": "ముగల్ సామ్రాజ్య స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "Babur establishes the Mughal Empire in India in 1526 after the First Battle of Panipat.",
+		"desc_te": "1526లో బాబర్ మొదటి పానిపట్ యుద్ధం తర్వాత భారతదేశంలో ముగల్ సామ్రాజ్యాన్ని స్థాపించాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Akbar the Great Reigns (India)",
+		"name_te": "అక్బర్ ది గ్రేట్ పాలన (భారతదేశం)",
+		"location": {
+			"lat": 27.1767,
+			"lng": 78.0081
+		},
+		"desc_en": "Akbar the Great rules the Mughal Empire, expanding its territory and promoting religious tolerance.",
+		"desc_te": "అక్బర్ ది గ్రేట్ ముగల్ సామ్రాజ్యాన్ని విస్తరించి, మత సహిష్ణుతను ప్రోత్సహించాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Martin Luther and the Protestant Reformation (Europe)",
+		"name_te": "మార్టిన్ లూథర్ మరియు ప్రొటెస్టెంట్ సంస్కరణ (యూరోప్)",
+		"location": {
+			"lat": 51.3397,
+			"lng": 12.3731
+		},
+		"desc_en": "Martin Luther initiates the Protestant Reformation in 1517, challenging the Catholic Church.",
+		"desc_te": "1517లో మార్టిన్ లూథర్ ప్రొటెస్టెంట్ సంస్కరణను ప్రారంభించి, కాథలిక్ చర్చిని సవాలు చేశాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Elizabeth I Reigns (Britain)",
+		"name_te": "ఎలిజబెత్ I పాలన (బ్రిటన్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Queen Elizabeth I rules England, overseeing the Elizabethan Era and the defeat of the Spanish Armada.",
+		"desc_te": "ఎలిజబెత్ I ఇంగ్లాండ్‌ను పాలించి, ఎలిజబెథన్ యుగాన్ని, స్పానిష్ ఆర్మాడా ఓటమిని చూశారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Spanish Conquest of the Aztec Empire (America)",
+		"name_te": "అజ్టెక్ సామ్రాజ్యంపై స్పానిష్ ఆక్రమణ (అమెరికా)",
+		"location": {
+			"lat": 19.4326,
+			"lng": -99.1332
+		},
+		"desc_en": "Hernán Cortés leads the Spanish conquest of the Aztec Empire in 1521.",
+		"desc_te": "1521లో హెర్నాన్ కొర్టెస్ అజ్టెక్ సామ్రాజ్యాన్ని స్పానిష్ ఆక్రమణకు గురిచేశారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Ottoman Empire at its Height (Europe/Asia)",
+		"name_te": "ఒట్టోమన్ సామ్రాజ్యం శిఖరస్థాయిలో (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 41.0082,
+			"lng": 28.9784
+		},
+		"desc_en": "The Ottoman Empire reaches its greatest territorial extent under Suleiman the Magnificent.",
+		"desc_te": "సులేమాన్ ది మ్యాగ్నిఫిసెంట్ పాలనలో ఒట్టోమన్ సామ్రాజ్యం అత్యధిక విస్తీర్ణాన్ని సాధించింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "Ming Dynasty Great Wall Construction (China)",
+		"name_te": "మింగ్ రాజవంశం గ్రేట్ వాల్ నిర్మాణం (చైనా)",
+		"location": {
+			"lat": 40.4319,
+			"lng": 116.5704
+		},
+		"desc_en": "The Ming Dynasty continues construction of the Great Wall of China to defend against invasions.",
+		"desc_te": "మింగ్ రాజవంశం దండయాత్రలకు ఎదురుగా చైనా గ్రేట్ వాల్ నిర్మాణాన్ని కొనసాగించింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "Sengoku Period and Oda Nobunaga (Japan)",
+		"name_te": "సెంగోకు కాలం, ఒడా నోబునాగా (జపాన్)",
+		"location": {
+			"lat": 35.0116,
+			"lng": 135.7681
+		},
+		"desc_en": "Oda Nobunaga rises as a powerful daimyo during Japan's Sengoku period, paving the way for unification.",
+		"desc_te": "జపాన్ సెంగోకు కాలంలో ఒడా నోబునాగా శక్తివంతమైన డైమ్యోగా ఎదిగి, ఏకీకరణకు బాటలు వేసాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "First Portuguese Arrive in Japan (Asia)",
+		"name_te": "పోర్చుగీస్ జపాన్‌కు రాక (ఆసియా)",
+		"location": {
+			"lat": 32.7503,
+			"lng": 129.8777
+		},
+		"desc_en": "Portuguese traders arrive in Japan in 1543, initiating European contact with Japan.",
+		"desc_te": "1543లో పోర్చుగీస్ వ్యాపారులు జపాన్‌కు చేరుకుని, యూరోపియన్ సంబంధాలను ప్రారంభించారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Christianity Spreads in the Philippines (Asia)",
+		"name_te": "ఫిలిప్పీన్స్‌లో క్రైస్తవ మత విస్తరణ (ఆసియా)",
+		"location": {
+			"lat": 13.41,
+			"lng": 122.56
+		},
+		"desc_en": "Spanish missionaries spread Christianity in the Philippines after 1521.",
+		"desc_te": "1521 తర్వాత స్పానిష్ మిషనరీలు ఫిలిప్పీన్స్‌లో క్రైస్తవ మతాన్ని విస్తరించారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "First Circumnavigation of the Globe (Global)",
+		"name_te": "ప్రపంచ ప్రదక్షిణ (ప్రపంచం)",
+		"location": {},
+		"desc_en": "Ferdinand Magellan's expedition completes the first circumnavigation of the Earth (1519–1522).",
+		"desc_te": "ఫెర్డినాండ్ మాగెల్లాన్ యాత్ర (1519–1522)లో ప్రపంచ ప్రదక్షిణ పూర్తి చేశారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Ivan the Terrible Becomes Tsar (Russia)",
+		"name_te": "ఇవాన్ ది టెర్రిబుల్ జార్ అవుతాడు (రష్యా)",
+		"location": {
+			"lat": 55.7558,
+			"lng": 37.6173
+		},
+		"desc_en": "Ivan IV (the Terrible) is crowned the first Tsar of Russia in 1547.",
+		"desc_te": "1547లో ఇవాన్ IV (ది టెర్రిబుల్) రష్యా తొలి జార్‌గా పట్టాభిషేకం పొందాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Battle of Lepanto (Europe)",
+		"name_te": "లెపాంటో యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 38.325,
+			"lng": 21.4167
+		},
+		"desc_en": "The Holy League defeats the Ottoman fleet at the Battle of Lepanto in 1571.",
+		"desc_te": "1571లో హోలీ లీగ్ ఒట్టోమన్ నౌకాదళాన్ని లెపాంటో యుద్ధంలో ఓడించింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "Safavid Empire Flourishes (Persia/Iran)",
+		"name_te": "సఫవీద్ సామ్రాజ్యం వికసించింది (పర్షియా/ఇరాన్)",
+		"location": {
+			"lat": 32.4279,
+			"lng": 53.688
+		},
+		"desc_en": "The Safavid Empire becomes a major power in Persia, establishing Shia Islam as the state religion.",
+		"desc_te": "సఫవీద్ సామ్రాజ్యం పర్షియాలో ప్రధాన శక్తిగా ఎదిగి, షియా ఇస్లాం రాష్ట్ర మతంగా స్థాపించబడింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "Songhai Empire at its Height (Africa)",
+		"name_te": "సోంగ్హై సామ్రాజ్యం శిఖరస్థాయిలో (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.7666,
+			"lng": -3.0026
+		},
+		"desc_en": "The Songhai Empire in West Africa reaches its greatest extent under Askia Mohammad I.",
+		"desc_te": "పశ్చిమ ఆఫ్రికాలో సోంగ్హై సామ్రాజ్యం అస్కియా మహమ్మద్ I పాలనలో అత్యధిక విస్తీర్ణాన్ని సాధించింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "St. Francis Xavier in Asia (Asia)",
+		"name_te": "సెయింట్ ఫ్రాన్సిస్ జేవియర్ ఆసియాలో (ఆసియా)",
+		"location": {
+			"lat": 15.2993,
+			"lng": 74.124
+		},
+		"desc_en": "St. Francis Xavier, a Jesuit missionary, spreads Christianity in India, Japan, and Southeast Asia.",
+		"desc_te": "జెస్యూట్ మిషనరీ సెయింట్ ఫ్రాన్సిస్ జేవియర్ భారతదేశం, జపాన్, ఆగ్నేయాసియాలో క్రైస్తవ మతాన్ని విస్తరించారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "First Contact with Australia (Australia)",
+		"name_te": "ఆస్ట్రేలియాతో తొలి సంప్రదింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.4634,
+			"lng": 130.8456
+		},
+		"desc_en": "European explorers, possibly Portuguese or Dutch, make first contact with Australia in the 16th century.",
+		"desc_te": "16వ శతాబ్దంలో యూరోపియన్ అన్వేషకులు (పోర్చుగీస్ లేదా డచ్) ఆస్ట్రేలియాతో తొలి సంప్రదింపులు చేశారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Council of Trent (Europe)",
+		"name_te": "ట్రెంట్ కౌన్సిల్ (యూరోప్)",
+		"location": {
+			"lat": 46.0664,
+			"lng": 11.1217
+		},
+		"desc_en": "The Council of Trent (1545–1563) reforms the Catholic Church in response to the Protestant Reformation.",
+		"desc_te": "1545–1563లో ట్రెంట్ కౌన్సిల్ ప్రొటెస్టెంట్ సంస్కరణకు ప్రతిస్పందనగా కాథలిక్ చర్చిలో సంస్కరణలు చేసింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "Guru Nanak Dev Ji Founds Sikhism (India)",
+		"name_te": "గురు నానక్ దేవ్ జీ సిక్కిజాన్ని స్థాపించారు (భారతదేశం)",
+		"location": {
+			"lat": 31.1471,
+			"lng": 75.3412
+		},
+		"desc_en": "Guru Nanak Dev Ji, the first Sikh Guru, founds Sikhism in Punjab in the early 16th century.",
+		"desc_te": "16వ శతాబ్దం ప్రారంభంలో గురు నానక్ దేవ్ జీ పంజాబ్‌లో సిక్కిజాన్ని స్థాపించారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Ivan IV Expands Russia (Russia)",
+		"name_te": "ఇవాన్ IV రష్యా విస్తరణ (రష్యా)",
+		"location": {
+			"lat": 56.8389,
+			"lng": 60.6057
+		},
+		"desc_en": "Ivan the Terrible expands Russian territory eastward, conquering the Khanates of Kazan and Astrakhan.",
+		"desc_te": "ఇవాన్ ది టెర్రిబుల్ రష్యా భూభాగాన్ని తూర్పు వైపు విస్తరించి, కజాన్, ఆస్ట్రఖాన్ ఖానేట్‌లను జయించాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Copernicus Publishes Heliocentric Theory (Europe)",
+		"name_te": "కోపెర్నికస్ హెలియోసెంట్రిక్ సిద్ధాంతం ప్రచురణ (యూరోప్)",
+		"location": {
+			"lat": 53.1325,
+			"lng": 23.1688
+		},
+		"desc_en": "Nicolaus Copernicus publishes his heliocentric model of the solar system in 1543.",
+		"desc_te": "1543లో నికోలాస్ కోపెర్నికస్ సూర్యకేంద్ర సిద్ధాంతాన్ని ప్రచురించాడు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Spanish Conquest of the Inca Empire (America)",
+		"name_te": "ఇంకా సామ్రాజ్యంపై స్పానిష్ ఆక్రమణ (అమెరికా)",
+		"location": {
+			"lat": -13.5319,
+			"lng": -71.9675
+		},
+		"desc_en": "Francisco Pizarro leads the Spanish conquest of the Inca Empire in 1533.",
+		"desc_te": "1533లో ఫ్రాన్సిస్కో పిజారో ఇంకా సామ్రాజ్యాన్ని స్పానిష్ ఆక్రమణకు గురిచేశారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Portuguese Empire in Brazil (America)",
+		"name_te": "బ్రెజిల్‌లో పోర్చుగీస్ సామ్రాజ్యం (అమెరికా)",
+		"location": {
+			"lat": -22.9068,
+			"lng": -43.1729
+		},
+		"desc_en": "The Portuguese establish colonial rule in Brazil beginning in 1500.",
+		"desc_te": "1500లో పోర్చుగీస్ బ్రెజిల్‌లో వలస పాలనను ప్రారంభించారు."
+	},
+	{
+		"year": "1500",
+		"name_en": "Battle of Panipat (India)",
+		"name_te": "పానిపట్ యుద్ధం (భారతదేశం)",
+		"location": {
+			"lat": 29.3909,
+			"lng": 76.9635
+		},
+		"desc_en": "The First Battle of Panipat in 1526 marks the beginning of Mughal rule in India.",
+		"desc_te": "1526లో జరిగిన మొదటి పానిపట్ యుద్ధం భారతదేశంలో ముగల్ పాలనకు నాంది పలికింది."
+	},
+	{
+		"year": "1500",
+		"name_en": "Jesuit Missions in China (China)",
+		"name_te": "చైనాలో జెస్యూట్ మిషన్లు (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "Jesuit missionaries, including Matteo Ricci, introduce Christianity and Western science to China.",
+		"desc_te": "మాటియో రిచ్చి సహా జెస్యూట్ మిషనరీలు చైనాలో క్రైస్తవ మతాన్ని, పాశ్చాత్య శాస్త్రాన్ని పరిచయం చేశారు."
+	}
+]

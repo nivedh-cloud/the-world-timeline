@@ -1,0 +1,66 @@
+[
+  {
+    "id": "jacob_01",
+    "name_tel": "బీర్‌షెబా",
+    "name_eng": "Beersheba",
+    "coords": [31.244, 34.792],
+    "description": "Starting point where Jacob receives God's promise. Jacob flees from his brother Esau.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jacob_02",
+    "name_tel": "బేతేలు",
+    "name_eng": "Bethel",
+    "coords": [31.927, 35.235],
+    "description": "Jacob's famous vision of the ladder to heaven with angels ascending and descending",
+    "isMajorStop": true
+  },
+  {
+    "id": "jacob_03",
+    "name_tel": "చెకెము",
+    "name_eng": "Shechem",
+    "coords": [32.214, 35.281],
+    "description": "Waypoint on the journey toward Mesopotamia",
+    "isMajorStop": false
+  },
+  {
+    "id": "jacob_04",
+    "name_tel": "దమస్కు",
+    "name_eng": "Damascus",
+    "coords": [33.511, 36.300],
+    "description": "Major city on the route northward through Syria",
+    "isMajorStop": false
+  },
+  {
+    "id": "jacob_05",
+    "name_tel": "హారాను",
+    "name_eng": "Haran",
+    "coords": [36.864, 39.023],
+    "description": "Jacob arrives at his uncle Laban's house and works for 20 years for Rachel and Leah",
+    "isMajorStop": true
+  },
+  {
+    "id": "jacob_06",
+    "name_tel": "గిలియద్",
+    "name_eng": "Gilead",
+    "coords": [32.276, 35.804],
+    "description": "Jacob returns to Canaan, heading south from Haran. Laban catches up with him here.",
+    "isMajorStop": false
+  },
+  {
+    "id": "jacob_07",
+    "name_tel": "పెనీయేలు",
+    "name_eng": "Peniel (Jabbok)",
+    "coords": [32.038, 35.476],
+    "description": "Jacob wrestles with God and is renamed Israel. Reconciliation with Esau.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jacob_08",
+    "name_tel": "చెకెము (తిరిగి)",
+    "name_eng": "Shechem (Return)",
+    "coords": [32.214, 35.281],
+    "description": "Jacob settles at Shechem in Canaan, building an altar to God",
+    "isMajorStop": true
+  }
+]

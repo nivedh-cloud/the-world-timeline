@@ -1,0 +1,321 @@
+[
+	{
+		"year": "-1900",
+		"name_en": "Abraham's Death and Burial",
+		"name_te": "అబ్రాహాము మరణం, సమాధి",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Abraham dies and is buried in the cave of Machpelah (Genesis 25:7-10)",
+		"desc_te": "అబ్రాహాము మరణించి, మక్ఫేలా గుహలో సమాధి చేయబడ్డాడు (ఆదికాండము 25:7-10)"
+	},
+	{
+		"year": "-1890",
+		"name_en": "Birth of Isaac's Sons Esau and Jacob",
+		"name_te": "ఇస్సాకు కుమారులు ఈశావు, యాకోబు జననం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Esau and Jacob are born to Isaac and Rebekah (Genesis 25:19-26)",
+		"desc_te": "ఇస్సాకు, రిబ్కాకు ఈశావు, యాకోబు జన్మించారు (ఆదికాండము 25:19-26)"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Esau Sells His Birthright",
+		"name_te": "ఈశావు తన జ్యేష్ఠాధికారం అమ్మాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Esau sells his birthright to Jacob for stew (Genesis 25:29-34)",
+		"desc_te": "ఈశావు తన జ్యేష్ఠాధికారాన్ని యాకోబుకు అమ్మాడు (ఆదికాండము 25:29-34)"
+	},
+	{
+		"year": "-1870",
+		"name_en": "Isaac in Gerar, Treaty with Abimelech",
+		"name_te": "ఇస్సాకు గెరారులో, అభిమెలెకుతో ఒడంబడిక",
+		"location": {
+			"lat": 31.3,
+			"lng": 34.8
+		},
+		"desc_en": "Isaac lives in Gerar and makes a treaty with Abimelech (Genesis 26:1-33)",
+		"desc_te": "ఇస్సాకు గెరారులో నివసించి అభిమెలెకుతో ఒడంబడిక చేసుకున్నాడు (ఆదికాండము 26:1-33)"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Birth of Jacob's Sons",
+		"name_te": "యాకోబు కుమారులు జననం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob's sons are born to Leah and Rachel (Genesis 29:31-30:24)",
+		"desc_te": "యాకోబు కుమారులు లేయా, రాహేలకు జన్మించారు (ఆదికాండము 29:31-30:24)"
+	},
+	{
+		"year": "-1850",
+		"name_en": "Jacob Deceives Isaac, Receives Blessing",
+		"name_te": "యాకోబు ఇస్సాకు మోసం చేసి ఆశీర్వాదం పొందాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jacob deceives Isaac and receives the blessing (Genesis 27:1-29)",
+		"desc_te": "యాకోబు ఇస్సాకు మోసం చేసి ఆశీర్వాదం పొందాడు (ఆదికాండము 27:1-29)"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Jacob Flees to Haran",
+		"name_te": "యాకోబు హారానుకు పారిపోవడం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob flees to Haran to escape Esau's anger (Genesis 27:41-28:5)",
+		"desc_te": "యాకోబు ఈశావు కోపం నుండి తప్పించుకోవడానికి హారానుకు పారిపోయాడు (ఆదికాండము 27:41-28:5)"
+	},
+	{
+		"year": "-1830",
+		"name_en": "Jacob's Dream at Bethel",
+		"name_te": "యాకోబు బెతేలు వద్ద కల",
+		"location": {
+			"lat": 31.9,
+			"lng": 35.2
+		},
+		"desc_en": "Jacob dreams of a ladder to heaven at Bethel (Genesis 28:10-22)",
+		"desc_te": "యాకోబు బెతేలు వద్ద పరలోకానికి మెట్ల కలను కనాడు (ఆదికాండము 28:10-22)"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Jacob Marries Leah and Rachel",
+		"name_te": "యాకోబు లేయా, రాహేలు వివాహం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob marries Leah and Rachel, daughters of Laban (Genesis 29:15-30)",
+		"desc_te": "యాకోబు లాబాను కుమార్తెలు లేయా, రాహేలను వివాహం చేసుకున్నాడు (ఆదికాండము 29:15-30)"
+	},
+	{
+		"year": "-1810",
+		"name_en": "Birth of Joseph and Benjamin",
+		"name_te": "యోసేపు, బెన్యామీను జననం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Joseph and Benjamin are born to Rachel (Genesis 30:22-24; 35:16-18)",
+		"desc_te": "యోసేపు, బెన్యామీను రాహేలకు జన్మించారు (ఆదికాండము 30:22-24; 35:16-18)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Jacob's Flocks Increase in Haran",
+		"name_te": "హారానులో యాకోబు గొర్రెల పెరుగుదల",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob's flocks and wealth increase while serving Laban (Genesis 30:25-43)",
+		"desc_te": "హారానులో లాబాను వద్ద సేవచేసే సమయంలో యాకోబు గొర్రెలు, సంపద పెరిగాయి (ఆదికాండము 30:25-43)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Jacob Flees Laban, Covenant at Mizpah",
+		"name_te": "యాకోబు లాబాను నుండి పారిపోవడం, మిజ్పాలో ఒడంబడిక",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob flees from Laban and makes a covenant at Mizpah (Genesis 31:1-55)",
+		"desc_te": "యాకోబు లాబాను నుండి పారిపోయి మిజ్పాలో ఒడంబడిక చేసుకున్నాడు (ఆదికాండము 31:1-55)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Jacob Prepares to Meet Esau",
+		"name_te": "యాకోబు ఈశావును కలవడానికి సిద్ధమవడం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jacob prepares to meet Esau after many years (Genesis 32:1-21)",
+		"desc_te": "యాకోబు అనేక సంవత్సరాల తర్వాత ఈశావును కలవడానికి సిద్ధమయ్యాడు (ఆదికాండము 32:1-21)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Jacob Wrestles with God at Peniel",
+		"name_te": "యాకోబు పెనియేలు వద్ద దేవునితో పోరాడాడు",
+		"location": {
+			"lat": 32,
+			"lng": 35.7
+		},
+		"desc_en": "Jacob wrestles with God and is renamed Israel (Genesis 32:22-32)",
+		"desc_te": "యాకోబు పెనియేలు వద్ద దేవునితో పోరాడి, ఇశ్రాయేలు అని పేరు పొందాడు (ఆదికాండము 32:22-32)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Jacob Reconciles with Esau",
+		"name_te": "యాకోబు ఈశావుతో పునర్మిళకం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jacob and Esau are reconciled after years of separation (Genesis 33:1-17)",
+		"desc_te": "యాకోబు, ఈశావు అనేక సంవత్సరాల విరహం తర్వాత పునర్మిళకం చెందారు (ఆదికాండము 33:1-17)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Dinah and the Shechemites",
+		"name_te": "దినా, షెకెమీయులు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.3
+		},
+		"desc_en": "Dinah, Jacob's daughter, and the incident with the Shechemites (Genesis 34:1-31)",
+		"desc_te": "యాకోబు కుమార్తె దినా, షెకెమీయులతో జరిగిన సంఘటన (ఆదికాండము 34:1-31)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "God Renews Covenant with Jacob at Bethel",
+		"name_te": "బెతేలు వద్ద యాకోబుతో దేవుడు ఒడంబడికను పునరుద్ధరించాడు",
+		"location": {
+			"lat": 31.9,
+			"lng": 35.2
+		},
+		"desc_en": "God renews His covenant with Jacob at Bethel (Genesis 35:1-15)",
+		"desc_te": "బెతేలు వద్ద దేవుడు యాకోబుతో తన ఒడంబడికను పునరుద్ధరించాడు (ఆదికాండము 35:1-15)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Death of Rachel and Isaac",
+		"name_te": "రాహేలు, ఇస్సాకు మరణం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Rachel and Isaac die and are buried in Canaan (Genesis 35:16-29)",
+		"desc_te": "రాహేలు, ఇస్సాకు కనాను దేశంలో మరణించి, అక్కడే సమాధి చేయబడ్డారు (ఆదికాండము 35:16-29)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Descendants of Esau (Edom)",
+		"name_te": "ఈశావు (ఎదోము) సంతానం",
+		"location": {
+			"lat": 30.8,
+			"lng": 35.6
+		},
+		"desc_en": "The descendants of Esau (Edom) are listed (Genesis 36:1-43)",
+		"desc_te": "ఈశావు (ఎదోము) సంతానం వివరించబడింది (ఆదికాండము 36:1-43)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph's Early Life and Dreams",
+		"name_te": "యోసేపు బాల్యం, కలలు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Joseph's early life and his dreams of greatness (Genesis 37:1-11)",
+		"desc_te": "యోసేపు బాల్యం, అతని గొప్పతనాన్ని సూచించే కలలు (ఆదికాండము 37:1-11)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph Sold by His Brothers",
+		"name_te": "యోసేపు సహోదరులు అమ్మారు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Joseph is sold by his brothers to Midianite traders (Genesis 37:12-36)",
+		"desc_te": "యోసేపును అతని సహోదరులు మిద్యానీయులకు అమ్మారు (ఆదికాండము 37:12-36)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Judah and Tamar",
+		"name_te": "యూదా, తామారు సంఘటన",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "The story of Judah and Tamar (Genesis 38:1-30)",
+		"desc_te": "యూదా, తామారు సంఘటన (ఆదికాండము 38:1-30)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph in Potiphar's House",
+		"name_te": "యోసేపు పోటిఫారు ఇంట్లో",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Joseph serves in Potiphar's house and is falsely accused (Genesis 39:1-23)",
+		"desc_te": "యోసేపు పోటిఫారు ఇంట్లో సేవ చేసి, తప్పుడు ఆరోపణలు ఎదుర్కొన్నాడు (ఆదికాండము 39:1-23)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph Interprets Dreams in Prison",
+		"name_te": "యోసేపు జైల్లో కలలను వివరించాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Joseph interprets the dreams of Pharaoh's cupbearer and baker (Genesis 40:1-23)",
+		"desc_te": "యోసేపు జైల్లో ఫరో పానపాత్రధారి, బేకర్ కలలను వివరించాడు (ఆదికాండము 40:1-23)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Pharaoh's Dreams and Joseph's Interpretation",
+		"name_te": "ఫరో కలలు, యోసేపు వివరణ",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Pharaoh dreams of cows and grain; Joseph interprets them (Genesis 41:1-36)",
+		"desc_te": "ఫరో గేదెలు, ధాన్యపు కలలు కనగా, యోసేపు వాటిని వివరించాడు (ఆదికాండము 41:1-36)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph Rises to Power in Egypt",
+		"name_te": "యోసేపు ఈజిప్టులో అధికారంలోకి వచ్చాడు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph is made ruler over Egypt under Pharaoh (Genesis 41:37-44)",
+		"desc_te": "యోసేపు ఫరో క్రింద ఈజిప్టులో అధికారిగా నియమించబడ్డాడు (ఆదికాండము 41:37-44)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Famine in Egypt and Canaan",
+		"name_te": "ఈజిప్టు, కనాను లో కరువు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "A severe famine affects Egypt and Canaan, Joseph's brothers come to buy grain (Genesis 41:53-57)",
+		"desc_te": "ఈజిప్టు, కనాను దేశాలలో తీవ్రమైన కరువు వచ్చింది, యోసేపు సహోదరులు ధాన్యం కొనడానికి వచ్చారు (ఆదికాండము 41:53-57)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph's Brothers' First Visit to Egypt",
+		"name_te": "యోసేపు సహోదరుల మొదటి ఈజిప్టు ప్రయాణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph's brothers visit Egypt to buy grain (Genesis 42:1-28)",
+		"desc_te": "యోసేపు సహోదరులు ధాన్యం కొనడానికి ఈజిప్టుకు వెళ్ళారు (ఆదికాండము 42:1-28)"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Joseph's Brothers' Second Visit to Egypt",
+		"name_te": "యోసేపు సహోదరుల రెండవ ఈజిప్టు ప్రయాణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph's brothers return to Egypt with Benjamin (Genesis 43:1-34)",
+		"desc_te": "యోసేపు సహోదరులు బెన్యామీనుతో కలిసి రెండవసారి ఈజిప్టుకు వెళ్ళారు (ఆదికాండము 43:1-34)"
+	}
+]

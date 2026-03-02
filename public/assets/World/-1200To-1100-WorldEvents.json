@@ -1,0 +1,211 @@
+[
+	{
+		"year": "-1200",
+		"name_en": "Iron Age Begins (Mediterranean)",
+		"name_te": "ఇనుప్ప యుగం ప్రారంభ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 35,
+			"lng": 30
+		},
+		"desc_en": "Iron Age fully established across Mediterranean civilizations",
+		"desc_te": "ఇనుప్ప యుగం భూమధ్య సాగర నాగరికతల అంతటా పూర్తిగా ఏర్పాటు"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Dorian Invasion Aftermath (Greece)",
+		"name_te": "డోరియన్ ఆక్రమణ ఫలితం (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Dorian invasions reshape Greek civilization",
+		"desc_te": "డోరియన్ ఆక్రమణ గ్రీక్ నాగరికతను పునర్నిర్మించుకుంటుంది"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Zhou Dynasty Golden Age (China)",
+		"name_te": "జోవు రాజవంశ సువర్ణకాలం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou enters golden age of feudalism",
+		"desc_te": "పశ్చిమ జోవు సామంతవాదం సువర్ణకాలంలోకి ప్రవేశ"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Vedic Age Peak (India)",
+		"name_te": "వేదిక యుగం శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic Age reaches peak with consolidated kingdoms",
+		"desc_te": "వేదిక యుగం సంపీడిత రాజ్యాలతో శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Egyptian Third Intermediate Period (Egypt)",
+		"name_te": "ఈజిప్టియన్ మూడవ ఆంతర్జాతిక కాలం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian Third Intermediate Period begins",
+		"desc_te": "ఈజిప్టియన్ మూడవ ఆంతర్జాతిక కాలం ప్రారంభ"
+	},
+	{
+		"year": "-1180",
+		"name_en": "Phoenician Alphabet Spreads (Mediterranean)",
+		"name_te": "ఫోనిషియన్ వర్ణమాల వ్యాపకం (భూమధ్య సాగర)",
+		"location": {
+			"lat": 34,
+			"lng": 35
+		},
+		"desc_en": "Phoenician alphabet spreads across Mediterranean trade routes",
+		"desc_te": "ఫోనిషియన్ వర్ణమాల భూమధ్య సాగర వాణిజ్య మార్గాలో వ్యాపకం"
+	},
+	{
+		"year": "-1180",
+		"name_en": "Hebrew Kingdoms Emerge (Levant)",
+		"name_te": "హెబ్రూ రాజ్యాలు ఉద్భవం (లెవాంట్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "Hebrew kingdoms begin to emerge in Levant",
+		"desc_te": "హెబ్రూ రాజ్యాలు లెవాంట్‌లో ఉద్భవం ప్రారంభ"
+	},
+	{
+		"year": "-1180",
+		"name_en": "Iron Tools in Egypt (Egypt)",
+		"name_te": "ఈజిప్ట్‌లో ఇనుప్ప సాధనాలు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Iron tools introduced to Egyptian civilization",
+		"desc_te": "ఈజిప్టియన్ నాగరికతకు ఇనుప్ప సాధనాలు ప్రవేశం"
+	},
+	{
+		"year": "-1180",
+		"name_en": "Etruscan Civilization Begins (Italy)",
+		"name_te": "ఎట్రుస్కన్ నాగరికత ప్రారంభ (ఇటలీ)",
+		"location": {
+			"lat": 42.88,
+			"lng": 11.62
+		},
+		"desc_en": "Etruscan civilization emerges in Italy",
+		"desc_te": "ఇటలీలో ఎట్రుస్కన్ నాగరికత ఉద్భవం"
+	},
+	{
+		"year": "-1180",
+		"name_en": "Eastern Zhou Begins (China)",
+		"name_te": "తూర్పు జోవు ప్రారంభ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Eastern Zhou period begins after Western Zhou decline",
+		"desc_te": "పశ్చిమ జోవు క్షీణత తర్వాత తూర్పు జోవు కాలం ప్రారంభ"
+	},
+	{
+		"year": "-1160",
+		"name_en": "Mycenaean Civilization Ends (Greece)",
+		"name_te": "మైసెనియన్ నాగరికత ముగుస్తుంది (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean civilization ends, Greek Dark Age continues",
+		"desc_te": "మైసెనియన్ నాగరికత ముగుస్తుంది, గ్రీక్ చీకటి యుగం కొనసాగుతుంది"
+	},
+	{
+		"year": "-1160",
+		"name_en": "Menai Straits Settlements (Europe)",
+		"name_te": "మెనై జలసంధి నిర్ణయాలు (యూరప్)",
+		"location": {
+			"lat": 53.2,
+			"lng": -4
+		},
+		"desc_en": "Early Celtic settlements in British Isles near Menai Straits",
+		"desc_te": "మెనై జలసంధి సమీపంలో బ్రిటిష్ ఐలాండ్‌లో ప్రారంభ సెల్టిక్ నిర్ణయాలు"
+	},
+	{
+		"year": "-1160",
+		"name_en": "Aramean Kingdoms Rise (Levant)",
+		"name_te": "అరామియన్ రాజ్యాలు లేవుతాయి (లెవాంట్)",
+		"location": {
+			"lat": 34,
+			"lng": 36
+		},
+		"desc_en": "Aramean kingdoms rise in Syria and Mesopotamia",
+		"desc_te": "సిరియా, మెసోపొటేమియాలో అరామియన్ రాజ్యాలు లేవుతాయి"
+	},
+	{
+		"year": "-1160",
+		"name_en": "Vedic Rituals Systematized (India)",
+		"name_te": "వేదిక ఆచారాలు విస్తీర్ణమవుతాయి (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic rituals and laws systematized in Sanskrit texts",
+		"desc_te": "వేదిక ఆచారాలు, చట్టాలు సంస్కృత గ్రంథాలలో విస్తీర్ణమవుతాయి"
+	},
+	{
+		"year": "-1140",
+		"name_en": "Greek Alphabet Development (Greece)",
+		"name_te": "గ్రీక్ వర్ణమాల అభివృద్ధి (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greeks adapt Phoenician alphabet, develop Greek letters",
+		"desc_te": "గ్రీకులు ఫోనిషియన్ వర్ణమాలను స్వీకరిస్తారు, గ్రీక్ అక్షరాలు అభివృద్ధి"
+	},
+	{
+		"year": "-1140",
+		"name_en": "Egyptian Priests' Power Grows (Egypt)",
+		"name_te": "ఈజిప్టియన్ ఆచార్యుల శక్తి పెరుగుతుంది (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian priesthood gains significant political power",
+		"desc_te": "ఈజిప్టియన్ ఆచార్య సంఘం గణనీయ రాజకీయ శక్తిని పొందుతుంది"
+	},
+	{
+		"year": "-1140",
+		"name_en": "Zhou Dynasty Feudal System (China)",
+		"name_te": "జోవు రాజవంశ సామంత వ్యవస్థ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty's feudal system reaches maturity",
+		"desc_te": "జోవు రాజవంశ సామంత వ్యవస్థ పరిపక్వతను చేరుకుంటుంది"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Assyrian Empire Rises (Mesopotamia)",
+		"name_te": "అస్సిరియన్ సామ్రాజ్యం లేవుతుంది (మెసోపొటేమియా)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Assyrian Empire begins rise to power",
+		"desc_te": "అస్సిరియన్ సామ్రాజ్యం శక్తికి లేవటం ప్రారంభ"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Hindu Texts Continued (India)",
+		"name_te": "హిందూ గ్రంథాలు కొనసాగుతాయి (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Hindu religious texts continue development",
+		"desc_te": "హిందూ ధార్మిక గ్రంథాలు అభివృద్ధి కొనసాగుతుంది"
+	}
+]

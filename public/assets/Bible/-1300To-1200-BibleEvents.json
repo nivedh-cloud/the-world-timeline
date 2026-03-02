@@ -1,0 +1,354 @@
+[
+	{
+		"year": "-1300",
+		"name_en": "Joshua Leads Israel into Canaan",
+		"name_te": "యెహోషువ కనాను దేశంలోకి ప్రవేశం",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "Joshua leads the Israelites across the Jordan River into the Promised Land (Joshua 3-4)",
+		"desc_te": "యెహోషువ ఇశ్రాయేలు జనులను యోర్దాను నది దాటి కనాను దేశంలోకి నడిపించాడు (యెహోషువ 3-4)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Fall of Jericho",
+		"name_te": "యెరికో పతనం",
+		"location": {
+			"lat": 31.87,
+			"lng": 35.45
+		},
+		"desc_en": "The walls of Jericho fall after Israel marches around them (Joshua 6)",
+		"desc_te": "ఇశ్రాయేలు జనులు యెరికో చుట్టూ ప్రదక్షిణలు చేయగా, గోడలు కూలిపోయాయి (యెహోషువ 6)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Rahab Shelters the Spies",
+		"name_te": "రాహాబు గూఢచారులను దాచడం",
+		"location": {
+			"lat": 31.87,
+			"lng": 35.45
+		},
+		"desc_en": "Rahab hides the Israelite spies in Jericho, saving her family (Joshua 2)",
+		"desc_te": "యెరికోలో రాహాబు ఇశ్రాయేలు గూఢచారులను దాచింది, తన కుటుంబాన్ని రక్షించుకుంది (యెహోషువ 2)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Battle of Ai and Achan's Sin",
+		"name_te": "ఐ యుద్ధం, ఆఖాను పాపం",
+		"location": {
+			"lat": 31.93,
+			"lng": 35.28
+		},
+		"desc_en": "Israel is defeated at Ai due to Achan's sin, then later conquers the city (Joshua 7-8)",
+		"desc_te": "ఆఖాను పాపం వల్ల ఇశ్రాయేలు ఐ వద్ద ఓడిపోయి, తరువాత పట్టణాన్ని గెలుచుకుంది (యెహోషువ 7-8)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Gibeonite Deception and Treaty",
+		"name_te": "గిబియోనీయుల మోసం, ఒప్పందం",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.18
+		},
+		"desc_en": "The Gibeonites deceive Israel and make a treaty to become servants (Joshua 9)",
+		"desc_te": "గిబియోనీయులు ఇశ్రాయేలను మోసం చేసి, ఒప్పందం ద్వారా సేవకులయ్యారు (యెహోషువ 9)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Conquest of Southern Canaanite Kings",
+		"name_te": "దక్షిణ కనాను రాజులపై విజయం",
+		"location": {
+			"lat": 31.5,
+			"lng": 34.8
+		},
+		"desc_en": "Joshua defeats a coalition of southern Canaanite kings (Joshua 10)",
+		"desc_te": "యెహోషువ దక్షిణ కనాను రాజుల కూటమిని ఓడించాడు (యెహోషువ 10)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Conquest of Northern Canaanite Kings",
+		"name_te": "ఉత్తర కనాను రాజులపై విజయం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Joshua defeats a coalition of northern Canaanite kings (Joshua 11)",
+		"desc_te": "యెహోషువ ఉత్తర కనాను రాజుల కూటమిని ఓడించాడు (యెహోషువ 11)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Division of the Land among Tribes",
+		"name_te": "భూమిని గోత్రాలకు పంచడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Promised Land is divided among the twelve tribes of Israel (Joshua 13-21)",
+		"desc_te": "ప్రతిజ్ఞా భూమిని పన్నెండు గోత్రాలకు పంచారు (యెహోషువ 13-21)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Cities of Refuge Established",
+		"name_te": "ఆశ్రయ పట్టణాల స్థాపన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Joshua establishes cities of refuge for accidental killers (Joshua 20)",
+		"desc_te": "యెహోషువ అనుకోకుండా హత్య చేసినవారికి ఆశ్రయ పట్టణాలను స్థాపించాడు (యెహోషువ 20)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Levitical Cities Allotted",
+		"name_te": "లేవీయులకు పట్టణాల కేటాయింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Cities are allotted to the Levites throughout Israel (Joshua 21)",
+		"desc_te": "లేవీయులకు ఇశ్రాయేలు దేశమంతటా పట్టణాలు కేటాయించబడ్డాయి (యెహోషువ 21)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Joshua's Farewell and Covenant Renewal",
+		"name_te": "యెహోషువ వీడ్కోలు, ఒడంబడిక పునరుద్ధరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Joshua gives a farewell address and renews the covenant at Shechem (Joshua 23-24)",
+		"desc_te": "యెహోషువ షెకెములో వీడ్కోలు ప్రసంగం చేసి, ఒడంబడికను పునరుద్ధరించాడు (యెహోషువ 23-24)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Death and Burial of Joshua",
+		"name_te": "యెహోషువ మరణం, సమాధి",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "Joshua dies and is buried at Timnath-serah (Joshua 24:29-30)",
+		"desc_te": "యెహోషువ తిమ్నత్-సెరాహ్‌లో మరణించి, అక్కడే సమాధి చేయబడ్డాడు (యెహోషువ 24:29-30)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Death and Burial of Eleazar the Priest",
+		"name_te": "యాజకుడు ఎలియాజర్ మరణం, సమాధి",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "Eleazar the priest dies and is buried at Gibeah (Joshua 24:33)",
+		"desc_te": "యాజకుడు ఎలియాజర్ గిబియాలో మరణించి, సమాధి చేయబడ్డాడు (యెహోషువ 24:33)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Covenant at Mount Ebal and Mount Gerizim",
+		"name_te": "ఎబాల్, గెరిజీం కొండల ఒడంబడిక",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.27
+		},
+		"desc_en": "Israel renews the covenant at Mount Ebal and Mount Gerizim (Joshua 8:30-35)",
+		"desc_te": "ఇశ్రాయేలు ఎబాల్, గెరిజీం కొండల వద్ద ఒడంబడికను పునరుద్ధరించారు (యెహోషువ 8:30-35)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Crossing the Jordan River",
+		"name_te": "యోర్దాను నది దాటి ప్రవేశం",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "Israel miraculously crosses the Jordan River into Canaan (Joshua 3-4)",
+		"desc_te": "ఇశ్రాయేలు జనులు యోర్దాను నది దాటి కనాను దేశంలోకి ప్రవేశించారు (యెహోషువ 3-4)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Twelve Stones Set Up at Gilgal",
+		"name_te": "గిల్గాల్ వద్ద పన్నెండు రాళ్లు",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "Twelve stones are set up at Gilgal as a memorial after crossing the Jordan (Joshua 4:19-24)",
+		"desc_te": "యోర్దాను దాటి గిల్గాల్ వద్ద పన్నెండు రాళ్లను స్మారకంగా ఏర్పాటు చేశారు (యెహోషువ 4:19-24)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Circumcision and Passover at Gilgal",
+		"name_te": "గిల్గాల్ వద్ద సున్నతి, పస్కా",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "Israelites are circumcised and celebrate Passover at Gilgal (Joshua 5:2-12)",
+		"desc_te": "ఇశ్రాయేలు జనులు గిల్గాల్ వద్ద సున్నతి చేసుకుని, పస్కా పండుగ జరిపారు (యెహోషువ 5:2-12)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Commander of the Lord Appears to Joshua",
+		"name_te": "యెహోషువకు ప్రభువు సేనాధిపతి దర్శనం",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "The commander of the Lord's army appears to Joshua before Jericho (Joshua 5:13-15)",
+		"desc_te": "యెహోషువకు యెహోవా సేనాధిపతి యెరికో ముందు దర్శనమిచ్చాడు (యెహోషువ 5:13-15)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Sun Stands Still at Gibeon",
+		"name_te": "గిబియోనులో సూర్యుడు నిలిచిపోవడం",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.18
+		},
+		"desc_en": "The sun stands still during the battle at Gibeon (Joshua 10:12-14)",
+		"desc_te": "గిబియోనులో యుద్ధ సమయంలో సూర్యుడు నిలిచిపోయాడు (యెహోషువ 10:12-14)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Destruction of Hazor",
+		"name_te": "హజోర్ పట్టణం ధ్వంసం",
+		"location": {
+			"lat": 33.027,
+			"lng": 35.571
+		},
+		"desc_en": "Joshua burns Hazor, the head of northern Canaanite kingdoms (Joshua 11:10-13)",
+		"desc_te": "యెహోషువ ఉత్తర కనాను రాజధాని హజోర్ పట్టణాన్ని ధ్వంసం చేశాడు (యెహోషువ 11:10-13)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Reuben, Gad, and Half-Tribe of Manasseh Settle East of Jordan",
+		"name_te": "రూబేను, గాదు, మనస్సే అర్ధగోత్రం యోర్దాను తూర్పున నివాసం",
+		"location": {
+			"lat": 32,
+			"lng": 35.6
+		},
+		"desc_en": "Reuben, Gad, and half-tribe of Manasseh settle east of the Jordan (Joshua 13:8-33; 22:1-9)",
+		"desc_te": "రూబేను, గాదు, మనస్సే అర్ధగోత్రం యోర్దాను తూర్పున నివసించారు (యెహోషువ 13:8-33; 22:1-9)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Covenant Violation and Altar of Witness",
+		"name_te": "ఒడంబడిక ఉల్లంఘన, సాక్షి బలి పీఠం",
+		"location": {
+			"lat": 32,
+			"lng": 35.6
+		},
+		"desc_en": "Eastern tribes build an altar, nearly causing civil war (Joshua 22)",
+		"desc_te": "తూర్పు గోత్రాలు బలి పీఠాన్ని నిర్మించగా, అంతర్గోత్ర యుద్ధానికి దారితీసింది (యెహోషువ 22)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Renewal of Circumcision at Gilgal",
+		"name_te": "గిల్గాల్ వద్ద సున్నతి పునరుద్ధరణ",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "Israelites renew the covenant of circumcision at Gilgal (Joshua 5:2-9)",
+		"desc_te": "ఇశ్రాయేలు జనులు గిల్గాల్ వద్ద సున్నతి పునరుద్ధరించారు (యెహోషువ 5:2-9)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "First Passover in Canaan",
+		"name_te": "కనానులో మొదటి పస్కా పండుగ",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.45
+		},
+		"desc_en": "Israel celebrates the first Passover in the Promised Land (Joshua 5:10-12)",
+		"desc_te": "ఇశ్రాయేలు కనాను దేశంలో మొదటి పస్కా పండుగ జరిపారు (యెహోషువ 5:10-12)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Defeat of Jabin, King of Hazor",
+		"name_te": "హజోర్ రాజు యాబీను ఓటమి",
+		"location": {
+			"lat": 33.027,
+			"lng": 35.571
+		},
+		"desc_en": "Joshua defeats Jabin, king of Hazor, ending northern Canaanite resistance (Joshua 11:1-15)",
+		"desc_te": "యెహోషువ హజోర్ రాజు యాబీను ఓడించి, ఉత్తర కనాను ప్రతిఘటనను ముగించాడు (యెహోషువ 11:1-15)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Appointment of Levitical Cities",
+		"name_te": "లేవీయులకు పట్టణాల నియామకం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Levitical cities are appointed throughout Israel (Joshua 21:1-42)",
+		"desc_te": "లేవీయులకు ఇశ్రాయేలు దేశమంతటా పట్టణాలు నియమించబడ్డాయి (యెహోషువ 21:1-42)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Shechem as Center of Covenant Renewal",
+		"name_te": "షెకెము ఒడంబడిక పునరుద్ధరణ కేంద్రంగా",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.3
+		},
+		"desc_en": "Shechem becomes the center for covenant renewal (Joshua 24:1-28)",
+		"desc_te": "షెకెము ఒడంబడిక పునరుద్ధరణకు కేంద్రంగా మారింది (యెహోషువ 24:1-28)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Spies Sent to Jericho",
+		"name_te": "యెరికోకు గూఢచారులు పంపడం",
+		"location": {
+			"lat": 31.87,
+			"lng": 35.45
+		},
+		"desc_en": "Joshua sends two spies to Jericho; Rahab hides them (Joshua 2)",
+		"desc_te": "యెహోషువ యెరికోకు ఇద్దరు గూఢచారులను పంపగా, రాహాబు దాచింది (యెహోషువ 2)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "The Fall of Ai",
+		"name_te": "ఐ పట్టణ పతనం",
+		"location": {
+			"lat": 31.93,
+			"lng": 35.28
+		},
+		"desc_en": "Israel conquers Ai after initial defeat (Joshua 8)",
+		"desc_te": "ఇశ్రాయేలు జనులు మొదట ఓడిపోయి, తరువాత ఐ పట్టణాన్ని గెలుచుకున్నారు (యెహోషువ 8)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Defeat of the Amorite Kings",
+		"name_te": "అమోరీ రాజుల ఓటమి",
+		"location": {
+			"lat": 31.5,
+			"lng": 34.8
+		},
+		"desc_en": "Joshua defeats five Amorite kings who attack Gibeon (Joshua 10:1-27)",
+		"desc_te": "గిబియోనును దాడి చేసిన ఐదు అమోరీ రాజులను యెహోషువ ఓడించాడు (యెహోషువ 10:1-27)"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Allotment of Hebron to Caleb",
+		"name_te": "హెబ్రోను కాలేబుకు కేటాయింపు",
+		"location": {
+			"lat": 31.532,
+			"lng": 35.095
+		},
+		"desc_en": "Hebron is given to Caleb as his inheritance (Joshua 14:6-15)",
+		"desc_te": "హెబ్రోను పట్టణాన్ని కాలేబుకు వారసత్వంగా ఇచ్చారు (యెహోషువ 14:6-15)"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Death and Burial of Joseph's Bones",
+		"name_te": "యోసేపు ఎముకలు సమాధి",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.3
+		},
+		"desc_en": "Joseph's bones, brought from Egypt, are buried at Shechem (Joshua 24:32)",
+		"desc_te": "యోసేపు ఎముకలను ఐగుప్తు నుండి తెచ్చి షెకెములో సమాధి చేశారు (యెహోషువ 24:32)"
+	}
+]

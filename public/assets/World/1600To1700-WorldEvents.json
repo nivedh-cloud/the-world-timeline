@@ -1,0 +1,310 @@
+[
+	{
+		"year": "1600",
+		"name_en": "Mughal Empire at its Height (India)",
+		"name_te": "ముగల్ సామ్రాజ్యం శిఖరస్థాయిలో (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "The Mughal Empire, under Akbar, Jahangir, Shah Jahan, and Aurangzeb, dominates the Indian subcontinent.",
+		"desc_te": "అక్బర్, జహాంగీర్, షాజహాన్, ఔరంగజేబ్ పాలనలో ముగల్ సామ్రాజ్యం భారత ఉపఖండాన్ని శాసించింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Tokugawa Shogunate Begins (Japan)",
+		"name_te": "టోకుగావా షోగునేట్ ప్రారంభం (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "Tokugawa Ieyasu establishes the Tokugawa Shogunate, ushering in the Edo period of peace and isolation.",
+		"desc_te": "టోకుగావా ఇయాసు టోకుగావా షోగునేట్‌ను స్థాపించి, శాంతి, వేరుపాటు యుగమైన ఎడో కాలాన్ని ప్రారంభించాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Thirty Years' War (Europe)",
+		"name_te": "ముప్పై ఏళ్ల యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 50.1109,
+			"lng": 8.6821
+		},
+		"desc_en": "A devastating religious and political conflict ravages Central Europe, ending with the Peace of Westphalia in 1648.",
+		"desc_te": "కేంద్ర యూరోప్‌లో మత, రాజకీయ యుద్ధం 1648లో వెస్ట్‌ఫేలియా ఒప్పందంతో ముగిసింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "English Civil War (Britain)",
+		"name_te": "ఇంగ్లీష్ సివిల్ వార్ (బ్రిటన్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "The English Civil War between Royalists and Parliamentarians leads to the execution of King Charles I.",
+		"desc_te": "రాయలిస్టులు, పార్లమెంటరీయన్ల మధ్య ఇంగ్లీష్ సివిల్ వార్ రాజు చార్లెస్ I ఉరి శిక్షతో ముగిసింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Founding of Jamestown (America)",
+		"name_te": "జేమ్స్‌టౌన్ స్థాపన (అమెరికా)",
+		"location": {
+			"lat": 37.2089,
+			"lng": -76.7758
+		},
+		"desc_en": "Jamestown, Virginia, is founded in 1607 as the first permanent English settlement in North America.",
+		"desc_te": "1607లో జేమ్స్‌టౌన్, వర్జీనియా, ఉత్తర అమెరికాలో తొలి శాశ్వత ఇంగ్లీష్ నివాసంగా స్థాపించబడింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Dutch East India Company Founded (Asia/Europe)",
+		"name_te": "డచ్ ఈస్ట్ ఇండియా కంపెనీ స్థాపన (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 52.3702,
+			"lng": 4.8952
+		},
+		"desc_en": "The Dutch East India Company (VOC) is established, dominating Asian-European trade.",
+		"desc_te": "డచ్ ఈస్ట్ ఇండియా కంపెనీ (VOC) స్థాపించబడి, ఆసియా-యూరోప్ వాణిజ్యాన్ని ఆధిపత్యం చెలాయించింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Qing Dynasty Established (China)",
+		"name_te": "చింగ్ రాజవంశం స్థాపన (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "The Qing Dynasty is established in China, replacing the Ming Dynasty and expanding the empire.",
+		"desc_te": "చైనా లో మింగ్ రాజవంశాన్ని తొలగించి, చింగ్ రాజవంశం స్థాపించబడింది మరియు సామ్రాజ్యం విస్తరించింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Taj Mahal Constructed (India)",
+		"name_te": "తాజ్ మహల్ నిర్మాణం (భారతదేశం)",
+		"location": {
+			"lat": 27.1751,
+			"lng": 78.0421
+		},
+		"desc_en": "The Taj Mahal is built in Agra by Shah Jahan as a mausoleum for his wife Mumtaz Mahal.",
+		"desc_te": "షాజహాన్ తన భార్య ముంతాజ్ మహల్ కోసం అగ్రాలో తాజ్ మహల్‌ను నిర్మించాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Aurangzeb Expands Mughal Empire (India)",
+		"name_te": "ఔరంగజేబ్ ముగల్ సామ్రాజ్యాన్ని విస్తరించాడు (భారతదేశం)",
+		"location": {
+			"lat": 19.076,
+			"lng": 72.8777
+		},
+		"desc_en": "Aurangzeb, the last major Mughal emperor, expands the empire to its greatest territorial extent.",
+		"desc_te": "ఔరంగజేబ్, చివరి ప్రధాన ముగల్ చక్రవర్తి, సామ్రాజ్యాన్ని అత్యధిక విస్తీర్ణానికి విస్తరించాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Abel Tasman Explores Australia and New Zealand",
+		"name_te": "అబెల్ టాస్మాన్ ఆస్ట్రేలియా, న్యూజిలాండ్ అన్వేషణ",
+		"location": {
+			"lat": -42.8821,
+			"lng": 147.3272
+		},
+		"desc_en": "Dutch explorer Abel Tasman is the first European to reach Tasmania, New Zealand, and Fiji.",
+		"desc_te": "డచ్ అన్వేషకుడు అబెల్ టాస్మాన్ టాస్మానియా, న్యూజిలాండ్, ఫిజీని చేరిన తొలి యూరోపియన్."
+	},
+	{
+		"year": "1600",
+		"name_en": "Salem Witch Trials (America)",
+		"name_te": "సేలెం మంత్రికల విచారణలు (అమెరికా)",
+		"location": {
+			"lat": 42.5195,
+			"lng": -70.8967
+		},
+		"desc_en": "The Salem witch trials take place in Massachusetts, reflecting religious and social tensions in colonial America.",
+		"desc_te": "సేలెం మంత్రికల విచారణలు మసాచుసెట్స్‌లో జరిగి, వలస అమెరికాలో మత, సామాజిక ఉద్రిక్తతలను ప్రతిబింబించాయి."
+	},
+	{
+		"year": "1600",
+		"name_en": "Louis XIV Reigns as Sun King (France)",
+		"name_te": "సన్ కింగ్ లూయిస్ XIV పాలన (ఫ్రాన్స్)",
+		"location": {
+			"lat": 48.8049,
+			"lng": 2.1204
+		},
+		"desc_en": "Louis XIV, the Sun King, rules France for over 70 years, building Versailles and centralizing royal power.",
+		"desc_te": "సన్ కింగ్ లూయిస్ XIV 70 ఏళ్లకు పైగా ఫ్రాన్స్‌ను పాలించి, వర్సైల్లెస్‌ను నిర్మించి, రాజశక్తిని సమీకరించాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Pilgrims Land at Plymouth Rock (America)",
+		"name_te": "పిల్గ్రిమ్స్ ప్లైమౌత్ రాక్ వద్ద దిగారు (అమెరికా)",
+		"location": {
+			"lat": 41.9584,
+			"lng": -70.6673
+		},
+		"desc_en": "The Pilgrims arrive on the Mayflower and establish Plymouth Colony in 1620.",
+		"desc_te": "పిల్గ్రిమ్స్ మేయ్‌ఫ్లవర్‌లో వచ్చి, 1620లో ప్లైమౌత్ కాలనీని స్థాపించారు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Sikhism Grows under Guru Hargobind and Guru Tegh Bahadur (India)",
+		"name_te": "సిక్కిజం గురు హర్గోబింద్, గురు తేగ్ బహదూర్ కాలంలో అభివృద్ధి (భారతదేశం)",
+		"location": {
+			"lat": 31.634,
+			"lng": 74.8723
+		},
+		"desc_en": "Sikhism expands and faces persecution under Mughal rule, with Guru Hargobind and Guru Tegh Bahadur as key leaders.",
+		"desc_te": "సిక్కిజం గురు హర్గోబింద్, గురు తేగ్ బహదూర్ నాయకత్వంలో అభివృద్ధి చెందింది, ముగల్ పాలనలో హింసను ఎదుర్కొంది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Portuguese and Dutch Colonization in Southeast Asia",
+		"name_te": "దక్షిణ-ఆగ్నేయ ఆసియాలో పోర్చుగీస్, డచ్ వలస పాలన",
+		"location": {
+			"lat": 1.3521,
+			"lng": 103.8198
+		},
+		"desc_en": "Portuguese and Dutch powers compete for control of trade and territory in Southeast Asia.",
+		"desc_te": "పోర్చుగీస్, డచ్ శక్తులు దక్షిణ-ఆగ్నేయ ఆసియాలో వాణిజ్యం, భూభాగం కోసం పోటీ పడ్డాయి."
+	},
+	{
+		"year": "1600",
+		"name_en": "Isaac Newton Publishes Principia (England)",
+		"name_te": "ఇసాక్ న్యూటన్ ప్రిన్సిపియా ప్రచురణ (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 52.2053,
+			"lng": 0.1218
+		},
+		"desc_en": "Isaac Newton publishes his Principia Mathematica in 1687, revolutionizing science.",
+		"desc_te": "1687లో ఇసాక్ న్యూటన్ తన ప్రిన్సిపియా మ్యాథమెటికాను ప్రచురించి, శాస్త్రాన్ని మారుస్తాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Great Plague of London (England)",
+		"name_te": "లండన్ గొప్ప ప్లేగ్ (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "The Great Plague of London kills thousands in 1665-1666, one of the last major outbreaks of the bubonic plague.",
+		"desc_te": "1665-1666లో లండన్‌లో గొప్ప ప్లేగ్ వేల మందిని చంపింది, ఇది బుబోనిక్ ప్లేగ్ యొక్క చివరి ప్రధాన వ్యాప్తులలో ఒకటి."
+	},
+	{
+		"year": "1600",
+		"name_en": "Kangxi Emperor Reigns (China)",
+		"name_te": "కాంగ్జీ చక్రవర్తి పాలన (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "Kangxi, one of China's greatest emperors, rules the Qing Dynasty and expands Chinese territory.",
+		"desc_te": "కాంగ్జీ చక్రవర్తి చైనా చరిత్రలో గొప్ప పాలకుల్లో ఒకరు, చింగ్ రాజవంశాన్ని పాలించి, చైనా భూభాగాన్ని విస్తరించారు."
+	},
+	{
+		"year": "1600",
+		"name_en": "First Bible Printed in America",
+		"name_te": "అమెరికాలో మొదటి బైబిల్ ముద్రణ",
+		"location": {
+			"lat": 42.3601,
+			"lng": -71.0589
+		},
+		"desc_en": "The first Bible printed in America is the Algonquin Bible, translated by John Eliot in 1663.",
+		"desc_te": "అమెరికాలో ముద్రించిన తొలి బైబిల్ 1663లో జాన్ ఎలియట్ అనువదించిన ఆల్గోంక్విన్ బైబిల్."
+	},
+	{
+		"year": "1600",
+		"name_en": "Zulu Kingdom Foundations (Africa)",
+		"name_te": "జులు రాజ్యం పునాది (ఆఫ్రికా)",
+		"location": {
+			"lat": -29.8587,
+			"lng": 31.0218
+		},
+		"desc_en": "The early Zulu clans begin to consolidate in southern Africa, laying the groundwork for the future Zulu Kingdom.",
+		"desc_te": "దక్షిణ ఆఫ్రికాలో ప్రారంభ జులు గోత్రాలు ఏకీకృతమవుతూ, భవిష్య జులు రాజ్యానికి పునాది వేశారు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Peter the Great Modernizes Russia (Russia)",
+		"name_te": "పీటర్ ది గ్రేట్ రష్యాను ఆధునికీకరించాడు (రష్యా)",
+		"location": {
+			"lat": 59.9343,
+			"lng": 30.3351
+		},
+		"desc_en": "Peter the Great begins reforms to modernize Russia, founds St. Petersburg, and expands Russian territory.",
+		"desc_te": "పీటర్ ది గ్రేట్ రష్యాను ఆధునికీకరించేందుకు సంస్కరణలు ప్రారంభించి, సెయింట్ పీటర్స్‌బర్గ్‌ను స్థాపించి, రష్యా భూభాగాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Maratha Empire Rises (India)",
+		"name_te": "మరాఠా సామ్రాజ్యం ఉద్భవం (భారతదేశం)",
+		"location": {
+			"lat": 18.5204,
+			"lng": 73.8567
+		},
+		"desc_en": "Shivaji establishes the Maratha Empire, challenging Mughal dominance in India.",
+		"desc_te": "శివాజీ మరాఠా సామ్రాజ్యాన్ని స్థాపించి, భారతదేశంలో ముగల్ ఆధిపత్యాన్ని సవాలు చేశాడు."
+	},
+	{
+		"year": "1600",
+		"name_en": "Great Turkish War (Europe/Ottoman Empire)",
+		"name_te": "గ్రేట్ టర్కిష్ వార్ (యూరోప్/ఒట్టోమన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "A series of conflicts between the Ottoman Empire and European powers, ending with the Treaty of Karlowitz in 1699.",
+		"desc_te": "ఒట్టోమన్ సామ్రాజ్యం, యూరోపియన్ శక్తుల మధ్య యుద్ధాలు 1699లో కార్లోవిట్జ్ ఒప్పందంతో ముగిశాయి."
+	},
+	{
+		"year": "1600",
+		"name_en": "Christianity Spreads in the Philippines",
+		"name_te": "ఫిలిప్పీన్స్‌లో క్రైస్తవ మత విస్తరణ",
+		"location": {
+			"lat": 13.41,
+			"lng": 122.56
+		},
+		"desc_en": "Spanish colonization leads to widespread conversion to Christianity in the Philippines.",
+		"desc_te": "స్పానిష్ వలస పాలన ఫిలిప్పీన్స్‌లో క్రైస్తవ మత విస్తరణకు దారితీసింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Siege of Vienna (1683, Europe)",
+		"name_te": "వియన్నా ముట్టడి (1683, యూరోప్)",
+		"location": {
+			"lat": 48.2082,
+			"lng": 16.3738
+		},
+		"desc_en": "The Ottoman Empire's failed siege of Vienna marks a turning point in European-Ottoman relations.",
+		"desc_te": "ఒట్టోమన్ సామ్రాజ్యం వియన్నా ముట్టడిలో విఫలమై, యూరోప్-ఒట్టోమన్ సంబంధాల్లో మలుపు వచ్చింది."
+	},
+	{
+		"year": "1600",
+		"name_en": "Dutch Golden Age (Netherlands)",
+		"name_te": "డచ్ గోల్డెన్ ఏజ్ (నెదర్లాండ్స్)",
+		"location": {
+			"lat": 52.3676,
+			"lng": 4.9041
+		},
+		"desc_en": "The Netherlands experiences a period of great wealth, cultural achievement, and maritime power.",
+		"desc_te": "నెదర్లాండ్స్‌లో గొప్ప సంపద, సాంస్కృతిక విజయాలు, సముద్ర శక్తి గోల్డెన్ ఏజ్‌గా ప్రసిద్ధి."
+	},
+	{
+		"year": "1600",
+		"name_en": "Edo Period Flourishes (Japan)",
+		"name_te": "ఎడో కాలం వికసించింది (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "The Edo period in Japan is marked by peace, economic growth, and strict social order under the Tokugawa Shogunate.",
+		"desc_te": "టోకుగావా షోగునేట్ పాలనలో జపాన్‌లో ఎడో కాలం శాంతి, ఆర్థిక వృద్ధి, క్రమశిక్షణతో ప్రసిద్ధి."
+	},
+	{
+		"year": "1600",
+		"name_en": "First Slave Ships Arrive in America",
+		"name_te": "అమెరికాలోకి మొదటి బానిస నౌకలు",
+		"location": {
+			"lat": 37.5407,
+			"lng": -77.436
+		},
+		"desc_en": "The first African slaves are brought to English colonies in North America, beginning centuries of slavery.",
+		"desc_te": "ఉత్తర అమెరికాలోని ఇంగ్లీష్ వలసలకు మొదటి ఆఫ్రికన్ బానిసలు తీసుకురావడం ద్వారా శతాబ్దాల బానిసత్వం ప్రారంభమైంది."
+	}
+]

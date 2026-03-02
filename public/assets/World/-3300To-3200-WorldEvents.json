@@ -1,0 +1,497 @@
+[
+	{
+		"year": "-3300",
+		"name_en": "Early Egypt Confederation I",
+		"name_te": "ఈజిప్టు సమాఖ్య I",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Early confederation of Egyptian city-states begins.",
+		"desc_te": "ఈజిప్టు నగర-రాష్ట్ర సమాఖ్య ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Egyptian Regional Chiefs",
+		"name_te": "ఈజిప్టు ప్రాంతీయ నాయకులు",
+		"location": {
+			"lat": 29.5,
+			"lng": 31
+		},
+		"desc_en": "Regional chiefs consolidate power in Egypt.",
+		"desc_te": "ఈజిప్టులో ప్రాంతీయ నాయకులు శక్తిని సమీకరణ చేస్తుంది."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Egyptian Nile Agriculture Refined",
+		"name_te": "ఈజిప్టు నీలు వ్యవసాయ శుద్ధీకరణ",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Nile agriculture refined and systematized.",
+		"desc_te": "నీలు వ్యవసాయ శుద్ధీకరణ, క్రమ నిర్ణీత చేయబడింది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Egyptian Trade with Nubia",
+		"name_te": "ఈజిప్టు నుబియా వాణిజ్యం",
+		"location": {
+			"lat": 29,
+			"lng": 31.2
+		},
+		"desc_en": "Trade develops between Egypt and Nubia.",
+		"desc_te": "ఈజిప్టు, నుబియా మధ్య వాణిజ్యం అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Egyptian Political Integration",
+		"name_te": "ఈజిప్టు రాజకీయ ఏకీకరణ",
+		"location": {
+			"lat": 30.5,
+			"lng": 31.2
+		},
+		"desc_en": "Egyptian political integration accelerates.",
+		"desc_te": "ఈజిప్టు రాజకీయ ఏకీకరణ ত్వరణం చెందుతుంది."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Akkadian Pre-Imperial Mesopotamia",
+		"name_te": "అక్కడియన్ ప్రీ-ఇంపీరియల్ మెసొపొటేమియా",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Pre-imperial period in Akkadian Mesopotamia.",
+		"desc_te": "అక్కడియన్ మెసొపొటేమియాలో ప్రీ-ఇంపీరియల్ కాలం."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Sumerian City Rivalry",
+		"name_te": "సుమేరియన్ నగర ప్రతిద్వంద్వత",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Rivalry between Sumerian city-states intensifies.",
+		"desc_te": "సుమేరియన్ నగర-రాష్ట్రాల మధ్య ప్రతిద్వంద్వత తీవ్రమవుతుంది."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Mesopotamian Irrigation Development",
+		"name_te": "మెసొపొటేమియా నీటిపారిల్ అభివృద్ధి",
+		"location": {
+			"lat": 32.5,
+			"lng": 45
+		},
+		"desc_en": "Irrigation systems develop in Mesopotamia.",
+		"desc_te": "మెసొపొటేమియాలో నీటిపారిల్ వ్యవస్థలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Sumerian War Tactics",
+		"name_te": "సుమేరియన్ యుద్ధ వ్యూహాలు",
+		"location": {
+			"lat": 31.5,
+			"lng": 46.5
+		},
+		"desc_en": "War tactics evolve in Sumerian cities.",
+		"desc_te": "సుమేరియన్ నగరాలలో యుద్ధ వ్యూహాలు పరిణామం చెందుతాయి."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Akkadian Linguistic Development",
+		"name_te": "అక్కడియన్ భాషా అభివృద్ధి",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Akkadian language development begins.",
+		"desc_te": "అక్కడియన్ భాష అభివృద్ధి ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Indus Valley Early Harappa Phase",
+		"name_te": "సిందువు లోయ ఎర్లీ హరప్పా దశ",
+		"location": {
+			"lat": 32,
+			"lng": 72
+		},
+		"desc_en": "Early Harappa phase in Indus Valley.",
+		"desc_te": "సిందువు లోయ ఎర్లీ హరప్పా దశ."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Indus Settlement Standardization",
+		"name_te": "సిందువు నిపటన ప్రామాణికీకరణ",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Settlement standardization begins in Indus Valley.",
+		"desc_te": "సిందువు లోయలో నిపటన ప్రామాణికీకరణ ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Indus Valley Pottery Refinement",
+		"name_te": "సిందువు లోయ కుండల శుద్ధీకరణ",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Pottery refinement in Indus Valley.",
+		"desc_te": "సిందువు లోయ కుండల శుద్ధీకరణ."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Indus Valley Trade Routes",
+		"name_te": "సిందువు లోయ వాణిజ్య మార్గాలు",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Trade routes establish in Indus Valley.",
+		"desc_te": "సిందువు లోయ వాణిజ్య మార్గాలు స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Indus Valley Seal Development",
+		"name_te": "సిందువు లోయ సీల్ అభివృద్ధి",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Seals develop in Indus Valley settlements.",
+		"desc_te": "సిందువు లోయ నిపటనాలలో సీల్‌లు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Xia Dynasty Legendary Traditions",
+		"name_te": "జియా వంశ పురాణ సంప్రదాయాలు",
+		"location": {
+			"lat": 34.5,
+			"lng": 107.5
+		},
+		"desc_en": "Xia Dynasty legendary traditions in China.",
+		"desc_te": "చైనాలో జియా వంశ పురాణ సంప్రదాయాలు."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Chinese Bronze Working Begins",
+		"name_te": "చైనీస్ ఫిరంజి పని ప్రారంభం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Bronze working begins in early China.",
+		"desc_te": "ప్రారంభ చైనాలో ఫిరంజి పని ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Chinese Ritual Vessels",
+		"name_te": "చైనీస్ విధిర్చక నిండు",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Ritual vessels develop in China.",
+		"desc_te": "చైనాలో విధిర్చక నిండు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Chinese Script Proto-Forms",
+		"name_te": "చైనీస్ లిపి ప్రోటో-రూపాలు",
+		"location": {
+			"lat": 34.5,
+			"lng": 107.5
+		},
+		"desc_en": "Proto-forms of Chinese script develop.",
+		"desc_te": "చైనీస్ లిపి ప్రోటో-రూపాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Chinese Dynasty Succession",
+		"name_te": "చైనీస్ వంశ క్రమం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Dynasty succession patterns establish in China.",
+		"desc_te": "చైనాలో వంశ క్రమం నమూనాలు స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Early Minoan I Period Crete",
+		"name_te": "ఎర్లీ మినోయన్ I కాలం క్రీట్",
+		"location": {
+			"lat": 35,
+			"lng": 24.5
+		},
+		"desc_en": "Early Minoan I period on Crete.",
+		"desc_te": "క్రీట్‌లో ఎర్లీ మినోయన్ I కాలం."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Minoan Communal Structures",
+		"name_te": "మినోయన్ సామూహిక నిర్మాణాలు",
+		"location": {
+			"lat": 35.3,
+			"lng": 24.8
+		},
+		"desc_en": "Communal structures in Minoan society.",
+		"desc_te": "మినోయన్ సమాజ సామూహిక నిర్మాణాలు."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Minoan Mediterranean Trade",
+		"name_te": "మినోయన్ మధ్యసాగర వాణిజ్యం",
+		"location": {
+			"lat": 35.5,
+			"lng": 24.9
+		},
+		"desc_en": "Mediterranean trade from Crete begins.",
+		"desc_te": "క్రీట్ నుండి మధ్యసాగర వాణిజ్యం ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Minoan Religious Ceremonies",
+		"name_te": "మినోయన్ ధార్మిక ఉత్సవాలు",
+		"location": {
+			"lat": 35.2,
+			"lng": 24.7
+		},
+		"desc_en": "Religious ceremonies develop on Crete.",
+		"desc_te": "క్రీట్‌లో ధార్మిక ఉత్సవాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Minoan Craft Specialization",
+		"name_te": "మినోయన్ కారిగర ప్రత్యేకీకరణ",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Craft specialization in Minoan Crete.",
+		"desc_te": "మినోయన్ క్రీట్‌లో కారిగర ప్రత్యేకీకరణ."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Proto-Helladic Cultural Traditions",
+		"name_te": "ప్రోటో-హెలాడిక్ సాంస్కృతిక సంప్రదాయాలు",
+		"location": {
+			"lat": 37.5,
+			"lng": 23
+		},
+		"desc_en": "Proto-Helladic cultural traditions in Greece.",
+		"desc_te": "గ్రీసులో ప్రోటో-హెలాడిక్ సాంస్కృతిక సంప్రదాయాలు."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Greek Pottery Emergence",
+		"name_te": "గ్రీకు కుండల ఆవిర్భవం",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Pottery emerges in Greece.",
+		"desc_te": "గ్రీసులో కుండలు ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Greek Hill Fort Defense",
+		"name_te": "గ్రీకు కొండ దుర్గం రక్షణ",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Hill fort defenses develop in Greece.",
+		"desc_te": "గ్రీసులో కొండ దుర్గం రక్షణ అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Greek Tribal Organization",
+		"name_te": "గ్రీకు గిరిజన సంస్థ",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Tribal organization in Greece.",
+		"desc_te": "గ్రీసులో గిరిజన సంస్థ."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Greek Inter-Settlement Trade",
+		"name_te": "గ్రీకు నిపటనాలు మధ్య వాణిజ్యం",
+		"location": {
+			"lat": 37.3,
+			"lng": 23.3
+		},
+		"desc_en": "Trade between Greek settlements.",
+		"desc_te": "గ్రీకు నిపటనాల మధ్య వాణిజ్యం."
+	},
+	{
+		"year": "-3300",
+		"name_en": "European Bronze Age Dawn",
+		"name_te": "యూరోపియన్ ఫిరంజి యుగం ఊషస్సు",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Bronze Age dawn in Europe.",
+		"desc_te": "యూరోపులో ఫిరంజి యుగం ఊషస్సు."
+	},
+	{
+		"year": "-3280",
+		"name_en": "European Metal Working Trade",
+		"name_te": "యూరోపియన్ లోహ పని వాణిజ్యం",
+		"location": {
+			"lat": 48.5,
+			"lng": 14.5
+		},
+		"desc_en": "Metal working trade develops in Europe.",
+		"desc_te": "యూరోపులో లోహ పని వాణిజ్యం అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3260",
+		"name_en": "European Pastoralist Movement",
+		"name_te": "యూరోపియన్ పశుపాలన ఉద్యమం",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "Pastoralist movements in Europe.",
+		"desc_te": "యూరోపులో పశుపాలన ఉద్యమాలు."
+	},
+	{
+		"year": "-3240",
+		"name_en": "European Elite Development",
+		"name_te": "యూరోపియన్ ఉన్నత అభివృద్ధి",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Elite groups develop in Europe.",
+		"desc_te": "యూరోపులో ఉన్నత సమూహాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "European Tribal Warfare",
+		"name_te": "యూరోపియన్ గిరిజన యుద్ధం",
+		"location": {
+			"lat": 48.5,
+			"lng": 16
+		},
+		"desc_en": "Tribal warfare in Europe.",
+		"desc_te": "యూరోపులో గిరిజన యుద్ధం."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Nubian Kingdom Emergence",
+		"name_te": "నుబియన్ రాజ్య ఆవిర్భవం",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Nubian kingdoms emerge.",
+		"desc_te": "నుబియన్ రాజ్యాలు ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Nubian Nile Trade Networks",
+		"name_te": "నుబియన్ నీలు వాణిజ్య నెట్‌వర్కులు",
+		"location": {
+			"lat": 18.5,
+			"lng": 33
+		},
+		"desc_en": "Trade networks along Nubian Nile.",
+		"desc_te": "నుబియన్ నీలు వెంట వాణిజ్య నెట్‌వర్కులు."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Nubian Craft Traditions",
+		"name_te": "నుబియన్ కారిగర సంప్రదాయాలు",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Craft traditions develop in Nubia.",
+		"desc_te": "నుబియాలో కారిగర సంప్రదాయాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Nubian Religious Centers",
+		"name_te": "నుబియన్ ధార్మిక కేంద్రాలు",
+		"location": {
+			"lat": 18.5,
+			"lng": 33
+		},
+		"desc_en": "Religious centers establish in Nubia.",
+		"desc_te": "నుబియాలో ధార్మిక కేంద్రాలు స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Nubian Political Consolidation",
+		"name_te": "నుబియన్ రాజకీయ సమీకరణ",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Political consolidation in Nubia.",
+		"desc_te": "నుబియాలో రాజకీయ సమీకరణ."
+	},
+	{
+		"year": "-3300",
+		"name_en": "Aboriginal Australia Ancient Rock Art",
+		"name_te": "ఆదివాసీ ఆస్ట్రేలియా పురాతన శిల కళ",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Ancient rock art traditions in Aboriginal Australia.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియాలో పురాతన శిల కళ సంప్రదాయాలు."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Aboriginal Tool Technology",
+		"name_te": "ఆదివాసీ సాధన సాంకేతిక",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Tool technology advances in Aboriginal Australia.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియాలో సాధన సాంకేతిక ఆధునికీకరణ."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Aboriginal Story Keeping Traditions",
+		"name_te": "ఆదివాసీ కథ సంరక్షణ సంప్రదాయాలు",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Story keeping traditions in Aboriginal Australia.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియాలో కథ సంరక్షణ సంప్రదాయాలు."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Aboriginal Songline Networks",
+		"name_te": "ఆదివాసీ సాంగ్ నెట్‌వర్కులు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Songline networks connect Aboriginal communities.",
+		"desc_te": "సాంగ్ నెట్‌వర్కులు ఆదివాసీ సమాజాలను అనుసంధానం చేస్తుంది."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Aboriginal Land Knowledge",
+		"name_te": "ఆదివాసీ భూ జ్ఞానం",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Land knowledge systems in Aboriginal Australia.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియాలో భూ జ్ఞానం వ్యవస్థలు."
+	}
+]

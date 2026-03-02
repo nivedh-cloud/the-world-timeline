@@ -1,0 +1,90 @@
+[
+  {
+    "id": "paul1_01",
+    "name_tel": "అంతియోకియా (సిరియా)",
+    "name_eng": "Antioch (Syria)",
+    "coords": [36.156, 36.164],
+    "description": "Starting point. Paul and Barnabas are sent out by the church for missionary work.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_02",
+    "name_tel": "సిలియా",
+    "name_eng": "Seleucia",
+    "coords": [36.393, 36.003],
+    "description": "Port city where Paul and Barnabas embark on their journey.",
+    "isMajorStop": false
+  },
+  {
+    "id": "paul1_03",
+    "name_tel": "సాలామిస్‌",
+    "name_eng": "Salamis",
+    "coords": [34.944, 33.879],
+    "description": "First stop on Cyprus. First missionary journey begins.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_04",
+    "name_tel": "పాఫోస్‌",
+    "name_eng": "Paphos",
+    "coords": [34.766, 32.314],
+    "description": "Elymas the sorcerer opposes them; Paul blinds him. Governor Sergius Paulus believes.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_05",
+    "name_tel": "పెర్గా",
+    "name_eng": "Perga",
+    "coords": [36.973, 31.156],
+    "description": "John Mark departs here, returning to Jerusalem. Paul and Barnabas continue.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_06",
+    "name_tel": "పిసిడియా అంతియోకియా",
+    "name_eng": "Pisidian Antioch",
+    "coords": [37.308, 31.213],
+    "description": "Paul preaches in synagogue. Some believe, but Jews stir up opposition.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_07",
+    "name_tel": "ఐకోనియం",
+    "name_eng": "Iconium",
+    "coords": [38.173, 32.660],
+    "description": "Paul and Barnabas preach the gospel. Many believe, but opposition rises.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_08",
+    "name_tel": "లిస్ట్ర‌",
+    "name_eng": "Lystra",
+    "coords": [38.286, 32.496],
+    "description": "Paul heals a crippled beggar. People mistake them for gods. Paul is stoned and left for dead.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_09",
+    "name_tel": "డెర్బీ",
+    "name_eng": "Derbe",
+    "coords": [37.659, 32.989],
+    "description": "Paul preaches the gospel. Many become disciples of Jesus.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul1_10",
+    "name_tel": "గాలటియ",
+    "name_eng": "Return to Galatia",
+    "coords": [38.0, 32.0],
+    "description": "Paul and Barnabas retrace their steps, strengthening the churches they planted.",
+    "isMajorStop": false
+  },
+  {
+    "id": "paul1_11",
+    "name_tel": "అంతియోకియા (తిరిగి)",
+    "name_eng": "Antioch (Return)",
+    "coords": [36.156, 36.164],
+    "description": "Paul and Barnabas return home, reporting to the church all God has done.",
+    "isMajorStop": true
+  }
+]

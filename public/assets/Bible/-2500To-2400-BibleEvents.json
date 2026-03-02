@@ -1,0 +1,134 @@
+[
+	{
+		"year": "-2500",
+		"name_en": "Noah and His Sons Prepare the Ark",
+		"name_te": "నోవా మరియు అతని కుమారులు నౌక సిద్ధం చేయడం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah and his sons build the ark as commanded by God (Genesis 6:13-22)",
+		"desc_te": "దేవుని ఆజ్ఞ ప్రకారం నోవా మరియు అతని కుమారులు నౌకను నిర్మించారు (ఆదికాండము 6:13-22)"
+	},
+	{
+		"year": "-2490",
+		"name_en": "The Gathering of Animals",
+		"name_te": "జంతువుల సమీకరణ",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Animals are gathered into the ark in pairs (Genesis 7:1-9)",
+		"desc_te": "జంతువులను జంటలుగా నౌకలోకి తీసుకువచ్చారు (ఆదికాండము 7:1-9)"
+	},
+	{
+		"year": "-2480",
+		"name_en": "The Great Flood Begins",
+		"name_te": "ప్రళయం ప్రారంభం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The floodwaters come upon the earth (Genesis 7:10-24)",
+		"desc_te": "భూమిపై ప్రళయ జలాలు వచ్చాయి (ఆదికాండము 7:10-24)"
+	},
+	{
+		"year": "-2470",
+		"name_en": "Noah, His Family, and Animals in the Ark",
+		"name_te": "నౌకలో నోవా, కుటుంబం, జంతువులు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah, his family, and the animals remain safe in the ark (Genesis 7:13-24)",
+		"desc_te": "నోవా, అతని కుటుంబం, జంతువులు నౌకలో సురక్షితంగా ఉన్నారు (ఆదికాండము 7:13-24)"
+	},
+	{
+		"year": "-2460",
+		"name_en": "The Waters Prevail on the Earth",
+		"name_te": "జలాలు భూమిపై అధికంగా ఉండటం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The waters cover the earth for 150 days (Genesis 7:17-24)",
+		"desc_te": "150 రోజులు జలాలు భూమిని కప్పివేశాయి (ఆదికాండము 7:17-24)"
+	},
+	{
+		"year": "-2450",
+		"name_en": "The Ark Rests on the Mountains of Ararat",
+		"name_te": "నౌక అరారాతు పర్వతాలపై నిలిచింది",
+		"location": {
+			"lat": 39.7,
+			"lng": 44.3
+		},
+		"desc_en": "The ark comes to rest on the mountains of Ararat (Genesis 8:1-5)",
+		"desc_te": "నౌక అరారాతు పర్వతాలపై నిలిచింది (ఆదికాండము 8:1-5)"
+	},
+	{
+		"year": "-2440",
+		"name_en": "The Waters Recede and the Earth Dries",
+		"name_te": "జలాలు తగ్గి భూమి ఎండిపోవడం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The waters recede and the earth becomes dry (Genesis 8:6-14)",
+		"desc_te": "జలాలు తగ్గి భూమి ఎండిపోయింది (ఆదికాండము 8:6-14)"
+	},
+	{
+		"year": "-2430",
+		"name_en": "Noah Leaves the Ark",
+		"name_te": "నోవా నౌకను విడిచిపెట్టాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah, his family, and the animals leave the ark (Genesis 8:15-19)",
+		"desc_te": "నోవా, అతని కుటుంబం, జంతువులు నౌకను విడిచిపెట్టారు (ఆదికాండము 8:15-19)"
+	},
+	{
+		"year": "-2420",
+		"name_en": "Noah Builds an Altar and Offers Sacrifices",
+		"name_te": "నోవా బలిపీఠం నిర్మించి బలులు అర్పించాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Noah builds an altar and offers sacrifices to God (Genesis 8:20-22)",
+		"desc_te": "నోవా బలిపీఠం నిర్మించి దేవునికి బలులు అర్పించాడు (ఆదికాండము 8:20-22)"
+	},
+	{
+		"year": "-2410",
+		"name_en": "God's Promise to Never Flood Again",
+		"name_te": "దేవుడు మళ్లీ ప్రళయం చేయనని వాగ్దానం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God promises never to destroy the earth with a flood again (Genesis 9:11-17)",
+		"desc_te": "దేవుడు మళ్లీ ప్రళయం చేయనని వాగ్దానం చేశాడు (ఆదికాండము 9:11-17)"
+	},
+	{
+		"year": "-2410",
+		"name_en": "Noah and His Sons Receive God's Blessing",
+		"name_te": "నోవా మరియు కుమారులు దేవుని ఆశీర్వాదం పొందారు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God blesses Noah and his sons, commanding them to multiply (Genesis 9:1-7)",
+		"desc_te": "దేవుడు నోవా మరియు అతని కుమారులను ఆశీర్వదించి, విస్తరించమని ఆజ్ఞాపించాడు (ఆదికాండము 9:1-7)"
+	},
+	{
+		"year": "-2410",
+		"name_en": "Early Prophets and Righteousness after the Flood",
+		"name_te": "ప్రళయానంతరం ప్రారంభ ప్రవక్తలు, నీతి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early prophets and righteous men among Noah's descendants (Genesis 9:18-29)",
+		"desc_te": "నోవా సంతానంలో ప్రారంభ ప్రవక్తలు, నీతిమంతులు (ఆదికాండము 9:18-29)"
+	}
+]

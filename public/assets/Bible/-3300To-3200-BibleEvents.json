@@ -1,0 +1,112 @@
+[
+	{
+		"year": "-3300",
+		"name_en": "Early Generations after Adam",
+		"name_te": "ఆదాము తరువాత ప్రాథమిక తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The early generations after Adam continue to multiply and spread.",
+		"desc_te": "ఆదాము తరువాత తరాలు విస్తరించసాగాయి."
+	},
+	{
+		"year": "-3290",
+		"name_en": "Rise of Early Settlements in Nod",
+		"name_te": "నోదులో ప్రాథమిక నివాసాల ఉద్భవం",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Cain settles in the land of Nod and builds a city.",
+		"desc_te": "కాయిను నోదు దేశంలో నివసించి ఒక పట్టణాన్ని నిర్మించాడు."
+	},
+	{
+		"year": "-3280",
+		"name_en": "Birth of Enosh",
+		"name_te": "ఏనోషు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Enosh is born to Seth.",
+		"desc_te": "ఏనోషు శేతుకు కుమారుడిగా జన్మించాడు."
+	},
+	{
+		"year": "-3270",
+		"name_en": "People Begin to Call on the Lord",
+		"name_te": "ప్రజలు యెహోవా నామాన్ని పిలవడం ప్రారంభించారు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "People begin to call on the name of the Lord.",
+		"desc_te": "ప్రజలు యెహోవా నామాన్ని పిలవడం ప్రారంభించారు."
+	},
+	{
+		"year": "-3260",
+		"name_en": "Development of Early Professions",
+		"name_te": "ప్రాథమిక వృత్తుల అభివృద్ధి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The descendants of Cain develop professions such as herding, music, and metalworking.",
+		"desc_te": "కాయిను సంతతి పశుపోషణ, సంగీతం, లోహ పనులు వంటి వృత్తులను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-3250",
+		"name_en": "Spread of Mankind",
+		"name_te": "మానవ జాతి వ్యాప్తి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Mankind continues to spread and fill the earth.",
+		"desc_te": "మానవ జాతి భూమి మీద వ్యాప్తి చెందుతుంది."
+	},
+	{
+		"year": "-3240",
+		"name_en": "Generations of Seth",
+		"name_te": "శేతు తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The generations of Seth are listed, showing the godly line.",
+		"desc_te": "శేతు తరాలు, భక్తి మార్గాన్ని చూపిస్తూ, వివరించబడ్డాయి."
+	},
+	{
+		"year": "-3230",
+		"name_en": "Birth of Kenan",
+		"name_te": "కేనాను జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Kenan is born to Enosh.",
+		"desc_te": "కేనాను ఏనోషుకు కుమారుడిగా జన్మించాడు."
+	},
+	{
+		"year": "-3220",
+		"name_en": "Birth of Mahalalel",
+		"name_te": "మహలలేలు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Mahalalel is born to Kenan.",
+		"desc_te": "మహలలేలు కేనాను కుమారుడిగా జన్మించాడు."
+	},
+	{
+		"year": "-3210",
+		"name_en": "Preparation for the Flood Era Begins",
+		"name_te": "ప్రళయ యుగానికి సిద్ధత ప్రారంభం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The world continues to grow in population and wickedness, setting the stage for the coming flood.",
+		"desc_te": "ప్రపంచ జనాభా పెరిగి, దుష్టత పెరిగి, ప్రళయానికి పునాది పడింది."
+	}
+]

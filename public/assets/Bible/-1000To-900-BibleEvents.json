@@ -1,0 +1,1190 @@
+[
+	{
+		"year": "-996",
+		"name_en": "Prophetic Ministry of Nathan",
+		"name_te": "నాతాన్ ప్రవక్త సేవ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nathan serves as prophet during David's reign, confronting David about Bathsheba and supporting Solomon (2 Samuel 12; 1 Kings 1)",
+		"desc_te": "దావీదు పాలనలో నాతాన్ ప్రవక్తగా సేవ చేసి, బత్షెబా విషయమై దావీదును గద్దించడమే కాక, సొలొమోనును మద్దతు ఇచ్చాడు (2 సమూయేలు 12; 1 రాజులు 1)"
+	},
+	{
+		"year": "-996",
+		"name_en": "David's Census and Plague",
+		"name_te": "దావీదు జనగణన, మహమ్మారి",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "David orders a census, resulting in a plague as divine judgment (2 Samuel 24)",
+		"desc_te": "దావీదు జనగణన చేయగా, దేవుని తీర్పుగా మహమ్మారి వచ్చింది (2 సమూయేలు 24)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Prophetic Ministry of Ahijah the Shilonite",
+		"name_te": "అహీయా శిలోనీయుడు ప్రవచన సేవ",
+		"location": {
+			"lat": 32.05,
+			"lng": 35.28
+		},
+		"desc_en": "Ahijah prophesies the division of the kingdom after Solomon (1 Kings 11:29-39)",
+		"desc_te": "అహీయా శిలోనీయుడు సొలొమోను తరువాత రాజ్యం విభజనను ప్రవచించాడు (1 రాజులు 11:29-39)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Trade and Naval Expeditions",
+		"name_te": "సొలొమోను వాణిజ్య, నౌకా యాత్రలు",
+		"location": {
+			"lat": 29.5,
+			"lng": 34.9
+		},
+		"desc_en": "Solomon establishes trade routes and naval expeditions to Ophir, bringing gold and resources (1 Kings 9:26-28; 10:11-12)",
+		"desc_te": "సొలొమోను ఒఫీర్‌కు నౌకా యాత్రలు, వాణిజ్య మార్గాలు స్థాపించి, బంగారం, వనరులు తెప్పించాడు (1 రాజులు 9:26-28; 10:11-12)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Idolatry and Religious Decline",
+		"name_te": "సొలొమోను విగ్రహారాధన, మత పతనం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon's foreign wives lead him into idolatry, resulting in religious decline (1 Kings 11:1-13)",
+		"desc_te": "సొలొమోను విదేశీ భార్యల ప్రభావంతో విగ్రహారాధనలో పడిపోయి, మతపరంగా పతనమయ్యాడు (1 రాజులు 11:1-13)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Building of Fortified Cities: Hazor, Megiddo, Gezer",
+		"name_te": "హజోర్, మెగిద్దో, గెజెర్ పట్టణ నిర్మాణం",
+		"location": {
+			"lat": 32.7,
+			"lng": 35.57
+		},
+		"desc_en": "Solomon fortifies key cities for defense and administration (1 Kings 9:15-19)",
+		"desc_te": "సొలొమోను హజోర్, మెగిద్దో, గెజెర్ వంటి పట్టణాలను రక్షణ, పరిపాలన కోసం కోటలుగా నిర్మించాడు (1 రాజులు 9:15-19)"
+	},
+	{
+		"year": "-996",
+		"name_en": "Absalom's Rebellion against David",
+		"name_te": "దావీదుకు వ్యతిరేకంగా అబ్షాలోము తిరుగుబాటు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Absalom, son of David, rebels and temporarily seizes Jerusalem (2 Samuel 15-18)",
+		"desc_te": "దావీదు కుమారుడు అబ్షాలోము తిరుగుబాటు చేసి, తాత్కాలికంగా యెరూషలేమును స్వాధీనం చేసుకున్నాడు (2 సమూయేలు 15-18)"
+	},
+	{
+		"year": "-996",
+		"name_en": "Sheba's Revolt against David",
+		"name_te": "దావీదుకు వ్యతిరేకంగా శెబా తిరుగుబాటు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Sheba, a Benjaminite, leads a revolt against David after Absalom's rebellion (2 Samuel 20)",
+		"desc_te": "అబ్షాలోము తిరుగుబాటుకు తరువాత, బిన్యామీనీయుడైన శెబా దావీదుకు వ్యతిరేకంగా తిరుగుబాటు చేశాడు (2 సమూయేలు 20)"
+	},
+	{
+		"year": "-996",
+		"name_en": "Mephibosheth and the House of Saul",
+		"name_te": "మెఫీబోషెత్, సౌలు వంశం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "David shows kindness to Mephibosheth, Jonathan's son, preserving Saul's lineage (2 Samuel 9)",
+		"desc_te": "దావీదు, యోనాథాన్ కుమారుడు మెఫీబోషెత్‌కు దయ చూపి, సౌలు వంశాన్ని కాపాడాడు (2 సమూయేలు 9)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Administrative Divisions",
+		"name_te": "సొలొమోను పరిపాలనా విభాగాలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon organizes Israel into administrative districts for taxation and governance (1 Kings 4:7-19)",
+		"desc_te": "సొలొమోను ఇశ్రాయేలను పరిపాలనా జిల్లాలుగా విభజించి, పన్నులు, పరిపాలన నిర్వహించాడు (1 రాజులు 4:7-19)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Alliance with Hiram of Tyre",
+		"name_te": "సొలొమోను-హిరాం మైత్రి (టైర్)",
+		"location": {
+			"lat": 32.0167,
+			"lng": 34.75
+		},
+		"desc_en": "Solomon forms an alliance with Hiram, king of Tyre, for temple construction and trade (1 Kings 5)",
+		"desc_te": "సొలొమోను, టైర్ రాజు హిరాంను మిత్రుడిగా చేసుకుని, దేవాలయ నిర్మాణం, వాణిజ్యం నిర్వహించాడు (1 రాజులు 5)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Literary Works: Ecclesiastes, Song of Songs",
+		"name_te": "సొలొమోను రచనలు: ప్రసంగి, పరమగీతము",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon is traditionally credited with writing Ecclesiastes and Song of Songs (Ecclesiastes 1:1; Song of Songs 1:1)",
+		"desc_te": "సొలొమోను ప్రసంగి, పరమగీతము రచించినవాడిగా పరిగణించబడతాడు (ప్రసంగి 1:1; పరమగీతము 1:1)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Queen of Sheba Visits Solomon",
+		"name_te": "శెబా రాణి సొలొమోనును సందర్శించుట",
+		"location": {
+			"lat": 15.553,
+			"lng": 48.517
+		},
+		"desc_en": "The Queen of Sheba visits Solomon to test his wisdom and brings gifts (1 Kings 10:1-13)",
+		"desc_te": "శెబా రాణి సొలొమోనును సందర్శించి, అతని జ్ఞానాన్ని పరీక్షించి, బహుమతులు ఇచ్చింది (1 రాజులు 10:1-13)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon Builds the First Temple",
+		"name_te": "సొలొమోను మొదటి దేవాలయ నిర్మాణం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon constructs the First Temple in Jerusalem, centralizing worship (1 Kings 6-8)",
+		"desc_te": "సొలొమోను యెరూషలేములో మొదటి దేవాలయాన్ని నిర్మించి, ఆరాధనను కేంద్రీకరించాడు (1 రాజులు 6-8)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Dedication of Solomon's Temple",
+		"name_te": "సొలొమోను దేవాలయ ప్రతిష్ఠ",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon dedicates the Temple with sacrifices and prayer (1 Kings 8)",
+		"desc_te": "సొలొమోను దేవాలయాన్ని బలులు, ప్రార్థనలతో ప్రతిష్ఠించాడు (1 రాజులు 8)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Wealth and International Fame",
+		"name_te": "సొలొమోను సంపద, అంతర్జాతీయ ఖ్యాతి",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon becomes renowned for his wisdom, wealth, and international relations (1 Kings 10:23-29)",
+		"desc_te": "సొలొమోను తన జ్ఞానం, సంపద, అంతర్జాతీయ సంబంధాలతో ప్రసిద్ధి చెందాడు (1 రాజులు 10:23-29)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Rise of Adversaries: Hadad, Rezon, Jeroboam",
+		"name_te": "వ్యతిరేకులు: హదద్, రెజోన్, యెరోబొవాము",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "God raises up adversaries against Solomon: Hadad the Edomite, Rezon of Damascus, and Jeroboam (1 Kings 11:14-40)",
+		"desc_te": "దేవుడు సొలొమోనుకు వ్యతిరేకంగా హదద్ ఎడోమీయుడు, రెజోన్ దమస్కు, యెరోబొవాము లాంటి వ్యతిరేకులను లేపాడు (1 రాజులు 11:14-40)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Officers and Governors",
+		"name_te": "సొలొమోను అధికారులు, గవర్నర్లు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon appoints officers and governors over Israel's districts (1 Kings 4:1-19)",
+		"desc_te": "సొలొమోను ఇశ్రాయేలు జిల్లాలపై అధికారులను, గవర్నర్లను నియమించాడు (1 రాజులు 4:1-19)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Proverbs and Wisdom",
+		"name_te": "సొలొమోను సామెతలు, జ్ఞానం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon composes thousands of proverbs and songs, renowned for wisdom (1 Kings 4:29-34; Proverbs 1:1)",
+		"desc_te": "సొలొమోను వేల సామెతలు, గీతాలు రచించి, జ్ఞానానికు ప్రసిద్ధి చెందాడు (1 రాజులు 4:29-34; సామెతలు 1:1)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Egyptian Wife and Political Alliances",
+		"name_te": "సొలొమోను ఈజిప్టు భార్య, రాజకీయ మైత్రులు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon marries Pharaoh's daughter, forming a political alliance with Egypt (1 Kings 3:1)",
+		"desc_te": "సొలొమోను ఫరో కుమార్తెను వివాహం చేసుకుని, ఈజిప్టుతో రాజకీయ మైత్రి ఎర్పరించాడు (1 రాజులు 3:1)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Chariots and Horsemen",
+		"name_te": "సొలొమోను రథాలు, కుదేరులు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon amasses chariots and horsemen, strengthening Israel's military (1 Kings 10:26)",
+		"desc_te": "సొలొమోను రథాలు, కుదేరులను కూడగట్టి, ఇశ్రాయేలు సైన్యాన్ని బలోపేతం చెసాడు (1 రాజులు 10:26)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Prayer for Wisdom",
+		"name_te": "సొలొమోను జ్ఞానార్థ ప్రార్థన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon prays for wisdom at Gibeon and receives it from God (1 Kings 3:4-15)",
+		"desc_te": "సొలొమోను గిబియోనులో జ్ఞానార్థం ప్రార్థించి, దేవుని నుంది జ్ఞానం పొందాడు (1 రాజులు 3:4-15)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon Judges the Two Women",
+		"name_te": "రెండు స్త్రీల మధ్య సొలొమోను తీర్పు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon's famous judgment between two women claiming the same child (1 Kings 3:16-28)",
+		"desc_te": "ఒకే శిశువును ఇద్దరు స్త్రీలు తమదని చెప్పినప్పుడు, సొలొమోను ప్రసిద్ధి చెందిన తీర్పు చెప్పాడు (1 రాజులు 3:16-28)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Annual Pilgrimage Festivals",
+		"name_te": "సొలొమోను వార్షిక పండుగలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon institutes annual pilgrimage festivals at the Temple (1 Kings 9:25)",
+		"desc_te": "సొలొమోను దేవాలయంలో వార్షిక యాత్ర పండుగలుని ప్రారంభించాడు (1 రాజులు 9:25)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Tribute from Subject Nations",
+		"name_te": "సొలొమోను పాలనలో ఆదాయ దేశాలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nations subject to Solomon bring tribute, expanding Israel's influence (1 Kings 4:21)",
+		"desc_te": "సొలొమోను పాలనలో అనేక దేశాలు ఆదాయంగా బహుమతులు తెచ్చాయి, ఇశ్రాయేలు ప్రభావాన్ని పెంచాయి (1 రాజులు 4:21)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Song of Songs and Proverbs",
+		"name_te": "సొలొమోను పరమగీతము, సామెతలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon composes the Song of Songs and many proverbs (Song of Songs 1:1; Proverbs 1:1)",
+		"desc_te": "సొలొమోను పరమగీతము, అనేక సామెతలు రచించాడు (పరమగీతము 1:1; సామెతలు 1:1)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Kingdom at its Greatest Extent",
+		"name_te": "సొలొమోను రాజ్యం అత్యంత విస్తృతంగా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Israel reaches its greatest territorial extent under Solomon (1 Kings 4:21,24)",
+		"desc_te": "సొలొమోను పాలనలో ఇశ్రాయేలు రాజ్యం అత్యంత విస్తృతంగా ఉంది (1 రాజులు 4:21,24)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Prophetic Ministry of Iddo the Seer",
+		"name_te": "ఇద్దో దర్శి ప్రవచన సేవ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Iddo the seer is active during Solomon's reign (2 Chronicles 9:29)",
+		"desc_te": "సొలొమోను పాలనలో ఇద్దో దర్శి ప్రవక్తగా ఉన్నాడు (2 దినవృత్తాంతములు 9:29)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Foreign Wives and Idolatry",
+		"name_te": "సొలొమోను విదేశీ భార్యలు, విగ్రహారాధన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon's many foreign wives lead him into idolatry (1 Kings 11:1-8)",
+		"desc_te": "సొలొమోను అనేక విదేశీ భార్యల ప్రభావంతో విగ్రహారాధనలో పడిపోయాడు (1 రాజులు 11:1-8)"
+	},
+	{
+		"year": "-996",
+		"name_en": "King David's Reign over United Israel",
+		"name_te": "దావీదు పాలనలో ఒఏక్య ఇశ్రాయేలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "David rules as king over all Israel, establishing Jerusalem as the capital (2 Samuel 5:1-5)",
+		"desc_te": "దావీదు ఇశ్రాయేలు మూల్తం మీద రాజుగా పాలించి, యెరూషలేమును రాజధానిగా స్థాపించాడు (2 సమూయేలు 5:1-5)"
+	},
+	{
+		"year": "-956",
+		"name_en": "King Solomon's Reign: Golden Age of Israel",
+		"name_te": "సొలొమోను పాలన: ఇశ్రాయేలు స్వర్ణయుగం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon's reign marks the peak of Israel's power, wealth, and influence (1 Kings 4:20-34)",
+		"desc_te": "సొలొమోను పాలనలో ఇశ్రాయేలు వపుప, సంపద, ప్రభావాన్నలో షిఖరాన్ని చేరింది (1 రాజులు 4:20-34)"
+	},
+	{
+		"year": "-930",
+		"name_en": "Division of the Kingdom: Israel and Judah",
+		"name_te": "రాజ్యం విభజన: ఇశ్రాయేలు, యూదా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "After Solomon, the kingdom splits into Israel (north) and Judah (south) (1 Kings 12)",
+		"desc_te": "సొలొమోను తరువాత రాజ్యం ఉత్తరంలో ఇశ్రాయేలు, దక్షిణంలో యూదాగా విభజించబడింది (1 రాజులు 12)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Kingdom of Edom under Hadad",
+		"name_te": "హదద్ పాలనలో ఎడోము రాజ్యం",
+		"location": {
+			"lat": 30.8,
+			"lng": 35.6
+		},
+		"desc_en": "Hadad the Edomite returns from Egypt and rules Edom, becoming an adversary to Solomon (1 Kings 11:14-22)",
+		"desc_te": "హదద్ ఎడోమీయుడు ఈజిప్టు నుండి తిరిగి వచ్చి, ఎడోమును పాలించి, సొలొమోనుకు శత్రువుగా మారాడు (1 రాజులు 11:14-22)"
+	},
+	{
+		"year": "-950",
+		"name_en": "Rise of Aramean Kingdoms (Damascus)",
+		"name_te": "అరామీయ రాజ్యాల (దమస్కు) ఉద్భవం",
+		"location": {
+			"lat": 33.513,
+			"lng": 36.292
+		},
+		"desc_en": "Rezon establishes the Aramean kingdom in Damascus, challenging Israel's dominance (1 Kings 11:23-25)",
+		"desc_te": "రెజోన్ దమస్కులో అరామీయ రాజ్యాన్ని స్థాపించి, ఇశ్రాయేలు ఆధిపత్యాన్ని సవాలు చేశాడు (1 రాజులు 11:23-25)"
+	},
+	{
+		"year": "-950",
+		"name_en": "Early Phoenician Trade Expansion (Tyre, Sidon)",
+		"name_te": "ప్రారంభ ఫోనీషియన్ వాణిజ్య విస్తరణ (టైర్, సైడాన్)",
+		"location": {
+			"lat": 34.12,
+			"lng": 35.65
+		},
+		"desc_en": "Phoenician cities Tyre and Sidon expand trade across the Mediterranean, influencing Israelite commerce",
+		"desc_te": "ఫోనీషియన్ పట్టణాలు టైర్, సైడాన్ మెడిటరేనియన్ వ్యాప్తంగా వాణిజ్యాన్ని విస్తరించి, ఇశ్రాయేలు వాణిజ్యంపై ప్రభావం చూపాయి"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Philistine Conflicts with Israel",
+		"name_te": "ఇశ్రాయేలు-ఫిలిష్తీయుల యుద్ధాలు",
+		"location": {
+			"lat": 31.77,
+			"lng": 34.63
+		},
+		"desc_en": "Ongoing wars and skirmishes between Israel and the Philistines in the Shephelah region (1 Samuel 29; 2 Samuel 21)",
+		"desc_te": "ఇశ్రాయేలు, ఫిలిష్తీయుల మధ్య షెఫేలా ప్రాంతంలో యుద్ధాలు, ఘర్షణలు కొనసాగాయి (1 సమూయేలు 29; 2 సమూయేలు 21)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Notable Persons: Benaiah son of Jehoiada",
+		"name_te": "ప్రసిద్ధ వ్యక్తి: యెహోయాద కుమారుడు బెనాయా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Benaiah, a mighty warrior, serves as chief of Solomon's bodyguard (1 Kings 1:38; 2:35)",
+		"desc_te": "బెనాయా, శక్తివంతంగుడ యోధుడు, సొలొమోను దేహరక్షకుల అధిపతిగా ఉన్నాడు (1 రాజులు 1:38; 2:35)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Religious Places: Gibeon High Place",
+		"name_te": "ఆధ్యాత్మిక స్థలం: గిబియోను ఉన్నత స్థలం",
+		"location": {
+			"lat": 31.85,
+			"lng": 35.18
+		},
+		"desc_en": "Gibeon serves as a major worship center before the Temple is built (1 Kings 3:4)",
+		"desc_te": "దేవాలయం నిర్మించనికి ముందు గిబియోను ప్రదాన ఆరాధనా కేంద్రంగా ఉంది (1 రాజులు 3:4)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon's Marriage Alliances with Foreign Kingdoms",
+		"name_te": "సొలొమోను విదేశీ రాజ్యాలతో వివాహ మైత్రులు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Solomon forms alliances with Egypt, Moab, Ammon, Edom, Sidon, and Hittites through marriage (1 Kings 11:1)",
+		"desc_te": "సొలొమోను ఈజిప్టు, మోయాబు, అఢాం, ఎడోము, సీడాన్, హిత్తీయులతో వివాహ మైత్రులు ఎర్పరించాడు (1 రాజులు 11:1)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Rise of Jeroboam: Future King of Israel",
+		"name_te": "యెరోబొవాము ఉద్భవం: భవిష్యత్ ఇశ్రాయేలు రాజు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jeroboam, an official under Solomon, is foretold to become king over the northern tribes (1 Kings 11:26-40)",
+		"desc_te": "సొలొమోను అధికారీగా ఉన్న యెరోబొవాము, ఉత్తర ఇశ్రాయేలు గోత్రాలపై రాజుగా అవుతరించుని ప్రవచించబడింది (1 రాజులు 11:26-40)"
+	},
+	{
+		"year": "-950",
+		"name_en": "King Abijah of Judah",
+		"name_te": "యూదా రాజు అబీయా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Abijah, son of Rehoboam, rules Judah and wars with Jeroboam of Israel (1 Kings 15:1-8)",
+		"desc_te": "రెహబోయాము కుమారుడు అబీయా యూదాను పాలించి, ఇశ్రాయేలు యెరోబొవాముతో యుద్ధం చేశాడు (1 రాజులు 15:1-8)"
+	},
+	{
+		"year": "-950",
+		"name_en": "King Nadab of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు నదాబు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nadab, son of Jeroboam, becomes king of Israel and is assassinated (1 Kings 15:25-28)",
+		"desc_te": "యెరోబొవాము కుమారుడు నదాబు ఇశ్రాయేలు రాజుగా అవతరించి, హత్య చేయబడ్డాడు (1 రాజులు 15:25-28)"
+	},
+	{
+		"year": "-950",
+		"name_en": "Kingdom of Egypt: Pharaoh Shoshenq I (Shishak)",
+		"name_te": "ఈజిప్టు రాజ్యం: ఫరో షోషేంక్ I (శీశాక్)",
+		"location": {
+			"lat": 30.044,
+			"lng": 31.236
+		},
+		"desc_en": "Shoshenq I (Shishak) becomes Pharaoh of Egypt, later invades Judah (1 Kings 14:25)",
+		"desc_te": "షోషేంక్ I (శీశాక్) ఈజిప్టు ఫరోగా అవతరించి, తరువాత యూదాపై దాడి చేశాడు (1 రాజులు 14:25)"
+	},
+	{
+		"year": "-930",
+		"name_en": "Division of the Kingdom: Israel and Judah",
+		"name_te": "రాజ్య విభజన: ఇశ్రాయేలు మరియు యూదా",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "After Solomon's reign, the united kingdom splits into Israel (north) and Judah (south) (1 Kings 12:16-20)",
+		"desc_te": "సొలొమోను పాలన అనంతరం రాజ్యం రెండు భాగాలుగా విడిపోయింది: ఉత్తరంలో ఇశ్రాయేలు, దక్షిణంలో యూదా (1 రాజులు 12:16-20)"
+	},
+	{
+		"year": "-930",
+		"name_en": "Jeroboam Becomes First King of Northern Israel",
+		"name_te": "యెరోబొవాము ఉత్తర ఇశ్రాయేలు మొదటి రాజు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Jeroboam is made king over the ten northern tribes of Israel (1 Kings 12:20)",
+		"desc_te": "యెరోబొవాము ఉత్తర ఇశ్రాయేలు పది గోత్రాలకు రాజుగా నియమించబడ్డాడు (1 రాజులు 12:20)"
+	},
+	{
+		"year": "-930",
+		"name_en": "Rehoboam Rules Judah from Jerusalem",
+		"name_te": "రెహబోయాము యెరూషలేములో యూదాను పాలించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Rehoboam, Solomon's son, rules Judah from Jerusalem (1 Kings 12:21)",
+		"desc_te": "సొలొమోను కుమారుడు రెహబోయాము యెరూషలేములో యూదాను పాలించాడు (1 రాజులు 12:21)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Jeroboam Sets Up Golden Calves at Bethel and Dan",
+		"name_te": "యెరోబొవాము బేతేలు, దానులో బంగారు దూడలు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.55
+		},
+		"desc_en": "Jeroboam establishes golden calves at Bethel and Dan to prevent Israelites from going to Jerusalem (1 Kings 12:28-30)",
+		"desc_te": "యెరోబొవాము ఇశ్రాయేలు ప్రజలు యెరూషలేముకు పోకుండా బేతేలు, దానులో బంగారు దూడలను ఏర్పాటు చేశాడు (1 రాజులు 12:28-30)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Shemaiah the Prophet Warns Rehoboam",
+		"name_te": "శెమాయా ప్రవక్త యెరొబొవామును హెచ్చరించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Shemaiah the prophet warns Rehoboam not to fight against Israel, averting civil war (1 Kings 12:22-24)",
+		"desc_te": "శెమాయా ప్రవక్త యెరొబొవామును ఇశ్రాయేలు మీద యుద్ధం చేయవద్దని హెచ్చరించాడు, అంతర్గత యుద్ధాన్ని నివారించాడు (1 రాజులు 12:22-24)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Jeroboam Institutes Non-Levitical Priests",
+		"name_te": "యెరోబొవాము లేవీయేతర యాజకులను నియమించాడు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Jeroboam appoints priests from all tribes, not just Levites, for the high places (1 Kings 12:31)",
+		"desc_te": "యెరోబొవాము లేవీయేతర గోత్రాల నుండి యాజకులను నియమించి, ఉన్నత ప్రదేశాల్లో సేవ చేయించాడు (1 రాజులు 12:31)"
+	},
+	{
+		"year": "-920",
+		"name_en": "A Man of God Prophesies Against Bethel Altar",
+		"name_te": "దేవుని మనిషి బేతేలు బలి పీఠంపై ప్రవచనం",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.55
+		},
+		"desc_en": "A man of God from Judah prophesies against Jeroboam's altar at Bethel (1 Kings 13:1-5)",
+		"desc_te": "యూదా నుండి వచ్చిన దేవుని మనిషి, యెరోబొవాము బేతేలు బలి పీఠంపై ప్రవచించాడు (1 రాజులు 13:1-5)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Rehoboam Strengthens Judah's Fortresses",
+		"name_te": "యెరొబొవాము యూదా కోటలను బలోపేతం చేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Rehoboam fortifies cities in Judah for defense (2 Chronicles 11:5-12)",
+		"desc_te": "యెరొబొవాము యూదాలోని పట్టణాలను రక్షణ కోసం బలోపేతం చేశాడు (2 దినవృత్తాంతములు 11:5-12)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Levites and Faithful Israelites Migrate to Judah",
+		"name_te": "లేవీయులు, విశ్వాసి ఇశ్రాయేలు యూదాకు వలస",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Levites and faithful Israelites migrate to Judah after Jeroboam's religious changes (2 Chronicles 11:13-17)",
+		"desc_te": "యెరోబొవాము మతపరమైన మార్పుల తర్వాత లేవీయులు, విశ్వాసి ఇశ్రాయేలు యూదాకు వలస వెళ్లారు (2 దినవృత్తాంతములు 11:13-17)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Egyptian King Shishak Invades Judah",
+		"name_te": "ఈజిప్టు రాజు శీశాక్ యూదాపై దాడి చేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Shishak, king of Egypt, invades Judah and plunders Jerusalem (1 Kings 14:25-26; 2 Chronicles 12:1-9)",
+		"desc_te": "ఈజిప్టు రాజు శీశాక్ యూదాపై దాడి చేసి, యెరూషలేమును దోచుకున్నాడు (1 రాజులు 14:25-26; 2 దినవృత్తాంతములు 12:1-9)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Jeroboam's Hand Withered and Restored at Bethel",
+		"name_te": "బేతేలు వద్ద యెరోబొవాము చేయి వాడిపోయి మళ్లీ కోలుకుంది",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.55
+		},
+		"desc_en": "Jeroboam's hand withers when he tries to seize the man of God, but is restored after prayer (1 Kings 13:4-6)",
+		"desc_te": "యెరోబొవాము దేవుని మనిషిని పట్టుకోవడానికి ప్రయత్నించగా, అతని చేయి వాడిపోయింది, ప్రార్థనతో మళ్లీ కోలుకుంది (1 రాజులు 13:4-6)"
+	},
+	{
+		"year": "-920",
+		"name_en": "The Disobedient Prophet Killed by a Lion",
+		"name_te": "అవిధేయ ప్రవక్తను సింహం చంపింది",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.55
+		},
+		"desc_en": "A prophet who disobeys God's command is killed by a lion near Bethel (1 Kings 13:11-24)",
+		"desc_te": "దేవుని ఆజ్ఞను అవిధేయత చేసిన ప్రవక్తను బేతేలు సమీపంలో సింహం చంపింది (1 రాజులు 13:11-24)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Rehoboam's Apostasy and Idolatry in Judah",
+		"name_te": "యెరొబొవాము యూదాలో విగ్రహారాధన, అవిశ్వాసం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Rehoboam and Judah turn to idolatry and abandon God's law (1 Kings 14:22-24)",
+		"desc_te": "యెరొబొవాము, యూదా ప్రజలు విగ్రహారాధనకు మొగ్గుచూపి, దేవుని ధర్మశాస్త్రాన్ని విడిచిపెట్టారు (1 రాజులు 14:22-24)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Prophecy Against Jeroboam's House by Ahijah",
+		"name_te": "అహీయా ప్రవక్త యెరోబొవాము ఇంటిపై శాపనార్థక ప్రవచనం",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Ahijah the prophet prophesies disaster for Jeroboam's house due to idolatry (1 Kings 14:1-16)",
+		"desc_te": "అహీయా ప్రవక్త, విగ్రహారాధన కారణంగా యెరోబొవాము ఇంటిపై శాపనార్థక ప్రవచనం చేశాడు (1 రాజులు 14:1-16)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Death of Jeroboam's Son Abijah",
+		"name_te": "యెరోబొవాము కుమారుడు అబీయా మరణం",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Jeroboam's son Abijah falls ill and dies as prophesied by Ahijah (1 Kings 14:17)",
+		"desc_te": "యెరోబొవాము కుమారుడు అబీయా, అహీయా ప్రవక్త ప్రవచించిన ప్రకారం అనారోగ్యంతో మరణించాడు (1 రాజులు 14:17)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Jeroboam's Continued Idolatry and Sin",
+		"name_te": "యెరోబొవాము విగ్రహారాధన, పాపంలో కొనసాగాడు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Jeroboam persists in idolatry, leading Israel into sin and setting a pattern for future kings (1 Kings 14:16)",
+		"desc_te": "యెరోబొవాము విగ్రహారాధనలో కొనసాగి, ఇశ్రాయేలు ప్రజలను పాపంలో నడిపించాడు. ఇది భవిష్యత్ రాజులకు ఉదాహరణగా నిలిచింది (1 రాజులు 14:16)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Death of Rehoboam, King of Judah",
+		"name_te": "యూదా రాజు యెరొబొవాము మరణం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Rehoboam, king of Judah, dies after 17 years of reign and is succeeded by his son Abijah (1 Kings 14:21, 31)",
+		"desc_te": "యూదా రాజు యెరొబొవాము 17 సంవత్సరాల పాలన అనంతరం మరణించి, అతని కుమారుడు అబీయా రాజుగా అయ్యాడు (1 రాజులు 14:21, 31)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Abijah Becomes King of Judah",
+		"name_te": "అబీయా యూదా రాజుగా నియమించబడ్డాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Abijah, son of Rehoboam, becomes king of Judah (1 Kings 15:1-2)",
+		"desc_te": "యెరొబొవాము కుమారుడు అబీయా యూదా రాజుగా నియమించబడ్డాడు (1 రాజులు 15:1-2)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Nadab Succeeds Jeroboam as King of Israel",
+		"name_te": "నదాబు యెరోబొవాము తరువాత ఇశ్రాయేలు రాజు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Nadab, son of Jeroboam, becomes king of Israel after Jeroboam's death (1 Kings 15:25)",
+		"desc_te": "యెరోబొవాము మరణం తరువాత అతని కుమారుడు నదాబు ఇశ్రాయేలు రాజుగా అయ్యాడు (1 రాజులు 15:25)"
+	},
+	{
+		"year": "-920",
+		"name_en": "Prophets Continue to Warn Israel and Judah",
+		"name_te": "ప్రవక్తలు ఇశ్రాయేలు, యూదాను హెచ్చరిస్తూనే ఉన్నారు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Prophets continue to warn both Israel and Judah about idolatry and unfaithfulness (1 Kings 14-15)",
+		"desc_te": "ప్రవక్తలు ఇశ్రాయేలు, యూదా ప్రజలను విగ్రహారాధన, అవిశ్వాసం గురించి హెచ్చరిస్తూనే ఉన్నారు (1 రాజులు 14-15)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Solomon's Idolatry and God's Anger",
+		"name_te": "సొలొమోను విగ్రహారాధన, దేవుని కోపం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon turns to idolatry in his old age, provoking God's anger (1 Kings 11:4-9)",
+		"desc_te": "సొలొమోను వృద్ధాప్యంలో విగ్రహారాధనకు మొగ్గుచూపి, దేవుని కోపాన్ని రేకెత్తించాడు (1 రాజులు 11:4-9)"
+	},
+	{
+		"year": "-940",
+		"name_en": "God Raises Adversaries Against Solomon",
+		"name_te": "దేవుడు సొలొమోను మీద శత్రువులను లేపాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "God raises Hadad the Edomite, Rezon of Damascus, and Jeroboam as adversaries to Solomon (1 Kings 11:14-28)",
+		"desc_te": "దేవుడు హదాదు ఎడోమీయుడు, దమస్కు రేజోను, యెరోబొవామును సొలొమోను మీద శత్రువులుగా లేపాడు (1 రాజులు 11:14-28)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Prophecy of Ahijah to Jeroboam",
+		"name_te": "యెరోబొవాముకు అహీయా ప్రవచనం",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Ahijah the prophet prophesies that Jeroboam will rule over ten tribes of Israel (1 Kings 11:29-39)",
+		"desc_te": "అహీయా ప్రవక్త యెరోబొవాముకు ఇశ్రాయేలు పది గోత్రాలపై రాజ్యాధికారం కలుగుతుందని ప్రవచించాడు (1 రాజులు 11:29-39)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Death of Solomon and Accession of Rehoboam",
+		"name_te": "సొలొమోను మరణం, యెరొబొవాము రాజ్యారోహణ",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon dies after a long reign, and his son Rehoboam becomes king (1 Kings 11:41-43)",
+		"desc_te": "సొలొమోను దీర్ఘకాల పాలన అనంతరం మరణించి, అతని కుమారుడు యెరొబొవాము రాజుగా అయ్యాడు (1 రాజులు 11:41-43)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Jeroboam Returns from Egypt",
+		"name_te": "యెరోబొవాము ఈజిప్టు నుండి తిరిగి వచ్చాడు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Jeroboam returns from exile in Egypt after Solomon's death (1 Kings 12:2-3)",
+		"desc_te": "సొలొమోను మరణం తరువాత యెరోబొవాము ఈజిప్టు నుండి తిరిగి వచ్చాడు (1 రాజులు 12:2-3)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Solomon's Harsh Policies Cause Discontent",
+		"name_te": "సొలొమోను కఠిన పాలన ప్రజల్లో అసంతృప్తి",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon's heavy taxation and forced labor create unrest among the Israelites (1 Kings 12:4)",
+		"desc_te": "సొలొమోను అధిక పన్నులు, బలవంతపు కూలీతో ఇశ్రాయేలు ప్రజల్లో అసంతృప్తి పెరిగింది (1 రాజులు 12:4)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Rehoboam Rejects Wise Counsel and Increases Burden",
+		"name_te": "యెరొబొవాము మేధావుల సలహాను తిరస్కరించి భారాన్ని పెంచాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Rehoboam rejects the elders' advice and increases the people's burden, leading to rebellion (1 Kings 12:8-15)",
+		"desc_te": "యెరొబొవాము పెద్దల సలహాను తిరస్కరించి, ప్రజలపై భారాన్ని పెంచి తిరుగుబాటుకు దారితీశాడు (1 రాజులు 12:8-15)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Ten Tribes Rebel and Make Jeroboam King",
+		"name_te": "పది గోత్రాలు తిరుగుబాటు చేసి యెరోబొవామును రాజుగా చేసారు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Ten northern tribes rebel against Rehoboam and make Jeroboam their king (1 Kings 12:16-20)",
+		"desc_te": "ఉత్తర పది గోత్రాలు యెరొబొవాముపై తిరుగుబాటు చేసి, యెరోబొవామును రాజుగా చేసారు (1 రాజులు 12:16-20)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Rehoboam Flees to Jerusalem and Fortifies Judah",
+		"name_te": "యెరొబొవాము యెరూషలేముకు పారిపోయి యూదాను బలోపేతం చేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Rehoboam flees to Jerusalem and strengthens the cities of Judah (2 Chronicles 11:5-12)",
+		"desc_te": "యెరొబొవాము యెరూషలేముకు పారిపోయి, యూదా పట్టణాలను బలోపేతం చేశాడు (2 దినవృత్తాంతములు 11:5-12)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Jeroboam's Return and Rise to Power",
+		"name_te": "యెరోబొవాము తిరిగి వచ్చి అధికారంలోకి వచ్చాడు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Jeroboam returns from Egypt and is made king over Israel (1 Kings 12:2-20)",
+		"desc_te": "యెరోబొవాము ఈజిప్టు నుండి తిరిగి వచ్చి, ఇశ్రాయేలు రాజుగా నియమించబడ్డాడు (1 రాజులు 12:2-20)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Solomon's Political Alliances and Foreign Wives",
+		"name_te": "సొలొమోను రాజకీయ కూటములు, విదేశీ భార్యలు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon forms alliances through marriages with foreign women, leading to idolatry (1 Kings 11:1-8)",
+		"desc_te": "సొలొమోను విదేశీ మహిళలతో వివాహాలు చేసుకుని, రాజకీయ కూటములు ఏర్పరచి, విగ్రహారాధనలో పడిపోయాడు (1 రాజులు 11:1-8)"
+	},
+	{
+		"year": "-940",
+		"name_en": "God Promises to Tear the Kingdom from Solomon's Line",
+		"name_te": "దేవుడు సొలొమోను వంశం నుండి రాజ్యాన్ని తీసుకుంటానని హామీ ఇచ్చాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "God declares He will tear the kingdom from Solomon's descendants due to idolatry (1 Kings 11:9-13)",
+		"desc_te": "విగ్రహారాధన కారణంగా దేవుడు సొలొమోను వంశం నుండి రాజ్యాన్ని తీసుకుంటానని ప్రకటించాడు (1 రాజులు 11:9-13)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Jeroboam Appointed as Overseer by Solomon",
+		"name_te": "యెరోబొవాము సొలొమోను చేత నియమితుడయ్యాడు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Solomon appoints Jeroboam as overseer of labor for the house of Joseph (1 Kings 11:28)",
+		"desc_te": "సొలొమోను యెరోబొవామును యోసేపు ఇంటి కూలీలపై అధికారి గా నియమించాడు (1 రాజులు 11:28)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Prophecy of Division Delivered to Jeroboam",
+		"name_te": "యెరోబొవాముకు రాజ్య విభజన ప్రవచనం",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Ahijah the prophet delivers God's message of kingdom division to Jeroboam (1 Kings 11:29-39)",
+		"desc_te": "అహీయా ప్రవక్త యెరోబొవాముకు రాజ్య విభజన ప్రవచనం అందించాడు (1 రాజులు 11:29-39)"
+	},
+	{
+		"year": "-940",
+		"name_en": "Solomon Seeks to Kill Jeroboam, Jeroboam Flees to Egypt",
+		"name_te": "సొలొమోను యెరోబొవామును చంపేందుకు యత్నించి, యెరోబొవాము ఈజిప్టుకు పారిపోయాడు",
+		"location": {
+			"lat": 32.2,
+			"lng": 35.1
+		},
+		"desc_en": "Solomon seeks to kill Jeroboam after the prophecy, so Jeroboam flees to Egypt (1 Kings 11:40)",
+		"desc_te": "ప్రవచనం తరువాత సొలొమోను యెరోబొవామును చంపేందుకు ప్రయత్నించగా, యెరోబొవాము ఈజిప్టుకు పారిపోయాడు (1 రాజులు 11:40)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon Builds the Temple in Jerusalem",
+		"name_te": "సొలొమోను యెరూషలేములో దేవాలయాన్ని నిర్మించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon constructs the First Temple in Jerusalem, a central place of worship for Israel (1 Kings 6:1-38)",
+		"desc_te": "సొలొమోను యెరూషలేములో మొదటి దేవాలయాన్ని నిర్మించి, ఇశ్రాయేలు ప్రజలకు ఆరాధనా కేంద్రంగా నిలిపాడు (1 రాజులు 6:1-38)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Dedication of Solomon's Temple",
+		"name_te": "సొలొమోను దేవాలయ ప్రతిష్ఠ",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon dedicates the completed temple with sacrifices and prayer (1 Kings 8:1-66)",
+		"desc_te": "సొలొమోను దేవాలయాన్ని పూర్తిచేసి, బలులు అర్పించి, ప్రార్థనతో ప్రతిష్ఠించాడు (1 రాజులు 8:1-66)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon's Wisdom and Judgments Become Famous",
+		"name_te": "సొలొమోను జ్ఞానం, తీర్పులు ప్రసిద్ధి చెందాయి",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon's wisdom and just judgments become renowned throughout the region (1 Kings 4:29-34)",
+		"desc_te": "సొలొమోను జ్ఞానం, న్యాయ తీర్పులు చుట్టుపక్కల ప్రాంతాల్లో ప్రసిద్ధి చెందాయి (1 రాజులు 4:29-34)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Visit of the Queen of Sheba to Solomon",
+		"name_te": "శెబా రాణి సొలొమోను వద్దకు వచ్చింది",
+		"location": {
+			"lat": 15.5,
+			"lng": 44.2
+		},
+		"desc_en": "The Queen of Sheba visits Solomon to test his wisdom and brings gifts (1 Kings 10:1-13)",
+		"desc_te": "శెబా రాణి సొలొమోను జ్ఞానాన్ని పరీక్షించేందుకు వచ్చి, బహుమతులు అందించింది (1 రాజులు 10:1-13)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon's Wealth and International Relations",
+		"name_te": "సొలొమోను సంపద, అంతర్జాతీయ సంబంధాలు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon amasses great wealth and establishes alliances with neighboring nations (1 Kings 10:14-29)",
+		"desc_te": "సొలొమోను అపారమైన సంపదను కూడబెట్టాడు, పొరుగున ఉన్న రాజులతో కూటములు ఏర్పరచుకున్నాడు (1 రాజులు 10:14-29)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon Completes the Royal Palace",
+		"name_te": "సొలొమోను రాజప్రాసాదాన్ని పూర్తిచేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon completes the construction of his royal palace in Jerusalem (1 Kings 7:1-12)",
+		"desc_te": "సొలొమోను యెరూషలేములో తన రాజప్రాసాదాన్ని నిర్మించి పూర్తిచేశాడు (1 రాజులు 7:1-12)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon Brings the Ark to the Temple",
+		"name_te": "సొలొమోను ఒడారాన్ని దేవాలయానికి తీసుకొచ్చాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon brings the Ark of the Covenant into the newly built temple (1 Kings 8:1-11)",
+		"desc_te": "సొలొమోను ఒడారాన్ని కొత్తగా నిర్మించిన దేవాలయానికి తీసుకొచ్చాడు (1 రాజులు 8:1-11)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon's Prayer and God's Glory Fills the Temple",
+		"name_te": "సొలొమోను ప్రార్థన, దేవుని మహిమ దేవాలయాన్ని నింపింది",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon prays at the temple dedication and God's glory fills the temple (1 Kings 8:22-30)",
+		"desc_te": "సొలొమోను దేవాలయ ప్రతిష్ఠ సందర్భంగా ప్రార్థించగా, దేవుని మహిమ దేవాలయాన్ని నింపింది (1 రాజులు 8:22-30)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon's Fame Spreads to Distant Lands",
+		"name_te": "సొలొమోను ఖ్యాతి దూర దేశాలకు వ్యాపించింది",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon's wisdom and wealth become known in distant lands (1 Kings 10:23-24)",
+		"desc_te": "సొలొమోను జ్ఞానం, సంపద దూర దేశాలకు కూడా ప్రసిద్ధి చెందింది (1 రాజులు 10:23-24)"
+	},
+	{
+		"year": "-960",
+		"name_en": "Solomon's Trade and Naval Expeditions with Hiram",
+		"name_te": "సొలొమోను, హీరాము వాణిజ్య, నౌకా యాత్రలు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon and Hiram of Tyre launch joint trade and naval expeditions (1 Kings 9:26-28; 10:22)",
+		"desc_te": "సొలొమోను, టైరు రాజు హీరాము కలిసి వాణిజ్య, నౌకా యాత్రలు నిర్వహించారు (1 రాజులు 9:26-28; 10:22)"
+	},
+	{
+		"year": "-970",
+		"name_en": "Solomon Becomes King of Israel",
+		"name_te": "సొలొమోను ఇశ్రాయేలు రాజుగా అయ్యాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon ascends the throne of Israel after David's death (1 Kings 2:10-12)",
+		"desc_te": "దావీదు మరణం తరువాత సొలొమోను ఇశ్రాయేలు రాజుగా అయ్యాడు (1 రాజులు 2:10-12)"
+	},
+	{
+		"year": "-956",
+		"name_en": "Solomon Asks God for Wisdom",
+		"name_te": "సొలొమోను దేవునిని జ్ఞానం కోసం అడిగాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon asks God for wisdom to rule Israel, and God grants his request (1 Kings 3:3-14)",
+		"desc_te": "సొలొమోను ఇశ్రాయేలు పాలన కోసం దేవునిని జ్ఞానం కోసం అడగగా, దేవుడు అతనికి జ్ఞానం ప్రసాదించాడు (1 రాజులు 3:3-14)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Solomon's Famous Judgment: The Two Mothers",
+		"name_te": "సొలొమోను ప్రసిద్ధ తీర్పు: ఇద్దరు తల్లులు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon demonstrates wisdom in the case of the two mothers claiming one child (1 Kings 3:16-28)",
+		"desc_te": "ఒక శిశువును ఇద్దరు తల్లులు తమదని చెప్పినప్పుడు, సొలొమోను తన జ్ఞానంతో న్యాయ తీర్పు చెప్పాడు (1 రాజులు 3:16-28)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Solomon Forms Alliance with Pharaoh of Egypt",
+		"name_te": "సొలొమోను ఈజిప్టు ఫరోతో కూటమి చేసుకున్నాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon marries Pharaoh's daughter, forming a political alliance with Egypt (1 Kings 3:1)",
+		"desc_te": "సొలొమోను ఈజిప్టు ఫరో కుమార్తెను వివాహం చేసుకుని, రాజకీయ కూటమి ఏర్పరచుకున్నాడు (1 రాజులు 3:1)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Solomon Begins Major Building Projects in Jerusalem",
+		"name_te": "సొలొమోను యెరూషలేములో నిర్మాణాలు ప్రారంభించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon initiates major construction projects, including the temple and his palace (1 Kings 6:1; 7:1)",
+		"desc_te": "సొలొమోను యెరూషలేములో దేవాలయం, రాజప్రాసాదం వంటి నిర్మాణాలను ప్రారంభించాడు (1 రాజులు 6:1; 7:1)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Adonijah's Attempt to Seize the Throne",
+		"name_te": "అదోనీయా సింహాసనం కోసం ప్రయత్నం చేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Adonijah, David's son, attempts to make himself king before Solomon's coronation (1 Kings 1:5-53)",
+		"desc_te": "దావీదు కుమారుడు అదోనీయా, సొలొమోను రాజ్యాభిషేకానికి ముందు తాను రాజవ్వాలని ప్రయత్నించాడు (1 రాజులు 1:5-53)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Bathsheba and Nathan Secure Solomon's Kingship",
+		"name_te": "బత్షెబా, నాతాన్ సొలొమోను రాజ్యాన్ని రక్షించారు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Bathsheba and the prophet Nathan intervene to ensure Solomon is crowned king (1 Kings 1:11-40)",
+		"desc_te": "బత్షెబా, ప్రవక్త నాతాన్ కలసి సొలొమోను రాజ్యాన్ని రక్షించేందుకు జోక్యం చేసుకున్నారు (1 రాజులు 1:11-40)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Solomon Purges Rivals and Consolidates Power",
+		"name_te": "సొలొమోను ప్రత్యర్థులను తొలగించి అధికారాన్ని బలోపేతం చేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon removes rivals like Adonijah, Joab, and Shimei to secure his throne (1 Kings 2:13-46)",
+		"desc_te": "సొలొమోను అదోనీయా, యోయాబు, శిమయి వంటి ప్రత్యర్థులను తొలగించి తన సింహాసనాన్ని బలోపేతం చేశాడు (1 రాజులు 2:13-46)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Solomon Honors David's Legacy and Expands the Kingdom",
+		"name_te": "సొలొమోను దావీదు వారసత్వాన్ని గౌరవించి రాజ్యాన్ని విస్తరించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon honors his father David's legacy and expands Israel's borders (1 Kings 2:1-12; 4:21-24)",
+		"desc_te": "సొలొమోను తన తండ్రి దావీదు వారసత్వాన్ని గౌరవించి, ఇశ్రాయేలు సరిహద్దులను విస్తరించాడు (1 రాజులు 2:1-12; 4:21-24)"
+	},
+	{
+		"year": "-980",
+		"name_en": "Solomon's Administration and Officials",
+		"name_te": "సొలొమోను పరిపాలన, అధికారులు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon organizes his administration and appoints key officials (1 Kings 4:1-19)",
+		"desc_te": "సొలొమోను తన పరిపాలనను పటిష్టంగా ఏర్పాటు చేసి, ముఖ్య అధికారులను నియమించాడు (1 రాజులు 4:1-19)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "David's Final Instructions to Solomon",
+		"name_te": "దావీదు సొలొమోనుకు చివరి ఆదేశాలు ఇచ్చాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "David gives Solomon final instructions before his death, urging him to follow God's law (1 Kings 2:1-4)",
+		"desc_te": "దావీదు మరణానికి ముందు సొలొమోనుకు దేవుని ధర్మశాస్త్రాన్ని అనుసరించమని చివరి ఆదేశాలు ఇచ్చాడు (1 రాజులు 2:1-4)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "David Appoints Solomon as His Successor",
+		"name_te": "దావీదు సొలొమోనును తన వారసుడిగా నియమించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "David publicly appoints Solomon as his successor to the throne of Israel (1 Kings 1:28-40)",
+		"desc_te": "దావీదు సొలొమోనును ఇశ్రాయేలు సింహాసనానికి తన వారసుడిగా ప్రజా సమక్షంలో నియమించాడు (1 రాజులు 1:28-40)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "David's Death and Burial in Jerusalem",
+		"name_te": "దావీదు మరణం, యెరూషలేములో సమాధి",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "David dies after a long reign and is buried in Jerusalem (1 Kings 2:10)",
+		"desc_te": "దావీదు దీర్ఘకాల పాలన అనంతరం మరణించి, యెరూషలేములో సమాధి చేయబడ్డాడు (1 రాజులు 2:10)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Consolidation of the Kingdom Under Solomon",
+		"name_te": "సొలొమోను రాజ్యాన్ని బలోపేతం చేశాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon consolidates his rule over Israel after David's death (1 Kings 2:12)",
+		"desc_te": "దావీదు మరణం తరువాత సొలొమోను ఇశ్రాయేలు రాజ్యాన్ని బలోపేతం చేశాడు (1 రాజులు 2:12)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Key Figures at the End of David's Reign",
+		"name_te": "దావీదు పాలన చివర్లో ప్రముఖులు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Notable persons at the end of David's reign include Bathsheba, Nathan, Zadok, and Benaiah (1 Kings 1:8-39)",
+		"desc_te": "దావీదు పాలన చివర్లో బత్షెబా, నాతాన్, జాదోక్, బెనాయా వంటి ప్రముఖులు ఉన్నారు (1 రాజులు 1:8-39)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "David's Old Age and Abishag the Shunammite",
+		"name_te": "దావీదు వృద్ధాప్యం, షూనెమీయురాలు అబీషాగ్",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "In his old age, David is cared for by Abishag the Shunammite (1 Kings 1:1-4)",
+		"desc_te": "దావీదు వృద్ధాప్యంలో షూనెమీయురాలు అబీషాగ్ అతనిని చూసుకుంది (1 రాజులు 1:1-4)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Adonijah's Supporters and Political Intrigue",
+		"name_te": "అదోనీయా మద్దతుదారులు, రాజకీయ కుట్రలు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Adonijah gains support from Joab and Abiathar, leading to political intrigue (1 Kings 1:5-10)",
+		"desc_te": "అదోనీయా యోయాబు, అబీయాతార్ మద్దతుతో రాజకీయ కుట్రలు పన్నాడు (1 రాజులు 1:5-10)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Nathan and Bathsheba Intervene for Solomon",
+		"name_te": "నాతాన్, బత్షెబా సొలొమోనుకు జోక్యం చేశారు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Nathan the prophet and Bathsheba intervene to secure Solomon's succession (1 Kings 1:11-27)",
+		"desc_te": "నాతాన్ ప్రవక్త, బత్షెబా కలసి సొలొమోను వారసత్వాన్ని రక్షించేందుకు జోక్యం చేశారు (1 రాజులు 1:11-27)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "Solomon is Anointed King at Gihon",
+		"name_te": "గిహోనులో సొలొమోను అభిషేకం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Solomon is anointed king at Gihon by Zadok the priest and Nathan the prophet (1 Kings 1:32-40)",
+		"desc_te": "జాదోక్ యాజకుడు, నాతాన్ ప్రవక్త గిహోనులో సొలొమోనును రాజుగా అభిషేకించారు (1 రాజులు 1:32-40)"
+	},
+	{
+		"year": "-1000",
+		"name_en": "David's Final Days and the United Kingdom",
+		"name_te": "దావీదు చివరి రోజులు, ఐక్య రాజ్యం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "David's final days mark the end of the united kingdom under his rule (1 Kings 2:10-12)",
+		"desc_te": "దావీదు చివరి రోజులు, అతని పాలనలో ఐక్య రాజ్యానికి ముగింపు (1 రాజులు 2:10-12)"
+	}
+]

@@ -1,0 +1,244 @@
+[
+	{
+		"year": "-1400",
+		"name_en": "Moses' Final Address to Israel",
+		"name_te": "మోషే చివరి ఉపదేశం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses delivers his final address and blessings to Israel before his death (Deuteronomy 31-33)",
+		"desc_te": "మోషే తన మరణానికి ముందు ఇశ్రాయేలకు చివరి ఉపదేశం, ఆశీర్వాదాలు ఇచ్చాడు (ద్వితీయోపదేశకాండము 31-33)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Death of Moses on Mount Nebo",
+		"name_te": "నెబో కొండపై మోషే మరణం",
+		"location": {
+			"lat": 31.75,
+			"lng": 35.73
+		},
+		"desc_en": "Moses dies on Mount Nebo and is buried by God (Deuteronomy 34:1-7)",
+		"desc_te": "మోషే నెబో కొండపై మరణించి, దేవునిచే సమాధి చేయబడ్డాడు (ద్వితీయోపదేశకాండము 34:1-7)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Joshua Appointed as Moses' Successor",
+		"name_te": "యెహోషువ మోషే వారసుడిగా నియామకం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Joshua is commissioned as the new leader of Israel (Deuteronomy 31:7-8; Joshua 1:1-9)",
+		"desc_te": "యెహోషువను ఇశ్రాయేలు నాయకుడిగా నియమించారు (ద్వితీయోపదేశకాండము 31:7-8; యెహోషువ 1:1-9)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Israel Camps in the Plains of Moab",
+		"name_te": "మోయాబు మైదానాల్లో ఇశ్రాయేలు శిబిరం",
+		"location": {
+			"lat": 31.75,
+			"lng": 35.6
+		},
+		"desc_en": "Israel camps in the plains of Moab before entering Canaan (Numbers 22:1; Deuteronomy 34:1)",
+		"desc_te": "కనాను దేశంలోకి ప్రవేశించే ముందు ఇశ్రాయేలు మోయాబు మైదానాల్లో శిబిరం వేసింది (సంఖ్యాకాండము 22:1; ద్వితీయోపదేశకాండము 34:1)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Appointment of Cities of Refuge East of Jordan",
+		"name_te": "యోర్దాను తూర్పున ఆశ్రయ పట్టణాల నియామకం",
+		"location": {
+			"lat": 32,
+			"lng": 35.6
+		},
+		"desc_en": "Moses appoints cities of refuge east of the Jordan (Deuteronomy 4:41-43)",
+		"desc_te": "మోషే యోర్దాను తూర్పున ఆశ్రయ పట్టణాలను నియమించాడు (ద్వితీయోపదేశకాండము 4:41-43)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Tribal Allotments East of Jordan",
+		"name_te": "యోర్దాను తూర్పున గోత్రాల కేటాయింపు",
+		"location": {
+			"lat": 32,
+			"lng": 35.6
+		},
+		"desc_en": "Moses allots land east of the Jordan to Reuben, Gad, and half-tribe of Manasseh (Numbers 32:33-42)",
+		"desc_te": "మోషే యోర్దాను తూర్పున రూబేను, గాదు, మనస్సే అర్ధగోత్రానికి భూమిని కేటాయించాడు (సంఖ్యాకాండము 32:33-42)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Song of Moses",
+		"name_te": "మోషే గీతము",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses recites a song as a witness to Israel (Deuteronomy 32)",
+		"desc_te": "మోషే ఇశ్రాయేలకు సాక్షిగా ఒక గీతాన్ని పాడాడు (ద్వితీయోపదేశకాండము 32)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Moses Commissions Joshua Publicly",
+		"name_te": "మోషే యెహోషువను ప్రజా సమక్షంలో నియమించడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses commissions Joshua before all Israel (Deuteronomy 31:14-23)",
+		"desc_te": "మోషే యెహోషువను ఇశ్రాయేలు సమక్షంలో నాయకుడిగా నియమించాడు (ద్వితీయోపదేశకాండము 31:14-23)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Moses Writes the Law and Gives it to the Levites",
+		"name_te": "మోషే ధర్మశాస్త్రాన్ని వ్రాసి లేవీయులకు ఇవ్వడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses writes the law and entrusts it to the Levites (Deuteronomy 31:9-13, 24-29)",
+		"desc_te": "మోషే ధర్మశాస్త్రాన్ని వ్రాసి లేవీయులకు అప్పగించాడు (ద్వితీయోపదేశకాండము 31:9-13, 24-29)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Moses Blesses the Tribes of Israel",
+		"name_te": "మోషే ఇశ్రాయేలు గోత్రాలను ఆశీర్వదించడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses blesses each tribe of Israel before his death (Deuteronomy 33)",
+		"desc_te": "మోషే తన మరణానికి ముందు ప్రతి గోత్రాన్ని ఆశీర్వదించాడు (ద్వితీయోపదేశకాండము 33)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Israel Defeats Sihon King of the Amorites",
+		"name_te": "ఇశ్రాయేలు అమోరీ రాజు సీహోను ఓడించడం",
+		"location": {
+			"lat": 31.9,
+			"lng": 35.7
+		},
+		"desc_en": "Israel defeats Sihon, king of the Amorites, and takes his land (Numbers 21:21-31; Deuteronomy 2:24-37)",
+		"desc_te": "ఇశ్రాయేలు అమోరీ రాజు సీహోను ఓడించి, అతని భూమిని స్వాధీనం చేసుకుంది (సంఖ్యాకాండము 21:21-31; ద్వితీయోపదేశకాండము 2:24-37)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Israel Defeats Og King of Bashan",
+		"name_te": "ఇశ్రాయేలు బాషాను రాజు ఓగును ఓడించడం",
+		"location": {
+			"lat": 32.6,
+			"lng": 35.8
+		},
+		"desc_en": "Israel defeats Og, king of Bashan, and takes his land (Numbers 21:33-35; Deuteronomy 3:1-11)",
+		"desc_te": "ఇశ్రాయేలు బాషాను రాజు ఓగును ఓడించి, అతని భూమిని స్వాధీనం చేసుకుంది (సంఖ్యాకాండము 21:33-35; ద్వితీయోపదేశకాండము 3:1-11)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Balaam's Prophecies and Blessings",
+		"name_te": "బిలాము ప్రవచనలు, ఆశీర్వాదాలు",
+		"location": {
+			"lat": 31.75,
+			"lng": 35.6
+		},
+		"desc_en": "Balaam blesses Israel and prophesies from Moab (Numbers 22-24)",
+		"desc_te": "బిలాము మోయాబులో ఇశ్రాయేలను ఆశీర్వదించి, ప్రవచించాడు (సంఖ్యాకాండము 22-24)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Israel's Victory over Midianites",
+		"name_te": "ఇశ్రాయేలు మిద్యానీయులపై విజయం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Israel defeats the Midianites and takes their plunder (Numbers 31:1-12)",
+		"desc_te": "ఇశ్రాయేలు మిద్యానీయులను ఓడించి, వారి సంపదను స్వాధీనం చేసుకుంది (సంఖ్యాకాండము 31:1-12)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Appointment of Joshua as Leader",
+		"name_te": "యెహోషువ నాయకుడిగా నియామకం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "God commands Moses to appoint Joshua as leader (Numbers 27:18-23)",
+		"desc_te": "దేవుడు మోషే ద్వారా యెహోషువను నాయకుడిగా నియమించాడు (సంఖ్యాకాండము 27:18-23)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Inheritance Rights of Zelophehad's Daughters",
+		"name_te": "జెలోఫెహాదు కుమార్తెలు వారసత్వ హక్కు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Zelophehad's daughters receive inheritance rights (Numbers 27:1-11; 36:1-12)",
+		"desc_te": "జెలోఫెహాదు కుమార్తెలకు వారసత్వ హక్కు లభించింది (సంఖ్యాకాండము 27:1-11; 36:1-12)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Census of the New Generation",
+		"name_te": "కొత్త తరం జనగణన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses conducts a census of the new generation before entering Canaan (Numbers 26)",
+		"desc_te": "కనాను దేశంలోకి ప్రవేశించే ముందు మోషే కొత్త తరం జనగణన చేశాడు (సంఖ్యాకాండము 26)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Offerings and Festivals Commanded",
+		"name_te": "బలులు, పండుగలు ఆజ్ఞాపించబడినవి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "God commands Moses regarding offerings and festivals (Numbers 28-29)",
+		"desc_te": "దేవుడు మోషేకు బలులు, పండుగల గురించి ఆజ్ఞాపించాడు (సంఖ్యాకాండము 28-29)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Phinehas Stops the Plague at Peor",
+		"name_te": "ఫీనెహాస్ పేఓరులో మహమ్మారిని ఆపడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Phinehas stops a plague among the Israelites by his zeal (Numbers 25:6-13)",
+		"desc_te": "ఫీనెహాస్ తన ఉత్సాహంతో ఇశ్రాయేలు మధ్య మహమ్మారిని ఆపాడు (సంఖ్యాకాండము 25:6-13)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Appointment of Leaders for Each Tribe",
+		"name_te": "ప్రతి గోత్రానికి నాయకుల నియామకం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses appoints leaders for each tribe to oversee the people (Numbers 34:16-29)",
+		"desc_te": "ప్రతి గోత్రానికి ప్రజలను పర్యవేక్షించేందుకు మోషే నాయకులను నియమించాడు (సంఖ్యాకాండము 34:16-29)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Boundaries of the Promised Land Defined",
+		"name_te": "ప్రతిజ్ఞా భూమి సరిహద్దులు నిర్ణయం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "God defines the boundaries of the Promised Land for Israel (Numbers 34:1-15)",
+		"desc_te": "దేవుడు ఇశ్రాయేలు కోసం ప్రతిజ్ఞా భూమి సరిహద్దులను నిర్ణయించాడు (సంఖ్యాకాండము 34:1-15)"
+	},
+	{
+		"year": "-1400",
+		"name_en": "Regulations for Vows and Women's Rights",
+		"name_te": "ప్రణాళికలు, స్త్రీల హక్కుల నియమాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.5
+		},
+		"desc_en": "Moses gives regulations for vows and women's rights (Numbers 30)",
+		"desc_te": "మోషే ప్రణాళికలు, స్త్రీల హక్కులపై నియమాలు ఇచ్చాడు (సంఖ్యాకాండము 30)"
+	}
+]

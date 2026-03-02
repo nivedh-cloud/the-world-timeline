@@ -1,0 +1,585 @@
+[
+	{
+		"year": "400",
+		"name_en": "Visigoth Invasion of Roman Empire (Europe)",
+		"name_te": "రోమన్ సామ్రాజ్యంపై విసిగోథ్ దాడి (యూరోప్)",
+		"location": {
+			"lat": 40,
+			"lng": -3.5
+		},
+		"desc_en": "Visigoth King Alaric invades Italy and sacks Rome in 410 CE, marking the beginning of the Western Roman Empire's collapse.",
+		"desc_te": "విసిగోథ్ రాజు అలారిక్ ఇటలీపై దాడి చేసి, 410 CEలో రోమ్‌ను ధ్వంసం చేసుకోవడం, పడమటి రోమన్ సామ్రాజ్య పతనం ప్రారంభం."
+	},
+	{
+		"year": "410",
+		"name_en": "Gupta Empire Under Pressure (India)",
+		"name_te": "గుప్త సామ్రాజ్యం ఒత్తిడిలో (భారత)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Gupta Empire faces increasing pressure from Hun invasions; Skandagupta defends against external threats.",
+		"desc_te": "గుప్త సామ్రాజ్యం హుణుల దాడుల నుండి ఒత్తిడిని ఎదుర్కోవడం ప్రారంభిస్తుంది; స్కందగుప్తుడు బాహ్య ముప్పులకు సవాల్ చేస్తాడు."
+	},
+	{
+		"year": "420",
+		"name_en": "Augustine of Hippo Writes The City of God (Europe)",
+		"name_te": "ఆగస్టిన్ హిప్పో దేవుని నగరం రచిస్తాడు (యూరోప్)",
+		"location": {
+			"lat": 36.5,
+			"lng": 0.8
+		},
+		"desc_en": "Christian theologian Augustine writes 'The City of God', influencing Christian philosophy for centuries.",
+		"desc_te": "క్రిస్టియన్ తత్వవేత్త ఆగస్టిన్ 'ది సిటీ ఆఫ్ గాడ్' రచిస్తూ, శతాబ్దాల కాలం క్రైస్టియన్ ఫిలాసఫీకు ప్రభావం చూపిస్తాడు."
+	},
+	{
+		"year": "430",
+		"name_en": "Attila the Hun Rises to Power (Central Asia/Europe)",
+		"name_te": "అటిలా ది హన్ శక్తిపై ఎలుకుతాడు (మధ్య ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 47.5,
+			"lng": 19
+		},
+		"desc_en": "Attila becomes leader of the Huns, launching devastating invasions across Europe and threatening Rome.",
+		"desc_te": "అటిలా హుణుల నేతగా ఆరోహణ చేస్తూ, యూరోప్ చుట్టూ వినాశకరమైన ఆక్రమణలు ప్రారంభిస్తూ, రోమ్‌ను బెదిరిస్తాడు."
+	},
+	{
+		"year": "440",
+		"name_en": "Council of Chalcedon Reforms Christianity (Byzantine Empire)",
+		"name_te": "చాల్సెడన్ కౌన్సిల్ క్రైస్తవ మతాన్ని సంస్కరిస్తుంది (బిజాంటైన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 40.9,
+			"lng": 29.1
+		},
+		"desc_en": "The Council of Chalcedon (451 CE) defines crucial Christian doctrines and resolves theological disputes.",
+		"desc_te": "చాల్సెడన్ కౌన్సిల్ (451 CE) క్రిస్టియన్ సిద్ధాంతాలను నిర్వచించి, తత్వ వివాదాలను పరిష్కరిస్తుంది."
+	},
+	{
+		"year": "450",
+		"name_en": "Fall of Western Roman Empire (Europe)",
+		"name_te": "పడమటి రోమన్ సామ్రాజ్యం పతనం (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Western Roman Empire officially ends in 476 CE when Romulus Augustulus is deposed; Barbarian kingdoms rise.",
+		"desc_te": "476 CEలో రోమూలస్ ఆగస్టులస్ తొలిగించబడటం ద్వారా పడమటి రోమన్ సామ్రాజ్యం అధికారికంగా ముగిసిపోతుంది; బార్బారియన్ రాజ్యాలు ఉదయమవుతాయి."
+	},
+	{
+		"year": "460",
+		"name_en": "Theodoric the Great Establishes Ostrogothic Kingdom (Italy)",
+		"name_te": "థియోడోరిక్ ది గ్రేట్ ఒస్ట్రోగోతిక్ రాజ్యాన్ని స్థాపిస్తాడు (ఇటలీ)",
+		"location": {
+			"lat": 45.8,
+			"lng": 16
+		},
+		"desc_en": "Theodoric establishes powerful Ostrogothic rule in Italy, restoring order after Roman collapse.",
+		"desc_te": "థియోడోరిక్ ఇటలీలో ఒస్ట్రోగోతిక్ పాలన స్థాపిస్తూ, రోమన్ పతనానంతరం క్రమం పునరుద్ధరిస్తాడు."
+	},
+	{
+		"year": "470",
+		"name_en": "Clovis I Unites the Franks (Europe)",
+		"name_te": "క్లోవిస్ I ఫ్రాంక్‌లను ఏకీకృతం చేస్తాడు (యూరోప్)",
+		"location": {
+			"lat": 48.9,
+			"lng": 2.4
+		},
+		"desc_en": "Clovis I unites Frankish tribes and establishes Merovingian dynasty, converting to Christianity.",
+		"desc_te": "క్లోవిస్ I ఫ్రాంక్‌ గోత్రాలను ఏకీకృతం చేస్తూ మెరోవింగియన్ రాజవంశాన్ని స్థాపిస్తూ, క్రైస్తవ మతాన్ని స్వీకరిస్తాడు."
+	},
+	{
+		"year": "480",
+		"name_en": "Buddhist Temples at Ellora (India)",
+		"name_te": "ఎల్లోరాలో బౌద్ధ ఆలయాలు (భారత)",
+		"location": {
+			"lat": 19.8,
+			"lng": 75.2
+		},
+		"desc_en": "Buddhist rock-cut temples at Ellora are expanded, showcasing advanced architectural and sculptural skills.",
+		"desc_te": "ఎల్లోరాలో బౌద్ధ శిల-నిర్మిత ఆలయాలు విస్తరిస్తూ, అధునాతన నిర్మాణ, శిల్ప నైపుణ్యాన్ని ప్రదర్శిస్తాయి."
+	},
+	{
+		"year": "490",
+		"name_en": "Gupta Empire Decline (India)",
+		"name_te": "గుప్త సామ్రాజ్యం క్షీణత (భారత)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Gupta Empire weakens significantly due to Hun invasions and internal conflicts; regional kingdoms assert independence.",
+		"desc_te": "హుణుల దాడులు, అంతర్గత సంఘర్షణల కారణంగా గుప్త సామ్రాజ్యం గణనీయంగా బలహీనమవుతుంది; ప్రాంతీయ రాజ్యాలు స్వతంత్రతను నొక్కిపెడతాయి."
+	},
+	{
+		"year": "400",
+		"name_en": "Northern Wei Dynasty Peak (China)",
+		"name_te": "ఉత్తర వే రాజవంశ శిఖరం (చైనా)",
+		"location": {
+			"lat": 39.9,
+			"lng": 116.4
+		},
+		"desc_en": "Northern Wei Dynasty reaches peak power in northern China; promotes Buddhism; cultural Renaissance flourishes.",
+		"desc_te": "ఉత్తర వే రాజవంశం ఉత్తర చైనాలో గరిష్ఠ శక్తిని చేరుకుంటుంది; బౌద్ధమతాన్ని ప్రోత్సహిస్తూ; సాంస్కృతిక పునరుద్ధరణ వికసిస్తుంది."
+	},
+	{
+		"year": "410",
+		"name_en": "Sassanian Persia Stability (Persia)",
+		"name_te": "సస్సానియన్ పర్షియా స్థిరత్వం (పర్షియా)",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Sassanian Empire maintains stability and prosperity; controls Eastern trade routes; rival of Eastern Roman Empire.",
+		"desc_te": "సస్సానియన్ సామ్రాజ్యం స్థిరత్వం, శ్రేయస్సును కొనసాగిస్తూ; తూర్పు వాణిజ్య మార్గాలను నియంత్రిస్తూ; తూర్పు రోమన్ సామ్రాజ్యానికి ప్రతిద్వంద్విగా ఉంటుంది."
+	},
+	{
+		"year": "420",
+		"name_en": "Yamato Consolidates Power (Japan)",
+		"name_te": "యమాటో శక్తిని సమీకరిస్తుంది (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Yamato state solidifies control over Japanese islands; establishes relationships with Korean kingdoms and China.",
+		"desc_te": "యమాటో రాష్ట్రం జపాన్ ద్వీపాలపై నియంత్రణ సమీకరించి; కొరియన్ రాజ్యాలు, చైనాతో సంబంధాలు స్థాపిస్తుంది."
+	},
+	{
+		"year": "430",
+		"name_en": "Hephthalite Invasions of Persia (Central Asia)",
+		"name_te": "పర్షియాపై హెఫ్తాలైట్ దాడులు (మధ్య ఆసియా)",
+		"location": {
+			"lat": 35,
+			"lng": 65
+		},
+		"desc_en": "Hephthalites (White Huns) conduct major invasions of Persia and India, destabilizing regional powers.",
+		"desc_te": "హెఫ్తాలైట్స్ (వైట్ హన్స్) పర్షియా, భారతదేశంపై ప్రధాన దాడులు చేసి, ప్రాంతీయ శక్తులను అస్థిరం చేస్తారు."
+	},
+	{
+		"year": "440",
+		"name_en": "Mayan Civilization Height (Mesoamerica)",
+		"name_te": "మాయా నాగరికత ఉచ్చస్థానం (మెసోఅమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya Classic period flourishes; major city-states like Tikal and Copan reach their peak.",
+		"desc_te": "మాయా క్లాసిక్ కాలం వికసిస్తూ; టికల్, కోపన్ వంటి ప్రధాన నగర-రాజ్యాలు వాటి శిఖరానికి చేరుకుంటాయి."
+	},
+	{
+		"year": "450",
+		"name_en": "Aksumite Spread of Christianity (East Africa)",
+		"name_te": "అక్సుమైట్ క్రైస్తవమతం వ్యాప్తి (తూర్పు ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "Kingdom of Aksum adopts Christianity; becomes major Christian power in East Africa alongside Byzantine Empire.",
+		"desc_te": "అక్సుమ్ రాజ్యం క్రైస్తవ మతాన్ని స్వీకరించిన్‌తూ; బిజాంటైన్ సామ్రాజ్యం కూడా తూర్పు ఆఫ్రికాలో ప్రధాన క్రిస్టియన్ శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "460",
+		"name_en": "Visigoths Settle in Hispania (Europe)",
+		"name_te": "విసిగోతులు హిస్పానియాలో స్థిరపడతారు (యూరోప్)",
+		"location": {
+			"lat": 40,
+			"lng": -3.5
+		},
+		"desc_en": "Visigoths establish Visigothic Kingdom in Hispania (Iberian Peninsula) and begin consolidation of power.",
+		"desc_te": "విసిగోతులు హిస్పానియా (ఐబেరియన్ ద్వీపకల్పం) లో విసిగోతిక్ రాజ్యాన్ని స్థాపిస్తూ, శక్తి సమీకరణ ప్రారంభిస్తారు."
+	},
+	{
+		"year": "470",
+		"name_en": "Polynesian Settlement Expansion (Pacific)",
+		"name_te": "పాలినీషియన్ స్థిర నివాస విస్తరణ (పసిఫిక్)",
+		"location": {
+			"lat": -17.7,
+			"lng": -149.4
+		},
+		"desc_en": "Polynesian navigators continue settling new Pacific islands; establish complex maritime trade networks.",
+		"desc_te": "పాలినీషియన్ నావికులు పసిఫిక్ ద్వీపాలలో నివాస విస్తరిస్తూ; సంక్లిష్ట సముద్ర వాణిజ్య నెట్‌వర్క్‌లను స్థాపిస్తారు."
+	},
+	{
+		"year": "480",
+		"name_en": "Cholas Naval Dominance Peaks (South India)",
+		"name_te": "చోల నౌకా ఆధిపత్యం శిఖరం (దక్షిణ భారత)",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "Chola dynasty reaches peak maritime power; dominates Indian Ocean trade; controls major coastal ports.",
+		"desc_te": "చోల రాజవంశం సముద్ర శక్తిలో శిఖరానికి చేరుకుంటుంది; భారత మహాసాగర్ వాణిజ్యాన్ని ఆధిపత్యం చేస్తూ; ప్రధాన తీర ఓడరేవులను నియంత్రిస్తుంది."
+	},
+	{
+		"year": "490",
+		"name_en": "Byzantine Empire Consolidates (Eastern Roman Empire)",
+		"name_te": "బిజాంటైన్ సామ్రాజ్య సమీకరణ (తూర్పు రోమన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Eastern Roman (Byzantine) Empire strengthens after Western Roman collapse; Constantinople becomes center of Christian civilization.",
+		"desc_te": "పడమటి రోమన్ పతనానంతరం తూర్పు రోమన్ (బిజాంటైన్) సామ్రాజ్యం బలోపేతమవుతుంది; కాన్‌స్టాంటినోపల్ క్రిస్టియన్ సభ్యతకు కేంద్రంగా మారుతుంది."
+	},
+	{
+		"year": "400",
+		"name_en": "Anglo-Saxon Migrations to Britain (Europe)",
+		"name_te": "బ్రిటన్‌కు ఆంగ్లో-సాక్సన్ వలసలు (యూరోప్)",
+		"location": {
+			"lat": 52,
+			"lng": 0.1
+		},
+		"desc_en": "Angles, Saxons, and Jutes migrate to Britain in increasing numbers, beginning Anglo-Saxon settlement.",
+		"desc_te": "యాంగిల్స్, సాక్సన్స్, జ్యూట్స్ బ్రిటన్‌కు విస్తరిత సంఖ్యలో వలస వచ్చి, ఆంగ్లో-సాక్సన్ నివాస ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "410",
+		"name_en": "Spread of Christianity in Northern Europe (Europe)",
+		"name_te": "ఉత్తర యూరోప్‌లో క్రైస్తవమతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 52,
+			"lng": 10
+		},
+		"desc_en": "Christianity spreads into Northern Europe through missionary efforts and political conversions of barbarian kings.",
+		"desc_te": "మిషనరీ ప్రయత్నాలు, బార్బారియన్ రాజుల రాజకీయ రూపాంతరణ ద్వారా ఉత్తర యూరోప్‌లో క్రైస్తవమతం వ్యాప్తి చెందుతుంది."
+	},
+	{
+		"year": "420",
+		"name_en": "Tocharian Languages Disappear (Central Asia)",
+		"name_te": "టోచారియన్ భాషలు అదృశ్యమవుతాయి (మధ్య ఆసియా)",
+		"location": {
+			"lat": 42,
+			"lng": 84
+		},
+		"desc_en": "Last speakers of Tocharian languages fade away in Central Asia; cultural and linguistic transitions occur.",
+		"desc_te": "మధ్య ఆసియాలో టోచారియన్ భాషల చివరి వక్తలు అదృశ్యమవుతూ; సాంస్కృతిక, భాషాపరమైన పరిణామాలు జరుగుతాయి."
+	},
+	{
+		"year": "430",
+		"name_en": "Vandals Control Mediterranean (North Africa/Mediterranean)",
+		"name_te": "వాండల్స్ మధ్యసాగర్‌ను నియంత్రిస్తారు (ఉత్తర ఆఫ్రికా/మధ్యసాగర్)",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "Vandals establish naval dominance in Mediterranean; control North African coast; raid coastal cities.",
+		"desc_te": "వాండల్స్ మధ్యసాగర్‌లో నౌకా ఆధిపత్యాన్ని స్థాపిస్తూ; ఉత్తర ఆఫ్రికా తీరాన్ని నియంత్రిస్తూ; తీర నగరాలపై దాడులు చేస్తారు."
+	},
+	{
+		"year": "440",
+		"name_en": "Battle of Catalaunian Plains (Europe)",
+		"name_te": "కటాలాయూనియన్ మైదానాల యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 48.7,
+			"lng": 3.1
+		},
+		"desc_en": "Roman-Frankish forces defeat Attila at the Battle of Catalaunian Plains in 451 CE, temporarily halting Hun invasions.",
+		"desc_te": "451 CEలో కటాలాయూనియన్ మైదానాల యుద్ధంలో రోమన్-ఫ్రాంక్‌ శక్తులు అటిలాను ఓడించుకోవడం, హుణుల దాడులను తాత్కాలికంగా ఆపుతాయి."
+	},
+	{
+		"year": "450",
+		"name_en": "Zoroastrianism Peak in Persia (Persia)",
+		"name_te": "పర్షియాలో జోరోఆస్ట్రియానిజం శిఖరం (పర్షియా)",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Zoroastrianism reaches its peak as Sassanian state religion; influences Persian culture, governance, philosophy.",
+		"desc_te": "జోరోఆస్ట్రియానిజం సస్సానియన్ రాష్ట్ర మతంగా శిఖరానికి చేరుకుంటుంది; పర్షియన్ సంస్కృతి, పరిపాలన, ఫిలాసఫీకు ప్రభావం చూపిస్తుంది."
+	},
+	{
+		"year": "460",
+		"name_en": "Odoacer's Deposition of Romulus Augustulus (Europe)",
+		"name_te": "ఓడోఆసర్ రోమూలస్ ఆగస్టులస్ తొలిగింపు (యూరోప్)",
+		"location": {
+			"lat": 45.5,
+			"lng": 11
+		},
+		"desc_en": "Germanic chieftain Odoacer deposes Roman Emperor Romulus Augustulus in 476 CE; Western Roman Empire ends.",
+		"desc_te": "జర్మానిక్ ప్రధానుడు ఓడోఆసర్ 476 CEలో రోమన్ చక్రవర్తి రోమూలస్ ఆగస్టులస్‌ను తొలిగిస్తూ; పడమటి రోమన్ సామ్రాజ్యం ముగిసిపోతుంది."
+	},
+	{
+		"year": "470",
+		"name_en": "Jewish Centers Flourish in Byzantine Empire (Byzantine Empire)",
+		"name_te": "బిజాంటైన్ సామ్రాజ్యంలో యూదు కేంద్రాలు వికసిస్తాయి (బిజాంటైన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 39.7,
+			"lng": 21.8
+		},
+		"desc_en": "Jewish communities flourish in Byzantine Empire; establish academies, centers of learning in Constantinople.",
+		"desc_te": "బిజాంటైన్ సామ్రాజ్యంలో యూదు సంఘాలు వికసిస్తూ; కాన్‌స్టాంటినోపల్‌లో ఎకాడమీలు, నేర్పుకేంద్రాలు స్థాపిస్తాయి."
+	},
+	{
+		"year": "480",
+		"name_en": "Sophist Philosophers Thrive (Eastern Roman Empire)",
+		"name_te": "సోఫిస్ట్ తత్వవేత్తలు సమృద్ధిస్తారు (తూర్పు రోమన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 37.9,
+			"lng": 23.7
+		},
+		"desc_en": "Neo-Platonist philosophy flourishes in Athens and Constantinople; preserves classical Greek learning.",
+		"desc_te": "ఏథెన్‌లు, కాన్‌స్టాంటినోపల్‌లో నియో-ప్లేటోనిస్ట్ ఫిలాసఫీ వికసిస్తూ; ప్రాచీన గ్రీక్ నేర్పులను సంరక్షిస్తుంది."
+	},
+	{
+		"year": "490",
+		"name_en": "Bodhisattva Avalokiteshvara Veneration Peaks (Asia)",
+		"name_te": "బోధిసత్త్వ అవలోకితేశ్వర సంభక్తి శిఖరం (ఆసియా)",
+		"location": {
+			"lat": 32,
+			"lng": 110
+		},
+		"desc_en": "Avalokiteshvara veneration reaches peak in Buddhist Asia; widespread temple construction, artwork, devotion.",
+		"desc_te": "బౌద్ధ ఆసియాలో అవలోకితేశ్వర సంభక్తి శిఖరానికి చేరుకుంటుంది; విస్తృత ఆలయ నిర్మాణం, కళకర్మ, భక్తి జరుగుతుంది."
+	},
+	{
+		"year": "400",
+		"name_en": "Gupta Golden Age Literature (India)",
+		"name_te": "గుప్త స్వర్ణయుగ సాహిత్యం (భారత)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Gupta age produces great literary works by Kalidasa, Bhasa; advances in Sanskrit drama and poetry.",
+		"desc_te": "గుప్త యుగం కళిదాస, భాస చేత గొప్ప సాహిత్య రచనలను సృష్టిస్తూ; సంస్కృత నాటకం, కవితలో అభివృద్ధి."
+	},
+	{
+		"year": "400",
+		"name_en": "Expansion of Slavic Peoples (Eastern Europe)",
+		"name_te": "స్లావిక్ ప్రజల విస్తరణ (తూర్పు యూరోప్)",
+		"location": {
+			"lat": 52,
+			"lng": 28
+		},
+		"desc_en": "Slavic peoples expand throughout Eastern Europe; establish settlements, develop distinct cultures.",
+		"desc_te": "స్లావిక్ ప్రజలు తూర్పు యూరోప్ చుట్టూ విస్తరిస్తూ; నివాసాలు స్థాపిస్తూ, విభిన్న సంస్కృతులను అభివృద్ధి చేస్తారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Irish Christianity Emergence (Ireland)",
+		"name_te": "ఐరిష్ క్రైస్తవమతం ఆవిర్భవం (ఐర్లాండ్)",
+		"location": {
+			"lat": 53.3,
+			"lng": -8.2
+		},
+		"desc_en": "Christianity takes root in Ireland through missionary efforts; Irish monasticism begins to flourish.",
+		"desc_te": "మిషనరీ ప్రయత్నాల ద్వారా ఐర్లాండ్‌లో క్రైస్తవమతం దృఢమవుతూ; ఐరిష్ సన్యాసవాదం వికసిస్తుంది."
+	},
+	{
+		"year": "400",
+		"name_en": "Northern Wei Dynasty Consolidates (China)",
+		"name_te": "ఉత్తర వే రాజవంశం సమీకరణ (చైనా)",
+		"location": {
+			"lat": 39.9,
+			"lng": 116.4
+		},
+		"desc_en": "The Northern Wei Dynasty consolidates power in northern China, promoting Buddhism and major reforms.",
+		"desc_te": "ఉత్తర వే రాజవంశం ఉత్తర చైనాలో అధికారాన్ని సమీకరించి, బౌద్ధమతాన్ని ప్రోత్సహించి, ప్రధాన సంస్కరణలు చేసింది."
+	},
+	{
+		"year": "400",
+		"name_en": "Kingdom of Aksum at its Height (East Africa)",
+		"name_te": "అక్సుమ్ రాజ్యం శిఖరస్థాయిలో (తూర్పు ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Aksum flourishes as a major trading empire in East Africa, controlling Red Sea trade.",
+		"desc_te": "అక్సుమ్ రాజ్యం తూర్పు ఆఫ్రికాలో ప్రధాన వాణిజ్య సామ్రాజ్యంగా వికసించి, ఎర్ర సముద్ర వాణిజ్యాన్ని నియంత్రించింది."
+	},
+	{
+		"year": "400",
+		"name_en": "Rise of the Hephthalites (Central Asia)",
+		"name_te": "హెఫ్తాలైట్స్ ఉద్భవం (మధ్య ఆసియా)",
+		"location": {
+			"lat": 37.9,
+			"lng": 67.7
+		},
+		"desc_en": "The Hephthalites (White Huns) rise to power in Central Asia, threatening Persia and India.",
+		"desc_te": "హెఫ్తాలైట్స్ (వైట్ హన్స్) మధ్య ఆసియాలో అధికారాన్ని సంపాదించి, పర్షియా, భారతదేశాన్ని బెదిరించారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Migration of Polynesians (Pacific Islands)",
+		"name_te": "పాలినీషియన్ వలసలు (పసిఫిక్ దీవులు)",
+		"location": {
+			"lat": -17.7,
+			"lng": -149.4
+		},
+		"desc_en": "Polynesian navigators continue to migrate and settle new Pacific islands, expanding their culture.",
+		"desc_te": "పాలినీషియన్ నావికులు కొత్త పసిఫిక్ దీవులకు వలస వెళ్లి, తమ సంస్కృతిని విస్తరించారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Foundation of Baekje and Silla Kingdoms (Korea)",
+		"name_te": "బైజే, సిల్లా రాజ్యాల స్థాపన (కొరియా)",
+		"location": {
+			"lat": 36.5,
+			"lng": 127.8
+		},
+		"desc_en": "The Baekje and Silla kingdoms are established in Korea, beginning the Three Kingdoms period.",
+		"desc_te": "కొరియాలో బైజే, సిల్లా రాజ్యాలు స్థాపించబడి, మూడు రాజ్యాల యుగాన్ని ప్రారంభించాయి."
+	},
+	{
+		"year": "400",
+		"name_en": "Expansion of Nazca Culture (Peru)",
+		"name_te": "నాజ్కా సంస్కృతి విస్తరణ (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "Nazca culture expands in southern Peru, famous for the creation of the Nazca Lines.",
+		"desc_te": "నాజ్కా సంస్కృతి దక్షిణ పెరూ లో విస్తరించి, నాజ్కా లైన్స్ సృష్టికి ప్రసిద్ధి."
+	},
+	{
+		"year": "400",
+		"name_en": "Vandals Establish Kingdom in North Africa",
+		"name_te": "వాండల్స్ ఉత్తర ఆఫ్రికాలో రాజ్యం స్థాపించారు",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "The Vandals, a Germanic tribe, establish a kingdom in North Africa after crossing from Europe.",
+		"desc_te": "వాండల్స్ అనే జర్మానిక్ గోత్రం యూరోప్ నుండి ఉత్తర ఆఫ్రికాకు వచ్చి రాజ్యం స్థాపించారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Council of Chalcedon (Byzantine Empire)",
+		"name_te": "చాల్సెడన్ కౌన్సిల్ (బిజాంటైన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 40.9,
+			"lng": 29.1
+		},
+		"desc_en": "The Council of Chalcedon in 451 CE defines key doctrines of Christianity in the Byzantine Empire.",
+		"desc_te": "451 CEలో బిజాంటైన్ సామ్రాజ్యంలో జరిగిన చాల్సెడన్ కౌన్సిల్ క్రైస్తవ మత ముఖ్య సిద్ధాంతాలను నిర్వచించింది."
+	},
+	{
+		"year": "400",
+		"name_en": "Ostrogothic Kingdom in Italy",
+		"name_te": "ఇటలీలో ఒస్ట్రోగోతిక్ రాజ్యం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Ostrogoths establish a powerful kingdom in Italy after the fall of the Western Roman Empire.",
+		"desc_te": "పడమటి రోమన్ సామ్రాజ్యం పతనానంతరం ఒస్ట్రోగోతులు ఇటలీలో శక్తివంతమైన రాజ్యాన్ని స్థాపించారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Kingdom of Himyar (Arabia)",
+		"name_te": "హిమ్యార్ రాజ్యం (అరేబియా)",
+		"location": {
+			"lat": 15.4,
+			"lng": 44.2
+		},
+		"desc_en": "The Himyarite Kingdom continues to flourish in southern Arabia, controlling trade routes.",
+		"desc_te": "హిమ్యార్ రాజ్యం దక్షిణ అరేబియాలో వికసించి, వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "400",
+		"name_en": "King Theodoric the Great (Ostrogoths, Europe)",
+		"name_te": "ఒస్ట్రోగోతిక్ రాజు థియోడోరిక్ ది గ్రేట్ (యూరోప్)",
+		"location": {
+			"lat": 45.8,
+			"lng": 16
+		},
+		"desc_en": "Theodoric the Great, king of the Ostrogoths, establishes a powerful kingdom in Italy.",
+		"desc_te": "థియోడోరిక్ ది గ్రేట్, ఒస్ట్రోగోతిక్ రాజు, ఇటలీలో శక్తివంతమైన రాజ్యాన్ని స్థాపించాడు."
+	},
+	{
+		"year": "400",
+		"name_en": "Kingdom of Funan Expands (Southeast Asia)",
+		"name_te": "ఫునాన్ రాజ్యం విస్తరణ (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": 11.5,
+			"lng": 104.9
+		},
+		"desc_en": "Funan Kingdom expands in the Mekong Delta, becoming a major trading center in Southeast Asia.",
+		"desc_te": "ఫునాన్ రాజ్యం మెకాంగ్ డెల్టాలో విస్తరించి, ఆగ్నేయ ఆసియాలో ప్రధాన వాణిజ్య కేంద్రంగా మారింది."
+	},
+	{
+		"year": "400",
+		"name_en": "Early Classic Zapotec Civilization (Mexico)",
+		"name_te": "ప్రారంభ క్లాసిక్ జపోటెక్ నాగరికత (మెక్సికో)",
+		"location": {
+			"lat": 17.1,
+			"lng": -96.7
+		},
+		"desc_en": "Early Classic period of Zapotec civilization in Oaxaca Valley, Mexico.",
+		"desc_te": "మెక్సికోలో ఒక్సాకా లోయలో ప్రారంభ క్లాసిక్ జపోటెక్ నాగరికత."
+	},
+	{
+		"year": "400",
+		"name_en": "Rock Art at Murujuga (Australia)",
+		"name_te": "మురుజుగాలో రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -20.6,
+			"lng": 116.8
+		},
+		"desc_en": "Aboriginal Australians create extensive petroglyphs at Murujuga (Burrup Peninsula).",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు మురుజుగాలో (బుర్రప్ ద్వీపకల్పం) విస్తృతమైన రాక్ ఆర్ట్ సృష్టించారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Early Classic Maya Civilization (America)",
+		"name_te": "ప్రారంభ క్లాసిక్ మాయా నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Early Classic period of Maya civilization continues, with major city-states emerging.",
+		"desc_te": "మాయా నాగరికత ప్రారంభ క్లాసిక్ కాలం కొనసాగి, ప్రధాన నగర-రాజ్యాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "400",
+		"name_en": "King Kumaragupta I (Gupta Empire, India)",
+		"name_te": "గుప్త సామ్రాజ్యం కుమారగుప్తుడు I (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Kumaragupta I, a prominent Gupta emperor, maintains stability and prosperity in India.",
+		"desc_te": "కుమారగుప్తుడు I, ప్రముఖ గుప్త చక్రవర్తి, భారతదేశంలో స్థిరత్వం, శ్రేయస్సును కొనసాగించాడు."
+	},
+	{
+		"year": "400",
+		"name_en": "King Bahram V (Sassanian Empire, Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం బహ్రామ్ V (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Bahram V, a Sassanian king, is known for his military campaigns and cultural achievements.",
+		"desc_te": "బహ్రామ్ V, సస్సానియన్ రాజు, అతని సైనిక యాత్రలు, సాంస్కృతిక విజయాలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "400",
+		"name_en": "King Clovis I (Franks, Europe)",
+		"name_te": "ఫ్రాంక్స్ రాజు క్లోవిస్ I (యూరోప్)",
+		"location": {
+			"lat": 48.9,
+			"lng": 2.4
+		},
+		"desc_en": "Clovis I, king of the Franks, unites much of Gaul and converts to Christianity.",
+		"desc_te": "క్లోవిస్ I, ఫ్రాంక్స్ రాజు, గాల్‌లోని చాలా భాగాన్ని ఏకీకృతం చేసి, క్రైస్తవ మతాన్ని స్వీకరించాడు."
+	},
+	{
+		"year": "400",
+		"name_en": "Rock Art at Ubirr (Australia)",
+		"name_te": "ఉబిర్ర్ వద్ద రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.415,
+			"lng": 132.995
+		},
+		"desc_en": "Indigenous people create and maintain rock art galleries in Arnhem Land.",
+		"desc_te": "ఆర్నెమ్ ల్యాండ్‌లో ఆదివాసీలు రాక్ ఆర్ట్ గ్యాలరీలను సృష్టించి, సంరక్షించారు."
+	},
+	{
+		"year": "400",
+		"name_en": "Germanic Angles, Saxons, and Jutes Invade Britain",
+		"name_te": "యూరోప్‌లో యాంగిల్స్, సాక్సన్స్, జ్యూట్స్ బ్రిటన్‌పై దాడి",
+		"location": {
+			"lat": 52,
+			"lng": 0.1
+		},
+		"desc_en": "Angles, Saxons, and Jutes migrate to and invade Britain, shaping early English history.",
+		"desc_te": "యాంగిల్స్, సాక్సన్స్, జ్యూట్స్ బ్రిటన్‌కు వలస వచ్చి, దాడి చేసి, ప్రారంభ ఇంగ్లీష్ చరిత్రను ఆకృతీకరించారు."
+	}
+]

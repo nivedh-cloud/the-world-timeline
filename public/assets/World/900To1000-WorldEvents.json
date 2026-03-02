@@ -1,0 +1,310 @@
+[
+	{
+		"year": "900",
+		"name_en": "Rashtrakuta Empire at its Height (India)",
+		"name_te": "రాష్ట్రకూట సామ్రాజ్యం శిఖరస్థాయిలో (భారతదేశం)",
+		"location": {
+			"lat": 17.385,
+			"lng": 78.4867
+		},
+		"desc_en": "The Rashtrakuta Empire dominates much of the Indian subcontinent, known for patronage of art and literature.",
+		"desc_te": "రాష్ట్రకూట సామ్రాజ్యం భారత ఉపఖండంలో శక్తివంతంగా ఉండి, కళ, సాహిత్యాన్ని ప్రోత్సహించింది."
+	},
+	{
+		"year": "973",
+		"name_en": "Reign of Tailapa II (Western Chalukya Empire, India)",
+		"name_te": "తైలప II పాలన (పశ్చిమ చాళుక్య సామ్రాజ్యం, భారతదేశం)",
+		"location": {
+			"lat": 15.335,
+			"lng": 76.46
+		},
+		"desc_en": "Tailapa II founds the Western Chalukya Empire, restoring Chalukya power in the Deccan.",
+		"desc_te": "తైలప II పశ్చిమ చాళుక్య సామ్రాజ్యాన్ని స్థాపించి, డెక్కన్‌లో చాళుక్య శక్తిని పునరుద్ధరించాడు."
+	},
+	{
+		"year": "900",
+		"name_en": "Viking Settlements in Greenland (America/Europe)",
+		"name_te": "గ్రీన్‌లాండ్‌లో వైకింగ్ నివాసాలు (అమెరికా/యూరోప్)",
+		"location": {
+			"lat": 64.1835,
+			"lng": -51.7216
+		},
+		"desc_en": "Norse Vikings establish settlements in Greenland, expanding their reach across the North Atlantic.",
+		"desc_te": "నార్స్ వైకింగ్‌లు గ్రీన్‌లాండ్‌లో నివాసాలు స్థాపించి, ఉత్తర అట్లాంటిక్‌లో తమ పరిధిని విస్తరించారు."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Norway (Europe)",
+		"name_te": "నార్వే రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "The Kingdom of Norway consolidates as a unified monarchy under Harald Fairhair and successors.",
+		"desc_te": "హరాల్డ్ ఫెయిర్‌హెయిర్ మరియు వారసుల పాలనలో నార్వే రాజ్యం ఏకీకృత రాజ్యంగా బలోపేతం అయింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Kingdom of León and Castile (Europe)",
+		"name_te": "లియోన్ మరియు కాస్టిల్ రాజ్యాలు (యూరోప్)",
+		"location": {
+			"lat": 42.5987,
+			"lng": -5.5671
+		},
+		"desc_en": "The Christian kingdoms of León and Castile expand during the Reconquista in Spain.",
+		"desc_te": "స్పెయిన్‌లో రీకాంక్విస్టా సమయంలో లియోన్, కాస్టిల్ క్రైస్తవ రాజ్యాలు విస్తరించాయి."
+	},
+	{
+		"year": "900",
+		"name_en": "Kingdom of Denmark: Gorm the Old (Europe)",
+		"name_te": "డెన్మార్క్ రాజ్యం: గోర్మ్ ది ఓల్డ్ (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "Gorm the Old is recognized as the first historically known King of Denmark.",
+		"desc_te": "గోర్మ్ ది ఓల్డ్ డెన్మార్క్‌కు చారిత్రకంగా గుర్తింపు పొందిన మొదటి రాజుగా నిలిచాడు."
+	},
+	{
+		"year": "900",
+		"name_en": "Kingdom of Scotland: Constantine II (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: కాన్స్టాంటైన్ II (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "Constantine II rules Scotland, defending against Viking invasions and consolidating the kingdom.",
+		"desc_te": "కాన్స్టాంటైన్ II స్కాట్లాండ్‌ను పాలించి, వైకింగ్ దాడులను ఎదుర్కొని, రాజ్యాన్ని ఏకీకృతం చేశాడు."
+	},
+	{
+		"year": "900",
+		"name_en": "Kingdom of France: Charles the Simple (Europe)",
+		"name_te": "ఫ్రాన్స్ రాజ్యం: చార్లెస్ ది సింపుల్ (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Charles the Simple rules France, granting Normandy to the Viking leader Rollo.",
+		"desc_te": "చార్లెస్ ది సింపుల్ ఫ్రాన్స్‌ను పాలించి, వైకింగ్ నాయకుడు రోల్లోకు నార్మండీని ఇచ్చాడు."
+	},
+	{
+		"year": "900",
+		"name_en": "Spread of Christianity in Scandinavia (Europe)",
+		"name_te": "స్కాండినేవియాలో క్రైస్తవ మతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Christianity continues to spread and become established in Norway, Sweden, and Denmark.",
+		"desc_te": "నార్వే, స్వీడన్, డెన్మార్క్‌లలో క్రైస్తవ మతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Aboriginal Australian Cultures (Australia)",
+		"name_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25.2744,
+			"lng": 133.7751
+		},
+		"desc_en": "Aboriginal Australian cultures continue to thrive with rich traditions and rock art.",
+		"desc_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు సంపన్న సంప్రదాయాలు, రాతి కళతో అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "900",
+		"name_en": "Song Dynasty in China (Asia)",
+		"name_te": "చైనాలో సాంగ్ వంశం (ఆసియా)",
+		"location": {
+			"lat": 31.2304,
+			"lng": 121.4737
+		},
+		"desc_en": "The Song Dynasty rules China, advancing technology, economy, and culture.",
+		"desc_te": "సాంగ్ వంశం చైనాను పాలించి, సాంకేతికత, ఆర్థిక వ్యవస్థ, సంస్కృతిని అభివృద్ధి చేసింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Heian Period in Japan (Asia)",
+		"name_te": "జపాన్‌లో హేయాన్ కాలం (ఆసియా)",
+		"location": {
+			"lat": 35.0116,
+			"lng": 135.7681
+		},
+		"desc_en": "The Heian period in Japan is marked by court culture, literature, and the rise of the samurai class.",
+		"desc_te": "హేయాన్ కాలంలో జపాన్‌లో కోర్ట్ సంస్కృతి, సాహిత్యం, సమురాయ్ వర్గం అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Fatimid Caliphate Expands (North Africa/Middle East)",
+		"name_te": "ఫాతిమిడ్ ఖలీఫేట్ విస్తరణ (ఉత్తర ఆఫ్రికా/మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The Fatimid Caliphate expands its rule across North Africa and the Middle East.",
+		"desc_te": "ఫాతిమిడ్ ఖలీఫేట్ ఉత్తర ఆఫ్రికా, మధ్యప్రాచ్యంలో అధికారాన్ని విస్తరించింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Holy Roman Empire: Otto I (Europe)",
+		"name_te": "హోలీ రోమన్ఎంపెరర్: ఒట్టో I (యూరోప్)",
+		"location": {
+			"lat": 51.1657,
+			"lng": 10.4515
+		},
+		"desc_en": "Otto I strengthens the Holy Roman Empire, crowned Emperor in 962.",
+		"desc_te": "ఒట్టో I హోలీ రోమన్ఎంపెరర్‌గా 962లో పట్టాభిషేకం పొందాడు, సామ్రాజ్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "900",
+		"name_en": "Kingdom of England: Athelstan (Europe)",
+		"name_te": "ఇంగ్లాండ్ రాజ్యం: అతెల్‌స్టాన్ (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Athelstan is considered the first King of all England, unifying the country.",
+		"desc_te": "అతెల్‌స్టాన్ ఇంగ్లాండ్‌ను ఏకీకృతం చేసి, మొదటి రాజుగా గుర్తించబడ్డాడు."
+	},
+	{
+		"year": "900",
+		"name_en": "Kingdom of Ghana at its Height (Africa)",
+		"name_te": "ఘానా రాజ్యం శిఖరస్థాయిలో (ఆఫ్రికా)",
+		"location": {
+			"lat": 13.5317,
+			"lng": -2.4604
+		},
+		"desc_en": "The Kingdom of Ghana dominates West Africa, controlling gold and salt trade routes.",
+		"desc_te": "ఘానా రాజ్యం పశ్చిమ ఆఫ్రికాలో బంగారం, ఉప్పు వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Maya Civilization in Decline (America)",
+		"name_te": "మాయా నాగరికత పతనంలో (అమెరికా)",
+		"location": {
+			"lat": 17.252,
+			"lng": -89.8986
+		},
+		"desc_en": "The Classic Maya civilization enters a period of decline in Mesoamerica.",
+		"desc_te": "క్లాసిక్ మాయా నాగరికత మెసోఅమెరికాలో పతనాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "900",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	},
+	{
+		"year": "900",
+		"name_en": "Heptarchy and Unification in England (Europe)",
+		"name_te": "ఇంగ్లాండ్‌లో హెప్టార్కీ మరియు ఏకీకరణ (యూరోప్)",
+		"location": {
+			"lat": 52.3555,
+			"lng": -1.1743
+		},
+		"desc_en": "The Anglo-Saxon kingdoms of England are gradually unified under one rule.",
+		"desc_te": "ఇంగ్లాండ్‌లో ఆంగ్లో-సాక్సన్ రాజ్యాలు ఒక్క పాలనలో ఏకీకృతమయ్యాయి."
+	},
+	{
+		"year": "900",
+		"name_en": "Chola Dynasty Expansion (India)",
+		"name_te": "చోళ వంశం విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "The Chola Dynasty expands its influence in South India and Southeast Asia.",
+		"desc_te": "చోళ వంశం దక్షిణ భారతదేశం, ఆగ్నేయాసియాలో తన ప్రభావాన్ని విస్తరించింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Khmer Empire (Cambodia/Asia)",
+		"name_te": "ఖ్మేర్ సామ్రాజ్యం ఉద్భవం (కంబోడియా/ఆసియా)",
+		"location": {
+			"lat": 13.4125,
+			"lng": 103.8667
+		},
+		"desc_en": "The Khmer Empire rises, constructing monumental temples like Pre Rup and East Mebon.",
+		"desc_te": "ఖ్మేర్ సామ్రాజ్యం ఉద్భవించి, ప్రీ రప్, ఈస్ట్ మెబాన్ వంటి ఆలయాలను నిర్మించింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Hungary (Europe)",
+		"name_te": "హంగేరీ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 47.1625,
+			"lng": 19.5033
+		},
+		"desc_en": "The Kingdom of Hungary emerges as a major power in Central Europe.",
+		"desc_te": "హంగేరీ రాజ్యం మధ్య యూరోప్‌లో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Poland (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "The Kingdom of Poland consolidates as a Christian monarchy.",
+		"desc_te": "పోలాండ్ రాజ్యం క్రైస్తవ రాజ్యంగా ఏకీకృతమైంది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Croatia (Europe)",
+		"name_te": "క్రొయేషియా రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 45.815,
+			"lng": 15.9819
+		},
+		"desc_en": "The Kingdom of Croatia emerges as a significant power in the Balkans.",
+		"desc_te": "క్రొయేషియా రాజ్యం బాల్కన్ ప్రాంతంలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Georgia (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యం ఉద్భవం (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "The Kingdom of Georgia consolidates and expands, entering a golden age.",
+		"desc_te": "జార్జియా రాజ్యం ఏకీకృతమై, విస్తరించి, స్వర్ణయుగంలోకి ప్రవేశించింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Sweden (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "The Kingdom of Sweden consolidates as a Christian monarchy in Scandinavia.",
+		"desc_te": "స్వీడన్ రాజ్యం స్కాండినేవియాలో క్రైస్తవ రాజ్యంగా బలోపేతం అయింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Rise of the Kingdom of Aragon (Europe)",
+		"name_te": "అరాగోన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 41.6488,
+			"lng": -0.8891
+		},
+		"desc_en": "The Kingdom of Aragon emerges as a Christian power in the Iberian Peninsula.",
+		"desc_te": "అరాగోన్ రాజ్యం ఐబీరియన్ ద్వీపకల్పంలో క్రైస్తవ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "900",
+		"name_en": "Toltec Civilization in Mexico (America)",
+		"name_te": "మెక్సికోలో టోల్టెక్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 20.6597,
+			"lng": -100.3288
+		},
+		"desc_en": "The Toltec civilization flourishes in central Mexico, influencing later Aztec culture.",
+		"desc_te": "టోల్టెక్ నాగరికత మధ్య మెక్సికోలో అభివృద్ధి చెంది, తరువాత అజ్టెక్ సంస్కృతిని ప్రభావితం చేసింది."
+	}
+]

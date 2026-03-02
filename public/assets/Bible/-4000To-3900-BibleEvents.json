@@ -1,0 +1,112 @@
+[
+	{
+		"year": "-4000",
+		"name_en": "Creation of Adam and Eve",
+		"name_te": "ఆదాము మరియు హవ సృష్టి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God creates Adam and Eve, the first humans.",
+		"desc_te": "దేవుడు ఆదాము మరియు హవను సృష్టించాడు."
+	},
+	{
+		"year": "-3990",
+		"name_en": "The Garden of Eden",
+		"name_te": "ఏదెన్ తోట",
+		"location": {
+			"lat": 32,
+			"lng": 45
+		},
+		"desc_en": "Adam and Eve live in the Garden of Eden.",
+		"desc_te": "ఆదాము మరియు హవ ఏదెన్ తోటలో నివసించారు."
+	},
+	{
+		"year": "-3980",
+		"name_en": "The Fall of Man",
+		"name_te": "మనిషి పతనం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Adam and Eve disobey God and eat from the tree of knowledge.",
+		"desc_te": "ఆదాము మరియు హవ దేవుని ఆజ్ఞను ఉల్లంఘించి జ్ఞాన వృక్ష ఫలాన్ని తిన్నారు."
+	},
+	{
+		"year": "-3970",
+		"name_en": "Expulsion from Eden",
+		"name_te": "ఏదెన్ తోట నుండి వెలుపల",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Adam and Eve are expelled from the Garden of Eden.",
+		"desc_te": "ఆదాము మరియు హవ ఏదెన్ తోట నుండి వెలుపల చేయబడ్డారు."
+	},
+	{
+		"year": "-3960",
+		"name_en": "Birth of Cain and Abel",
+		"name_te": "కాయిను మరియు హాబేలు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Cain and Abel, the sons of Adam and Eve, are born.",
+		"desc_te": "కాయిను మరియు హాబేలు, ఆదాము మరియు హవ కుమారులు, జన్మించారు."
+	},
+	{
+		"year": "-3950",
+		"name_en": "Cain Murders Abel",
+		"name_te": "కాయిను హాబేలను హత్య చేశాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Cain kills his brother Abel out of jealousy.",
+		"desc_te": "కాయిను తన సోదరుడు హాబేలను అసూయతో హత్య చేశాడు."
+	},
+	{
+		"year": "-3940",
+		"name_en": "Cain's Punishment and Wandering",
+		"name_te": "కాయిను శిక్ష మరియు సంచారం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "God punishes Cain and he becomes a wanderer.",
+		"desc_te": "దేవుడు కాయినును శిక్షించి సంచారిగా చేశాడు."
+	},
+	{
+		"year": "-3930",
+		"name_en": "Birth of Seth",
+		"name_te": "శేతు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Seth is born to Adam and Eve after Abel's death.",
+		"desc_te": "హాబేలు మరణం తరువాత ఆదాము మరియు హవకు శేతు జన్మించాడు."
+	},
+	{
+		"year": "-3920",
+		"name_en": "Descendants of Adam Multiply",
+		"name_te": "ఆదాము సంతతి విస్తరించటం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Adam's descendants begin to multiply on the earth.",
+		"desc_te": "ఆదాము సంతతి భూమి మీద విస్తరించసాగింది."
+	},
+	{
+		"year": "-3910",
+		"name_en": "Early Generations after Adam",
+		"name_te": "ఆదాము తరువాత ప్రాథమిక తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The early generations after Adam continue to multiply and spread.",
+		"desc_te": "ఆదాము తరువాత తరాలు విస్తరించసాగాయి."
+	}
+]

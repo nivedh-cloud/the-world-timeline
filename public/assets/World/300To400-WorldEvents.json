@@ -1,0 +1,277 @@
+[
+	{
+		"year": "300",
+		"name_en": "Samudragupta Expands Gupta Empire (India)",
+		"name_te": "సముద్రగుప్తుడు గుప్త సామ్రాజ్యాన్ని విస్తరించాడు (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Samudragupta, one of the greatest Gupta emperors, expands the empire across northern India.",
+		"desc_te": "సముద్రగుప్తుడు, గొప్ప గుప్త చక్రవర్తుల్లో ఒకడు, ఉత్తర భారతదేశంలో సామ్రాజ్యాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "Chandragupta II (Vikramaditya) Reigns (India)",
+		"name_te": "చంద్రగుప్తుడు II (విక్రమాదిత్యుడు) పాలన (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Chandragupta II, also known as Vikramaditya, rules the Gupta Empire, ushering in a golden age of culture and science.",
+		"desc_te": "చంద్రగుప్తుడు II (విక్రమాదిత్యుడు) గుప్త సామ్రాజ్యాన్ని పాలించి, సంస్కృతి, శాస్త్రంలో స్వర్ణయుగాన్ని తీసుకొచ్చాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "Constantine the Great (Rome)",
+		"name_te": "కాన్స్టాంటైన్ ది గ్రేట్ (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Constantine becomes Roman Emperor, legalizes Christianity, and founds Constantinople.",
+		"desc_te": "కాన్స్టాంటైన్ రోమన్ చక్రవర్తిగా అవతరించి, క్రైస్తవ మతాన్ని చట్టబద్ధం చేసి, కాన్స్టాంటినోపుల్‌ను స్థాపించాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "Division of Roman Empire",
+		"name_te": "రోమన్ సామ్రాజ్యం విభజన",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Roman Empire is divided into Eastern and Western halves.",
+		"desc_te": "రోమన్ సామ్రాజ్యం తూర్పు, పడమర భాగాలుగా విభజించబడింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Three Kingdoms Period Ends (China)",
+		"name_te": "మూడు రాజ్యాల కాలం ముగిసింది (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Three Kingdoms period in China ends, leading to the Jin Dynasty.",
+		"desc_te": "చైనాలో మూడు రాజ్యాల కాలం ముగిసి, జిన్ రాజవంశం ప్రారంభమైంది."
+	},
+	{
+		"year": "300",
+		"name_en": "Kingdom of Aksum Converts to Christianity (Ethiopia)",
+		"name_te": "అక్సుమ్ రాజ్యం క్రైస్తవ మతాన్ని స్వీకరించింది (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Aksum adopts Christianity, becoming one of the first Christian states in the world.",
+		"desc_te": "అక్సుమ్ రాజ్యం క్రైస్తవ మతాన్ని స్వీకరించి, ప్రపంచంలోనే తొలి క్రైస్తవ రాజ్యాల్లో ఒకటిగా మారింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Yamato State Develops (Japan)",
+		"name_te": "యమాటో రాష్ట్రం అభివృద్ధి (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Yamato state continues to develop in Japan, laying the foundation for future imperial rule.",
+		"desc_te": "జపాన్‌లో యమాటో రాష్ట్రం అభివృద్ధి చెందుతూ, భవిష్యత్ చక్రవర్తి పాలనకు పునాది వేశాయి."
+	},
+	{
+		"year": "300",
+		"name_en": "Moche Culture at its Height (Peru)",
+		"name_te": "మోచే సంస్కృతి శిఖరస్థాయిలో (పెరూ)",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "Moche culture reaches its peak along the northern coast of Peru.",
+		"desc_te": "ఉత్తర పెరూ తీరంలో మోచే సంస్కృతి శిఖరస్థాయికి చేరింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Teotihuacan at its Height (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ శిఖరస్థాయిలో (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan reaches its peak as a major urban center in central Mexico.",
+		"desc_te": "మెక్సికోలో టియోటిహుయాకాన్ ప్రధాన పట్టణంగా శిఖరస్థాయికి చేరింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Aboriginal Songlines Maintained (Australia)",
+		"name_te": "ఆబారిజినల్ సాంగ్‌లైన్స్ కొనసాగింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australians maintain ancient songlines, oral maps connecting land and culture.",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు ప్రాచీన సాంగ్‌లైన్స్‌ను, భూమి మరియు సంస్కృతిని కలిపే నోటివెంట మ్యాపులను కొనసాగించారు."
+	},
+	{
+		"year": "300",
+		"name_en": "King Kumaragupta I (Gupta Empire, India)",
+		"name_te": "గుప్త సామ్రాజ్యం కుమారగుప్తుడు I (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Kumaragupta I, a prominent Gupta emperor, maintains stability and prosperity in India.",
+		"desc_te": "కుమారగుప్తుడు I, ప్రముఖ గుప్త చక్రవర్తి, భారతదేశంలో స్థిరత్వం, శ్రేయస్సును కొనసాగించాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "King Shapur II (Sassanian Empire, Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం షాపూర్ II (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Shapur II, one of the longest-reigning Sassanian kings, expands the empire and fights Rome.",
+		"desc_te": "షాపూర్ II, సస్సానియన్ సామ్రాజ్యంలో అత్యంత కాలం పాలించిన రాజుల్లో ఒకడు, సామ్రాజ్యాన్ని విస్తరించి, రోమ్‌తో యుద్ధాలు చేశాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "Kingdom of Himyar (Arabia)",
+		"name_te": "హిమ్యార్ రాజ్యం (అరేబియా)",
+		"location": {
+			"lat": 15.4,
+			"lng": 44.2
+		},
+		"desc_en": "The Himyarite Kingdom continues to flourish in southern Arabia, controlling trade routes.",
+		"desc_te": "హిమ్యార్ రాజ్యం దక్షిణ అరేబియాలో వికసించి, వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "300",
+		"name_en": "King Mirian III of Iberia (Georgia)",
+		"name_te": "ఇబేరియా రాజు మిరియన్ III (జార్జియా)",
+		"location": {
+			"lat": 41.7,
+			"lng": 44.8
+		},
+		"desc_en": "Mirian III, king of Iberia (Georgia), converts to Christianity, making it the state religion.",
+		"desc_te": "మిరియన్ III, ఇబేరియా (జార్జియా) రాజు, క్రైస్తవ మతాన్ని స్వీకరించి, రాష్ట్ర మతంగా ప్రకటించాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "Kingdom of Funan Expands (Southeast Asia)",
+		"name_te": "ఫునాన్ రాజ్యం విస్తరణ (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": 11.5,
+			"lng": 104.9
+		},
+		"desc_en": "Funan Kingdom expands in the Mekong Delta, becoming a major trading center in Southeast Asia.",
+		"desc_te": "ఫునాన్ రాజ్యం మెకాంగ్ డెల్టాలో విస్తరించి, ఆగ్నేయ ఆసియాలో ప్రధాన వాణిజ్య కేంద్రంగా మారింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Early Classic Zapotec Civilization (Mexico)",
+		"name_te": "ప్రారంభ క్లాసిక్ జపోటెక్ నాగరికత (మెక్సికో)",
+		"location": {
+			"lat": 17.1,
+			"lng": -96.7
+		},
+		"desc_en": "Early Classic period of Zapotec civilization in Oaxaca Valley, Mexico.",
+		"desc_te": "మెక్సికోలో ఒక్సాకా లోయలో ప్రారంభ క్లాసిక్ జపోటెక్ నాగరికత."
+	},
+	{
+		"year": "300",
+		"name_en": "Rock Art at Murujuga (Australia)",
+		"name_te": "మురుజుగాలో రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -20.6,
+			"lng": 116.8
+		},
+		"desc_en": "Aboriginal Australians create extensive petroglyphs at Murujuga (Burrup Peninsula).",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు మురుజుగాలో (బుర్రప్ ద్వీపకల్పం) విస్తృతమైన రాక్ ఆర్ట్ సృష్టించారు."
+	},
+	{
+		"year": "300",
+		"name_en": "Germanic Visigoths and Vandals Migrate (Europe)",
+		"name_te": "యూరోప్‌లో విశిగోత్స్, వాండల్స్ వలసలు",
+		"location": {
+			"lat": 48,
+			"lng": 10
+		},
+		"desc_en": "The Visigoths and Vandals, Germanic tribes, migrate and challenge Roman authority in Europe.",
+		"desc_te": "విశిగోత్స్, వాండల్స్ అనే జర్మానిక్ గోత్రాలు యూరోప్‌లో వలస వెళ్ళి, రోమన్ అధికారాన్ని సవాలు చేశాయి."
+	},
+	{
+		"year": "300",
+		"name_en": "King Skandagupta (Gupta Empire, India)",
+		"name_te": "గుప్త సామ్రాజ్యం స్కందగుప్తుడు (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Skandagupta, a Gupta emperor, defends India against Hun invasions and maintains the empire's strength.",
+		"desc_te": "స్కందగుప్తుడు, గుప్త సామ్రాజ్య చక్రవర్తి, హుణుల దాడులను ఎదుర్కొని సామ్రాజ్య బలాన్ని కొనసాగించాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "King Ezana of Aksum (Ethiopia)",
+		"name_te": "అక్సుమ్ రాజు ఎజానా (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "Ezana, king of Aksum, converts to Christianity and expands the kingdom's influence in Africa.",
+		"desc_te": "ఎజానా, అక్సుమ్ రాజు, క్రైస్తవ మతాన్ని స్వీకరించి, ఆఫ్రికాలో రాజ్య ప్రభావాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "300",
+		"name_en": "Kingdom of Axum Minting Coins (Ethiopia)",
+		"name_te": "అక్సుమ్ రాజ్యం నాణేలు ముద్రించడం (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Axum mints coins, facilitating trade across Africa and Arabia.",
+		"desc_te": "అక్సుమ్ రాజ్యం నాణేలు ముద్రించి, ఆఫ్రికా, అరేబియాలో వాణిజ్యాన్ని సులభతరం చేసింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Spread of Mahayana Buddhism (Asia)",
+		"name_te": "మహాయాన బౌద్ధమతం వ్యాప్తి (ఆసియా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Mahayana Buddhism spreads across Central and East Asia, influencing art and philosophy.",
+		"desc_te": "మహాయాన బౌద్ధమతం మధ్య, తూర్పు ఆసియాలో వ్యాప్తి చెంది, కళ, తత్వశాస్త్రాన్ని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "300",
+		"name_en": "Mound Builders of North America",
+		"name_te": "ఉత్తర అమెరికా మౌండ్ బిల్డర్స్",
+		"location": {
+			"lat": 39.3,
+			"lng": -82.9
+		},
+		"desc_en": "Mound-building cultures such as the Hopewell continue to construct ceremonial earthworks in North America.",
+		"desc_te": "హోప్‌వెల్ వంటి మౌండ్ బిల్డింగ్ సంస్కృతులు ఉత్తర అమెరికాలో వేడుకల భూమి నిర్మాణాలను కొనసాగించాయి."
+	},
+	{
+		"year": "300",
+		"name_en": "Rock Art at Ubirr (Australia)",
+		"name_te": "ఉబిర్ర్ వద్ద రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.415,
+			"lng": 132.995
+		},
+		"desc_en": "Indigenous people create and maintain rock art galleries in Arnhem Land.",
+		"desc_te": "ఆర్నెమ్ ల్యాండ్‌లో ఆదివాసీలు రాక్ ఆర్ట్ గ్యాలరీలను సృష్టించి, సంరక్షించారు."
+	},
+	{
+		"year": "300",
+		"name_en": "Early Classic Maya Civilization (America)",
+		"name_te": "ప్రారంభ క్లాసిక్ మాయా నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Early Classic period of Maya civilization continues, with major city-states emerging.",
+		"desc_te": "మాయా నాగరికత ప్రారంభ క్లాసిక్ కాలం కొనసాగి, ప్రధాన నగర-రాజ్యాలు ఏర్పడ్డాయి."
+	}
+]

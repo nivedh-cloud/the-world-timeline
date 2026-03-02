@@ -1,0 +1,607 @@
+[
+	{
+		"year": "500",
+		"name_en": "Harsha's Early Rule Begins (India)",
+		"name_te": "హర్ష వంశం ప్రారంభ పాలన (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "Harsha, who will later unify much of northern India, begins his early rule in Thanesar.",
+		"desc_te": "హర్ష, తరువాత ఉత్తర భారతదేశాన్ని ఏకీకృతం చేసిన రాజు, తన ప్రారంభ పాలనను థానేశర్‌లో ప్రారంభించాడు."
+	},
+	{
+		"year": "500",
+		"name_en": "Chalukya Dynasty Founded (India)",
+		"name_te": "చాళుక్య వంశం స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 16.5,
+			"lng": 75.7
+		},
+		"desc_en": "The Chalukya dynasty is founded in southern India, becoming a major power in the Deccan.",
+		"desc_te": "దక్షిణ భారతదేశంలో చాళుక్య వంశం స్థాపించబడి, డెక్కన్‌లో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Northern Wei Dynasty Splits (China)",
+		"name_te": "ఉత్తర వే రాజవంశం విభజన (చైనా)",
+		"location": {
+			"lat": 39.9,
+			"lng": 116.4
+		},
+		"desc_en": "The Northern Wei Dynasty splits into Eastern and Western Wei, leading to political fragmentation in northern China.",
+		"desc_te": "ఉత్తర వే రాజవంశం తూర్పు, పడమటి వేగా విభజించబడి, ఉత్తర చైనాలో రాజకీయ విభజనకు దారితీసింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Sui Dynasty Founded (China)",
+		"name_te": "సుయ్ రాజవంశం స్థాపన (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Sui Dynasty is founded, eventually reunifying China after centuries of division.",
+		"desc_te": "సుయ్ రాజవంశం స్థాపించబడి, శతాబ్దాల విభజన తర్వాత చైనాను మళ్లీ ఏకీకృతం చేసింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Justinian I Reigns (Byzantine Empire)",
+		"name_te": "జస్టినియన్ I పాలన (బిజాంటైన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Justinian I rules the Byzantine Empire, overseeing the construction of Hagia Sophia and codifying Roman law.",
+		"desc_te": "జస్టినియన్ I బిజాంటైన్ సామ్రాజ్యాన్ని పాలించి, హాగియా సోఫియా నిర్మాణాన్ని పర్యవేక్షించి, రోమన్ చట్టాన్ని సంకలనం చేశాడు."
+	},
+	{
+		"year": "500",
+		"name_en": "Plague of Justinian (Europe/Asia/Africa)",
+		"name_te": "జస్టినియన్ ప్లేగ్ (యూరోప్/ఆసియా/ఆఫ్రికా)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Plague of Justinian, a devastating pandemic, spreads across the Byzantine Empire and beyond.",
+		"desc_te": "బిజాంటైన్ సామ్రాజ్యం మరియు పరిసర ప్రాంతాల్లో జస్టినియన్ ప్లేగ్ అనే మహమ్మారి విస్తరించింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Frankish Kingdom Expands under Clovis' Successors (Europe)",
+		"name_te": "క్లోవిస్ వారసుల పాలనలో ఫ్రాంకిష్ రాజ్యం విస్తరణ (యూరోప్)",
+		"location": {
+			"lat": 48.9,
+			"lng": 2.4
+		},
+		"desc_en": "The Frankish Kingdom expands further in Western Europe under the Merovingian dynasty.",
+		"desc_te": "మెరోవింగియన్ వంశ పాలనలో ఫ్రాంకిష్ రాజ్యం పశ్చిమ యూరోప్‌లో మరింత విస్తరించింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Anglo-Saxon Kingdoms Formed (Britain)",
+		"name_te": "ఆంగ్లో-సాక్సన్ రాజ్యాల స్థాపన (బ్రిటన్)",
+		"location": {
+			"lat": 52,
+			"lng": 0.1
+		},
+		"desc_en": "Anglo-Saxon kingdoms are established in England, laying the foundation for medieval English history.",
+		"desc_te": "ఇంగ్లాండ్‌లో ఆంగ్లో-సాక్సన్ రాజ్యాలు స్థాపించబడి, మధ్యయుగ ఇంగ్లీష్ చరిత్రకు పునాది వేశాయి."
+	},
+	{
+		"year": "500",
+		"name_en": "Yamato State Consolidates (Japan)",
+		"name_te": "యమాటో రాష్ట్రం సమీకరణ (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Yamato state consolidates power in Japan, strengthening imperial rule.",
+		"desc_te": "జపాన్‌లో యమాటో రాష్ట్రం అధికారాన్ని సమీకరించి, చక్రవర్తి పాలనను బలోపేతం చేసింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Baekje, Silla, and Goguryeo Kingdoms (Korea)",
+		"name_te": "బైజే, సిల్లా, గోగుర్యో రాజ్యాలు (కొరియా)",
+		"location": {
+			"lat": 36.5,
+			"lng": 127.8
+		},
+		"desc_en": "The Three Kingdoms of Korea—Baekje, Silla, and Goguryeo—compete for dominance on the Korean Peninsula.",
+		"desc_te": "కొరియా ద్వీపకల్పంలో బైజే, సిల్లా, గోగుర్యో అనే మూడు రాజ్యాలు ఆధిపత్యం కోసం పోటీ పడ్డాయి."
+	},
+	{
+		"year": "500",
+		"name_en": "Aksumite Empire at its Height (East Africa)",
+		"name_te": "అక్సుమైట్ సామ్రాజ్యం శిఖరస్థాయిలో (తూర్పు ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Aksumite Empire flourishes as a major trading power in East Africa.",
+		"desc_te": "అక్సుమైట్ సామ్రాజ్యం తూర్పు ఆఫ్రికాలో ప్రధాన వాణిజ్య శక్తిగా వికసించింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Maya Classic Period Continues (Central America)",
+		"name_te": "మాయా క్లాసిక్ కాలం కొనసాగింపు (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "The Maya civilization continues to thrive, with major city-states and monumental architecture.",
+		"desc_te": "మాయా నాగరికత కొనసాగుతూ, ప్రధాన నగర-రాజ్యాలు, మహత్తర నిర్మాణాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "500",
+		"name_en": "Nazca Lines Created (Peru)",
+		"name_te": "నాజ్కా లైన్స్ సృష్టి (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "The Nazca people create the famous Nazca Lines in southern Peru.",
+		"desc_te": "నాజ్కా ప్రజలు దక్షిణ పెరూ లో ప్రసిద్ధ నాజ్కా లైన్స్‌ను సృష్టించారు."
+	},
+	{
+		"year": "500",
+		"name_en": "Aboriginal Songlines Maintained (Australia)",
+		"name_te": "ఆబారిజినల్ సాంగ్‌లైన్స్ కొనసాగింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australians maintain ancient songlines, oral maps connecting land and culture.",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు ప్రాచీన సాంగ్‌లైన్స్‌ను, భూమి మరియు సంస్కృతిని కలిపే నోటివెంట మ్యాపులను కొనసాగించారు."
+	},
+	{
+		"year": "500",
+		"name_en": "Pope Gregory I (Gregory the Great) Begins Papacy (Rome)",
+		"name_te": "పోప్ గ్రెగరీ I (గ్రెగరీ ది గ్రేట్) పాపసీ ప్రారంభం (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Gregory the Great becomes Pope in 590, reforms the church, and sends missionaries to England.",
+		"desc_te": "గ్రెగరీ ది గ్రేట్ 590లో పోప్‌గా నియమితులై, చర్చ్‌లో సంస్కరణలు చేసి, ఇంగ్లాండ్‌కు మిషనరీలను పంపారు."
+	},
+	{
+		"year": "500",
+		"name_en": "St. Benedict Founds Monte Cassino Monastery (Italy)",
+		"name_te": "సెయింట్ బెనెడిక్ట్ మాంటే కాసినో మఠాన్ని స్థాపించారు (ఇటలీ)",
+		"location": {
+			"lat": 41.492,
+			"lng": 13.817
+		},
+		"desc_en": "St. Benedict establishes the monastery at Monte Cassino, founding Western monasticism.",
+		"desc_te": "సెయింట్ బెనెడిక్ట్ ఇటలీలో మాంటే కాసినో మఠాన్ని స్థాపించి, పాశ్చాత్య మఠ వ్యవస్థకు పునాది వేశారు."
+	},
+	{
+		"year": "500",
+		"name_en": "Battle of Mount Badon (Britain)",
+		"name_te": "మౌంట్ బాడన్ యుద్ధం (బ్రిటన్)",
+		"location": {
+			"lat": 51.5,
+			"lng": -2.6
+		},
+		"desc_en": "Legendary battle where Romano-British, possibly led by King Arthur, defeat Anglo-Saxon invaders.",
+		"desc_te": "రొమానో-బ్రిటిష్ సైన్యం (అర్థర్ రాజు నాయకత్వంలో అని భావిస్తారు) ఆంగ్లో-సాక్సన్ దండయాత్రను ఓడించింది."
+	},
+	{
+		"year": "500",
+		"name_en": "King Pulakeshin I Founds Chalukya Dynasty (India)",
+		"name_te": "పులకేశిన్ I చాళుక్య వంశాన్ని స్థాపించారు (భారతదేశం)",
+		"location": {
+			"lat": 16.5,
+			"lng": 75.7
+		},
+		"desc_en": "Pulakeshin I establishes the Chalukya dynasty, which will dominate the Deccan for centuries.",
+		"desc_te": "పులకేశిన్ I చాళుక్య వంశాన్ని స్థాపించి, శతాబ్దాల పాటు డెక్కన్‌ను పాలించారు."
+	},
+	{
+		"year": "500",
+		"name_en": "Empress Suiko Reigns (Japan)",
+		"name_te": "సుయికో రాణి పాలన (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Empress Suiko becomes one of Japan's first female rulers, promoting Buddhism and reforms.",
+		"desc_te": "సుయికో రాణి జపాన్‌లో తొలి మహిళా పాలకురాలిగా, బౌద్ధమతాన్ని, సంస్కరణలను ప్రోత్సహించారు."
+	},
+	{
+		"year": "500",
+		"name_en": "King Khosrow I (Anushirvan) Ascends Sassanian Throne (Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం ఖోస్రో I (అనుషిర్వాన్) (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Khosrow I, known for his justice and reforms, becomes king of the Sassanian Empire.",
+		"desc_te": "ఖోస్రో I, న్యాయ పరిపాలన, సంస్కరణలకు ప్రసిద్ధి, సస్సానియన్ సామ్రాజ్యానికి రాజుగా నియమితులయ్యారు."
+	},
+	{
+		"year": "500",
+		"name_en": "Spread of Christianity in Nubia (Africa)",
+		"name_te": "నుబియాలో క్రైస్తవ మత విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 19.5,
+			"lng": 30.4
+		},
+		"desc_en": "Christianity spreads to Nubia (modern Sudan), leading to the conversion of local kingdoms.",
+		"desc_te": "క్రైస్తవ మతం నుబియాలో (నేటి సూడాన్) విస్తరించి, స్థానిక రాజ్యాలు క్రైస్తవ మతాన్ని స్వీకరించాయి."
+	},
+	{
+		"year": "500",
+		"name_en": "King Bimbisara of Magadha (India, legendary reference)",
+		"name_te": "మగధ రాజు బింబిసారుడు (భారతదేశం, పురాణ సూచన)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Bimbisara, legendary king of Magadha, is referenced in Buddhist and Jain texts as a model ruler.",
+		"desc_te": "బింబిసారుడు, మగధ రాజు, బౌద్ధ, జైన గ్రంథాలలో ఆదర్శ పాలకుడిగా పేర్కొనబడ్డాడు."
+	},
+	{
+		"year": "500",
+		"name_en": "Teotihuacan Declines (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ పతనం (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "The great city of Teotihuacan in central Mexico begins to decline after centuries of prosperity.",
+		"desc_te": "మెక్సికోలోని టియోటిహుయాకాన్ నగరం శతాబ్దాల శ్రేయస్సు తర్వాత పతనమవుతోంది."
+	},
+	{
+		"year": "500",
+		"name_en": "First Known Use of Zero in India",
+		"name_te": "భారతదేశంలో మొదటి సున్నా వినియోగం",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "The concept and symbol of zero are used in Indian mathematics, revolutionizing global mathematics.",
+		"desc_te": "భారత గణితంలో సున్నా భావన, చిహ్నం వినియోగంలోకి వచ్చి, ప్రపంచ గణితాన్ని మారుస్తుంది."
+	},
+	{
+		"year": "500",
+		"name_en": "Bodhisattva Avalokitesvara Veneration (China/Tibet)",
+		"name_te": "బోధిసత్త్వ అవలోకితేశ్వర వూర్తి (చైనా/టిబెట్)",
+		"location": {
+			"lat": 39.9,
+			"lng": 116.4
+		},
+		"desc_en": "Avalokitesvara, the bodhisattva of compassion, gains widespread devotion across East Asia.",
+		"desc_te": "అవలోకితేశ్వర, కరుణ బోధిసత్త్వ, తూర్పు ఆసియాలో విస్తృత భక్తిని పొందుతారు."
+	},
+	{
+		"year": "520",
+		"name_en": "Zhuge Liang Influence on Military Strategy (China)",
+		"name_te": "జుగె లియాంగ్ సైనిక వ్యూహానికి ప్రభావం (చైనా)",
+		"location": {
+			"lat": 31,
+			"lng": 121.5
+		},
+		"desc_en": "Teachings of Zhuge Liang continue to influence military strategy across China and beyond.",
+		"desc_te": "జుగె లియాంగ్ చరితలు చైనా, ఇతర దేశాల్లో సైనిక వ్యూహాన్ని ప్రభావితం చేస్తూనే ఉన్నాయి."
+	},
+	{
+		"year": "530",
+		"name_en": "Gothic Wars End in Italy (Byzantine)",
+		"name_te": "ఇటలీలో గోతిక్ యుద్ధాల ముగింపు (బిజాంటైన్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Byzantine General Belisarius defeats the Goths, bringing Italy back under Byzantine control.",
+		"desc_te": "బిజాంటైన్ జనరల్ బెలిసారియస్ గోత్‌లను ఓడించి, ఇటలీని బిజాంటైన్ నియంత్రణలోకి తీసుకువచ్చారు."
+	},
+	{
+		"year": "540",
+		"name_en": "Plague of Justinian Peaks (Byzantine)",
+		"name_te": "జస్టినియన్ ప్లేగ్ శిఖరం (బిజాంటైన్)",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "The plague reaches its peak, devastating Constantinople and the Eastern Mediterranean.",
+		"desc_te": "ప్లేగ్ కాన్స్టాంటినోపుల్, తూర్పు మెడిటరేనియన్ ప్రాంతాలను భారీగా ఆక్రమిస్తుంది."
+	},
+	{
+		"year": "550",
+		"name_en": "Battle of Bukhara (Persia/Central Asia)",
+		"name_te": "బుఖారా యుద్ధం (పర్షియా/మధ్య ఆసియా)",
+		"location": {
+			"lat": 39.7,
+			"lng": 64.4
+		},
+		"desc_en": "Sassanian Persia battles Central Asian tribes for control of trade routes and territory.",
+		"desc_te": "సస్సానియన్ పర్షియా వాణిజ్య మార్గాలు, ప్రాంతం నియంత్రణ కోసం మధ్య ఆసియా గోత్రాలతో యుద్ధం చేస్తుంది."
+	},
+	{
+		"year": "560",
+		"name_en": "Avar Invasions of Europe",
+		"name_te": "యూరోప్‌పై అవర్ దాడులు",
+		"location": {
+			"lat": 47.5,
+			"lng": 19
+		},
+		"desc_en": "The Avars, a nomadic confederation, invade and conquer much of southeastern Europe.",
+		"desc_te": "అవర్‌లు, గోత్ర సమాఖ్య, ఆగ్నేయ యూరోప్‌లో విస్తృతమైన ప్రాంతాల్లో దాడి చేసి ఆక్రమిస్తారు."
+	},
+	{
+		"year": "570",
+		"name_en": "Prophet Muhammad's Birth (Arabia)",
+		"name_te": "ప్రవక్త మహమ్మద్ జననం (అరేబియా)",
+		"location": {
+			"lat": 21.3891,
+			"lng": 39.8579
+		},
+		"desc_en": "Prophet Muhammad is born in Mecca, Arabia, who will later found Islam.",
+		"desc_te": "ప్రవక్త మహమ్మద్ మక్కాలో జన్మించారు, తరువాత ఇస్లాం మతాన్ని స్థాపించారు."
+	},
+	{
+		"year": "580",
+		"name_en": "Prabhakara Vardhana Expands Pushyabhuti Dynasty (India)",
+		"name_te": "ప్రభాకర వర్ధన పుష్యభూతి వంశం విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "Prabhakara Vardhana expands the Pushyabhuti kingdom in northern India.",
+		"desc_te": "ప్రభాకర వర్ధన ఉత్తర భారతదేశంలో పుష్యభూతి రాజ్యం విస్తరించారు."
+	},
+	{
+		"year": "585",
+		"name_en": "Harsha's Rule Expands (India)",
+		"name_te": "హర్ష పాలన విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "Harsha begins his major expansion, reunifying much of northern India under single rule.",
+		"desc_te": "హర్ష ఉత్తర భారతదేశ అధిక భాగాన్ని ఏకీకృత పాలనలో తీసుకువస్తారు."
+	},
+	{
+		"year": "590",
+		"name_en": "Empress Wu Zetian's Birth (China)",
+		"name_te": "చైనా రాణి వు జెతియన్ జననం",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Wu Zetian, who will become the only female emperor of China, is born.",
+		"desc_te": "వు జెతియన్, చైనా చరిత్రలో ఏకైక మహిళా చక్రవర్తిగా మారిన వారు, జన్మించారు."
+	},
+	{
+		"year": "595",
+		"name_en": "Pushyabhuti Dynasty Consolidates (India)",
+		"name_te": "పుష్యభూతి వంశం సమీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "The Pushyabhuti dynasty consolidates power in northern India under Harsha's father.",
+		"desc_te": "హర్ష తండ్రి నేతృత్వంలో పుష్యభూతి వంశం ఉత్తర భారతదేశంలో అధికారాన్ని సమీకరించుకోవటం ఏర్పడుతుంది."
+	},
+	{
+		"year": "500",
+		"name_en": "Mayan City of Copan Rises (Central America)",
+		"name_te": "మాయా నగరం కోపాన్ ఉద్భవం (మధ్య అమెరికా)",
+		"location": {
+			"lat": 14.7343,
+			"lng": -89.1421
+		},
+		"desc_en": "The Maya city of Copan begins its rise to become a major center in the Maya world.",
+		"desc_te": "మాయా నగరం కోపాన్ మాయా ప్రపంచంలో ప్రధాన కేంద్రంగా ఎదగడం ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "520",
+		"name_en": "Mayan City of Palenque Flourishes (Central America)",
+		"name_te": "మాయా నగరం పలెంక్‍యూ వికసం (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17.4889,
+			"lng": -92.046
+		},
+		"desc_en": "Palenque, a major Maya city, flourishes with monumental architecture and art.",
+		"desc_te": "పలెంక్‍యూ, ప్రధాన మాయా నగరం, మహత్తర నిర్మాణాలు, కళతో వికసిస్తుంది."
+	},
+	{
+		"year": "540",
+		"name_en": "Mayan Astronomical Observations (Central America)",
+		"name_te": "మాయా ఖగోళ పరిశీలనలు (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya astronomers make precise observations and calculations of celestial bodies.",
+		"desc_te": "మాయా ఖగోళ శాస్త్రవేత్తలు ఖగోళ వస్తువుల నిఖుమాలు, లెక్కలు చేస్తారు."
+	},
+	{
+		"year": "560",
+		"name_en": "Nasca Pottery Production (Peru)",
+		"name_te": "నాజ్కా కుండల ఉత్పత్తి (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "The Nazca people produce ornate polychrome pottery featuring religious motifs.",
+		"desc_te": "నాజ్కా ప్రజలు ఆధ్యాత్మిక ఉద్దేశ్యాలను చిత్రించిన విస్తృత రంగుల కుండలను ఉత్పత్తి చేస్తారు."
+	},
+	{
+		"year": "580",
+		"name_en": "Tikal Pyramid Complex Expansion (Central America)",
+		"name_te": "టికాల్ పిరమిడ్ సమ్మిश్ర విస్తరణ (మధ్య అమెరికా)",
+		"location": {
+			"lat": 17.2234,
+			"lng": -89.6162
+		},
+		"desc_en": "Tikal, one of the largest Maya cities, expands its pyramid complex and urban area.",
+		"desc_te": "టికాల్, అతిపెద్ద మాయా నగరాల్లో ఒకటి, పిరమిడ్ సమ్మిశ్ర, నగర ప్రాంతం విస్తరిస్తుంది."
+	},
+	{
+		"year": "505",
+		"name_en": "Eastern Wei Dynasty Rules Northern China",
+		"name_te": "తూర్పు వే రాజవంశం ఉత్తర చైనా పాలన",
+		"location": {
+			"lat": 36.6,
+			"lng": 114.3
+		},
+		"desc_en": "Eastern Wei Dynasty controls northern China, with Luoyang as capital.",
+		"desc_te": "తూర్పు వే రాజవంশం లుయోయాంగ్‌ను రాజధానిగా చేసుకుని ఉత్తర చైనాను పాలిస్తుంది."
+	},
+	{
+		"year": "525",
+		"name_en": "Northern Qi Dynasty Emerges (China)",
+		"name_te": "ఉత్తర చీ రాజవంశం ఉద్భవం (చైనా)",
+		"location": {
+			"lat": 40,
+			"lng": 116
+		},
+		"desc_en": "Northern Qi Dynasty emerges as a powerful kingdom in northern China.",
+		"desc_te": "ఉత్తర చీ రాజవంశం ఉత్తర చైనాలో శక్తిశాలీ రాజ్యంగా ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "545",
+		"name_en": "Northern Zhou Dynasty Rises (China)",
+		"name_te": "ఉత్తర జౌ రాజవంశం లేవుదల (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Northern Zhou Dynasty begins to consolidate power in northern China.",
+		"desc_te": "ఉత్తర జౌ రాజవంశం ఉత్తర చైనాలో అధికారాన్ని సమీకరించుకోవటం ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "565",
+		"name_en": "Sui Dynasty's Military Expansion (China)",
+		"name_te": "సుయ్ రాజవంశ సైనిక విస్తరణ (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Sui Dynasty expands its military control and gradually reunifies all of China.",
+		"desc_te": "సుయ్ రాజవంశం సైనిక నియంత్రణ విస్తరించి, చైనాను క్రమంగా ఏకీకృతం చేస్తుంది."
+	},
+	{
+		"year": "510",
+		"name_en": "Frankish Kings Consolidate Gaul (Europe)",
+		"name_te": "ఫ్రాంకిష్ రాజులు గాల్‌ను సమీకరణ (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 2
+		},
+		"desc_en": "Frankish kings consolidate their control over most of Gaul and parts of Germany.",
+		"desc_te": "ఫ్రాంకిష్ రాజులు గాల్ అధిక భాగం, జర్మనీ కొన్ని ప్రాంతాల్లో నియంత్రణ సమీకరించుకోవటం చేస్తారు."
+	},
+	{
+		"year": "530",
+		"name_en": "Visigothic Kingdom in Spain Strengthens (Europe)",
+		"name_te": "స్పెయిన్‌లో విశిగోతిక్ రాజ్యం బలోపేతం (యూరోప్)",
+		"location": {
+			"lat": 40,
+			"lng": -3.5
+		},
+		"desc_en": "The Visigothic Kingdom in Spain grows stronger under successive kings.",
+		"desc_te": "స్పెయిన్‌లోని విశిగోతిక్ రాజ్యం వరుసగా చేసే రాజుల ఆధీనంలో బలోపేతమవుతుంది."
+	},
+	{
+		"year": "550",
+		"name_en": "Lombard Kingdom Advances in Italy (Europe)",
+		"name_te": "ఇటలీలో లాంబార్డ్ రాజ్యం ముందుకు సాగుతుంది (యూరోప్)",
+		"location": {
+			"lat": 45.5,
+			"lng": 12
+		},
+		"desc_en": "The Lombards advance from the Alps into Italy, establishing their kingdom.",
+		"desc_te": "లాంబార్డ్‌లు ఆల్పస్ నుండి ఇటలీకి వచ్చి, తమ రాజ్యాన్ని స్థాపిస్తారు."
+	},
+	{
+		"year": "570",
+		"name_en": "Ostrogothic Kingdom Falls (Italy)",
+		"name_te": "ఆస్ట్రోగోతిక్ రాజ్యం కూలుతుంది (ఇటలీ)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Ostrogothic Kingdom in Italy collapses after devastating wars with Byzantium.",
+		"desc_te": "ఇటలీలోని ఆస్ట్రోగోతిక్ రాజ్యం బిజాంటియంతో యుద్ధం తర్వాత కూలిపోయింది."
+	},
+	{
+		"year": "500",
+		"name_en": "Pushyabhuti Kingdom Expands (Northern India)",
+		"name_te": "పుష్యభూతి రాజ్యం విస్తరణ (ఉత్తర భారతదేశం)",
+		"location": {
+			"lat": 28.6,
+			"lng": 77.2
+		},
+		"desc_en": "The Pushyabhuti Kingdom begins its expansion in northern India.",
+		"desc_te": "పుష్యభూతి రాజ్యం ఉత్తర భారతదేశంలో తన విస్తరణ ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "520",
+		"name_en": "Chalukya Empire Consolidates (Deccan India)",
+		"name_te": "చాళుక్య సామ్రాజ్యం సమీకరణ (డెక్కన్ భారతదేశం)",
+		"location": {
+			"lat": 16.5,
+			"lng": 75.7
+		},
+		"desc_en": "The Chalukya Empire consolidates its power in the Deccan region.",
+		"desc_te": "చాళుక్య సామ్రాజ్యం డెక్కన్ ప్రాంతంలో తన అధికారం సమీకరించుకుంటుంది."
+	},
+	{
+		"year": "540",
+		"name_en": "Chola Dynasty Consolidates (South India)",
+		"name_te": "చోళ వంశం సమీకరణ (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "The Chola dynasty consolidates its power in the Tamil south.",
+		"desc_te": "చోళ వంశం తమిళ దక్షిణంలో తన అధికారం సమీకరించుకుంటుంది."
+	},
+	{
+		"year": "560",
+		"name_en": "Pandya Kingdom Activity (South India)",
+		"name_te": "పాండ్య రాజ్య కార్యకలాపాలు (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 9.9,
+			"lng": 78.1
+		},
+		"desc_en": "The Pandya Kingdom remains active in southern Tamil Nadu.",
+		"desc_te": "పాండ్య రాజ్యం దక్షిణ తమిళనాడులో క్రియాశీలంగా ఉండిపోతుంది."
+	},
+	{
+		"year": "575",
+		"name_en": "Avar-Byzantine Wars Begin (Eastern Europe/Balkans)",
+		"name_te": "అవర్-బిజాంటైన్ యుద్ధాలు ప్రారంభం (తూర్పు యూరోప్)",
+		"location": {
+			"lat": 42,
+			"lng": 23
+		},
+		"desc_en": "The Avars and Byzantines engage in prolonged warfare for control of the Balkans.",
+		"desc_te": "అవర్‌లు, బిజాంటైన్ సామ్రాజ్యం బాల్కన్‌ల నియంత్రణ కోసం సుదీర్ఘ యుద్ధం చేస్తారు."
+	},
+	{
+		"year": "585",
+		"name_en": "Roman-Persian Wars Intensify (Byzantium/Sassania)",
+		"name_te": "రోమన్-పర్షియన్ యుద్ధాలు తీవ్రమవుతాయి (బిజాంటియం)",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Byzantine Empire and Sassanian Persia intensify conflicts over Mesopotamia and Armenia.",
+		"desc_te": "బిజాంటైన్ సామ్రాజ్యం, సస్సానియన్ పర్షియా మెసొపొటేమియా, అర్మేనియా నియంత్రణ కోసం సంఘర్షణ తీవ్రం చేస్తాయి."
+	},
+	{
+		"year": "590",
+		"name_en": "Maurice Becomes Byzantine Emperor",
+		"name_te": "మారిస్ బిజాంటైన్ చక్రవర్తిగా",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Maurice becomes Byzantine emperor, implementing military reforms and fiscal policies.",
+		"desc_te": "మారిస్ బిజాంటైన్ చక్రవర్తిగా నియమితులై, సైనిక సంస్కరణలు, ఆర్థిక నిర్ణయాలు చేస్తారు."
+	}
+]

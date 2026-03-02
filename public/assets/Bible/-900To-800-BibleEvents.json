@@ -1,0 +1,1234 @@
+[
+	{
+		"year": "-900",
+		"name_en": "Ministry of the Prophet Elijah",
+		"name_te": "ప్రవక్త ఎలీయా సేవ",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Elijah prophesies in Israel, confronts Ahab and Jezebel, and performs miracles (1 Kings 17-19)",
+		"desc_te": "ఎలీయా ఇశ్రాయేల్లో ప్రవచించి, అహాబు, యెజబెల్‌ను ఎదుర్కొని, అద్భుతాలు చేశాడు (1 రాజులు 17-19)"
+	},
+	{
+		"year": "-880",
+		"name_en": "Reign of King Jehoram of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు యెహోరాం పాలన",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jehoram, son of Ahab, rules Israel and faces Moabite rebellion (2 Kings 3)",
+		"desc_te": "అహాబు కుమారుడు యెహోరాం ఇశ్రాయేలు పాలించి, మోయాబుతో తిరుగుబాటు ఎదుర్కొన్నాడు (2 రాజులు 3)"
+	},
+	{
+		"year": "-841",
+		"name_en": "Death of Queen Jezebel",
+		"name_te": "రాణి యెజబెల్ మరణం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jezebel is killed by Jehu's forces, ending her influence over Israel (2 Kings 9:30-37)",
+		"desc_te": "యెజబెల్ యేహూ సైనికుల చేతిలో చంపబడింది, ఆమె ఇశ్రాయేలు మీద ఉన్న ప్రభావానికి చివరి (2 రాజులు 9:30-37)"
+	},
+	{
+		"year": "-841",
+		"name_en": "Reign of King Jehoahaz of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు యెహోవహాజ్ పాలన",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jehoahaz rules Israel and faces oppression from Aram (2 Kings 13:1-9)",
+		"desc_te": "యెహోవహాజ్ ఇశ్రాయేలు పాలించి, అరాం రాజు చేతిలో బాధపడాడు (2 రాజులు 13:1-9)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Obadiah",
+		"name_te": "ఓబద్యా ప్రవచన సేవ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Obadiah prophesies against Edom, warning of judgment (Book of Obadiah)",
+		"desc_te": "ఓబద్యా ఎడోంపై తీర్పు ప్రకటించాడు (ఓబద్యా గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Kingdom of Aram-Damascus",
+		"name_te": "అరాం-దమస్కు రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Aram-Damascus becomes a major power and enemy of Israel (2 Kings 8-13)",
+		"desc_te": "అరాం-దమస్కు రాజ్యం శక్తివంతమైన శత్రువుగా ఎదిగింది (2 రాజులు 8-13)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Reign of King Amaziah of Judah (begins)",
+		"name_te": "యూదా రాజు అమజ్యా పాలన ప్రారంభం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Amaziah begins to reign in Judah, later known for war with Edom (2 Kings 14:1-7)",
+		"desc_te": "అమజ్యా యూదాలో పాలన ప్రారంభించి, తరువాత ఎడోంతో యుద్ధానికి ప్రసిద్ధి చెందాడు (2 రాజులు 14:1-7)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Fortification of Lachish in Judah",
+		"name_te": "యూదాలో లాకీష్ పట్టణం కోట నిర్మాణం",
+		"location": {
+			"lat": 31.561,
+			"lng": 34.835
+		},
+		"desc_en": "Lachish is fortified as a key city in Judah's defense (2 Chronicles 11:9)",
+		"desc_te": "లాకీష్ పట్టణాన్ని యూదా రక్షణలో కీలకంగా కోటగా నిర్మించారు (2 దినవృత్తాంతం 11:9)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Assyrian Empire (regional context)",
+		"name_te": "అస్సిరియా సామ్రాజ్యం ఉద్భవం (ప్రాంతీయ సందర్భం)",
+		"location": {
+			"lat": 36.34,
+			"lng": 43.13
+		},
+		"desc_en": "Assyria begins to expand, influencing the region and future biblical events.",
+		"desc_te": "అస్సిరియా సామ్రాజ్యం విస్తరించడం ప్రారంభించి, ప్రాంతీయ, భవిష్యత్తు బైబిల్ సంఘటనలపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Joel (possible)",
+		"name_te": "యోவேలు ప్రవచన సేవ (సంభావ్య)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Joel possibly prophesies in Judah, warning of locust plague and calling for repentance (Book of Joel)",
+		"desc_te": "యోவேలు యూదాలో సంభావ్యంగా ప్రవచించి, మిడతల దండయాత్రను హెచ్చరించి, పశ్చాత్తాపానికి పిలుపునిచ్చాడు (యోவேలు గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Ministry of the Prophet Elisha",
+		"name_te": "ప్రవక్త ఎలీషా సేవ",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Elisha succeeds Elijah, performs miracles, and guides Israel (2 Kings 2-13)",
+		"desc_te": "ఎలీషా ఎలీయాను అనుసరించి, అద్భుతాలు చేసి, ఇశ్రాయేలను మార్గనిర్దేశం చేశాడు (2 రాజులు 2-13)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Rise of the Omride Dynasty in Israel",
+		"name_te": "ఇశ్రాయేల్లో ఓమ్రీ వంశం ఉద్భవం",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Omri and his descendants rule Israel, establishing Samaria as the capital (1 Kings 16)",
+		"desc_te": "ఓమ్రీ, అతని వారసులు ఇశ్రాయేలు పాలించి, శామేరియాను రాజధానిగా స్థాపించారు (1 రాజులు 16)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Religious Conflict and Baal Worship in Israel",
+		"name_te": "ఇశ్రాయేల్లో మత ఘర్షణ, బాల్ ఆరాధన",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Conflict between worship of Yahweh and Baal intensifies in Israel (1 Kings 18)",
+		"desc_te": "ఇశ్రాయేల్లో యహోవా, బాల్ ఆరాధన మధ్య ఘర్షణ తీవ్రతరం అయింది (1 రాజులు 18)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Jewish Legal and Ethical Traditions Continue to Develop",
+		"name_te": "యూదా చట్ట, నైతిక సంప్రదాయాల అభివృద్ధి కొనసాగింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish law and ethical teachings continue to be developed and taught by prophets and priests.",
+		"desc_te": "యూదా చట్టం, నైతిక బోధనలు ప్రవక్తలు, యాజకులు అభివృద్ధి చేసి బోధించారు."
+	},
+	{
+		"year": "-875",
+		"name_en": "Reign of King Jehoshaphat of Judah",
+		"name_te": "యూదా రాజు యెహోషాఫాత్ పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jehoshaphat rules Judah, strengthens the kingdom, and forms alliances (2 Chronicles 17-20)",
+		"desc_te": "యెహోషాఫాత్ యూదాపై పాలించి, రాజ్యాన్ని బలోపేతం చేసి, మిత్రపక్షాలు ఏర్పరిచాడు (2 దినవృత్తాంతం 17-20)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Wars between Israel and Aram (Syria)",
+		"name_te": "ఇశ్రాయేలు-అరాం (సిరియా) యుద్ధాలు",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Israel fights several wars with the kingdom of Aram-Damascus (1 Kings 20; 2 Kings 6-7)",
+		"desc_te": "ఇశ్రాయేలు అరాం-దమస్కుతో అనేక యుద్ధాలు చేసింది (1 రాజులు 20; 2 రాజులు 6-7)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Rise of Samaria as Israel's Capital",
+		"name_te": "ఇశ్రాయేలు రాజధానిగా శామేరియా",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Samaria is established as the capital of the northern kingdom of Israel (1 Kings 16:24)",
+		"desc_te": "శామేరియాను ఉత్తర రాజ్యం ఇశ్రాయేలు రాజధానిగా స్థాపించారు (1 రాజులు 16:24)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Queen Athaliah's Rule in Judah",
+		"name_te": "యూదాలో రాణి అతల్యా పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Athaliah, daughter of Ahab and Jezebel, seizes the throne of Judah (2 Kings 11)",
+		"desc_te": "అహాబు, యెజబెల్ కుమార్తె అతల్యా యూదా సింహాసనాన్ని స్వాధీనం చేసుకుంది (2 రాజులు 11)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Prophetic Ministry of Micaiah son of Imlah",
+		"name_te": "ఇంలా కుమారుడు మికాయా ప్రవచన సేవ",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Micaiah prophesies against Ahab, warning of defeat in battle (1 Kings 22)",
+		"desc_te": "మికాయా అహాబును యుద్ధంలో ఓడిపోతాడని హెచ్చరించాడు (1 రాజులు 22)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Construction and Fortification of Cities in Judah and Israel",
+		"name_te": "యూదా, ఇశ్రాయేల్లో పట్టణ నిర్మాణం, కోటలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Many cities are built and fortified, including Jerusalem, Samaria, and others (2 Chronicles 17:12)",
+		"desc_te": "యెరూషలేము, శామేరియా తదితర పట్టణాలు నిర్మించబడి, కోటలు నిర్మించబడ్డాయి (2 దినవృత్తాంతం 17:12)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Rise of the House of Jehu in Israel",
+		"name_te": "ఇశ్రాయేల్లో యేహూ వంశం ఉద్భవం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jehu overthrows the Omride dynasty, becomes king, and eradicates Baal worship (2 Kings 9-10)",
+		"desc_te": "యేహూ ఓమ్రీ వంశాన్ని కూలదోసి, ఇశ్రాయేలు రాజుగా అవతరించి, బాల్ ఆరాధనను నిర్మూలించాడు (2 రాజులు 9-10)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Massacre at Jezreel",
+		"name_te": "యిజ్రెయేల్లో మారణహోమం",
+		"location": {
+			"lat": 32.6,
+			"lng": 35.2
+		},
+		"desc_en": "Jehu orders the massacre of Ahab's family and Baal's priests at Jezreel (2 Kings 9-10)",
+		"desc_te": "యేహూ యిజ్రెయేల్లో అహాబు కుటుంబాన్ని, బాల్ యాజకులను హతమార్చాడు (2 రాజులు 9-10)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Alliance and Conflict between Judah and Israel",
+		"name_te": "యూదా, ఇశ్రాయేలు మధ్య మైత్రి, ఘర్షణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Judah and Israel form alliances but also engage in conflicts, including joint campaigns and disputes (2 Kings 8-14)",
+		"desc_te": "యూదా, ఇశ్రాయేలు మైత్రి కుదుర్చుకుని, కొన్ని సందర్భాల్లో ఘర్షణలకు దిగాయి (2 రాజులు 8-14)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Prophetic Ministry of Eliezer son of Dodavahu",
+		"name_te": "డోదావాహు కుమారుడు ఎలీయేజర్ ప్రవచన సేవ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Eliezer prophesies against Jehoshaphat for allying with Ahaziah (2 Chronicles 20:37)",
+		"desc_te": "ఎలీయేజర్ యెహోషాఫాత్‌ను అహజ్యాతో మైత్రి చేసుకున్నందుకు హెచ్చరించాడు (2 దినవృత్తాంతం 20:37)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Moabite Stone Inscription (Mesha Stele)",
+		"name_te": "మోయాబు రాయి శాసనం (మెషా స్టీలీ)",
+		"location": {
+			"lat": 31.7,
+			"lng": 35.7
+		},
+		"desc_en": "King Mesha of Moab commemorates his rebellion against Israel; archaeological evidence for biblical events (2 Kings 3)",
+		"desc_te": "మోయాబు రాజు మెషా ఇశ్రాయేలు మీద తిరుగుబాటును శాసనంగా లిఖించాడు; ఇది బైబిల్ సంఘటనలకు పురావస్తు ఆధారం (2 రాజులు 3)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Rise of the Philistine Threat in the West",
+		"name_te": "పడమట ఫిలిష్తీయుల ముప్పు",
+		"location": {
+			"lat": 31.77,
+			"lng": 34.63
+		},
+		"desc_en": "Philistines continue to threaten Israel and Judah from the west (2 Kings 12:17)",
+		"desc_te": "ఫిలిష్తీయులు పడమట నుండి ఇశ్రాయేలు, యూదాపై ముప్పుగా కొనసాగారు (2 రాజులు 12:17)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Religious Reforms and High Places",
+		"name_te": "మత సంస్కరణలు, ఉన్నత స్థలాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Attempts at religious reform are made, but worship at high places continues (2 Kings 12:3)",
+		"desc_te": "మత సంస్కరణలు జరిగినా, ఉన్నత స్థలాల్లో ఆరాధన కొనసాగింది (2 రాజులు 12:3)"
+	},
+	{
+		"year": "-910",
+		"name_en": "King Asa's Religious Reforms in Judah",
+		"name_te": "యూదాలో ఆసా మత సంస్కరణలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Asa removes idols and high places, leading a religious revival in Judah (2 Chronicles 14-15)",
+		"desc_te": "రాజు ఆసా విగ్రహాలు, ఉన్నత స్థలాలను తొలగించి, యూదాలో మత పునరుజ్జీవనానికి నాయకత్వం వహించాడు (2 దినవృత్తాంతం 14-15)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Hazael of Aram Expands Power",
+		"name_te": "అరాం రాజు హజాయేలు శక్తి విస్తరణ",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Hazael becomes king of Aram-Damascus, defeats Israel and Judah in several battles (2 Kings 8:7-15; 10:32-33)",
+		"desc_te": "హజాయేలు అరాం-దమస్కు రాజుగా అవతరించి, అనేక యుద్ధాల్లో ఇశ్రాయేలు, యూదాను ఓడించాడు (2 రాజులు 8:7-15; 10:32-33)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Jehoash (Joash) of Judah Repairs the Temple",
+		"name_te": "యూదా రాజు యెహోయాష్ దేవాలయ మరమ్మత్తు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "King Jehoash (Joash) of Judah initiates repairs of the Jerusalem Temple (2 Kings 12:4-16)",
+		"desc_te": "యూదా రాజు యెహోయాష్ యెరూషలేము దేవాలయ మరమ్మత్తును ప్రారంభించాడు (2 రాజులు 12:4-16)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Kingdom of Urartu (Ararat)",
+		"name_te": "ఉరర్తు (అరారాట్) రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 39.5,
+			"lng": 44
+		},
+		"desc_en": "The kingdom of Urartu emerges in eastern Anatolia, influencing the region's politics.",
+		"desc_te": "ఉరర్తు రాజ్యం తూర్పు అనాటోలియాలో ఉద్భవించి, ప్రాంతీయ రాజకీయాలపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-850",
+		"name_en": "Notable Person: Ben-Hadad II of Aram",
+		"name_te": "ప్రసిద్ధ వ్యక్తి: అరాం బెన్-హదద్ II",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Ben-Hadad II, king of Aram, repeatedly wars with Israel and is mentioned in the Elisha narratives (2 Kings 6-8)",
+		"desc_te": "బెన్-హదద్ II అరాం రాజుగా ఉండి, ఇశ్రాయేలు మీద పునఃపునః యుద్ధాలు చేశాడు (2 రాజులు 6-8)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Elisha's Servant Gehazi",
+		"name_te": "ఎలీషా సేవకుడు గేహజీ ప్రవచన సేవ",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Gehazi, servant of Elisha, is involved in miracles and later punished for greed (2 Kings 4-5)",
+		"desc_te": "ఎలీషా సేవకుడు గేహజీ అద్భుతాల్లో పాల్గొని, తరువాత లోభానికి శిక్ష పొందాడు (2 రాజులు 4-5)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Kingdom of Moab under Mesha",
+		"name_te": "మెషా పాలనలో మోయాబు రాజ్యం",
+		"location": {
+			"lat": 31.7,
+			"lng": 35.7
+		},
+		"desc_en": "Mesha, king of Moab, rebels against Israel and secures independence (2 Kings 3; Mesha Stele)",
+		"desc_te": "మోయాబు రాజు మెషా ఇశ్రాయేలు మీద తిరుగుబాటు చేసి, స్వాతంత్ర్యం సాధించాడు (2 రాజులు 3; మెషా స్టీలీ)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Religious Center: Bethel in Israel",
+		"name_te": "ఆధ్యాత్మిక కేంద్రం: ఇశ్రాయేల్లో బేతేలు",
+		"location": {
+			"lat": 31.939,
+			"lng": 35.219
+		},
+		"desc_en": "Bethel serves as a major religious center in the northern kingdom (1 Kings 12:28-33)",
+		"desc_te": "బేతేలు ఉత్తర రాజ్యంలో ప్రధాన ఆధ్యాత్మిక కేంద్రంగా ఉంది (1 రాజులు 12:28-33)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Kingdom of Israel: Capital Moves to Samaria",
+		"name_te": "ఇశ్రాయేలు రాజధాని శామేరియాకు మార్పు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "The capital of Israel is moved from Tirzah to Samaria by King Omri (1 Kings 16:23-24)",
+		"desc_te": "ఇశ్రాయేలు రాజు ఓమ్రీ తిర్జా నుండి శామేరియాకు రాజధానిని మార్చాడు (1 రాజులు 16:23-24)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Neo-Hittite States in Syria",
+		"name_te": "సిరియాలో నూతన హిత్తీయ రాజ్యాల ఉద్భవం",
+		"location": {
+			"lat": 36.2,
+			"lng": 37.1
+		},
+		"desc_en": "Several Neo-Hittite states emerge in northern Syria, interacting with Israel and Aram.",
+		"desc_te": "ఉత్తర సిరియాలో అనేక నూతన హిత్తీయ రాజ్యాలు ఉద్భవించి, ఇశ్రాయేలు, అరాంలతో సంబంధాలు కలిగి ఉన్నాయి."
+	},
+	{
+		"year": "-850",
+		"name_en": "King Jehu's Tribute to Shalmaneser III of Assyria",
+		"name_te": "యేహూ అశ్షూరీయుడు శల్మనేసెర్ IIIకు బహుమతి",
+		"location": {
+			"lat": 36.34,
+			"lng": 43.13
+		},
+		"desc_en": "Jehu, king of Israel, pays tribute to the Assyrian king Shalmaneser III (Black Obelisk)",
+		"desc_te": "ఇశ్రాయేలు రాజు యేహూ అశ్షూరీయుడు శల్మనేసెర్ IIIకు బహుమతి సమర్పించాడు (బ్లాక్ ఒబెలిస్క్)"
+	},
+	{
+		"year": "-940",
+		"name_en": "King Baasha of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు బాషా",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Baasha rules Israel, wars with Asa of Judah, and fortifies Ramah (1 Kings 15:16-22)",
+		"desc_te": "బాషా ఇశ్రాయేలు పాలించి, యూదా ఆసాతో యుద్ధం చేసి, రామాను కోటగా నిర్మించాడు (1 రాజులు 15:16-22)"
+	},
+	{
+		"year": "-900",
+		"name_en": "King Zimri's Short Reign in Israel",
+		"name_te": "ఇశ్రాయేలు రాజు జిమ్రీ తక్కువకాల పాలన",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Zimri rules Israel for seven days before being overthrown by Omri (1 Kings 16:8-20)",
+		"desc_te": "జిమ్రీ ఇశ్రాయేలు రాజుగా ఏడురోజులు మాత్రమే పాలించి, ఓమ్రీ చేతిలో పడిపోయాడు (1 రాజులు 16:8-20)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Amaziah of Judah Defeats Edom",
+		"name_te": "యూదా అమజ్యా ఎడోమును ఓడించు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Amaziah, king of Judah, defeats Edom in battle and brings back spoils (2 Kings 14:7)",
+		"desc_te": "యూదా రాజు అమజ్యా ఎడోమును యుద్ధంలో ఓడించి, అపహరించిన వస్తువులను తీసుకొచ్చాడు (2 రాజులు 14:7)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Jehoash of Israel Defeats Amaziah of Judah",
+		"name_te": "ఇశ్రాయేలు యెహోయాష్ యూదా అమజ్యాను ఓడించు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jehoash, king of Israel, defeats Amaziah of Judah and captures Jerusalem's wall (2 Kings 14:11-14)",
+		"desc_te": "ఇశ్రాయేలు రాజు యెహోయాష్ యూదా అమజ్యాను ఓడించి, యెరూషలేము గోడను పడగొట్టాడు (2 రాజులు 14:11-14)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Jonah (possible)",
+		"name_te": "యోనా ప్రవచన సేవ (సంభావ్య)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jonah possibly prophesies during this period, later sent to Nineveh (2 Kings 14:25; Book of Jonah)",
+		"desc_te": "యోనా ఈ కాలంలో ప్రవచించి, తరువాత నినివెకు పంపించబడ్డాడు (2 రాజులు 14:25; యోనా గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Kingdom of Hamath in Syria",
+		"name_te": "సిరియాలో హమాత్ రాజ్యం",
+		"location": {
+			"lat": 35.133,
+			"lng": 36.75
+		},
+		"desc_en": "The kingdom of Hamath in Syria interacts with Israel and Aram, sometimes as an ally or rival (2 Kings 14:28)",
+		"desc_te": "సిరియాలో హమాత్ రాజ్యం ఇశ్రాయేలు, అరాంలతో మిత్రంగా లేదా ప్రత్యర్థిగా వ్యవహరించింది (2 రాజులు 14:28)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Notable Person: Obadiah the Prophet",
+		"name_te": "ప్రవక్త ఓబద్యా",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Obadiah, a prophet, warns Edom of judgment and calls for justice (Book of Obadiah)",
+		"desc_te": "ఓబద్యా ప్రవక్త ఎడోంపై తీర్పును ప్రకటించి, న్యాయాన్ని కోరాడు (ఓబద్యా గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Wars between Israel and Moab",
+		"name_te": "ఇశ్రాయేలు-మోయాబు యుద్ధాలు",
+		"location": {
+			"lat": 31.7,
+			"lng": 35.7
+		},
+		"desc_en": "Israel and Moab engage in several conflicts, including the rebellion of Mesha (2 Kings 3)",
+		"desc_te": "ఇశ్రాయేలు, మోయాబు మధ్య అనేక యుద్ధాలు జరిగాయి, అందులో మెషా తిరుగుబాటు ముఖ్యమైనది (2 రాజులు 3)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Religious Center: Jerusalem Temple Continues as Judah's Spiritual Heart",
+		"name_te": "యెరూషలేము దేవాలయం యూదా ఆధ్యాత్మిక కేంద్రంగా కొనసాగుతుంది",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Temple in Jerusalem remains the central place of worship and sacrifice for Judah (2 Kings 12:17; 2 Chronicles 24:14)",
+		"desc_te": "యెరూషలేము దేవాలయం యూదా ప్రజలకు ప్రధాన ఆధ్యాత్మిక కేంద్రంగా కొనసాగింది (2 రాజులు 12:17; 2 దినవృత్తాంతం 24:14)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Kingdom of Ammon",
+		"name_te": "అమ్మోను రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.93
+		},
+		"desc_en": "The kingdom of Ammon in Transjordan grows in power and interacts with Israel and Judah (2 Chronicles 20:1)",
+		"desc_te": "ట్రాన్స్ జోర్డాన్‌లో అమ్మోను రాజ్యం శక్తివంతమై, ఇశ్రాయేలు, యూదాతో సంబంధాలు కలిగి ఉంది (2 దినవృత్తాంతం 20:1)"
+	},
+	{
+		"year": "-900",
+		"name_en": "King Elah of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు ఎలాహ్",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Elah, son of Baasha, rules Israel briefly before being assassinated by Zimri (1 Kings 16:6-10)",
+		"desc_te": "బాషా కుమారుడు ఎలాహ్ ఇశ్రాయేలు పాలించి, జిమ్రీ చేతిలో హత్య చేయబడ్డాడు (1 రాజులు 16:6-10)"
+	},
+	{
+		"year": "-900",
+		"name_en": "King Tibni's Rivalry with Omri in Israel",
+		"name_te": "ఇశ్రాయేలు ఓమ్రీ, టిబ్నీ మధ్య పోటీ",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Tibni and Omri compete for the throne of Israel after Zimri's death (1 Kings 16:21-22)",
+		"desc_te": "జిమ్రీ మరణం తరువాత టిబ్నీ, ఓమ్రీ ఇశ్రాయేలు సింహాసనం కోసం పోటీ పడ్డారు (1 రాజులు 16:21-22)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Jehoash (Joash) of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు యెహోయాష్ (యోవాష్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jehoash, son of Jehoahaz, rules Israel and defeats Ben-Hadad of Aram (2 Kings 13:10-25)",
+		"desc_te": "యెహోయాహజ్ కుమారుడు యెహోయాష్ ఇశ్రాయేలు పాలించి, అరాం బెన్-హదద్‌ను ఓడించాడు (2 రాజులు 13:10-25)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Jeroboam II of Israel (begins)",
+		"name_te": "ఇశ్రాయేలు రాజు యెరోబొవాము II (ప్రారంభం)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Jeroboam II begins his reign, later expanding Israel's borders and restoring prosperity (2 Kings 14:23-27)",
+		"desc_te": "యెరోబొవాము II తన పాలన ప్రారంభించి, తరువాత ఇశ్రాయేలు సరిహద్దులను విస్తరించి, సంపదను పునరుద్ధరించాడు (2 రాజులు 14:23-27)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Hosea (possible)",
+		"name_te": "హోషేయా ప్రవచన సేవ (సంభావ్య)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Hosea possibly begins his prophetic ministry in Israel, calling for repentance (Book of Hosea)",
+		"desc_te": "హోషేయా ఈ కాలంలో ఇశ్రాయేల్లో ప్రవచన సేవ ప్రారంభించి, పశ్చాత్తాపానికి పిలుపునిచ్చాడు (హోషేయా గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Uzziah (Azariah) of Judah (begins)",
+		"name_te": "యూదా రాజు ఉజ్జీయా (అజర్యా) (ప్రారంభం)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Uzziah (Azariah) begins his reign in Judah, later known for military success and building projects (2 Kings 15:1-7)",
+		"desc_te": "ఉజ్జీయా (అజర్యా) యూదాలో పాలన ప్రారంభించి, సైనిక విజయాలు, నిర్మాణాల్లో ప్రసిద్ధి చెందాడు (2 రాజులు 15:1-7)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Kingdom of Damascus at its Height",
+		"name_te": "దమస్కు రాజ్యం అత్యున్నత స్థాయిలో",
+		"location": {
+			"lat": 33.513,
+			"lng": 36.292
+		},
+		"desc_en": "Damascus (Aram) reaches peak power, dominating the region and challenging Israel and Judah (2 Kings 13:3-7)",
+		"desc_te": "దమస్కు (అరాం) అత్యున్నత స్థాయికి చేరుకుని, ప్రాంతాన్ని ఆధిపత్యంలోకి తీసుకుని, ఇశ్రాయేలు, యూదాను సవాలు చేసింది (2 రాజులు 13:3-7)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Notable Person: Jehoiada the Priest",
+		"name_te": "ప్రసిద్ధ యాజకుడు: యెహోయాదా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jehoiada, a high priest in Judah, leads reforms and preserves the Davidic line (2 Kings 11:4-21)",
+		"desc_te": "యెహోయాదా యూదాలో ప్రధాన యాజకుడిగా సంస్కరణలకు నాయకత్వం వహించి, దావీదు వంశాన్ని కాపాడాడు (2 రాజులు 11:4-21)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Wars between Judah and Philistines/Arabs",
+		"name_te": "యూదా-ఫిలిష్తీయులు/అరబ్బులు యుద్ధాలు",
+		"location": {
+			"lat": 31.77,
+			"lng": 34.63
+		},
+		"desc_en": "Judah faces attacks from Philistines and Arabs during the reign of Jehoram (2 Chronicles 21:16-17)",
+		"desc_te": "యూదా రాజు యెహోరాం పాలనలో ఫిలిష్తీయులు, అరబ్బుల దాడులను ఎదుర్కొంది (2 దినవృత్తాంతం 21:16-17)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Kingdom of Geshur",
+		"name_te": "గెషూర్ రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 32.8,
+			"lng": 35.7
+		},
+		"desc_en": "The small kingdom of Geshur in the Transjordan region interacts with Israel and Aram (2 Samuel 15:8; 2 Kings 13:25)",
+		"desc_te": "ట్రాన్స్ జోర్డాన్ ప్రాంతంలోని చిన్న రాజ్యం గెషూర్, ఇశ్రాయేలు, అరాంలతో సంబంధాలు కలిగి ఉంది (2 సమూయేలు 15:8; 2 రాజులు 13:25)"
+	},
+	{
+		"year": "-900",
+		"name_en": "King Nadab of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు నదాబు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Nadab, son of Jeroboam, rules Israel briefly before being assassinated by Baasha (1 Kings 15:25-28)",
+		"desc_te": "యెరోబొవాము కుమారుడు నదాబు ఇశ్రాయేలు పాలించి, బాషా చేతిలో హత్య చేయబడ్డాడు (1 రాజులు 15:25-28)"
+	},
+	{
+		"year": "-900",
+		"name_en": "King Shallum of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు షల్లూము",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Shallum rules Israel for one month before being killed by Menahem (2 Kings 15:10-15)",
+		"desc_te": "షల్లూము ఇశ్రాయేలు రాజుగా ఒక నెల మాత్రమే పాలించి, మెనహేమ్ చేతిలో హత్య చేయబడ్డాడు (2 రాజులు 15:10-15)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Menahem of Israel (begins)",
+		"name_te": "ఇశ్రాయేలు రాజు మెనహేమ్ (ప్రారంభం)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Menahem begins his reign in Israel, known for cruelty and paying tribute to Assyria (2 Kings 15:14-20)",
+		"desc_te": "మెనహేమ్ ఇశ్రాయేలు పాలన ప్రారంభించి, క్రూరత్వానికి, అశ్షూరుకు బహుమతి ఇచ్చినవాడిగా ప్రసిద్ధి చెందాడు (2 రాజులు 15:14-20)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Pekahiah of Israel (begins)",
+		"name_te": "ఇశ్రాయేలు రాజు పెకహ్యా (ప్రారంభం)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Pekahiah, son of Menahem, begins to reign in Israel (2 Kings 15:22-26)",
+		"desc_te": "మెనహేమ్ కుమారుడు పెకహ్యా ఇశ్రాయేలు పాలన ప్రారంభించాడు (2 రాజులు 15:22-26)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Jotham of Judah (begins)",
+		"name_te": "యూదా రాజు యోతాం (ప్రారంభం)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jotham begins his reign in Judah, known for building projects and stability (2 Kings 15:32-38)",
+		"desc_te": "యోతాం యూదాలో పాలన ప్రారంభించి, నిర్మాణాలు, స్థిరతకు ప్రసిద్ధి చెందాడు (2 రాజులు 15:32-38)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Amos (possible)",
+		"name_te": "ఆమోసు ప్రవచన సేవ (సంభావ్య)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Amos possibly begins his prophetic ministry in Israel, calling for justice and righteousness (Book of Amos)",
+		"desc_te": "ఆమోసు ఈ కాలంలో ఇశ్రాయేల్లో ప్రవచన సేవ ప్రారంభించి, న్యాయం, నీతికి పిలుపునిచ్చాడు (ఆమోసు గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Kingdom of Tyre and Sidon: Phoenician Influence",
+		"name_te": "టైర్, సైడాన్ రాజ్యాలు: ఫోనీషియన్ ప్రభావం",
+		"location": {
+			"lat": 34.12,
+			"lng": 35.65
+		},
+		"desc_en": "Tyre and Sidon flourish as Phoenician centers of trade and culture, influencing Israel and Judah.",
+		"desc_te": "టైర్, సైడాన్ ఫోనీషియన్ వాణిజ్య, సాంస్కృతిక కేంద్రాలుగా అభివృద్ధి చెంది, ఇశ్రాయేలు, యూదాపై ప్రభావం చూపాయి."
+	},
+	{
+		"year": "-850",
+		"name_en": "Notable Person: Amaziah the Priest of Bethel",
+		"name_te": "బేతేలు యాజకుడు అమజ్యా",
+		"location": {
+			"lat": 31.939,
+			"lng": 35.219
+		},
+		"desc_en": "Amaziah, priest of Bethel, opposes the prophet Amos (Amos 7:10-17)",
+		"desc_te": "బేతేలు యాజకుడు అమజ్యా ప్రవక్త ఆమోసును వ్యతిరేకించాడు (ఆమోసు 7:10-17)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Wars between Israel and Aram Continue",
+		"name_te": "ఇశ్రాయేలు-అరాం యుద్ధాలు కొనసాగుతాయి",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Israel and Aram continue to fight for control of Gilead and surrounding regions (2 Kings 13:22-25)",
+		"desc_te": "ఇశ్రాయేలు, అరాం గిలెయాదు మరియు పరిసర ప్రాంతాలపై ఆధిపత్యం కోసం యుద్ధాలు కొనసాగించాయి (2 రాజులు 13:22-25)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Religious Center: Dan in Israel",
+		"name_te": "ఇశ్రాయేల్లో ఆధ్యాత్మిక కేంద్రం: దాన్",
+		"location": {
+			"lat": 33.249,
+			"lng": 35.652
+		},
+		"desc_en": "Dan serves as a major religious center in the northern kingdom, with a golden calf shrine (1 Kings 12:29-30)",
+		"desc_te": "దాన్ ఉత్తర రాజ్యంలో ముఖ్యమైన ఆధ్యాత్మిక కేంద్రంగా ఉంది, అక్కడ బంగారు దూడ స్థూపం ఉంది (1 రాజులు 12:29-30)"
+	},
+	{
+		"year": "-900",
+		"name_en": "King Zechariah of Israel (begins)",
+		"name_te": "ఇశ్రాయేలు రాజు జెకర్యా (ప్రారంభం)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Zechariah, son of Jeroboam II, begins his reign in Israel (2 Kings 15:8-12)",
+		"desc_te": "యెరోబొవాము II కుమారుడు జెకర్యా ఇశ్రాయేలు పాలన ప్రారంభించాడు (2 రాజులు 15:8-12)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Pekah of Israel (begins)",
+		"name_te": "ఇశ్రాయేలు రాజు పెకహ్ (ప్రారంభం)",
+		"location": {
+			"lat": 32.5,
+			"lng": 35
+		},
+		"desc_en": "Pekah begins his reign in Israel, later known for alliance with Aram against Judah (2 Kings 15:27-31)",
+		"desc_te": "పెకహ్ ఇశ్రాయేలు పాలన ప్రారంభించి, తరువాత యూదాపై అరాంలో మైత్రి కుదుర్చుకున్నాడు (2 రాజులు 15:27-31)"
+	},
+	{
+		"year": "-850",
+		"name_en": "King Ahaz of Judah (begins)",
+		"name_te": "యూదా రాజు అహాజ్ (ప్రారంభం)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ahaz begins his reign in Judah, later known for idolatry and alliance with Assyria (2 Kings 16:1-9)",
+		"desc_te": "అహాజ్ యూదాలో పాలన ప్రారంభించి, తరువాత విగ్రహారాధన, అశ్షూరుతో మైత్రికి ప్రసిద్ధి చెందాడు (2 రాజులు 16:1-9)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Prophetic Ministry of Isaiah (begins)",
+		"name_te": "యెషయా ప్రవచన సేవ (ప్రారంభం)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Isaiah begins his prophetic ministry in Judah, calling for faithfulness and justice (Book of Isaiah)",
+		"desc_te": "యెషయా యూదాలో ప్రవచన సేవ ప్రారంభించి, విశ్వాసం, న్యాయానికి పిలుపునిచ్చాడు (యెషయా గ్రంథం)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Kingdom of Edom Regains Independence",
+		"name_te": "ఎడోము రాజ్యం స్వాతంత్ర్యం తిరిగి పొందింది",
+		"location": {
+			"lat": 30.8,
+			"lng": 35.6
+		},
+		"desc_en": "Edom regains independence from Judah during this period (2 Kings 8:20-22)",
+		"desc_te": "ఈ కాలంలో ఎడోము యూదా నుండి స్వాతంత్ర్యం తిరిగి పొందింది (2 రాజులు 8:20-22)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Notable Person: Azariah the Priest",
+		"name_te": "యాజకుడు అజర్యా",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Azariah, a high priest in Judah, serves during the reign of Uzziah (2 Chronicles 26:17-20)",
+		"desc_te": "యాజకుడు అజర్యా ఉజ్జీయా పాలనలో యూదాలో సేవ చేశాడు (2 దినవృత్తాంతం 26:17-20)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Wars between Judah and Israel Continue",
+		"name_te": "యూదా-ఇశ్రాయేలు యుద్ధాలు కొనసాగుతాయి",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Judah and Israel continue to have conflicts and wars over territory and influence (2 Kings 14:8-14)",
+		"desc_te": "యూదా, ఇశ్రాయేలు భూభాగం, ప్రభావం కోసం యుద్ధాలు కొనసాగించాయి (2 రాజులు 14:8-14)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Religious Center: Hebron in Judah",
+		"name_te": "యూదాలో ఆధ్యాత్మిక కేంద్రం: హెబ్రోన్",
+		"location": {
+			"lat": 31.532,
+			"lng": 35.095
+		},
+		"desc_en": "Hebron continues as an important religious and historical center in Judah (Joshua 21:11; 2 Samuel 2:1-4)",
+		"desc_te": "హెబ్రోన్ యూదాలో ముఖ్యమైన ఆధ్యాత్మిక, చారిత్రక కేంద్రంగా కొనసాగింది (యెహోషువ 21:11; 2 సమూయేలు 2:1-4)"
+	},
+	{
+		"year": "-850",
+		"name_en": "Rise of the Kingdom of Amurru in Syria",
+		"name_te": "సిరియాలో అముర్రు రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 34.5,
+			"lng": 36.5
+		},
+		"desc_en": "The kingdom of Amurru in Syria rises to regional significance, interacting with Israel and Aram.",
+		"desc_te": "సిరియాలో అముర్రు రాజ్యం ప్రాంతీయ ప్రాముఖ్యతను పొందింది, ఇశ్రాయేలు, అరాంలతో సంబంధాలు కలిగి ఉంది."
+	},
+	{
+		"year": "-830",
+		"name_en": "Jehu's Reforms and Destruction of Baal Worship in Israel",
+		"name_te": "ఇశ్రాయేల్లో యేహూ సంస్కరణలు, బాల్ ఆరాధన నిర్మూలన",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehu, king of Israel, destroys Baal worship and its priests (2 Kings 10:18-28)",
+		"desc_te": "ఇశ్రాయేలు రాజు యేహూ బాల్ ఆరాధనను, యాజకులను నిర్మూలించాడు (2 రాజులు 10:18-28)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Athaliah's Usurpation and Reign in Judah",
+		"name_te": "యూదాలో అతల్యా అధికారం, పాలన",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Athaliah seizes the throne and rules Judah for six years (2 Kings 11:1-3)",
+		"desc_te": "అతల్యా యూదా సింహాసనాన్ని స్వాధీనం చేసుకుని, ఆరు సంవత్సరాలు పాలించింది (2 రాజులు 11:1-3)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Joash Crowned King of Judah and Temple Restoration",
+		"name_te": "యూదా రాజుగా యోయాష్ అభిషేకం, దేవాలయ పునరుద్ధరణ",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Joash is crowned king of Judah and begins restoring the temple (2 Kings 11:12-21; 12:1-16)",
+		"desc_te": "యోయాష్ యూదా రాజుగా అభిషేకం చేయబడి, దేవాలయ పునరుద్ధరణ ప్రారంభించాడు (2 రాజులు 11:12-21; 12:1-16)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Prophet Jehoiada Guides Judah's Spiritual Renewal",
+		"name_te": "యూదా ఆధ్యాత్మిక పునరుజ్జీవనానికి యెహోయాదా సహాయం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jehoiada the priest leads spiritual renewal and reforms in Judah (2 Kings 11:17-20)",
+		"desc_te": "యెహోయాదా యాజకుడు యూదాలో ఆధ్యాత్మిక పునరుజ్జీవనానికి, సంస్కరణలకు నాయకత్వం వహించాడు (2 రాజులు 11:17-20)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Syrian Threats and Conflicts with Israel and Judah",
+		"name_te": "సిరియా బెదిరింపులు, ఇశ్రాయేలు-యూదా యుద్ధాలు",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Syria threatens and attacks both Israel and Judah during this period (2 Kings 12:17-18)",
+		"desc_te": "ఈ కాలంలో సిరియా ఇశ్రాయేలు, యూదాపై బెదిరింపులు, దాడులు చేసింది (2 రాజులు 12:17-18)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Joash's Reforms and Faithfulness Early in His Reign",
+		"name_te": "యోయాష్ ప్రారంభ పాలనలో సంస్కరణలు, విశ్వాసం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Joash, king of Judah, is faithful to God and implements reforms under Jehoiada's guidance (2 Kings 12:2-3)",
+		"desc_te": "యోయాష్ యూదా రాజుగా యెహోయాదా మార్గదర్శకత్వంలో దేవునికి విశ్వాసంగా ఉండి, సంస్కరణలు చేపట్టాడు (2 రాజులు 12:2-3)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Jehoash of Israel Fights Against Amaziah of Judah",
+		"name_te": "ఇశ్రాయేలు యెహోయాష్, యూదా అమజ్యాతో యుద్ధం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehoash, king of Israel, defeats Amaziah, king of Judah, in battle (2 Kings 14:8-14)",
+		"desc_te": "ఇశ్రాయేలు రాజు యెహోయాష్, యూదా రాజు అమజ్యాను యుద్ధంలో ఓడించాడు (2 రాజులు 14:8-14)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Death of Jehoiada the Priest and Decline in Judah",
+		"name_te": "యెహోయాదా యాజకుడు మరణం, యూదాలో పతనం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "After Jehoiada's death, Judah turns away from God and falls into idolatry (2 Chronicles 24:15-18)",
+		"desc_te": "యెహోయాదా యాజకుడు మరణించిన తరువాత, యూదా ప్రజలు దేవుని నుండి దూరమై, విగ్రహారాధనలో పడిపోయారు (2 దినవృత్తాంతములు 24:15-18)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Prophet Zechariah Martyred in the Temple Court",
+		"name_te": "ప్రవక్త జెకర్యా దేవాలయ ప్రాంగణంలో హత్య",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Zechariah, son of Jehoiada, is killed for rebuking Judah's idolatry (2 Chronicles 24:20-22)",
+		"desc_te": "యెహోయాదా కుమారుడు జెకర్యా, యూదా విగ్రహారాధనను గద్దించగా, దేవాలయ ప్రాంగణంలో హత్య చేయబడ్డాడు (2 దినవృత్తాంతములు 24:20-22)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Syrian Invasion and Wounding of Joash",
+		"name_te": "సిరియా దాడి, యోయాష్ గాయపడటం",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "The Syrians invade Judah, wound Joash, and plunder Jerusalem (2 Kings 12:17-21; 2 Chronicles 24:23-24)",
+		"desc_te": "సిరియా సేనలు యూదాపై దాడి చేసి, యోయాష్‌ను గాయపరిచి, యెరూషలేమును దోచుకున్నాయి (2 రాజులు 12:17-21; 2 దినవృత్తాంతములు 24:23-24)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Amaziah Becomes King of Judah",
+		"name_te": "అమజ్యా యూదా రాజుగా అయ్యాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Amaziah, son of Joash, becomes king of Judah and initially follows God's ways (2 Kings 14:1-3)",
+		"desc_te": "యోయాష్ కుమారుడు అమజ్యా యూదా రాజుగా అయ్యాడు, ప్రారంభంలో దేవుని మార్గంలో నడిచాడు (2 రాజులు 14:1-3)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Amaziah's Victory Over Edomites at Salt Valley",
+		"name_te": "అమజ్యా ఉప్పు లోయలో ఎడోమీయులపై విజయం",
+		"location": {
+			"lat": 31,
+			"lng": 35.5
+		},
+		"desc_en": "Amaziah defeats the Edomites in the Valley of Salt (2 Kings 14:7)",
+		"desc_te": "అమజ్యా ఉప్పు లోయలో ఎడోమీయులను ఓడించాడు (2 రాజులు 14:7)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Amaziah's Idolatry After Victory",
+		"name_te": "విజయం తరువాత అమజ్యా విగ్రహారాధన",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "After his victory, Amaziah turns to idolatry, bringing God's displeasure (2 Chronicles 25:14-16)",
+		"desc_te": "విజయం తరువాత అమజ్యా విగ్రహారాధనలో పడిపోయి, దేవుని అసంతృప్తికి కారణమయ్యాడు (2 దినవృత్తాంతములు 25:14-16)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Prophet Sends Warning to Amaziah",
+		"name_te": "ప్రవక్త అమజ్యాకు హెచ్చరిక పంపాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "A prophet warns Amaziah about his idolatry, but he refuses to listen (2 Chronicles 25:15-16)",
+		"desc_te": "అమజ్యా విగ్రహారాధనపై ప్రవక్త హెచ్చరించినా, అతను వినలేదు (2 దినవృత్తాంతములు 25:15-16)"
+	},
+	{
+		"year": "-830",
+		"name_en": "Amaziah's Defeat and Capture by Jehoash of Israel",
+		"name_te": "ఇశ్రాయేలు యెహోయాష్ చేత అమజ్యా ఓడిపోవడం, పట్టుబడటం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Amaziah is defeated and captured by Jehoash, king of Israel (2 Kings 14:11-14)",
+		"desc_te": "యూదా రాజు అమజ్యా, ఇశ్రాయేలు రాజు యెహోయాష్ చేతిలో ఓడిపోయి, పట్టుబడ్డాడు (2 రాజులు 14:11-14)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Jehu Anointed King of Israel by Elisha's Messenger",
+		"name_te": "యేహూ ఇశ్రాయేలు రాజుగా అభిషేకం, ఎలీషా దూత ద్వారా",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehu is anointed king of Israel by a messenger of the prophet Elisha (2 Kings 9:1-13)",
+		"desc_te": "ఎలీషా ప్రవక్త దూత ద్వారా యేహూ ఇశ్రాయేలు రాజుగా అభిషేకం చేయబడ్డాడు (2 రాజులు 9:1-13)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Jehu Executes Judgment on Ahab's House",
+		"name_te": "యేహూ అహాబు ఇంటిపై తీర్పు అమలు చేశాడు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehu executes God's judgment on the house of Ahab, ending his dynasty (2 Kings 9:14-29; 10:1-11)",
+		"desc_te": "యేహూ అహాబు ఇంటిపై దేవుని తీర్పును అమలు చేసి, అతని వంశాన్ని ముగించాడు (2 రాజులు 9:14-29; 10:1-11)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Death of Jezebel and Fulfillment of Prophecy",
+		"name_te": "యెజెబెల్ మరణం, ప్రవచన పరిపూరణ",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jezebel is killed and her death fulfills Elijah's prophecy (2 Kings 9:30-37)",
+		"desc_te": "యెజెబెల్ మరణం ద్వారా ఎలీయా ప్రవచనం నెరవేరింది (2 రాజులు 9:30-37)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Athaliah Kills Royal Family and Seizes Judah's Throne",
+		"name_te": "అతల్యా రాజ కుటుంబాన్ని హతమార్చి యూదా సింహాసనం స్వాధీనం చేసుకుంది",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Athaliah kills the royal family and takes the throne of Judah (2 Kings 11:1-3)",
+		"desc_te": "అతల్యా యూదా రాజ కుటుంబాన్ని హతమార్చి, సింహాసనం స్వాధీనం చేసుకుంది (2 రాజులు 11:1-3)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Joash Hidden in the Temple for Six Years",
+		"name_te": "యోయాష్ ఆరు సంవత్సరాలు దేవాలయంలో దాచిపెట్టారు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Joash, heir to Judah's throne, is hidden in the temple for six years to protect him from Athaliah (2 Kings 11:2-3)",
+		"desc_te": "యోయాష్ యూదా సింహాసన వారసుడిని అతల్యా నుండి రక్షించేందుకు ఆరు సంవత్సరాలు దేవాలయంలో దాచిపెట్టారు (2 రాజులు 11:2-3)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Elisha's Miracles and Ministry in Israel",
+		"name_te": "ఇశ్రాయేల్లో ఎలీషా అద్భుతాలు, సేవ",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Elisha performs miracles and provides guidance to Israel during this period (2 Kings 4-6)",
+		"desc_te": "ఈ కాలంలో ఎలీషా ఇశ్రాయేలు ప్రజలకు అద్భుతాలు చేసి, మార్గదర్శనం చేశాడు (2 రాజులు 4-6)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Syrian Army Struck with Blindness by Elisha's Prayer",
+		"name_te": "ఎలీషా ప్రార్థనతో సిరియా సైన్యం అంధత్వం",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Elisha prays and the Syrian army is struck with blindness (2 Kings 6:18-20)",
+		"desc_te": "ఎలీషా ప్రార్థనతో సిరియా సైన్యం అంధత్వానికి గురైంది (2 రాజులు 6:18-20)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Siege of Samaria and Deliverance by God",
+		"name_te": "శోమ్రోను ముట్టడి, దేవుని విమోచన",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Samaria is besieged by the Syrians, but God miraculously delivers the city (2 Kings 6:24-7:20)",
+		"desc_te": "శోమ్రోను సిరియన్లు ముట్టడి చేయగా, దేవుడు అద్భుతంగా విమోచించాడు (2 రాజులు 6:24-7:20)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Death of King Jehoram of Israel",
+		"name_te": "ఇశ్రాయేలు రాజు యెహోరాం మరణం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehoram, king of Israel, dies and is succeeded by Jehu (2 Kings 9:14-24)",
+		"desc_te": "ఇశ్రాయేలు రాజు యెహోరాం మరణించి, యేహూ అతని స్థానాన్ని దక్కించుకున్నాడు (2 రాజులు 9:14-24)"
+	},
+	{
+		"year": "-865",
+		"name_en": "Death of King Ahaziah of Judah",
+		"name_te": "యూదా రాజు అహజ్యా మరణం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Ahaziah, king of Judah, is killed during Jehu's purge (2 Kings 9:27-29)",
+		"desc_te": "యూదా రాజు అహజ్యా, యేహూ సంహారంలో హతమయ్యాడు (2 రాజులు 9:27-29)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Jehoahaz Becomes King of Israel and Faces Aramean Oppression",
+		"name_te": "యెహోయాహజ్ ఇశ్రాయేలు రాజుగా, అరామీయుల అణచివేత",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehoahaz becomes king of Israel and suffers oppression from the Arameans (2 Kings 13:1-7)",
+		"desc_te": "యెహోయాహజ్ ఇశ్రాయేలు రాజుగా అయ్యి, అరామీయుల అణచివేతను ఎదుర్కొన్నాడు (2 రాజులు 13:1-7)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Jehoash (Joash) Succeeds Jehoahaz as King of Israel",
+		"name_te": "యెహోయాష్ (యోయాష్) ఇశ్రాయేలు రాజుగా అయ్యాడు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jehoash, son of Jehoahaz, becomes king of Israel (2 Kings 13:10-13)",
+		"desc_te": "యెహోయాహజ్ కుమారుడు యెహోయాష్ (యోయాష్) ఇశ్రాయేలు రాజుగా అయ్యాడు (2 రాజులు 13:10-13)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Amaziah Becomes King of Judah",
+		"name_te": "అమజ్యా యూదా రాజుగా అయ్యాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Amaziah, son of Joash, becomes king of Judah (2 Kings 14:1-2)",
+		"desc_te": "యోయాష్ కుమారుడు అమజ్యా యూదా రాజుగా అయ్యాడు (2 రాజులు 14:1-2)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Prophet Elisha's Final Prophecies and Death",
+		"name_te": "ఎలీషా ప్రవక్త చివరి ప్రవచనలు, మరణం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Elisha delivers his final prophecies and dies during this period (2 Kings 13:14-21)",
+		"desc_te": "ఈ కాలంలో ఎలీషా ప్రవక్త తన చివరి ప్రవచనలు చెప్పి, మరణించాడు (2 రాజులు 13:14-21)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Miracle at Elisha's Tomb: Dead Man Revived",
+		"name_te": "ఎలీషా సమాధి వద్ద అద్భుతం: మృతుడు బతికిపోవడం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "A dead man is revived when his body touches Elisha's bones (2 Kings 13:20-21)",
+		"desc_te": "ఎలీషా సమాధిలోకి మృతదేహాన్ని వేసినప్పుడు, అతని ఎముకలను తాకడంతో మృతుడు బతికిపోయాడు (2 రాజులు 13:20-21)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Amaziah's Campaign Against Edom and Idolatry",
+		"name_te": "అమజ్యా ఎడోమీయులపై యుద్ధం, విగ్రహారాధన",
+		"location": {
+			"lat": 31,
+			"lng": 35.5
+		},
+		"desc_en": "Amaziah defeats Edom in battle but later turns to idolatry (2 Kings 14:7; 2 Chronicles 25:14)",
+		"desc_te": "అమజ్యా ఎడోమీయులను యుద్ధంలో ఓడించి, తరువాత విగ్రహారాధనలో పడిపోయాడు (2 రాజులు 14:7; 2 దినవృత్తాంతములు 25:14)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Amaziah's Challenge and Defeat by Jehoash of Israel",
+		"name_te": "అమజ్యా ఇశ్రాయేలు యెహోయాష్ చేత ఓడిపోవడం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.5
+		},
+		"desc_en": "Amaziah challenges Jehoash of Israel and is defeated in battle (2 Kings 14:8-14)",
+		"desc_te": "అమజ్యా ఇశ్రాయేలు రాజు యెహోయాష్‌ను సవాలు చేసి, యుద్ధంలో ఓడిపోయాడు (2 రాజులు 14:8-14)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Destruction of Jerusalem's Wall by Jehoash",
+		"name_te": "యెహోయాష్ యెరూషలేము గోడను ధ్వంసం చేశాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Jehoash of Israel breaks down a section of Jerusalem's wall after defeating Amaziah (2 Kings 14:13)",
+		"desc_te": "యెహోయాష్ అమజ్యాను ఓడించిన తరువాత, యెరూషలేము గోడను ధ్వంసం చేశాడు (2 రాజులు 14:13)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Amaziah's Assassination and Flight to Lachish",
+		"name_te": "అమజ్యా హత్య, లాకీషుకు పారిపోవడం",
+		"location": {
+			"lat": 31.56,
+			"lng": 34.83
+		},
+		"desc_en": "Amaziah flees to Lachish but is assassinated there (2 Kings 14:19)",
+		"desc_te": "అమజ్యా లాకీషుకు పారిపోయి, అక్కడ హత్య చేయబడ్డాడు (2 రాజులు 14:19)"
+	},
+	{
+		"year": "-900",
+		"name_en": "Azariah (Uzziah) Becomes King of Judah",
+		"name_te": "అజర్యా (ఉజ్జీయా) యూదా రాజుగా అయ్యాడు",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.23
+		},
+		"desc_en": "Azariah, also known as Uzziah, becomes king of Judah after Amaziah's death (2 Kings 14:21)",
+		"desc_te": "అమజ్యా మరణం తరువాత అజర్యా (ఉజ్జీయా) యూదా రాజుగా అయ్యాడు (2 రాజులు 14:21)"
+	}
+]

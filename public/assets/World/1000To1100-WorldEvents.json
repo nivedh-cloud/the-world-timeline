@@ -1,0 +1,431 @@
+[
+	{
+		"year": "1001",
+		"name_en": "Mahmud of Ghazni's Invasions (India)",
+		"name_te": "మహ్మద్ ఆఫ్ ఘజ్నీ దాడులు (భారతదేశం)",
+		"location": {
+			"lat": 30.1575,
+			"lng": 71.5249
+		},
+		"desc_en": "Mahmud of Ghazni invades northern India multiple times, targeting rich temples and kingdoms.",
+		"desc_te": "మహ్మద్ ఆఫ్ ఘజ్నీ ఉత్తర భారతదేశంపై పలు దాడులు చేసి, ఆలయాలు, రాజ్యాలను లక్ష్యంగా చేసుకున్నాడు."
+	},
+	{
+		"year": "1024",
+		"name_en": "Raid on Somnath Temple (India)",
+		"name_te": "సోమనాథ్ ఆలయంపై దాడి (భారతదేశం)",
+		"location": {
+			"lat": 20.888,
+			"lng": 70.4012
+		},
+		"desc_en": "Mahmud of Ghazni raids and plunders the famous Somnath Temple in Gujarat.",
+		"desc_te": "మహ్మద్ ఆఫ్ ఘజ్నీ గుజరాత్‌లోని ప్రసిద్ధ సోమనాథ్ ఆలయాన్ని దోచుకున్నాడు."
+	},
+	{
+		"year": "1016",
+		"name_en": "Reign of Rajendra Chola I (India)",
+		"name_te": "రాజేంద్ర చోళ I పాలన (భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "Rajendra Chola I expands the Chola Empire to its greatest territorial extent.",
+		"desc_te": "రాజేంద్ర చోళ I చోళ సామ్రాజ్యాన్ని అత్యధిక విస్తీర్ణానికి విస్తరించాడు."
+	},
+	{
+		"year": "1066",
+		"name_en": "Reign of William the Conqueror (England)",
+		"name_te": "విలియం ది కాన్కరర్ పాలన (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "William I consolidates Norman rule in England after the conquest.",
+		"desc_te": "విలియం I ఇంగ్లాండ్‌పై నార్మన్ పాలనను బలోపేతం చేశాడు."
+	},
+	{
+		"year": "1054",
+		"name_en": "Excommunication of Patriarch Michael I (Christianity)",
+		"name_te": "పాత్రియార్క్ మైఖేల్ I బహిష్కరణ (క్రైస్తవ మతం)",
+		"location": {
+			"lat": 41.0082,
+			"lng": 28.9784
+		},
+		"desc_en": "Patriarch Michael I Cerularius of Constantinople is excommunicated, deepening the East-West Schism.",
+		"desc_te": "కాన్స్టాంటినోపుల్ పాత్రియార్క్ మైఖేల్ I బహిష్కరణ, తూర్పు-పడమర చర్చ్ విభజనను మరింత లోతుగా చేసింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Kingdom of Hungary Established (Europe)",
+		"name_te": "హంగేరీ రాజ్యం స్థాపన (యూరోప్)",
+		"location": {
+			"lat": 47.1625,
+			"lng": 19.5033
+		},
+		"desc_en": "The Kingdom of Hungary is established and becomes a Christian state under King Stephen I.",
+		"desc_te": "హంగేరీ రాజ్యం స్థాపించబడింది, రాజు స్టీఫెన్ I క్రైస్తవ మతాన్ని స్వీకరించాడు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of Almoravid Dynasty (North Africa/Spain)",
+		"name_te": "అల్మోరవిడ్ వంశం ఉద్భవం (ఉత్తర ఆఫ్రికా/స్పెయిన్)",
+		"location": {
+			"lat": 31.7917,
+			"lng": -7.0926
+		},
+		"desc_en": "The Almoravid dynasty rises to power, controlling Morocco and parts of Spain.",
+		"desc_te": "అల్మోరవిడ్ వంశం అధికారంలోకి వచ్చి, మొరాకో, స్పెయిన్‌లో భాగాలను పాలించింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Expansion of Khmer Empire (Cambodia/Asia)",
+		"name_te": "ఖ్మేర్ సామ్రాజ్యం విస్తరణ (కంబోడియా/ఆసియా)",
+		"location": {
+			"lat": 13.4125,
+			"lng": 103.8667
+		},
+		"desc_en": "The Khmer Empire expands, constructing temples like Baphuon and Preah Khan.",
+		"desc_te": "ఖ్మేర్ సామ్రాజ్యం విస్తరించి, బఫ్యూన్, ప్రియా ఖాన్ వంటి ఆలయాలను నిర్మించింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Polynesian Settlement of Hawaii (Oceania)",
+		"name_te": "హవాయిలో పాలినీషియన్ నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": 19.8968,
+			"lng": -155.5828
+		},
+		"desc_en": "Polynesian voyagers settle the Hawaiian Islands, expanding their Pacific presence.",
+		"desc_te": "పాలినీషియన్ ప్రయాణికులు హవాయి దీవుల్లో నివసించడం ప్రారంభించారు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Ancestral Puebloans (Anasazi) Flourish (America)",
+		"name_te": "అన్సెస్ట్రల్ ప్యూబ్లోవాన్స్ (అనాసాజీ) అభివృద్ధి (అమెరికా)",
+		"location": {
+			"lat": 36.998,
+			"lng": -109.0452
+		},
+		"desc_en": "The Ancestral Puebloans build cliff dwellings and develop complex societies in the American Southwest.",
+		"desc_te": "అన్సెస్ట్రల్ ప్యూబ్లోవాన్స్ అమెరికా సౌత్‌వెస్ట్‌లో క్లిఫ్ నివాసాలు నిర్మించి, సంక్లిష్ట సమాజాలను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "1016",
+		"name_en": "Chola Dynasty's Overseas Expeditions (India/Southeast Asia)",
+		"name_te": "చోళ వంశం విదేశీ దౌత్యాలు (భారతదేశం/ఆగ్నేయాసియా)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "The Chola navy launches successful expeditions to Sri Lanka, Maldives, and Southeast Asia.",
+		"desc_te": "చోళ నౌకాదళం శ్రీలంక, మాల్దీవులు, ఆగ్నేయాసియాలో విజయవంతమైన దౌత్యాలు నిర్వహించింది."
+	},
+	{
+		"year": "1066",
+		"name_en": "Norman Conquest of England (Europe)",
+		"name_te": "ఇంగ్లాండ్‌పై నార్మన్ ఆక్రమణ (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "William the Conqueror defeats Harold II at the Battle of Hastings and becomes King of England.",
+		"desc_te": "విలియం ది కాన్కరర్ హారోల్డ్ IIని హేస్టింగ్స్ యుద్ధంలో ఓడించి, ఇంగ్లాండ్ రాజుగా అవతరించాడు."
+	},
+	{
+		"year": "1054",
+		"name_en": "Great Schism (Christianity)",
+		"name_te": "గ్రేట్ స్కిజం (క్రైస్తవ మతం)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "The Christian Church splits into the Roman Catholic and Eastern Orthodox branches.",
+		"desc_te": "క్రైస్తవ చర్చ్ రోమన్కాథలిక్, ఈస్టర్న్ ఆర్థోడాక్స్‌గా విడిపోయింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Song Dynasty in China (Asia)",
+		"name_te": "చైనాలో సాంగ్ వంశం (ఆసియా)",
+		"location": {
+			"lat": 31.2304,
+			"lng": 121.4737
+		},
+		"desc_en": "The Song Dynasty rules China, advancing technology, economy, and culture.",
+		"desc_te": "సాంగ్ వంశం చైనాను పాలించి, సాంకేతికత, ఆర్థిక వ్యవస్థ, సంస్కృతిని అభివృద్ధి చేసింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Heian Period in Japan (Asia)",
+		"name_te": "జపాన్‌లో హేయాన్ కాలం (ఆసియా)",
+		"location": {
+			"lat": 35.0116,
+			"lng": 135.7681
+		},
+		"desc_en": "The Heian period in Japan is marked by court culture, literature, and the rise of the samurai class.",
+		"desc_te": "హేయాన్ కాలంలో జపాన్‌లో కోర్ట్ సంస్కృతి, సాహిత్యం, సమురాయ్ వర్గం అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Toltec Civilization in Mexico (America)",
+		"name_te": "మెక్సికోలో టోల్టెక్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 20.6597,
+			"lng": -100.3288
+		},
+		"desc_en": "The Toltec civilization flourishes in central Mexico, influencing later Aztec culture.",
+		"desc_te": "టోల్టెక్ నాగరికత మధ్య మెక్సికోలో అభివృద్ధి చెంది, తరువాత అజ్టెక్ సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Viking Exploration of North America (America)",
+		"name_te": "వైకింగ్‌ల ఉత్తర అమెరికా అన్వేషణ (అమెరికా)",
+		"location": {
+			"lat": 51.4677,
+			"lng": -56.8856
+		},
+		"desc_en": "Norse Vikings reach and briefly settle in Vinland (Newfoundland, Canada).",
+		"desc_te": "నార్స్ వైకింగ్‌లు విన్లాండ్ (న్యూఫౌండ్లాండ్, కెనడా) చేరుకుని తాత్కాలికంగా నివసించారు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Kingdom of Ghana at its Height (Africa)",
+		"name_te": "ఘానా రాజ్యం శిఖరస్థాయిలో (ఆఫ్రికా)",
+		"location": {
+			"lat": 13.5317,
+			"lng": -2.4604
+		},
+		"desc_en": "The Kingdom of Ghana dominates West Africa, controlling gold and salt trade routes.",
+		"desc_te": "ఘానా రాజ్యం పశ్చిమ ఆఫ్రికాలో బంగారం, ఉప్పు వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Reign of Rajaraja Chola I (India)",
+		"name_te": "రాజరాజ చోళ I పాలన (భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "Rajaraja Chola I consolidates the Chola Empire and builds the Brihadeeswarar Temple.",
+		"desc_te": "రాజరాజ చోళ I చోళ సామ్రాజ్యాన్ని బలోపేతం చేసి, బృహదీశ్వర ఆలయాన్ని నిర్మించాడు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Spread of Christianity in Scandinavia (Europe)",
+		"name_te": "స్కాండినేవియాలో క్రైస్తవ మతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Christianity continues to spread and become established in Norway, Sweden, and Denmark.",
+		"desc_te": "నార్వే, స్వీడన్, డెన్మార్క్‌లలో క్రైస్తవ మతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Poland (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "The Kingdom of Poland emerges as a significant power in Central Europe.",
+		"desc_te": "పోలాండ్ రాజ్యం మధ్య యూరోప్‌లో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Seljuk Turks Expand in Persia and Anatolia (Asia)",
+		"name_te": "పెర్షియా, అనాటోలియాలో సెల్జుక్ టర్క్స్ విస్తరణ (ఆసియా)",
+		"location": {
+			"lat": 35.6892,
+			"lng": 51.389
+		},
+		"desc_en": "The Seljuk Turks rise to power, controlling Persia and much of Anatolia.",
+		"desc_te": "సెల్జుక్ టర్క్స్ పెర్షియా, అనాటోలియాలో అధికారాన్ని సాధించారు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Kingdom of Norway: Olaf II Haraldsson (Europe)",
+		"name_te": "నార్వే రాజ్యం: ఒలాఫ్ II హరాల్డ్సన్ (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Olaf II Haraldsson, later St. Olaf, unifies Norway and promotes Christianity.",
+		"desc_te": "ఒలాఫ్ II హరాల్డ్సన్ (తరువాత సెయింట్ ఒలాఫ్) నార్వేను ఏకీకృతం చేసి, క్రైస్తవ మతాన్ని ప్రోత్సహించాడు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Kingdom of Scotland: Malcolm II (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: మాల్కమ్ II (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "Malcolm II rules Scotland, consolidating the kingdom and resisting Viking invasions.",
+		"desc_te": "మాల్కమ్ II స్కాట్లాండ్‌ను పాలించి, రాజ్యాన్ని బలోపేతం చేసి, వైకింగ్ దాడులను ఎదుర్కొన్నాడు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Kingdom of France: Robert II the Pious (Europe)",
+		"name_te": "ఫ్రాన్స్ రాజ్యం: రాబర్ట్ II ది పయస్ (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Robert II the Pious rules France, strengthening royal authority and supporting the church.",
+		"desc_te": "రాబర్ట్ II ది పయస్ ఫ్రాన్స్‌ను పాలించి, రాజశక్తిని బలోపేతం చేసి, చర్చ్‌ను ప్రోత్సహించాడు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Kingdom of Castile and León: Ferdinand I (Europe)",
+		"name_te": "కాస్టిల్ మరియు లియోన్ రాజ్యం: ఫెర్డినాండ్ I (యూరోప్)",
+		"location": {
+			"lat": 41.6523,
+			"lng": -4.7245
+		},
+		"desc_en": "Ferdinand I unites Castile and León, expanding Christian rule in Iberia.",
+		"desc_te": "ఫెర్డినాండ్ I కాస్టిల్, లియోన్‌ను ఏకీకృతం చేసి, ఐబీరియాలో క్రైస్తవ పాలనను విస్తరించాడు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Maya Civilization in Decline (America)",
+		"name_te": "మాయా నాగరికత పతనంలో (అమెరికా)",
+		"location": {
+			"lat": 17.252,
+			"lng": -89.8986
+		},
+		"desc_en": "The Classic Maya civilization enters a period of decline in Mesoamerica.",
+		"desc_te": "క్లాసిక్ మాయా నాగరికత మెసోఅమెరికాలో పతనాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Aboriginal Australian Cultures (Australia)",
+		"name_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25.2744,
+			"lng": 133.7751
+		},
+		"desc_en": "Aboriginal Australian cultures continue to thrive with rich traditions and rock art.",
+		"desc_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు సంపన్న సంప్రదాయాలు, రాతి కళతో అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "1000",
+		"name_en": "Leif Erikson Reaches North America (America)",
+		"name_te": "లీఫ్ ఎరిక్సన్ ఉత్తర అమెరికా చేరుకున్నాడు (అమెరికా)",
+		"location": {
+			"lat": 51.4677,
+			"lng": -56.8856
+		},
+		"desc_en": "Norse explorer Leif Erikson is believed to have landed in North America, centuries before Columbus.",
+		"desc_te": "నార్స్ అన్వేషకుడు లీఫ్ ఎరిక్సన్ కొలంబస్‌కు శతాబ్దాల ముందు ఉత్తర అమెరికా చేరుకున్నాడని నమ్ముతారు."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Denmark (Europe)",
+		"name_te": "డెన్మార్క్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "The Kingdom of Denmark consolidates power and expands influence in Scandinavia and the British Isles.",
+		"desc_te": "డెన్మార్క్ రాజ్యం స్కాండినేవియా, బ్రిటిష్ దీవుల్లో అధికారాన్ని బలోపేతం చేసింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Fatimid Caliphate at its Height (North Africa/Middle East)",
+		"name_te": "ఫాతిమిడ్ ఖలీఫేట్ శిఖరస్థాయిలో (ఉత్తర ఆఫ్రికా/మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The Fatimid Caliphate controls Egypt, North Africa, and parts of the Middle East, promoting trade and learning.",
+		"desc_te": "ఫాతిమిడ్ ఖలీఫేట్ ఈజిప్ట్, ఉత్తర ఆఫ్రికా, మధ్యప్రాచ్యంలో అధికారాన్ని బలోపేతం చేసి, వాణిజ్యం, విద్యను ప్రోత్సహించింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Croatia (Europe)",
+		"name_te": "క్రొయేషియా రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 45.815,
+			"lng": 15.9819
+		},
+		"desc_en": "The Kingdom of Croatia emerges as a significant power in the Balkans.",
+		"desc_te": "క్రొయేషియా రాజ్యం బాల్కన్ ప్రాంతంలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Georgia (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యం ఉద్భవం (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "The Kingdom of Georgia consolidates and expands, entering a golden age under King Bagrat IV.",
+		"desc_te": "జార్జియా రాజ్యం బాగ్రాట్ IV పాలనలో స్వర్ణయుగంలోకి ప్రవేశించింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Aragon (Europe)",
+		"name_te": "అరాగోన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 41.6488,
+			"lng": -0.8891
+		},
+		"desc_en": "The Kingdom of Aragon emerges as a Christian power in the Iberian Peninsula.",
+		"desc_te": "అరాగోన్ రాజ్యం ఐబీరియన్ ద్వీపకల్పంలో క్రైస్తవ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Navarre (Europe)",
+		"name_te": "నవార్రే రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 42.8125,
+			"lng": -1.6458
+		},
+		"desc_en": "The Kingdom of Navarre is a key player in the Christian Reconquista of Spain.",
+		"desc_te": "నవార్రే రాజ్యం స్పెయిన్‌లో క్రైస్తవ రీకాంక్విస్టాలో కీలక పాత్ర పోషించింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of León (Europe)",
+		"name_te": "లియోన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 42.5987,
+			"lng": -5.5671
+		},
+		"desc_en": "The Kingdom of León is a major Christian kingdom in medieval Spain.",
+		"desc_te": "లియోన్ రాజ్యం మధ్యయుగ స్పెయిన్‌లో ప్రధాన క్రైస్తవ రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Sicily (Europe)",
+		"name_te": "సిసిలీ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 37.5999,
+			"lng": 14.0154
+		},
+		"desc_en": "The Kingdom of Sicily emerges as a multicultural center in the Mediterranean.",
+		"desc_te": "సిసిలీ రాజ్యం మెడిటరేనియన్‌లో బహుళ సంస్కృతుల కేంద్రంగా ఎదిగింది."
+	},
+	{
+		"year": "1000",
+		"name_en": "Rise of the Kingdom of Sweden (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "The Kingdom of Sweden consolidates as a Christian monarchy in Scandinavia.",
+		"desc_te": "స్వీడన్ రాజ్యం స్కాండినేవియాలో క్రైస్తవ రాజ్యంగా బలోపేతం అయింది."
+	}
+]

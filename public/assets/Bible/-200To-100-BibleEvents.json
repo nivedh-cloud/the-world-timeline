@@ -1,0 +1,354 @@
+[
+	{
+		"year": "-198",
+		"name_en": "Antiochus III Grants Religious Freedom",
+		"name_te": "ఆంటియోకస్ III మత స్వేచ్ఛను మంజూరు చేశాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Antiochus III the Great conquers Judea and grants Jews religious freedom.",
+		"desc_te": "ఆంటియోకస్ III యూదేయాను జయించి, యూదులకు మత స్వేచ్ఛను మంజూరు చేశాడు."
+	},
+	{
+		"year": "-198",
+		"name_en": "Seleucid Rule over Judea",
+		"name_te": "యూదేయాపై సెల్యూసిడ్ పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Judea comes under Seleucid control, leading to increased Hellenistic influence.",
+		"desc_te": "యూదేయా సెల్యూసిడ్ పాలనలోకి వచ్చి, హెలెనిస్టిక్ ప్రభావం పెరిగింది."
+	},
+	{
+		"year": "-190",
+		"name_en": "Hellenistic Influence and Tensions",
+		"name_te": "హెలెనిస్టిక్ ప్రభావం మరియు ఉద్రిక్తతలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hellenistic culture spreads in Judea, causing tension between traditional Jews and Hellenizers.",
+		"desc_te": "హెలెనిస్టిక్ సంస్కృతి వ్యాప్తి వల్ల సంప్రదాయ యూదులు, హెలెనిస్టులు మధ్య ఉద్రిక్తతలు."
+	},
+	{
+		"year": "-167",
+		"name_en": "Maccabean Revolt",
+		"name_te": "మక్కబీ తిరుగుబాటు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish revolt led by the Maccabees against Seleucid oppression and religious persecution.",
+		"desc_te": "సెల్యూసిడ్ దురాచారానికి, మత హింసకు వ్యతిరేకంగా మక్కబీ యూదుల తిరుగుబాటు."
+	},
+	{
+		"year": "-167",
+		"name_en": "Antiochus IV Epiphanes Persecutes Jews",
+		"name_te": "ఆంటియోకస్ IV యూదులను హింసించాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Antiochus IV Epiphanes outlaws Judaism and desecrates the Jerusalem Temple.",
+		"desc_te": "ఆంటియోకస్ IV యూదాయిజాన్ని నిషేధించి, యెరూషలేము ఆలయాన్ని అపవిత్రం చేశాడు."
+	},
+	{
+		"year": "-164",
+		"name_en": "Rededication of the Temple (Hanukkah)",
+		"name_te": "ఆలయ పునఃప్రతిష్ఠ (హనుక్కా)",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "The Maccabees rededicate the Jerusalem Temple, celebrated as Hanukkah.",
+		"desc_te": "మక్కబీలు యెరూషలేము ఆలయాన్ని పునఃప్రతిష్ఠ చేసి, హనుక్కా పండుగగా జరుపుకుంటారు."
+	},
+	{
+		"year": "-140",
+		"name_en": "Hasmonean Dynasty Established and Expands",
+		"name_te": "హాస్మోనియన్ వంశం స్థాపన మరియు విస్తరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Hasmonean (Maccabean) dynasty is established and expands Judean territory.",
+		"desc_te": "హాస్మోనియన్ (మక్కబీ) వంశం స్థాపించబడింది, యూదేయా ప్రాంతాన్ని విస్తరించింది."
+	},
+	{
+		"year": "-140",
+		"name_en": "Simon Thassi as High Priest and Leader",
+		"name_te": "సీమోన్ థస్సీ ప్రధాన యాజకుడు మరియు నాయకుడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Simon Thassi is recognized as high priest and leader of the Jewish people.",
+		"desc_te": "సీమోన్ థస్సీ యూదుల ప్రధాన యాజకుడు మరియు నాయకుడిగా గుర్తించబడ్డాడు."
+	},
+	{
+		"year": "-164",
+		"name_en": "Rededication of the Second Temple (Hanukkah)",
+		"name_te": "రెండవ ఆలయ పునఃప్రతిష్ఠ (హనుక్కా)",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jewish people rededicate the Jerusalem Temple, origin of Hanukkah",
+		"desc_te": "యూదులు యెరూషలేము ఆలయాన్ని పునఃప్రతిష్ఠించారు, హనుక్కా పండుగ ప్రారంభం"
+	},
+	{
+		"year": "-140",
+		"name_en": "Hasmonean Dynasty (Judea)",
+		"name_te": "హాస్మోనియన్ రాజవంశం (యూదేయా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hasmonean dynasty rules Judea after Maccabean Revolt",
+		"desc_te": "మక్కబీ తిరుగుబాటుకు తర్వాత హాస్మోనియన్ వంశం యూదేయాను పాలించింది"
+	},
+	{
+		"year": "-200",
+		"name_en": "Septuagint Translation Continues",
+		"name_te": "సెప్ట్యుయింట్ అనువాదం కొనసాగుతుంది",
+		"location": {
+			"lat": 31.2,
+			"lng": 29.9
+		},
+		"desc_en": "Greek translation of Hebrew Scriptures (Septuagint) continues in Alexandria",
+		"desc_te": "హెబ్రూ గ్రంథాల గ్రీకు అనువాదం (సెప్ట్యుయింట్) అలెగ్జాండ్రియాలో కొనసాగింది"
+	},
+	{
+		"year": "-190",
+		"name_en": "Wisdom of Sirach Written",
+		"name_te": "సిరాక్ గ్రంథం రచన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish scribe Ben Sira composes the Book of Sirach in Jerusalem",
+		"desc_te": "యూదా శాస్త్రవేత్త బెన్ సిరా యెరూషలేములో సిరాక్ గ్రంథాన్ని రచించాడు"
+	},
+	{
+		"year": "-150",
+		"name_en": "Dead Sea Scrolls (Qumran)",
+		"name_te": "డెడ్ సీ స్క్రోల్స్ (క్వ్మ్రాన్)",
+		"location": {
+			"lat": 31.74,
+			"lng": 35.46
+		},
+		"desc_en": "Jewish sects at Qumran produce scrolls later found as Dead Sea Scrolls",
+		"desc_te": "క్వ్మ్రాన్ వద్ద యూదా వర్గాలు డెడ్ సీ స్క్రోల్స్‌ను తయారు చేశాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Communities in Egypt and Babylon",
+		"name_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities thrive in Egypt and Babylon",
+		"desc_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు అభివృద్ధి చెందాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Pilgrimage Festivals Observed",
+		"name_te": "యూదా యాత్ర పండుగలు నిర్వహణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Passover, Shavuot, and Sukkot celebrated at the Second Temple in Jerusalem",
+		"desc_te": "యెరూషలేములో రెండవ ఆలయంలో పస్కా, షావుయోట్, సుక్కోత్ పండుగలు నిర్వహించబడ్డాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Development of Synagogues",
+		"name_te": "సినగోగ్‌ల అభివృద్ధి",
+		"location": {
+			"lat": 32,
+			"lng": 34.8
+		},
+		"desc_en": "Jewish communities establish synagogues for worship and study outside Jerusalem",
+		"desc_te": "యెరూషలేము వెలుపల యూదా సముదాయాలు పూజ, అధ్యయనం కోసం సినగోగ్‌లను స్థాపించాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Legal Debates (Halakha)",
+		"name_te": "యూదా చట్ట చర్చలు (హలాఖా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars debate and develop Jewish law (Halakha)",
+		"desc_te": "రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Literature Flourishes",
+		"name_te": "యూదా సాహిత్యం వికసిస్తుంది",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Wisdom, apocalyptic, and historical texts written by Jewish authors",
+		"desc_te": "యూదా రచయితలు జ్ఞాన, అపోకలిప్టిక్, చారిత్రక గ్రంథాలను రచించారు"
+	},
+	{
+		"year": "-103",
+		"name_en": "Reign of Alexander Jannaeus (Judea)",
+		"name_te": "అలెగ్జాండర్ జనాయస్ పాలన (యూదేయా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hasmonean king Alexander Jannaeus rules Judea, expands territory",
+		"desc_te": "హాస్మోనియన్ రాజు అలెగ్జాండర్ జనాయస్ యూదేయాను పాలించి, భూభాగాన్ని విస్తరించాడు"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Life in the Diaspora",
+		"name_te": "ప్రవాసంలో యూదా జీవితం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish communities in Alexandria, Babylon, and elsewhere maintain traditions",
+		"desc_te": "అలెగ్జాండ్రియా, బాబిలోన్, ఇతర ప్రాంతాల్లో యూదా సముదాయాలు సంప్రదాయాలను కొనసాగించాయి"
+	},
+	{
+		"year": "-180",
+		"name_en": "Onias III High Priesthood (Jerusalem)",
+		"name_te": "ఓనియాస్ III ప్రధాన యాజకత్వం (యెరూషలేము)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Onias III serves as High Priest in Jerusalem, period of tension with Seleucids",
+		"desc_te": "ఓనియాస్ III యెరూషలేములో ప్రధాన యాజకుడిగా, సెల్యూసిడ్ పాలనతో ఉద్రిక్తతలు"
+	},
+	{
+		"year": "-175",
+		"name_en": "Jason as High Priest (Jerusalem)",
+		"name_te": "జేసన్ ప్రధాన యాజకుడు (యెరూషలేము)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jason, brother of Onias III, becomes High Priest by bribing Seleucids",
+		"desc_te": "ఓనియాస్ III సోదరుడు జేసన్, సెల్యూసిడ్లను లంచం ఇచ్చి ప్రధాన యాజకుడయ్యాడు"
+	},
+	{
+		"year": "-168",
+		"name_en": "Antiochus IV Epiphanes Persecutes Jews",
+		"name_te": "యూదాయులపై ఆంటియోకస్ IV హింస",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Antiochus IV outlaws Judaism, desecrates the Temple, sparks Maccabean Revolt",
+		"desc_te": "ఆంటియోకస్ IV యూదాయిజాన్ని నిషేధించి, ఆలయాన్ని అపవిత్రం చేసి, మక్కబీ తిరుగుబాటుకు కారణమయ్యాడు"
+	},
+	{
+		"year": "-150",
+		"name_en": "Rise of Pharisees and Sadducees",
+		"name_te": "ఫరిసేయులు, సద్దూకేయుల ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Pharisee and Sadducee sects become influential in Jewish religious life",
+		"desc_te": "ఫరిసేయులు, సద్దూకేయులు యూదా మత జీవితంలో ప్రాముఖ్యత పొందారు"
+	},
+	{
+		"year": "-130",
+		"name_en": "John Hyrcanus Expands Judea",
+		"name_te": "జాన్ హైర్కానస్ యూదేయాను విస్తరించాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hasmonean ruler John Hyrcanus expands Judean territory and enforces Jewish law",
+		"desc_te": "హాస్మోనియన్ పాలకుడు జాన్ హైర్కానస్ యూదేయా భూభాగాన్ని విస్తరించి, యూదా ధర్మాన్ని అమలు చేశాడు"
+	},
+	{
+		"year": "-110",
+		"name_en": "Qumran Community Grows",
+		"name_te": "క్వ్మ్రాన్ సముదాయం అభివృద్ధి",
+		"location": {
+			"lat": 31.74,
+			"lng": 35.46
+		},
+		"desc_en": "Jewish sect at Qumran grows, producing more Dead Sea Scrolls",
+		"desc_te": "క్వ్మ్రాన్ వద్ద యూదా వర్గం అభివృద్ధి చెందింది, మరిన్ని డెడ్ సీ స్క్రోల్స్ తయారు చేశాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Burial Customs Evolve",
+		"name_te": "యూదా సమాధి సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish burial practices and tomb architecture develop in Judea",
+		"desc_te": "యూదేయాలో సమాధి సంప్రదాయాలు, సమాధి నిర్మాణం అభివృద్ధి చెందాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Priestly Families in Jerusalem",
+		"name_te": "యెరూషలేములో యాజక కుటుంబాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Prominent priestly families serve in the Second Temple and influence society",
+		"desc_te": "యెరూషలేములో ప్రముఖ యాజక కుటుంబాలు రెండవ ఆలయంలో సేవ చేసి, సమాజంపై ప్రభావం చూపాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Dietary Laws Observed",
+		"name_te": "యూదా ఆహార నియమాలు పాటింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities strictly observe kosher dietary laws (kashrut)",
+		"desc_te": "యూదా సముదాయాలు కశ్రుత్ ఆహార నియమాలను కఠినంగా పాటించాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Marriage and Family Traditions",
+		"name_te": "యూదా వివాహ, కుటుంబ సంప్రదాయాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Marriage, betrothal, and family customs are practiced and recorded in Jewish texts",
+		"desc_te": "యూదా గ్రంథాల్లో వివాహ, నిశ్చితార్థం, కుటుంబ సంప్రదాయాలు పాటించబడ్డాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Festivals in the Diaspora",
+		"name_te": "ప్రవాసంలో యూదా పండుగలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities celebrate Passover, Purim, and other festivals",
+		"desc_te": "ప్రవాస యూదా సముదాయాలు పస్కా, పూరిమ్, ఇతర పండుగలు జరుపుకుంటాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Jewish Trade and Commerce",
+		"name_te": "యూదా వాణిజ్యం, వ్యాపారం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish merchants participate in regional trade across the Mediterranean and Near East",
+		"desc_te": "యూదా వ్యాపారులు మెడిటరేనియన్, సమీప తూర్పు ప్రాంతాల్లో వాణిజ్యంలో పాల్గొన్నారు"
+	}
+]

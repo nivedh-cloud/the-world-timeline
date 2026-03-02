@@ -1,0 +1,497 @@
+[
+	{
+		"year": "-3100",
+		"name_en": "3100 BC Egyptian Unification",
+		"name_te": "3100 BC ఈజిప్టు ఐక్యం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "3100 BC marks traditional date for Egyptian unification by Narmer.",
+		"desc_te": "3100 BC నర్మర్ ఈజిప్టు ఐక్యత సంప్రదాయ తేదీ."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Egyptian First Dynasty Official",
+		"name_te": "ఈజిప్టు మొదటి వంశ అధికారిక",
+		"location": {
+			"lat": 30.5,
+			"lng": 31
+		},
+		"desc_en": "First Dynasty officially begins Egyptian historical period.",
+		"desc_te": "మొదటి వంశ ఈజిప్టు చారిత్రక కాలం అధికారికగా ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Narmer Consolidation Egypt",
+		"name_te": "నర్మర్ సమీకరణ ఈజిప్టు",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Narmer consolidates unified Egyptian state.",
+		"desc_te": "నర్మర్ ఐక్య ఈజిప్టు రాష్ట్రం సమీకరించుకుంటారు."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Egyptian Divine Kingship Institution",
+		"name_te": "ఈజిప్టు దైవ రాజస్వం సంస్థ",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Divine kingship becomes official institution in Egypt.",
+		"desc_te": "దైవ రాజస్వం ఈజిప్టులో అధికారిక సంస్థ అవుతుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Egyptian Administrative Order",
+		"name_te": "ఈజిప్టు పరిపాలన క్రమం",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Centralized administrative order established in Egypt.",
+		"desc_te": "ఈజిప్టులో కేంద్రీకృత పరిపాలన క్రమం స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Sumerian Civilization Peak",
+		"name_te": "సుమేరియన్ నాగరికత శిఖరం",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Sumerian civilization reaches cultural peak.",
+		"desc_te": "సుమేరియన్ నాగరికత సాంస్కృతిక శిఖరానికి చేరుకుంటుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Uruk Domination Mesopotamia",
+		"name_te": "ఉరుక్ ఆధిపత్యం మెసొపొటేమియా",
+		"location": {
+			"lat": 32.5,
+			"lng": 46
+		},
+		"desc_en": "Uruk dominates Mesopotamian cities.",
+		"desc_te": "ఉరుక్ మెసొపొటేమియన్ నగరాలపై ఆధిపత్యం చేస్తుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Sumerian Great Assembly",
+		"name_te": "సుమేరియన్ గ్రేట్ అసెంబ్లీ",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Sumerian assembly system governs city-states.",
+		"desc_te": "సుమేరియన్ అసెంబ్లీ వ్యవస్థ నగర-రాష్ట్రాలను పరిపాలిస్తుంది."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Cuneiform Literature Development",
+		"name_te": "చాపిత సాహిత్య అభివృద్ధి",
+		"location": {
+			"lat": 32.5,
+			"lng": 46
+		},
+		"desc_en": "Cuneiform literature develops in Mesopotamia.",
+		"desc_te": "చాపిత సాహిత్యం మెసొపొటేమియాలో అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Mesopotamian Trade Networks Peak",
+		"name_te": "మెసొపొటేమియన్ వాణిజ్య నెట్‌వర్క్‌లు శిఖరం",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Mesopotamian trade networks reach zenith.",
+		"desc_te": "మెసొపొటేమియన్ వాణిజ్య నెట్‌వర్క్‌లు శిఖరానికి చేరుకుంటుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Indus Civilization Early Urban",
+		"name_te": "సిందువు నాగరికత ప్రారంభ నగర",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Early urban period begins in Indus Valley.",
+		"desc_te": "సిందువు లోయ ప్రారంభ నగర కాలం ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Indus Valley Urban Centers",
+		"name_te": "సిందువు లోయ నగర కేంద్రాలు",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Urban centers develop in Indus Valley.",
+		"desc_te": "సిందువు లోయ నగర కేంద్రాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Harappa and Mohenjo-daro Rise",
+		"name_te": "హరప్ప, మొహంజోదారో పెరుగుదల",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Harappa and Mohenjo-daro emerge as major cities.",
+		"desc_te": "హరప్ప, మొహంజోదారో ప్రధాన నగరాలుగా ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Indus Valley Standardization",
+		"name_te": "సిందువు లోయ ప్రమాణీకరణ",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Standardization of weights, measures, architecture begins.",
+		"desc_te": "బరువులు, చర్యలు, నిర్మాణం ప్రమాణీకరణ ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Indus Valley Script Development",
+		"name_te": "సిందువు లోయ లిపి అభివృద్ధి",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus script develops for administration and trade.",
+		"desc_te": "సిందువు లిపి పరిపాలన, వాణిజ్యం కోసం అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Shang Dynasty Traditional Beginning",
+		"name_te": "శాంగ్ వంశ సంప్రదాయ ప్రారంభం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Shang Dynasty traditionally begins in China.",
+		"desc_te": "శాంగ్ వంశ చైనాలో సంప్రదాయ ప్రకారం ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Chinese Bronze Technology",
+		"name_te": "చైనీస్ కాంస్య సాంకేతికత",
+		"location": {
+			"lat": 34.5,
+			"lng": 108
+		},
+		"desc_en": "Bronze technology development in ancient China.",
+		"desc_te": "పురాతన చైనాలో కాంస్య సాంకేతికత అభివృద్ధి."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Chinese Ritual Vessels",
+		"name_te": "చైనీస్ ఆచార్య పాత్రలు",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Ritual bronze vessels appear in China.",
+		"desc_te": "చైనాలో ఆచార్య కాంస్య పాత్రలు కనిపిస్తాయి."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Chinese Writing System Early",
+		"name_te": "చైనీస్ లిపి వ్యవస్థ ప్రారంభ",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Early Chinese writing system develops.",
+		"desc_te": "ప్రారంభ చైనీస్ లిపి వ్యవస్థ అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Chinese Dynastic Authority",
+		"name_te": "చైనీస్ వంశ అధికారం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Dynastic authority system establishes in China.",
+		"desc_te": "చైనాలో వంశ అధికారం వ్యవస్థ స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Minoan Bronze Age Peak",
+		"name_te": "మినోయన్ కాంస్య యుగ శిఖరం",
+		"location": {
+			"lat": 35.2,
+			"lng": 24.9
+		},
+		"desc_en": "Early Minoan Bronze Age reaches peak.",
+		"desc_te": "ప్రారంభ మినోయన్ కాంస్య యుగ శిఖరానికి చేరుకుంటుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Minoan Maritime Dominance",
+		"name_te": "మినోయన్ సముద్ర ఆధిపత్యం",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Minoan maritime dominance in Aegean.",
+		"desc_te": "ఆండోయన్‌లో మినోయన్ సముద్ర ఆధిపత్యం."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Crete Trade Empire",
+		"name_te": "క్రీట్ వాణిజ్య సామ్రాజ్యం",
+		"location": {
+			"lat": 35.4,
+			"lng": 25.1
+		},
+		"desc_en": "Crete establishes trade empire.",
+		"desc_te": "క్రీట్ వాణిజ్య సామ్రాజ్యం స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Minoan Religious Centers",
+		"name_te": "మినోయన్ ధార్మిక కేంద్రాలు",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Minoan religious centers flourish on Crete.",
+		"desc_te": "క్రీట్‌లో మినోయన్ ధార్మిక కేంద్రాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Minoan Artistic Achievement",
+		"name_te": "మినోయన్ కళా సాధన",
+		"location": {
+			"lat": 35.4,
+			"lng": 25
+		},
+		"desc_en": "Minoan artistic achievement peaks.",
+		"desc_te": "మినోయన్ కళా సాధన శిఖరానికి చేరుకుంటుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Helladic Greece Flourishing",
+		"name_te": "హెలాడిక్ గ్రీస్ అభివృద్ధి",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Helladic culture flourishes in Greece.",
+		"desc_te": "గ్రీసులో హెలాడిక్ సంస్కృతి అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Greek Bronze Age Maturity",
+		"name_te": "గ్రీకు కాంస్య యుగ పరిణతి",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Greek Bronze Age reaches maturity.",
+		"desc_te": "గ్రీకు కాంస్య యుగ పరిణతి చెందుతుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Greek Social Organization",
+		"name_te": "గ్రీకు సామాజిక సంస్థ",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Greek social organization becomes hierarchical.",
+		"desc_te": "గ్రీకు సామాజిక సంస్థ సోపానక్రమ అవుతుంది."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Greek Pottery Excellence",
+		"name_te": "గ్రీకు కుండల ఉత్కృష్టత",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Greek pottery reaches excellence.",
+		"desc_te": "గ్రీకు కుండల ఉత్కృష్టత చేరుకుంటుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Greek Trade Connections",
+		"name_te": "గ్రీకు వాణిజ్య సంబంధాలు",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Greek trade connections expand.",
+		"desc_te": "గ్రీకు వాణిజ్య సంబంధాలు విస్తరిస్తాయి."
+	},
+	{
+		"year": "-3100",
+		"name_en": "European Bronze Age Emergence",
+		"name_te": "యూరోపియన్ కాంస్య యుగ ఆవిర్భావం",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "European Bronze Age emerges.",
+		"desc_te": "యూరోపియన్ కాంస్య యుగ ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "European Bronze Working",
+		"name_te": "యూరోపియన్ కాంస్య కాజిన",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "Bronze working spreads in Europe.",
+		"desc_te": "యూరోపులో కాంస్య కాజిన వ్యాపిస్తుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "European Elite Emergence",
+		"name_te": "యూరోపియన్ ఉన్నత ఆవిర్భావం",
+		"location": {
+			"lat": 48.5,
+			"lng": 16
+		},
+		"desc_en": "Elite classes emerge in Europe.",
+		"desc_te": "యూరోపులో ఉన్నత వర్గాలు ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-3040",
+		"name_en": "European Trade Systems",
+		"name_te": "యూరోపియన్ వాణిజ్య వ్యవస్థలు",
+		"location": {
+			"lat": 50,
+			"lng": 12
+		},
+		"desc_en": "Trade systems develop in Europe.",
+		"desc_te": "యూరోపులో వాణిజ్య వ్యవస్థలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "European Cultural Sophistication",
+		"name_te": "యూరోపియన్ సాంస్కృతిక చమత్కారం",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "European culture grows more sophisticated.",
+		"desc_te": "యూరోపియన్ సంస్కృతి మరింత చమత్కారం చేరుకుంటుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Nubian Kingdoms Consolidate",
+		"name_te": "నుబియన్ రాజ్యాలు సమీకరణ",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Nubian kingdoms consolidate along Nile.",
+		"desc_te": "నీలు నదికు సహా నుబియన్ రాజ్యాలు సమీకరణ చేస్తుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Nubian Trade Expansion",
+		"name_te": "నుబియన్ వాణిజ్య విస్తరణ",
+		"location": {
+			"lat": 18.5,
+			"lng": 33
+		},
+		"desc_en": "Nubian trade expands with Egypt.",
+		"desc_te": "ఈజిప్టు తో నుబియన్ వాణిజ్యం విస్తరిస్తుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Nubian Cultural Identity",
+		"name_te": "నుబియన్ సాంస్కృతిక గుర్తింపు",
+		"location": {
+			"lat": 19,
+			"lng": 33
+		},
+		"desc_en": "Nubian cultural identity solidifies.",
+		"desc_te": "నుబియన్ సాంస్కృతిక గుర్తింపు దృఢమవుతుంది."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Nubian Artistic Development",
+		"name_te": "నుబియన్ కళా అభివృద్ధి",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Nubian artistic traditions develop.",
+		"desc_te": "నుబియన్ కళా సంప్రదాయాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Nubian Religious Practices",
+		"name_te": "నుబియన్ ధార్మిక అభ్యాసాలు",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Religious practices solidify in Nubia.",
+		"desc_te": "నుబియాలో ధార్మిక అభ్యాసాలు దృఢమవుతుంది."
+	},
+	{
+		"year": "-3100",
+		"name_en": "Aboriginal Australian Sophistication",
+		"name_te": "ఆదివాసీ ఆస్ట్రేలియన్ చమత్కారం",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultures show sophistication.",
+		"desc_te": "ఆదివాసీ సంస్కృతులు చమత్కారం ప్రదర్శిస్తుంది."
+	},
+	{
+		"year": "-3080",
+		"name_en": "Aboriginal Art Mastery",
+		"name_te": "ఆదివాసీ కళా ప్రావీణ్యం",
+		"location": {
+			"lat": -12.8,
+			"lng": 132.5
+		},
+		"desc_en": "Aboriginal artistic mastery evident.",
+		"desc_te": "ఆదివాసీ కళా ప్రావీణ్యం స్పష్టమవుతుంది."
+	},
+	{
+		"year": "-3060",
+		"name_en": "Aboriginal Ritual Complexity",
+		"name_te": "ఆదివాసీ ఆచార్య సంక్లిష్టత",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Aboriginal ritual practices complex and sophisticated.",
+		"desc_te": "ఆదివాసీ ఆచార్య అభ్యాసాలు సంక్లిష్టమైన, చమత్కారమైనవి."
+	},
+	{
+		"year": "-3040",
+		"name_en": "Aboriginal Knowledge Complexity",
+		"name_te": "ఆదివాసీ జ్ఞానం సంక్లిష్టత",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal knowledge systems highly complex.",
+		"desc_te": "ఆదివాసీ జ్ఞానం వ్యవస్థలు చాలా సంక్లిష్టమైనవి."
+	},
+	{
+		"year": "-3020",
+		"name_en": "Aboriginal Cultural Refinement Peak",
+		"name_te": "ఆదివాసీ సాంస్కృతిక రూపకరణ శిఖరం",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal culture reaches refinement peak.",
+		"desc_te": "ఆదివాసీ సంస్కృతి రూపకరణ శిఖరానికి చేరుకుంటుంది."
+	}
+]

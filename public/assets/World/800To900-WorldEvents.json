@@ -1,0 +1,683 @@
+[
+	{
+		"year": "800",
+		"name_en": "Rashtrakuta Empire at its Height (India)",
+		"name_te": "రాష్ట్రకూట సామ్రాజ్యం శిఖరస్థాయిలో (భారతదేశం)",
+		"location": {
+			"lat": 17.385,
+			"lng": 78.4867
+		},
+		"desc_en": "The Rashtrakuta Empire dominates much of the Indian subcontinent, known for patronage of art and literature.",
+		"desc_te": "రాష్ట్రకూట సామ్రాజ్యం భారత ఉపఖండంలో శక్తివంతంగా ఉండి, కళ, సాహిత్యాన్ని ప్రోత్సహించింది."
+	},
+	{
+		"year": "850",
+		"name_en": "Pala Empire in Bengal (India)",
+		"name_te": "పాల వంశం బెంగాల్‌లో (భారతదేశం)",
+		"location": {
+			"lat": 23.6849,
+			"lng": 86.3697
+		},
+		"desc_en": "The Pala Empire flourishes in Bengal, promoting Buddhism and art.",
+		"desc_te": "పాల వంశం బెంగాల్‌లో బౌద్ధమతాన్ని, కళను ప్రోత్సహిస్తూ అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Wessex (England)",
+		"name_te": "వెస్సెక్స్ రాజ్యం ఉద్భవం (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 51.4545,
+			"lng": -2.5879
+		},
+		"desc_en": "The Kingdom of Wessex becomes the dominant Anglo-Saxon kingdom in England.",
+		"desc_te": "వెస్సెక్స్ రాజ్యం ఇంగ్లాండ్‌లో ప్రధాన ఆంగ్లో-సాక్సన్ రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Kingdom of Scotland: Kenneth MacAlpin (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: కెన్నెత్ మెక్‌ఆల్పిన్ (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "Kenneth MacAlpin is traditionally considered the first King of Scotland.",
+		"desc_te": "కెన్నెత్ మెక్‌ఆల్పిన్ స్కాట్లాండ్‌కు మొదటి రాజుగా పరిగణించబడతాడు."
+	},
+	{
+		"year": "800",
+		"name_en": "Kingdom of Norway: Harald Fairhair (Europe)",
+		"name_te": "నార్వే రాజ్యం: హరాల్డ్ ఫెయిర్‌హెయిర్ (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Harald Fairhair is credited with unifying Norway into a single kingdom.",
+		"desc_te": "హరాల్డ్ ఫెయిర్‌హెయిర్ నార్వేను ఏకీకృత రాజ్యంగా ఏర్పాటు చేశాడు."
+	},
+	{
+		"year": "800",
+		"name_en": "Kingdom of Denmark: King Gudfred (Europe)",
+		"name_te": "డెన్మార్క్ రాజ్యం: రాజు గుడ్ఫ్రెడ్ (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "King Gudfred of Denmark resists Frankish expansion and strengthens Danish power.",
+		"desc_te": "డెన్మార్క్ రాజు గుడ్ఫ్రెడ్ ఫ్రాంకిష్ విస్తరణను ఎదుర్కొని, డానిష్ శక్తిని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "800",
+		"name_en": "Kingdom of Asturias and León (Europe)",
+		"name_te": "అస్టూరియాస్ మరియు లియోన్ రాజ్యాలు (యూరోప్)",
+		"location": {
+			"lat": 43.3619,
+			"lng": -5.8494
+		},
+		"desc_en": "The Christian kingdoms of Asturias and León expand during the Reconquista in Spain.",
+		"desc_te": "స్పెయిన్‌లో రీకాంక్విస్టా సమయంలో అస్టూరియాస్, లియోన్ క్రైస్తవ రాజ్యాలు విస్తరించాయి."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Croatia (Europe)",
+		"name_te": "క్రొయేషియా రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 45.815,
+			"lng": 15.9819
+		},
+		"desc_en": "The Kingdom of Croatia emerges as a significant power in the Balkans.",
+		"desc_te": "క్రొయేషియా రాజ్యం బాల్కన్ ప్రాంతంలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Toltec Civilization in Mexico (America)",
+		"name_te": "మెక్సికోలో టోల్టెక్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 20.6597,
+			"lng": -100.3288
+		},
+		"desc_en": "The Toltec civilization flourishes in central Mexico, influencing later Aztec culture.",
+		"desc_te": "టోల్టెక్ నాగరికత మధ్య మెక్సికోలో అభివృద్ధి చెంది, తరువాత అజ్టెక్ సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Maya Civilization in Decline (America)",
+		"name_te": "మాయా నాగరికత పతనంలో (అమెరికా)",
+		"location": {
+			"lat": 17.252,
+			"lng": -89.8986
+		},
+		"desc_en": "The Classic Maya civilization enters a period of decline in Mesoamerica.",
+		"desc_te": "క్లాసిక్ మాయా నాగరికత మెసోఅమెరికాలో పతనాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Tang Dynasty Decline and Fall (China)",
+		"name_te": "టాంగ్ వంశం పతనం (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "The Tang Dynasty in China declines and collapses by 907, ending a golden age.",
+		"desc_te": "చైనాలో టాంగ్ వంశం పతనమై, 907 నాటికి స్వర్ణయుగానికి ముగింపు పలికింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Heian Period in Japan (Asia)",
+		"name_te": "జపాన్‌లో హేయాన్ కాలం (ఆసియా)",
+		"location": {
+			"lat": 35.0116,
+			"lng": 135.7681
+		},
+		"desc_en": "The Heian period in Japan is marked by court culture, literature, and the rise of the samurai class.",
+		"desc_te": "హేయాన్ కాలంలో జపాన్‌లో కోర్ట్ సంస్కృతి, సాహిత్యం, సమురాయ్ వర్గం అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Carolingian Empire and Charlemagne (Europe)",
+		"name_te": "క్యారోలింజియన్ సామ్రాజ్యం మరియు చార్లెమాగ్నే (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Charlemagne is crowned Emperor in 800, uniting much of Western Europe under the Carolingian Empire.",
+		"desc_te": "చార్లెమాగ్నే 800లో సామ్రాజ్యంగా పట్టాభిషేకం పొందాడు, క్యారోలింజియన్ సామ్రాజ్యంలో పశ్చిమ యూరోప్‌ను ఏకీకృతం చేశాడు."
+	},
+	{
+		"year": "800",
+		"name_en": "Viking Raids and Settlements (Europe)",
+		"name_te": "వైకింగ్ దాడులు మరియు నివాసాలు (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Vikings raid and settle in parts of England, Ireland, France, and Russia.",
+		"desc_te": "వైకింగ్‌లు ఇంగ్లాండ్, ఐర్లాండ్, ఫ్రాన్స్, రష్యాలో దాడులు చేసి, నివాసాలు స్థాపించారు."
+	},
+	{
+		"year": "800",
+		"name_en": "Kingdom of Ghana at its Height (Africa)",
+		"name_te": "ఘానా రాజ్యం శిఖరస్థాయిలో (ఆఫ్రికా)",
+		"location": {
+			"lat": 13.5317,
+			"lng": -2.4604
+		},
+		"desc_en": "The Kingdom of Ghana dominates West Africa, controlling gold and salt trade routes.",
+		"desc_te": "ఘానా రాజ్యం పశ్చిమ ఆఫ్రికాలో బంగారం, ఉప్పు వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Maya Civilization in Decline (America)",
+		"name_te": "మాయా నాగరికత పతనంలో (అమెరికా)",
+		"location": {
+			"lat": 17.252,
+			"lng": -89.8986
+		},
+		"desc_en": "The Classic Maya civilization enters a period of decline in Mesoamerica.",
+		"desc_te": "క్లాసిక్ మాయా నాగరికత మెసోఅమెరికాలో పతనాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	},
+	{
+		"year": "800",
+		"name_en": "Aboriginal Australian Cultures (Australia)",
+		"name_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25.2744,
+			"lng": 133.7751
+		},
+		"desc_en": "Aboriginal Australian cultures continue to thrive with rich traditions and rock art.",
+		"desc_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు సంపన్న సంప్రదాయాలు, రాతి కళతో అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "800",
+		"name_en": "Christianization of Bulgaria (Europe)",
+		"name_te": "బల్గేరియా క్రైస్తవీకరణ (యూరోప్)",
+		"location": {
+			"lat": 42.7339,
+			"lng": 25.4858
+		},
+		"desc_en": "Bulgaria officially adopts Christianity in 864, influencing the region's culture and politics.",
+		"desc_te": "బల్గేరియా 864లో అధికారికంగా క్రైస్తవ మతాన్ని స్వీకరించి, ప్రాంతీయ సంస్కృతి, రాజకీయాలపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Chola Dynasty Expansion (India)",
+		"name_te": "చోళ వంశం విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "The Chola Dynasty expands its influence in South India and Southeast Asia.",
+		"desc_te": "చోళ వంశం దక్షిణ భారతదేశం, ఆగ్నేయాసియాలో తన ప్రభావాన్ని విస్తరించింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Hungary (Europe)",
+		"name_te": "హంగేరీ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 47.1625,
+			"lng": 19.5033
+		},
+		"desc_en": "The Kingdom of Hungary emerges as a major power in Central Europe.",
+		"desc_te": "హంగేరీ రాజ్యం మధ్య యూరోప్‌లో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Poland (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "The Kingdom of Poland consolidates as a Christian monarchy.",
+		"desc_te": "పోలాండ్ రాజ్యం క్రైస్తవ రాజ్యంగా ఏకీకృతమైంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Georgia (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యం ఉద్భవం (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "The Kingdom of Georgia consolidates and expands, entering a golden age.",
+		"desc_te": "జార్జియా రాజ్యం ఏకీకృతమై, విస్తరించి, స్వర్ణయుగంలోకి ప్రవేశించింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Sweden (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "The Kingdom of Sweden consolidates as a Christian monarchy in Scandinavia.",
+		"desc_te": "స్వీడన్ రాజ్యం స్కాండినేవియాలో క్రైస్తవ రాజ్యంగా బలోపేతం అయింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Aragon (Europe)",
+		"name_te": "అరాగోన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 41.6488,
+			"lng": -0.8891
+		},
+		"desc_en": "The Kingdom of Aragon emerges as a Christian power in the Iberian Peninsula.",
+		"desc_te": "అరాగోన్ రాజ్యం ఐబీరియన్ ద్వీపకల్పంలో క్రైస్తవ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Toltec Civilization in Mexico (America)",
+		"name_te": "మెక్సికోలో టోల్టెక్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 20.6597,
+			"lng": -100.3288
+		},
+		"desc_en": "The Toltec civilization flourishes in central Mexico, influencing later Aztec culture.",
+		"desc_te": "టోల్టెక్ నాగరికత మధ్య మెక్సికోలో అభివృద్ధి చెంది, తరువాత అజ్టెక్ సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Maya Civilization in Decline (America)",
+		"name_te": "మాయా నాగరికత పతనంలో (అమెరికా)",
+		"location": {
+			"lat": 17.252,
+			"lng": -89.8986
+		},
+		"desc_en": "The Classic Maya civilization enters a period of decline in Mesoamerica.",
+		"desc_te": "క్లాసిక్ మాయా నాగరికత మెసోఅమెరికాలో పతనాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Pallava Dynasty Decline (India)",
+		"name_te": "పల్లవ వంశం పతనం (భారతదేశం)",
+		"location": {
+			"lat": 12.925,
+			"lng": 80.125
+		},
+		"desc_en": "The Pallava Dynasty in South India declines, giving way to the Cholas and Rashtrakutas.",
+		"desc_te": "దక్షిణ భారతదేశంలో పల్లవ వంశం పతనమై, చోళ, రాష్ట్రకూట వంశాలకు మార్గం సుగమం చేసింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Srivijaya Empire at its Height (Southeast Asia)",
+		"name_te": "శ్రీవిజయ సామ్రాజ్యం శిఖరస్థాయిలో (ఆగ్నేయాసియా)",
+		"location": {
+			"lat": -2.9909,
+			"lng": 104.7566
+		},
+		"desc_en": "The Srivijaya Empire dominates maritime Southeast Asia, controlling trade routes and spreading Buddhism.",
+		"desc_te": "శ్రీవిజయ సామ్రాజ్యం ఆగ్నేయాసియాలో సముద్ర మార్గాలను నియంత్రించి, బౌద్ధమతాన్ని వ్యాప్తి చేసింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Bulgaria (Europe)",
+		"name_te": "బల్గేరియా రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 42.7339,
+			"lng": 25.4858
+		},
+		"desc_en": "The Kingdom of Bulgaria expands and becomes a major power in Eastern Europe.",
+		"desc_te": "బల్గేరియా రాజ్యం విస్తరించి, తూర్పు యూరోప్‌లో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Serbia (Europe)",
+		"name_te": "సెర్బియా రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 44.0165,
+			"lng": 21.0059
+		},
+		"desc_en": "The Kingdom of Serbia emerges as a significant power in the Balkans.",
+		"desc_te": "సెర్బియా రాజ్యం బాల్కన్ ప్రాంతంలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of Navarre (Europe)",
+		"name_te": "నవార్రే రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 42.8125,
+			"lng": -1.6458
+		},
+		"desc_en": "The Kingdom of Navarre is a key player in the Christian Reconquista of Spain.",
+		"desc_te": "నవార్రే రాజ్యం స్పెయిన్‌లో క్రైస్తవ రీకాంక్విస్టాలో కీలక పాత్ర పోషించింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Rise of the Kingdom of León (Europe)",
+		"name_te": "లియోన్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 42.5987,
+			"lng": -5.5671
+		},
+		"desc_en": "The Kingdom of León is a major Christian kingdom in medieval Spain.",
+		"desc_te": "లియోన్ రాజ్యం మధ్యయుగ స్పెయిన్‌లో ప్రధాన క్రైస్తవ రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Zapotec Civilization in Monte Albán (America)",
+		"name_te": "మాంటే ఆల్బాన్‌లో జపోటెక్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 17.0436,
+			"lng": -96.7675
+		},
+		"desc_en": "The Zapotec civilization flourishes in Monte Albán, Mesoamerica, with advanced urban planning.",
+		"desc_te": "మాంటే ఆల్బాన్, మెసోఅమెరికాలో జపోటెక్ నాగరికత అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Aboriginal Australian Rock Art (Australia)",
+		"name_te": "ఆస్ట్రేలియన్ ఆదివాసీ రాతి కళ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -13.0923,
+			"lng": 132.3949
+		},
+		"desc_en": "Aboriginal Australians create extensive rock art, reflecting spiritual and cultural traditions.",
+		"desc_te": "ఆస్ట్రేలియన్ ఆదివాసీలు విస్తృతమైన రాతి కళను సృష్టించి, ఆధ్యాత్మిక, సాంస్కృతిక సంప్రదాయాలను ప్రతిబింబించారు."
+	},
+	{
+		"year": "800",
+		"name_en": "Spread of Christianity in Scandinavia (Europe)",
+		"name_te": "స్కాండినేవియాలో క్రైస్తవ మతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Christianity continues to spread and become established in Norway, Sweden, and Denmark.",
+		"desc_te": "నార్వే, స్వీడన్, డెన్మార్క్‌లలో క్రైస్తవ మతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Maya City of Copán (America)",
+		"name_te": "కోపాన్ మాయా నగరం (అమెరికా)",
+		"location": {
+			"lat": 14.839,
+			"lng": -89.143
+		},
+		"desc_en": "The Maya city of Copán in present-day Honduras is a center of art, astronomy, and culture.",
+		"desc_te": "ప్రస్తుత హోండురాస్‌లోని కోపాన్ మాయా నగరం కళ, ఖగోళశాస్త్రం, సంస్కృతికి కేంద్రంగా నిలిచింది."
+	},
+	{
+		"year": "800",
+		"name_en": "Charlemagne's Educational Reforms (Europe)",
+		"name_te": "చార్లెమాగ్నె విద్యా సంస్కరణలు (యూరోప్)",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Charlemagne promotes the Carolingian Renaissance, establishing schools and libraries.",
+		"desc_te": "చార్లెమాగ్నే క్యారోలింజియన్ పునరుజ్జీవనాన్ని ప్రోత్సహించి, స్కూల్‌లు, లైబ్రరీలు స్థాపన చేస్తారు."
+	},
+	{
+		"year": "820",
+		"name_en": "Islamic Golden Age Flourishes (Middle East)",
+		"name_te": "ఇస్లాం వెల్లెడి యుగం వికసిస్తుంది (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Islamic scholars and scientists make breakthroughs in astronomy, mathematics, and medicine.",
+		"desc_te": "ఇస్లాం విద్వాంసులు, శాస్త్రవేత్తలు ఖగోళశాస్త్రం, గణితం, వైద్యంలో సాధన చేస్తారు."
+	},
+	{
+		"year": "840",
+		"name_en": "Buddhist Learning in Nalanda (India)",
+		"name_te": "నాలంద లో బౌద్ధ విద్య (భారతదేశం)",
+		"location": {
+			"lat": 25.8,
+			"lng": 85.8
+		},
+		"desc_en": "Nalanda University remains a major center of Buddhist learning and scholarship in India.",
+		"desc_te": "నాలంద విశ్వవిద్యాలయం భారతదేశంలో బౌద్ధ విద్య, పండితత్వానికి ప్రధాన కేంద్రంగా ఉండిపోతుంది."
+	},
+	{
+		"year": "860",
+		"name_en": "Rashtrakuta Architecture (Deccan India)",
+		"name_te": "రాష్ట్రకూట నిర్మాణం (డెక్కన్ భారతదేశం)",
+		"location": {
+			"lat": 17.4,
+			"lng": 78.5
+		},
+		"desc_en": "Rashtrakuta rulers commission magnificent temples and monuments in the Deccan.",
+		"desc_te": "రాష్ట్రకూట రాజులు డెక్కన్‌లో గొప్ప ఆలయాలు, స్మారకాలు నిర్మించుకోవటం చేస్తారు."
+	},
+	{
+		"year": "880",
+		"name_en": "Chola Empire Expansion (South India)",
+		"name_te": "చోళ సామ్రాజ్య విస్తరణ (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 10.7,
+			"lng": 78.7
+		},
+		"desc_en": "Chola Empire begins its expansion in southern India, establishing maritime trade networks.",
+		"desc_te": "చోళ సామ్రాజ్యం దక్షిణ భారతదేశంలో విస్తరణ ప్రారంభించి, సముద్ర వాణిజ్య నెట్‌వర్క్‌లు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Viking Voyages to North America",
+		"name_te": "వికింగ్ ఉత్తర అమెరికా ప్రయాణాలు",
+		"location": {
+			"lat": 60.472,
+			"lng": -8.4689
+		},
+		"desc_en": "Viking explorers, particularly Leif Erikson, reach North America (Vinland).",
+		"desc_te": "లీఫ్ ఎరిక్‌సన్ వంటి వైకింగ్ అన్వేషకులు ఉత్తర అమెరికా (విన్‌ల్యాండ్) చేరారు."
+	},
+	{
+		"year": "820",
+		"name_en": "Viking Settlement in Iceland",
+		"name_te": "ఐస్‌లాండ్‌లో వైకింగ్ నివాసం",
+		"location": {
+			"lat": 64.9631,
+			"lng": -19.0208
+		},
+		"desc_en": "Vikings establish permanent settlements in Iceland, establishing Norse culture there.",
+		"desc_te": "వైకింగ్‌లు ఐస్‌లాండ్‌లో శాశ్వత నివాసాలు ఏర్పాటు చేసి, నార్స్ సంస్కృతిని స్థాపన చేస్తారు."
+	},
+	{
+		"year": "840",
+		"name_en": "Treaty of Verdun Division (Europe)",
+		"name_te": "వెర్డున్ సంధి విభజన (యూరోప్)",
+		"location": {
+			"lat": 49.6,
+			"lng": 5.4
+		},
+		"desc_en": "Treaty of Verdun divides Charlemagne's empire among his grandsons.",
+		"desc_te": "వెర్డున్ సంధि చార్లెమాగ్నె సామ్రాజ్యాన్ని తన మనవరులకు విభజిస్తుంది."
+	},
+	{
+		"year": "860",
+		"name_en": "Photian Schism (Christianity)",
+		"name_te": "ఫోటియన్ విభజన (క్రైస్తవ మతం)",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Photian Schism marks dispute between Roman Catholic and Orthodox churches.",
+		"desc_te": "ఫోటియన్ విభజన రోమన్ కాథలిక్, ఆర్థడాక్స్ చర్చుల మధ్య వివాదం సూచిస్తుంది."
+	},
+	{
+		"year": "880",
+		"name_en": "Macedonian Renaissance (Byzantine)",
+		"name_te": "మాసిడోనియన్ పునరుజ్జీవనం (బిజాంటైన్)",
+		"location": {
+			"lat": 39,
+			"lng": 22
+		},
+		"desc_en": "Byzantine Macedonian Dynasty brings cultural and military revival.",
+		"desc_te": "బిజాంటైన్ మాసిడోనియన్ వంశం సాంస్కృతిక, సైనిక పునరుజ్జీవనం తీసుకువస్తుంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Great Zimbabwe Early Construction (Africa)",
+		"name_te": "గ్రేట్ జింబాబ్వే ప్రారంభ నిర్మాణం (ఆఫ్రికా)",
+		"location": {
+			"lat": -20.2675,
+			"lng": 30.9333
+		},
+		"desc_en": "Great Zimbabwe begins its rise as major trading center in southern Africa.",
+		"desc_te": "గ్రేట్ జింబాబ్వే దక్షిణ ఆఫ్రికాలో ప్రధాన వాణిజ్య కేంద్రంగా ఎదుగుతుంది."
+	},
+	{
+		"year": "820",
+		"name_en": "Mali Empire Foundations (West Africa)",
+		"name_te": "మాలి సామ్రాజ్య పునాది (పశ్చిమ ఆఫ్రికా)",
+		"location": {
+			"lat": 12.5,
+			"lng": -8
+		},
+		"desc_en": "Mali Empire begins to form in West Africa, setting foundations for future power.",
+		"desc_te": "పశ్చిమ ఆఫ్రికాలో మాలి సామ్రాజ్యం ఏర్పడుటను ప్రారంభించి, భవిష్యత్ శక్తికి పునాది వేస్తుంది."
+	},
+	{
+		"year": "840",
+		"name_en": "Trans-Saharan Trade Network (Africa)",
+		"name_te": "ట్రాన్స్-సహారా వాణిజ్య నెట్‌వర్క్ (ఆఫ్రికా)",
+		"location": {
+			"lat": 15,
+			"lng": -10
+		},
+		"desc_en": "Trans-Saharan trade network expands with West African kingdoms controlling routes.",
+		"desc_te": "ట్రాన్స్-సహారా వాణిజ్య నెట్‌వర్క్ విస్తరించుకోవడంతో పశ్చిమ ఆఫ్రికా రాజ్యాలు మార్గాలు నియంత్రిస్తాయి."
+	},
+	{
+		"year": "860",
+		"name_en": "Aksum Decline Continues (East Africa)",
+		"name_te": "ఆక్సుమ్ పతనం కొనసాగుతుంది (తూర్పు ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "Aksumite kingdom enters further decline, losing trade dominance.",
+		"desc_te": "ఆక్సుమైట్ రాజ్యం మరింత పతనమై, వాణిజ్య ఆధిపత్యం కోల్పోతుంది."
+	},
+	{
+		"year": "880",
+		"name_en": "Islamic Expansion in East Africa (Africa)",
+		"name_te": "తూర్పు ఆఫ్రికాలో ఇస్లాం సంచారం (ఆఫ్రికా)",
+		"location": {
+			"lat": -6.8,
+			"lng": 39.3
+		},
+		"desc_en": "Islamic influence spreads along East African coast with Arab traders.",
+		"desc_te": "అరబ్ వర్తకులతో తూర్పు ఆఫ్రికా తీరంలో ఇస్లాం ప్రభావ విస్తరిస్తుంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Post-Classic Maya Civilization (America)",
+		"name_te": "పోస్ట్-క్లాసిక్ మాయా నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya civilization transitions from Classic to Post-Classic period.",
+		"desc_te": "మాయా నాగరికత క్లాసిక్ నుండి పోస్ట్-క్లాసిక్ కాలానికి మార్పు చెందుతుంది."
+	},
+	{
+		"year": "820",
+		"name_en": "Toltec Rise (Central Mexico)",
+		"name_te": "టోల్టెక్ ఉద్భవం (మధ్య మెక్సికో)",
+		"location": {
+			"lat": 20,
+			"lng": -99
+		},
+		"desc_en": "Toltec civilization rises in central Mexico, building Tula and becoming dominant power.",
+		"desc_te": "టోల్టెక్ నాగరికత మధ్య మెక్సికోలో ఎదుగుతూ, టూలా నిర్మించి ప్రధాన శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "840",
+		"name_en": "Ancestral Puebloan Culture (North America)",
+		"name_te": "పూర్వీయ పులోయోన్ సంస్కృతి (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 37,
+			"lng": -109
+		},
+		"desc_en": "Ancestral Puebloans develop complex settlements and irrigation systems.",
+		"desc_te": "పూర్వీయ పులోయోన్‌లు సంక్లిష్ట నివాసాలు, నీటిపారుదల వ్యవస్థలను అభివృద్ధి చేస్తారు."
+	},
+	{
+		"year": "860",
+		"name_en": "Mississippian Culture Flourishing (North America)",
+		"name_te": "మిసిసిప్పియన్ సంస్కృతి వికసం (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 38,
+			"lng": -90
+		},
+		"desc_en": "Mississippian culture flourishes in the Mississippi River valley.",
+		"desc_te": "మిసిసిప్పి నది లోయలో మిసిసిప్పియన్ సంస్కృతి అభివృద్ధి చెందుతుంది."
+	},
+	{
+		"year": "880",
+		"name_en": "Cahokia Mound Builders Peak (North America)",
+		"name_te": "కాహోకియా మౌండ్ బిల్డర్‌ల శిఖరం (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 38.6585,
+			"lng": -90.0651
+		},
+		"desc_en": "Cahokia reaches its peak as largest pre-Columbian settlement north of Mexico.",
+		"desc_te": "కాహోకియా మెక్సికో ఉత్తరంలో సర్వవిధంగా పూర్వవర్తమాన నివాసంగా శిఖరస్థాయికి చేరుతుంది."
+	},
+	{
+		"year": "800",
+		"name_en": "Khmer Temple Construction (Southeast Asia)",
+		"name_te": "ఖ్మేర్ ఆలయ నిర్మాణం (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": 13.4,
+			"lng": 103.9
+		},
+		"desc_en": "Khmer temples begin construction, later leading to Angkor temple complexes.",
+		"desc_te": "ఖ్మేర్ ఆలయ నిర్మాణం ప్రారంభమవుతూ, తరువాత అంకోర్ ఆలయ సమ్మిశ్రాలకు దారితీస్తుంది."
+	},
+	{
+		"year": "820",
+		"name_en": "Srivijaya Naval Dominance (Southeast Asia)",
+		"name_te": "శ్రీవిజయ నౌకా ఆధిపత్యం (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": -2.9,
+			"lng": 104.8
+		},
+		"desc_en": "Srivijaya Empire dominates maritime trade in Southeast Asia.",
+		"desc_te": "శ్రీవిజయ సామ్రాజ్యం ఆగ్నేయ ఆసియాలో సముద్ర వాణిజ్యాన్ని నియంత్రిస్తుంది."
+	},
+	{
+		"year": "840",
+		"name_en": "Borobudur Temple Construction (Java)",
+		"name_te": "బోరోబుదూర్ ఆలయ నిర్మాణం (జావా)",
+		"location": {
+			"lat": -7.608,
+			"lng": 110.2038
+		},
+		"desc_en": "Borobudur Buddhist temple complex is constructed in Java, Southeast Asia.",
+		"desc_te": "జావాలో బోరోబుదూర్ బౌద్ధ ఆలయ సమ్మిశ్ర నిర్మిస్తారు."
+	},
+	{
+		"year": "860",
+		"name_en": "Maritime Trade Peak (Southeast Asia)",
+		"name_te": "సముద్ర వాణిజ్య శిఖరం (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lng": 105
+		},
+		"desc_en": "Southeast Asian maritime trade reaches peak activity with spice, silk, and pottery routes.",
+		"desc_te": "ఆగ్నేయ ఆసియా సముద్ర వాణిజ్యం మసాలా, సిల్క్, కుండల మార్గాలతో శిఖర కార్యకలాపానికి చేరుతుంది."
+	},
+	{
+		"year": "880",
+		"name_en": "Angkor Era Begins (Cambodia)",
+		"name_te": "అంకోర్ కాలం ప్రారంభం (కాంబోడియా)",
+		"location": {
+			"lat": 13.35,
+			"lng": 103.8
+		},
+		"desc_en": "Angkor era begins with Khmer kingdom entering its golden age.",
+		"desc_te": "ఖ్మేర్ రాజ్యం స్వర్ణయుగంలోకి ప్రవేశించిన అంకోర్ కాలం ప్రారంభమవుతుంది."
+	}
+]

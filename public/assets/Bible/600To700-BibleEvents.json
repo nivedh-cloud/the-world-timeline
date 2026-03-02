@@ -1,0 +1,233 @@
+[
+	{
+		"year": "600",
+		"name_en": "Islamic Rise and Christian Response",
+		"name_te": "ఇస్లామిక్ ఉదయం, క్రీస్టియన్ ప్రతిస్పందన",
+		"location": {
+			"lat": 24,
+			"lng": 46
+		},
+		"desc_en": "Islam begins in Arabia. Christian world initially unaware of new religion that will reshape territories.",
+		"desc_te": "ఇస్లాం అరేబియాలో ప్రారంభమైన విషయం. క్రీస్టియన్ ప్రపంచం నవీన ధర్మ గురించి ప్రాథమికంగా తెలియని విషయం, ఆ ప్రాంతాలను పున:రూపకల్పన చేయబోయిన విషయం."
+	},
+	{
+		"year": "602",
+		"name_en": "Phocas and Religious Turmoil",
+		"name_te": "ఫోకస్, ధార్మిక గందరగోళం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Emperor Phocas causes religious persecutions. Church unity further fractured by imperial policies.",
+		"desc_te": "చక్రవర్తి ఫోకస్ ధార్మిక వేధనలను కలిగించిన విషయం. చర్చ ఏకత్వం చక్రవర్తి విధానాలచే మరింత విచ్ఛిన్నమైన విషయం."
+	},
+	{
+		"year": "605",
+		"name_en": "Adomnan's Life of Columba",
+		"name_te": "అడోమన్‌ యొక్క కొలుంబా జీవితం",
+		"location": {
+			"lat": 57.5,
+			"lng": -4
+		},
+		"desc_en": "Adomnan writes biography of Columba. Documents Celtic Christian traditions in Scotland.",
+		"desc_te": "అడోమన్ కొలుంబా జీవనచరిత్ర రచన చేసిన విషయం. స్కాటిష్‌లో సెల్టిక్ క్రీస్టియన్ సంప్రదాయాలు గ్రధానం చేసిన విషయం."
+	},
+	{
+		"year": "610",
+		"name_en": "Muhammad's Prophetic Mission",
+		"name_te": "ముహమ్మద్ ప్రవక్తృత్వ ఆయోగ",
+		"location": {
+			"lat": 21.4,
+			"lng": 39.8
+		},
+		"desc_en": "Muhammad begins preaching monotheism in Mecca. Christianity will face new religious challenge.",
+		"desc_te": "ముహమ్మద్ మక్కాలో ఏకేశ్వరవాదం ప్రాచారం చేయటం ప్రారంభించిన విషయం. క్రీస్టియానిటీ నవీన ధార్మిక సవాలను ఎదుర్కోబోయిన విషయం."
+	},
+	{
+		"year": "615",
+		"name_en": "Persian-Byzantine Wars and Christianity",
+		"name_te": "పర్షియన్-బైజాంటైన్ యుద్ధాలు, క్రీస్టియానిటీ",
+		"location": {
+			"lat": 35,
+			"lng": 33
+		},
+		"desc_en": "Persia conquers Christian lands. Church populations experience new governance under Sassanids.",
+		"desc_te": "పర్షియా క్రీస్టియన్ భూమిని జయించిన విషయం. చర్చ జనాభా సాసానిడ్‌ల కింద నవీన పాలన అనుభవిస్తుంది."
+	},
+	{
+		"year": "620",
+		"name_en": "Heraclius Reforms Byzantine Church",
+		"name_te": "హెరాక్లియస్ బైజాంటైన్ చర్చ సంస్కరణ",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Emperor Heraclius reforms church finances and administration. Attempts to unify religious factions.",
+		"desc_te": "చక్రవర్తి హెరాక్లియస్ చర్చ ఆర్థిక, పరిపాలన సంస్కరణ చేసిన విషయం. ధార్మిక సమూహాలను ఏకీకృతం చేయటానికి ప్రయత్న చేసిన విషయం."
+	},
+	{
+		"year": "622",
+		"name_en": "Islamic Expansion and Christian Territories",
+		"name_te": "ఇస్లామిక్ విస్తరణ, క్రీస్టియన్ భూభాగాలు",
+		"location": {
+			"lat": 24,
+			"lng": 46
+		},
+		"desc_en": "Islam rapidly expands. Christian Middle East and North Africa increasingly contested.",
+		"desc_te": "ఇస్లాం వేగంగా విస్తరణ చేసిన విషయం. క్రీస్టియన్ మధ్యపూర్వ, ఉత్తర ఆఫ్రికా విరుద్ధం ఎక్కువ కాబడిన విషయం."
+	},
+	{
+		"year": "625",
+		"name_en": "Synod of Whitby",
+		"name_te": "హ్విట్‌బీ సమావేశం",
+		"location": {
+			"lat": 54.4,
+			"lng": -0.6
+		},
+		"desc_en": "Synod of Whitby reconciles Celtic and Roman Christianity practices in Anglo-Saxon church.",
+		"desc_te": "హ్విట్‌బీ సమావేశం ఆంగ్లో-సాక్సన్ చర్చలో సెల్టిక్, రోమన్ క్రీస్టియానిటీ ఆచారాలను సమన్వయం చేసిన విషయం."
+	},
+	{
+		"year": "630",
+		"name_en": "Conquest of Christian Levant",
+		"name_te": "క్రీస్టియన్ లెవాంట్ జయం",
+		"location": {
+			"lat": 33,
+			"lng": 35
+		},
+		"desc_en": "Islamic forces conquer Jerusalem, Syria, and Palestine. Major Christian heartland falls to caliphate.",
+		"desc_te": "ఇస్లామిక్ బలాలు జెరూసలెం, సిరియా, పాలస్తీనను జయించిన విషయం. ప్రధాన క్రీస్టియన్ హృదయం ఖిలాఫతకు రాజుకాబడిన విషయం."
+	},
+	{
+		"year": "635",
+		"name_en": "Monastic Scholarship Flourishes",
+		"name_te": "సన్న్యాస జ్ఞానం ఫిలిస్తుంది",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Western monasteries become dominant centers of learning as secular education declines.",
+		"desc_te": "సెక్యులర్ విద్యా క్షీణించిన కొద్దీ, పశ్చిమ సన్న్యాస సమాజాలు ఎక్కువ జ్ఞానం కేంద్రాలు కాబడిన విషยం."
+	},
+	{
+		"year": "640",
+		"name_en": "Egypt Becomes Islamic",
+		"name_te": "ఐజిప్ట్ ఇస్లామిక్‌గా కాబడుతుంది",
+		"location": {
+			"lat": 29,
+			"lng": 31
+		},
+		"desc_en": "Islamic conquest of Egypt ends Byzantine rule. Ancient Christian monasteries adapt to new rulers.",
+		"desc_te": "ఈజిప్ట్ ఇస్లామిక్ జయం బైజాంటైన్ పాలన ముగిస్తుంది. పూర్వీయ క్రీస్టియన్ సన్న్యాస సమాజాలు నవీన పాలకులకు సమర్థించుకోవటం ప్రారంభిస్తాయి."
+	},
+	{
+		"year": "645",
+		"name_en": "Caliph Ali and Christian Relations",
+		"name_te": "ఖలీఫా ఆలీ, క్రీస్టియన్ సంబంధాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Ali's caliphate experiences Christian negotiations. Dhimmi system develops for Christian communities.",
+		"desc_te": "ఆలీ ఖిలాఫత క్రీస్టియన్ చర్చల అనుభవం చేసిన విషయం. క్రీస్టియన్ సమూహాలకు ధిమ్మీ వ్యవస్థ అభివృద్ధి చేసిన విషయం."
+	},
+	{
+		"year": "650",
+		"name_en": "Theodor of Tarsus Reforms British Church",
+		"name_te": "టార్సస్ థియోడర్ బ్రిటిష్ చర్చ సంస్కరణ",
+		"location": {
+			"lat": 52,
+			"lng": -2
+		},
+		"desc_en": "Theodor of Tarsus reforms Church organization in Britain, standardizing practices.",
+		"desc_te": "టార్సస్ థియోడర్ బ్రిటన్‌లో చర్చ సంస్థాపన సంస్కరణ చేసిన విషయం, ఆచారాలు ప్రమాణీయం చేసిన విషయం."
+	},
+	{
+		"year": "655",
+		"name_en": "Eastern Christian Diversity",
+		"name_te": "తూర్పు క్రీస్టియన్ విభిన్నత",
+		"location": {
+			"lat": 35,
+			"lng": 33
+		},
+		"desc_en": "Nestorian and other Eastern churches flourish under Islamic rule. Multiple Christian traditions coexist.",
+		"desc_te": "నెస్టోరియన్, ఇతర తూర్పు చర్చిలు ఇస్లామిక్ పాలన కింద ఫిలిస్తుంది. నిల్లు క్రీస్టియన్ సంప్రదాయాలు సహ-ఉనికిలో ఉన్నాయి."
+	},
+	{
+		"year": "660",
+		"name_en": "Caedmon's Christian Poetry",
+		"name_te": "కెడ్‌మాన్ క్రీస్టియన్ కవిత్వం",
+		"location": {
+			"lat": 54.5,
+			"lng": -0.7
+		},
+		"desc_en": "Caedmon creates vernacular Christian poetry in Old English, making faith accessible to common people.",
+		"desc_te": "కెడ్‌మాన్ పూర్వీయ ఆంగ్లిష్‌లో జనసాధారణ క్రీస్టియన్ కవిత్వం సృష్టించిన విషయం, విశ్వాసం సాధారణ ప్రజలకు సుందరమైన చేసిన విషయం."
+	},
+	{
+		"year": "665",
+		"name_en": "Coptic and Orthodox Dialogue",
+		"name_te": "కోప్టిక్, ఆర్థోడాక్స్ చర్చ",
+		"location": {
+			"lat": 29,
+			"lng": 31
+		},
+		"desc_en": "Coptic church maintains identity under Islamic rule. Dialogue opens between different Christian traditions.",
+		"desc_te": "కోప్టిక్ చర్చ ఇస్లామిక్ పాలన కింద గుర్తింపు ఉంచిన విషయం. విభిన్న క్రీస్టియన్ సంప్రదాయాల మధ్య చర్చ తెరవిన విషయం."
+	},
+	{
+		"year": "670",
+		"name_en": "Council of Trullo",
+		"name_te": "ట్రుల్లో సమావేశం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Council at Trullo standardizes Eastern Orthodox church practices and condemns Western innovations.",
+		"desc_te": "ట్రుల్లో సమావేశం తూర్పు ఆర్థోడాక్స్ చర్చ ఆచారాలను ప్రమాణీయం చేసిన విషయం, పశ్చిమ నవీన ఆలోచనలను నిందించిన విషయం."
+	},
+	{
+		"year": "675",
+		"name_en": "Iconoclastic Controversy Begins",
+		"name_te": "చిత్రనిందన వివాదం ప్రారంభం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Iconoclastic movement begins in Byzantine empire. Disputes over religious images create division.",
+		"desc_te": "చిత్రనిందన చలనం బైజాంటైన్ సామ్రాజ్యంలో ప్రారంభమైన విషయం. ధార్మిక చిత్రాల గురించి వివాదాలు విభజనం సృష్టించిన విషయం."
+	},
+	{
+		"year": "680",
+		"name_en": "Third Council of Constantinople",
+		"name_te": "మూడవ కాన్‍స్టాంటినోపల్ సమావేశం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Council affirms Christ's two wills. Attempts to resolve long-standing Christological disputes.",
+		"desc_te": "సమావేశం క్రీస్తువు రెండు చేతనలు సమర్థించిన విషయం. దీర్ఘకాల క్రీస్తు జ్ఞానం వివాదాలు పరిష్కరించటానికి ప్రయత్న చేసిన విషయం."
+	},
+	{
+		"year": "685",
+		"name_en": "Expansion of Monastic Networks",
+		"name_te": "సన్న్యాస నెట్‌వర్క్‌ల విస్తరణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Monastic communities across Europe become interconnected, sharing knowledge and practices.",
+		"desc_te": "ఐరోపా వ్యాపకంగా సన్న్యాస సమూహాలు పరస్పర సంబంధమైన విషయం, జ్ఞానం, ఆచారాలు పంచుకోవటం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "690",
+		"name_en": "Christian-Islamic Cultural Exchange",
+		"name_te": "క్రీస్టియన్-ఇస్లామిక్ సాంస్కృతిక సమ్మేళనం",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Christian scholars translate Greek texts into Arabic. Intellectual exchange begins despite religious differences.",
+		"desc_te": "క్రీస్టియన్ ఆలోచనాపరులు గ్రీక్ గ్రంధాలను అరబిక్‌కు అనువదించిన విషయం. ధార్మిక భేదాలు ఉన్నప్పటికీ, బుద్ధిబలం సమ్మేళనం ప్రారంభమైన విషయం."
+	}
+]

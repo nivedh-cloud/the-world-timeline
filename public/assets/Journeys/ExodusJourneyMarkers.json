@@ -1,0 +1,50 @@
+[
+  {
+    "id": "exodus_01",
+    "name_tel": "రామెస్సెస్",
+    "name_eng": "Ramesses",
+    "coords": [30.750, 31.250],
+    "description": "Starting point - the Israelites depart from Egypt",
+    "isMajorStop": true
+  },
+  {
+    "id": "exodus_02",
+    "name_tel": "సుక్కోత్",
+    "name_eng": "Succoth",
+    "coords": [30.650, 31.750],
+    "description": "First stop after leaving Egypt",
+    "isMajorStop": false
+  },
+  {
+    "id": "exodus_03",
+    "name_tel": "ఎతమ్",
+    "name_eng": "Etham",
+    "coords": [30.500, 32.250],
+    "description": "Camp by the Red Sea",
+    "isMajorStop": false
+  },
+  {
+    "id": "exodus_04",
+    "name_tel": "రెడ్ సీ",
+    "name_eng": "Red Sea",
+    "coords": [27.500, 34.000],
+    "description": "Miraculous parting of the sea",
+    "isMajorStop": true
+  },
+  {
+    "id": "exodus_05",
+    "name_tel": "మారా",
+    "name_eng": "Marah",
+    "coords": [27.200, 33.500],
+    "description": "Bitter water turned sweet by God",
+    "isMajorStop": false
+  },
+  {
+    "id": "exodus_06",
+    "name_tel": "సిനాయ్",
+    "name_eng": "Mount Sinai",
+    "coords": [27.987, 33.975],
+    "description": "God gives the Ten Commandments",
+    "isMajorStop": true
+  }
+]

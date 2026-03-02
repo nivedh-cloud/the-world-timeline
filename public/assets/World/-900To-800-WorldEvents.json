@@ -1,0 +1,134 @@
+[
+	{
+		"year": "-900",
+		"name_en": "Confucius Teachings Peak (China)",
+		"name_te": "కన్ఫ్యూషియస్ నిర్దేశాలు శిఖరం (చైనా)",
+		"location": {
+			"lat": 35.09,
+			"lng": 117.14
+		},
+		"desc_en": "Confucius teachings spread, influencing Chinese philosophy",
+		"desc_te": "కన్ఫ్యూషియస్ నిర్దేశాలు వ్యాపకం, చైనీస్ తత్వశాస్త్రాన్ని ప్రభావితం"
+	},
+	{
+		"year": "-900",
+		"name_en": "Laozi Daoist Philosophy (China)",
+		"name_te": "లావోజు దైవిక తత్వశాస్త్రం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Laozi and Daoist philosophy emerge in China",
+		"desc_te": "లావోజు, దైవిక తత్వశాస్త్రం చైనాలో ఉద్భవం"
+	},
+	{
+		"year": "-900",
+		"name_en": "Greek Archaic Period (Greece)",
+		"name_te": "గ్రీక్ ప్రాచీన కాలం (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greek Archaic period begins with development of city-states",
+		"desc_te": "గ్రీక్ ప్రాచీన కాలం నగర-రాజ్యాల అభివృద్ధితో ప్రారంభ"
+	},
+	{
+		"year": "-900",
+		"name_en": "Brahmanis Upanishads Peak (India)",
+		"name_te": "బ్రాహ్మణ ఉపనిషద్ శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Brahmanis and Upanishad philosophy reaches peak",
+		"desc_te": "బ్రాహ్మణ, ఉపనిషద్ తత్వశాస్త్రం శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-880",
+		"name_en": "Ashurnasirpal II Expands Assyria (Iraq)",
+		"name_te": "అష్‌నర్నసిర్‌పల్ II అస్సిరియా విస్తరణ (ఇరాక్)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Ashurnasirpal II expands Assyrian empire militarily",
+		"desc_te": "అష్‌నర్నసిర్‌పల్ II అస్సిరియన్ సామ్రాజ్యం సైనికంగా విస్తరిస్తారు"
+	},
+	{
+		"year": "-880",
+		"name_en": "Homer's Epics Circulate (Greece)",
+		"name_te": "హోమర్ ఇతిహాసాలు ప్రసారం (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Homer's Iliad and Odyssey circulated widely in Greece",
+		"desc_te": "హోమర్ ఇలియడ్, ఒడిస్సీ గ్రీస్‌లో విస్తృతంగా ప్రసారం"
+	},
+	{
+		"year": "-860",
+		"name_en": "Shalmaneser III Campaigns (Iraq)",
+		"name_te": "శల్‌మనేసర్ III చర్యలు (ఇరాక్)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Shalmaneser III continues Assyrian military expansion",
+		"desc_te": "శల్‌మనేసర్ III అస్సిరియన్ సైనిక విస్తరణ కొనసాగిస్తారు"
+	},
+	{
+		"year": "-860",
+		"name_en": "Phoenician Colonies (Mediterranean)",
+		"name_te": "ఫీనిషియన్ కాలోనీలు (మధ్యధరా)",
+		"location": {
+			"lat": 33.35,
+			"lng": 35.5
+		},
+		"desc_en": "Phoenician colonies established across Mediterranean",
+		"desc_te": "మధ్యధరా అంతటా ఫీనిషియన్ కాలోనీలు స్థాపన"
+	},
+	{
+		"year": "-840",
+		"name_en": "Hallstatt Culture (Europe)",
+		"name_te": "హాల్‌స్టాట్ సంస్కృతి (యూరప్)",
+		"location": {
+			"lat": 48,
+			"lng": 13
+		},
+		"desc_en": "Hallstatt culture emerges in Central Europe",
+		"desc_te": "కేంద్ర ఐరోపాలో హాల్‌స్టాట్ సంస్కృతి ఉద్భవం"
+	},
+	{
+		"year": "-840",
+		"name_en": "Buddha Born (India)",
+		"name_te": "బుద్ధ జన్ముతారు (భారతదేశం)",
+		"location": {
+			"lat": 27.49,
+			"lng": 84.73
+		},
+		"desc_en": "Buddha traditionally born in Nepal/India region",
+		"desc_te": "బుద్ధ నేపాల్/భారతదేశ ప్రాంతంలో పారంపరికంగా జన్మితారు"
+	},
+	{
+		"year": "-820",
+		"name_en": "Zhou Dynasty Decline Begins (China)",
+		"name_te": "జోవు రాజవంశ క్షీణత ప్రారంభ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou dynasty begins to decline",
+		"desc_te": "పశ్చిమ జోవు రాజవంశం క్షీణత ప్రారంభ"
+	},
+	{
+		"year": "-820",
+		"name_en": "Etruscan Dominance (Italy)",
+		"name_te": "ఎట్రుస్కన్ ఆధిపత్యం (ఇటలీ)",
+		"location": {
+			"lat": 42.88,
+			"lng": 11.62
+		},
+		"desc_en": "Etruscan civilization reaches peak power in Italy",
+		"desc_te": "ఎట్రుస్కన్ నాగరికత ఇటలీలో శిఖర శక్తిని చేరుకుంటుంది"
+	}
+]

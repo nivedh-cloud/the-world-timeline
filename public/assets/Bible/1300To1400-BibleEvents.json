@@ -1,0 +1,222 @@
+[
+	{
+		"year": "1300",
+		"name_en": "Boniface VIII and French Crown Conflict",
+		"name_te": "బోనిఫేస్ VIII, ఫ్రెంచ్ కిరీటం సంఘర్షణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Boniface VIII clashes with French King Philip IV. Papal authority challenged by secular power.",
+		"desc_te": "పోప్ బోనిఫేస్ VIII ఫ్రెంచ్ రాజు ఫిలిప్ IV తో ఘర్షణ చేసిన విషయం. పరిపాలక శక్తి చేత పాపల్ అధికారం సవాలు చేయబడిన విషయం."
+	},
+	{
+		"year": "1305",
+		"name_en": "Avignon Papacy Begins",
+		"name_te": "అవిగ్నాన్ పాపసిం ప్రారంభం",
+		"location": {
+			"lat": 43.95,
+			"lng": 4.8
+		},
+		"desc_en": "Papacy moves to Avignon under French influence. Church authority becomes questioned.",
+		"desc_te": "పాపసిం ఫ్రెంచ్ ప్రభావంలో అవిగ్నాన్‌కు స్థానంతరం చేసిన విషయం. చర్చ అధికారం సందేహానికి గురిచేయబడిన విషయం."
+	},
+	{
+		"year": "1310",
+		"name_en": "Clement V and Church Restructuring",
+		"name_te": "క్లెమెంట్ V, చర్చ పున:నిర్మాణం",
+		"location": {
+			"lat": 43.95,
+			"lng": 4.8
+		},
+		"desc_en": "Pope Clement V restructures church organization. Papal authority adapts to new political reality.",
+		"desc_te": "పోప్ క్లెమెంట్ V చర్చ సంస్థాపన పున:నిర్మాణ చేసిన విషయం. పాపల్ అధికారం నవీన రాజకీయ వాస్తవానికి సమర్థించుకోవటం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1315",
+		"name_en": "Mystical Theology Develops",
+		"name_te": "రహస్య దేవతాత్త్వం అభివృద్ధి",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Meister Eckhart and others develop medieval mysticism. Emphasizes direct experience with divine.",
+		"desc_te": "మీస్టర్ ఎక్‌హార్ట్, ఇతరులు మధ్యయుగ రహస్యవాదం అభివృద్ధి చేసిన విషయం. దేవుని ఆధ్యాత్మిక సంభోగం నేరుగా అనుభవ నొక్కిన విషయం."
+	},
+	{
+		"year": "1320",
+		"name_en": "William of Ockham's Nominalism",
+		"name_te": "ఓక్‌హమ్ విలియం నామవాదం",
+		"location": {
+			"lat": 51.1,
+			"lng": -1.4
+		},
+		"desc_en": "William of Ockham challenges scholastic philosophy. Nominalism influences later theological thought.",
+		"desc_te": "ఓక్‌హమ్ విలియం స్కూలస్టిక్ తత్వవేదం సవాలు చేసిన విషయం. నామవాదం తరువాతి దేవతాత్త్వ ఆలోచనను ప్రభావితం చేసిన విషయం."
+	},
+	{
+		"year": "1325",
+		"name_en": "Eucharistic Miracle Cults",
+		"name_te": "యూఖారిస్ట్ అద్భుత సంస్కృతిలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Eucharistic miracle cults spread. Church emphasizes transubstantiation through miracles.",
+		"desc_te": "యూఖారిస్ట్ అద్భుత సంస్కృతిలు వ్యాపిస్తాయి. చర్చ అద్భుతాల ద్వారా రూపాంతరణ నొక్కిన విషయం."
+	},
+	{
+		"year": "1330",
+		"name_en": "Black Death and Church Crisis",
+		"name_te": "నల్లని మరణం, చర్చ సంకట",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Black Plague devastates Europe. Church authority questioned as clergy also die. Faith crisis emerges.",
+		"desc_te": "నల్లని ప్లేగు ఐరోపా తీవ్రంగా భంగం చేసిన విషయం. పూజారులు కూడా చనిపోవటం చేత చర్చ అధికారం సందేహానికి గురిచేయబడిన విషయం. విశ్వాస సంకట ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1335",
+		"name_en": "Persecution of Jews",
+		"name_te": "యూదుల వేధన",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "Jews blamed for Black Death. Church-sanctioned massacres in Germany and Eastern Europe.",
+		"desc_te": "నల్లని మరణానికి యూదులు నిందితులు చేయబడిన విషయం. చర్చ-ఆమోదిత హత్యలు జర్మానీ, తూర్పు ఐరోపాలో సంపన్నమైన విషయం."
+	},
+	{
+		"year": "1340",
+		"name_en": "Papal Schism Tensions",
+		"name_te": "పాపల్ విభజనం ఉద్వేగాలు",
+		"location": {
+			"lat": 43.95,
+			"lng": 4.8
+		},
+		"desc_en": "Avignon papacy causes strain. Questions arise about papal legitimacy and authority.",
+		"desc_te": "అవిగ్నాన్ పాపసిం ఉద్వేగం కలిగిస్తుంది. పాపల్ చట్టబద్ధత, అధికారం గురించి ప్రశ్నలు ఉద్భవిస్తాయి."
+	},
+	{
+		"year": "1345",
+		"name_en": "Church Corruption Becomes Notorious",
+		"name_te": "చర్చ భ్రష్టత ఖ్యాతిపూర్వక కాబడుతుంది",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Church corruption, simony, indulgences become widespread. Critics begin questioning church authority.",
+		"desc_te": "చర్చ భ్రష్టత, పదవుల విక్రయం, క్షమాపన విస్తృతమైన విషయం. విమర్శకులు చర్చ అధికారం ప్రశ్నించటం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1350",
+		"name_en": "Religious Confraternities Rise",
+		"name_te": "ధార్మిక సమితులు ఉదయమైన విషయం",
+		"location": {
+			"lat": 45.5,
+			"lng": 11.9
+		},
+		"desc_en": "Lay religious confraternities multiply. Laity increases spiritual authority independent of clergy.",
+		"desc_te": "స్థానిక ధార్మిక సమితులు గుణిస్తాయి. సాధారణ జనులు పూజారుల నుండి స్వతంత్ర ఆధ్యాత్మిక అధికారం పెరిగిన విషయం."
+	},
+	{
+		"year": "1355",
+		"name_en": "Wycliffe's Early Critique",
+		"name_te": "విక్లిఫ్ ప్రారంభ విమర్శ",
+		"location": {
+			"lat": 51.4,
+			"lng": -1
+		},
+		"desc_en": "John Wycliffe begins criticizing papal authority and church wealth. Early reform voice emerges.",
+		"desc_te": "జాన్ విక్లిఫ్ పాపల్ అధికారం, చర్చ సంపద విమర్శించటం ప్రారంభించిన విషయం. ప్రారంభ సంస్కరణ స్వరం ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1360",
+		"name_en": "Bridget of Sweden's Visions",
+		"name_te": "స్వీడన్ బ్రిడ్జెట్ దృష్టి",
+		"location": {
+			"lat": 59.3,
+			"lng": 18.1
+		},
+		"desc_en": "Bridget of Sweden writes mystical revelations critiquing church corruption. Women gain spiritual voice.",
+		"desc_te": "స్వీడన్ బ్రిడ్జెట్ చర్చ భ్రష్టత విమర్శిస్తూ రహస్య ఆవిష్కరణలు రచన చేసిన విషయం. మహిళలు ఆధ్యాత్మిక స్వరం లభించిన విషయం."
+	},
+	{
+		"year": "1365",
+		"name_en": "Urban VI and Western Schism",
+		"name_te": "అర్బన్ VI, పశ్చిమ విభజనం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Urban VI returns papacy to Rome. His harsh policies trigger Western Schism (1378-1417).",
+		"desc_te": "పోప్ అర్బన్ VI పాపసిం రోమ్‌కు ఉత్తరం చేసిన విషయం. అతని కఠినమైన విధానాలు పశ్చిమ విభజనం ప్రేరేపించిన విషయం (1378-1417)."
+	},
+	{
+		"year": "1370",
+		"name_en": "Catherine of Siena's Influence",
+		"name_te": "సియెనా కేథరిన్ ప్రభావం",
+		"location": {
+			"lat": 43.3,
+			"lng": 11.9
+		},
+		"desc_en": "Catherine of Siena influences papacy, advocates reform. Mystic becomes major political player.",
+		"desc_te": "సియెనా కేథరిన్ పాపసిం ప్రభావితం చేసిన విషయం, సంస్కరణ advocate చేసిన విషయం. రహస్యవాదం ప్రధాన రాజకీయ ఖేలాడి కాబడిన విషయం."
+	},
+	{
+		"year": "1375",
+		"name_en": "Wycliffe's English Bible",
+		"name_te": "విక్లిఫ్ ఇంగ్లీష్ బైబిల్",
+		"location": {
+			"lat": 51.4,
+			"lng": -1
+		},
+		"desc_en": "Wycliffe translates Bible into English. Challenges church monopoly on scripture interpretation.",
+		"desc_te": "విక్లిఫ్ బైబిల్‌ను ఇంగ్లీష్‌కు అనువదించిన విషయం. గ్రంధ వివరణపై చర్చ ఏకాధికారం సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1378",
+		"name_en": "Western Schism Crisis",
+		"name_te": "పశ్చిమ విభజనం సంకట",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Western Schism creates competing popes in Rome and Avignon. Church authority severely damaged.",
+		"desc_te": "పశ్చిమ విభజనం రోమ్, అవిగ్నాన్‌లో పోటీ పోపులను సృష్టించిన విషయం. చర్చ అధికారం తీవ్రంగా భంగం చేయబడిన విషయం."
+	},
+	{
+		"year": "1382",
+		"name_en": "Lollard Movement Emerges",
+		"name_te": "లోలార్డ్ చలనం ఉద్భవిస్తుంది",
+		"location": {
+			"lat": 51.4,
+			"lng": -1
+		},
+		"desc_en": "Wycliffe's followers (Lollards) spread reform ideas. Early Protestant movement emerges in England.",
+		"desc_te": "విక్లిఫ్ అనుచరులు (లోలార్డ్‌లు) సంస్కరణ ఆలోచనలు వ్యాపించిన విషయం. ఇంగ్లాండ్‌లో ప్రారంభ ప్రొటెస్టాంట్ చలనం ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1385",
+		"name_en": "Hussite Preacher John Hus",
+		"name_te": "హుసిట్ ప్రాచారక జాన్ హస్",
+		"location": {
+			"lat": 50.1,
+			"lng": 14.4
+		},
+		"desc_en": "John Hus preaches reform in Bohemia. Challenges papal authority and church corruption.",
+		"desc_te": "జాన్ హస్ బోహేమియాలో సంస్కరణ ప్రాచారం చేసిన విషయం. పాపల్ అధికారం, చర్చ భ్రష్టత సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1390",
+		"name_en": "Late Medieval Faith Crisis",
+		"name_te": "చరిత్ర మధ్యయుగ విశ్వాస సంకట",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "By 1400, medieval Christianity faces legitimacy crisis. Reformation movements prepare to challenge church.",
+		"desc_te": "1400 నాటికి, మధ్యయుగ క్రీస్టియానిటీ చట్టబద్ధత సంకట ఎదుర్కోవటం ఉంది. సంస్కరణ చలనాలు చర్చకు సవాలు కోసం సిద్ధం కాబడిన విషయం."
+	}
+]

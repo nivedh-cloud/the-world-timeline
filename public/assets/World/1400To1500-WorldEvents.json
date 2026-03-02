@@ -1,0 +1,574 @@
+[
+	{
+		"year": "1400",
+		"name_en": "Fall of Constantinople (Europe/Asia)",
+		"name_te": "కాన్స్టాంటినోపుల్ పతనం (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 41.0082,
+			"lng": 28.9784
+		},
+		"desc_en": "The Ottoman Empire captures Constantinople in 1453, marking the end of the Byzantine Empire.",
+		"desc_te": "1453లో ఒట్టోమన్ సామ్రాజ్యం కాన్స్టాంటినోపుల్‌ను ఆక్రమించి, బిజాంటైన్ సామ్రాజ్యానికి ముగింపు పలికింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Vijayanagara Empire at its Height (India)",
+		"name_te": "విజయనగర సామ్రాజ్యం శిఖరస్థాయిలో (భారతదేశం)",
+		"location": {
+			"lat": 15.335,
+			"lng": 76.462
+		},
+		"desc_en": "The Vijayanagara Empire flourishes in South India, becoming a major Hindu kingdom.",
+		"desc_te": "దక్షిణ భారతదేశంలో విజయనగర సామ్రాజ్యం శిఖరస్థాయిలో ఉండి, ప్రధాన హిందూ రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Joan of Arc and the Hundred Years' War (Europe)",
+		"name_te": "జోన్ ఆఫ్ ఆర్క్ మరియు నూరు సంవత్సరాల యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Joan of Arc leads French forces during the Hundred Years' War, is captured and executed in 1431.",
+		"desc_te": "జోన్ ఆఫ్ ఆర్క్ నూరు సంవత్సరాల యుద్ధంలో ఫ్రెంచ్ దళాలను నడిపించి, 1431లో పట్టుబడి మరణించారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Zheng He's Voyages (China/Asia)",
+		"name_te": "జెంగ్ హీ సముద్ర యాత్రలు (చైనా/ఆసియా)",
+		"location": {
+			"lat": 32.0603,
+			"lng": 118.7969
+		},
+		"desc_en": "Chinese admiral Zheng He leads seven major naval expeditions across Asia and Africa (1405–1433).",
+		"desc_te": "చైనా అడ్మిరల్ జెంగ్ హీ 1405–1433 మధ్య ఆసియా, ఆఫ్రికా అంతటా ఏడు సముద్ర యాత్రలు నిర్వహించారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Inca Empire Expands (America)",
+		"name_te": "ఇంకా సామ్రాజ్యం విస్తరణ (అమెరికా)",
+		"location": {
+			"lat": -13.5319,
+			"lng": -71.9675
+		},
+		"desc_en": "The Inca Empire expands across the Andes, becoming the largest empire in pre-Columbian America.",
+		"desc_te": "అండీస్ పర్వతాల్లో ఇంకా సామ్రాజ్యం విస్తరించి, కొలంబస్‌కు ముందు అమెరికాలో అతిపెద్ద సామ్రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Aztec Empire Rises (America)",
+		"name_te": "అజ్టెక్ సామ్రాజ్యం ఎదుగుదల (అమెరికా)",
+		"location": {
+			"lat": 19.4326,
+			"lng": -99.1332
+		},
+		"desc_en": "The Aztec Empire rises in central Mexico, establishing Tenochtitlan as its capital.",
+		"desc_te": "అజ్టెక్ సామ్రాజ్యం మధ్య మెక్సికోలో ఎదిగి, టెనోచ్టిట్లాన్‌ను రాజధానిగా స్థాపించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Gutenberg Invents the Printing Press (Europe)",
+		"name_te": "గుటెన్‌బర్గ్ ముద్రణ యంత్రం ఆవిష్కరణ (యూరోప్)",
+		"location": {
+			"lat": 49.9929,
+			"lng": 8.2473
+		},
+		"desc_en": "Johannes Gutenberg invents the movable-type printing press around 1440, revolutionizing communication.",
+		"desc_te": "1440లో జోహన్నెస్ గుటెన్‌బర్గ్ ముద్రణ యంత్రాన్ని ఆవిష్కరించి, సమాచారంలో విప్లవాత్మక మార్పులు తీసుకువచ్చారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Songhai Empire Expands (Africa)",
+		"name_te": "సోంగ్హై సామ్రాజ్యం విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.7666,
+			"lng": -3.0026
+		},
+		"desc_en": "The Songhai Empire expands in West Africa, becoming a dominant power.",
+		"desc_te": "పశ్చిమ ఆఫ్రికాలో సోంగ్హై సామ్రాజ్యం విస్తరించి, ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in Ethiopia (Africa)",
+		"name_te": "ఇథియోపియాలో క్రైస్తవ మతం (ఆఫ్రికా)",
+		"location": {
+			"lat": 9.03,
+			"lng": 38.74
+		},
+		"desc_en": "Christianity continues to flourish in Ethiopia, one of the world's oldest Christian kingdoms.",
+		"desc_te": "ప్రపంచంలోనే పురాతన క్రైస్తవ రాజ్యాల్లో ఒకటైన ఇథియోపియాలో క్రైస్తవ మతం అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Denmark-Norway Unites (Europe)",
+		"name_te": "డెన్మార్క్-నార్వే రాజ్యాల ఏకీకరణ (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "The Kalmar Union unites Denmark, Norway, and Sweden under a single monarch, shaping Scandinavian history.",
+		"desc_te": "కల్మార్ యూనియన్ ద్వారా డెన్మార్క్, నార్వే, స్వీడన్ ఒకే రాజు పాలనలోకి వచ్చాయి, స్కాండినేవియన్ చరిత్రను మార్చాయి."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Navarre and Isabella I (Europe)",
+		"name_te": "నవార్రె రాజ్యం మరియు ఇసాబెల్లా I (యూరోప్)",
+		"location": {
+			"lat": 42.8185,
+			"lng": -1.644
+		},
+		"desc_en": "Isabella I of Castile, a key figure in Spanish unification, influences the Kingdom of Navarre and the Reconquista.",
+		"desc_te": "కాస్టిల్‌కు చెందిన ఇసాబెల్లా I స్పెయిన్ ఏకీకరణలో కీలక పాత్ర పోషించి, నవార్రె రాజ్యాన్ని, రికాంక్విస్టాను ప్రభావితం చేశారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Sukhothai merges with Ayutthaya (Asia/Thailand)",
+		"name_te": "సుఖోతాయ్ రాజ్యం అయుత్తయలో విలీనం (ఆసియా/థాయిలాండ్)",
+		"location": {
+			"lat": 17.0078,
+			"lng": 99.8237
+		},
+		"desc_en": "The Sukhothai Kingdom merges with Ayutthaya, consolidating power in Thailand.",
+		"desc_te": "సుఖోతాయ్ రాజ్యం అయుత్తయలో విలీనమై, థాయిలాండ్‌లో అధికారాన్ని సమీకరించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Kotte in Sri Lanka (Asia)",
+		"name_te": "శ్రీలంకలో కొట్టే రాజ్యం (ఆసియా)",
+		"location": {
+			"lat": 6.9271,
+			"lng": 79.8612
+		},
+		"desc_en": "The Kingdom of Kotte rises as a major power in Sri Lanka, influencing trade and culture.",
+		"desc_te": "శ్రీలంకలో కొట్టే రాజ్యం ప్రధాన శక్తిగా ఎదిగి, వాణిజ్యం, సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in Lithuania (Europe)",
+		"name_te": "లిథువేనియాలో క్రైస్తవ మతం (యూరోప్)",
+		"location": {
+			"lat": 54.6872,
+			"lng": 25.2797
+		},
+		"desc_en": "Lithuania, the last pagan nation in Europe, officially adopts Christianity in the early 15th century.",
+		"desc_te": "యూరోప్‌లో చివరి పగన్ దేశమైన లిథువేనియా 15వ శతాబ్దం ప్రారంభంలో క్రైస్తవ మతాన్ని అధికారికంగా స్వీకరించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Cusco and Pachacuti (America/Peru)",
+		"name_te": "కుస్కో రాజ్యం మరియు పచకుటి (అమెరికా/పెరూ)",
+		"location": {
+			"lat": -13.532,
+			"lng": -71.9675
+		},
+		"desc_en": "Pachacuti, ruler of Cusco, transforms it into the Inca Empire, expanding across the Andes.",
+		"desc_te": "కుస్కో పాలకుడు పచకుటి ఆ రాజ్యాన్ని ఇంకా సామ్రాజ్యంగా మార్చి, అండీస్‌లో విస్తరించాడు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Mutapa and Christianity (Africa)",
+		"name_te": "ముటాపా రాజ్యం మరియు క్రైస్తవ మతం (ఆఫ్రికా)",
+		"location": {
+			"lat": -18.9245,
+			"lng": 32.6709
+		},
+		"desc_en": "Christian missionaries reach the Kingdom of Mutapa in Southern Africa, introducing Christianity.",
+		"desc_te": "దక్షిణ ఆఫ్రికాలో ముటాపా రాజ్యంలో క్రైస్తవ మిషనరీలు చేరుకుని, క్రైస్తవ మతాన్ని పరిచయం చేశారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Champa in Vietnam (Asia)",
+		"name_te": "వియత్నాంలో చాంపా రాజ్యం (ఆసియా)",
+		"location": {
+			"lat": 15.5394,
+			"lng": 108.0191
+		},
+		"desc_en": "The Kingdom of Champa in central Vietnam faces invasions from Dai Viet, leading to its decline.",
+		"desc_te": "మధ్య వియత్నాంలోని చాంపా రాజ్యం డై వియెట్ దాడులతో పతనమైంది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Buganda Emerges (Africa/Uganda)",
+		"name_te": "బుగండా రాజ్యం ఆవిర్భావం (ఆఫ్రికా/ఉగాండా)",
+		"location": {
+			"lat": 0.3476,
+			"lng": 32.5825
+		},
+		"desc_en": "The Kingdom of Buganda emerges in the Lake Victoria region, becoming a major power in East Africa.",
+		"desc_te": "ఈస్ట్ ఆఫ్రికాలో విక్టోరియా సరస్సు ప్రాంతంలో బుగండా రాజ్యం ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Jagiellonian Dynasty in Poland-Lithuania (Europe)",
+		"name_te": "పోలాండ్-లిథువేనియాలో జగియెల్లోనియన్ వంశం (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "The Jagiellonian dynasty rules Poland-Lithuania, fostering a golden age of culture and political power.",
+		"desc_te": "జగియెల్లోనియన్ వంశం పాలనలో పోలాండ్-లిథువేనియా సంస్కృతి, రాజకీయ శక్తిలో స్వర్ణయుగాన్ని అనుభవించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Hungary under Matthias Corvinus (Europe)",
+		"name_te": "మత్తియాస్ కార్వినస్ పాలనలో హంగేరీ రాజ్యం (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Matthias Corvinus, King of Hungary, reforms administration and expands the kingdom's influence in Central Europe.",
+		"desc_te": "మత్తియాస్ కార్వినస్ హంగేరీ రాజ్యాన్ని అభివృద్ధి చేసి, మధ్య యూరోప్‌లో ప్రభావాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Mali Declines (Africa)",
+		"name_te": "మాలి రాజ్యం పతనం (ఆఫ్రికా)",
+		"location": {
+			"lat": 12.6392,
+			"lng": -8.0029
+		},
+		"desc_en": "The once-powerful Mali Empire declines as Songhai rises, losing control over trade routes.",
+		"desc_te": "ఒకప్పుడు శక్తివంతమైన మాలి సామ్రాజ్యం సోంగ్హై సామ్రాజ్యానికి వాణిజ్య మార్గాలను కోల్పోయి పతనమైంది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Joseon Dynasty Strengthens Confucianism (Korea/Asia)",
+		"name_te": "కొరియా జోసియోన్ వంశం - కాన్ఫ్యూషియనిజం బలోపేతం (కొరియా/ఆసియా)",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "The Joseon Dynasty in Korea establishes Confucianism as the state ideology, shaping Korean society.",
+		"desc_te": "కొరియా జోసియోన్ వంశం కాన్ఫ్యూషియనిజాన్ని అధికారిక సిద్ధాంతంగా స్థాపించి, కొరియా సమాజాన్ని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Ryukyu Unifies Okinawa (Japan/Asia)",
+		"name_te": "ర్యూక్యూ రాజ్యం ఒకినావా ఏకీకరణ (జపాన్/ఆసియా)",
+		"location": {
+			"lat": 26.2124,
+			"lng": 127.6809
+		},
+		"desc_en": "The Ryukyu Kingdom unifies Okinawa Island and becomes a maritime trading power in East Asia.",
+		"desc_te": "ర్యూక్యూ రాజ్యం ఒకినావా దీవిని ఏకీకృతం చేసి, తూర్పు ఆసియాలో సముద్ర వాణిజ్య శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in the Kingdom of Georgia (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యంలో క్రైస్తవ మతం (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "Despite invasions, Christianity remains strong in the Kingdom of Georgia during the 15th century.",
+		"desc_te": "దాడులు జరిగినప్పటికీ, 15వ శతాబ్దంలో జార్జియా రాజ్యంలో క్రైస్తవ మతం బలంగా కొనసాగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Tondo in the Philippines (Asia)",
+		"name_te": "ఫిలిప్పీన్స్‌లో టొండో రాజ్యం (ఆసియా)",
+		"location": {
+			"lat": 14.5995,
+			"lng": 120.9842
+		},
+		"desc_en": "The Kingdom of Tondo is a major trade and political center in the Philippines during the 15th century.",
+		"desc_te": "15వ శతాబ్దంలో ఫిలిప్పీన్స్‌లో టొండో రాజ్యం ప్రధాన వాణిజ్య, రాజకీయ కేంద్రంగా ఉంది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Wars of the Roses Begin (England/Europe)",
+		"name_te": "ఇంగ్లాండ్‌లో రోజెస్ యుద్ధాలు ప్రారంభం (యూరోప్)",
+		"location": {
+			"lat": 52.3555,
+			"lng": -1.1743
+		},
+		"desc_en": "The Wars of the Roses, a series of civil wars for the English throne, begin in 1455.",
+		"desc_te": "1455లో ఇంగ్లాండ్ సింహాసనం కోసం రోజెస్ యుద్ధాలు ప్రారంభమయ్యాయి."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Mutapa Rises (Africa)",
+		"name_te": "ముటాపా రాజ్యం ఆవిర్భావం (ఆఫ్రికా)",
+		"location": {
+			"lat": -18.9245,
+			"lng": 32.6709
+		},
+		"desc_en": "The Kingdom of Mutapa emerges in Southern Africa, controlling gold trade routes.",
+		"desc_te": "దక్షిణ ఆఫ్రికాలో ముటాపా రాజ్యం ఆవిర్భవించి, బంగారు వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in Armenia (Asia/Europe)",
+		"name_te": "ఆర్మేనియాలో క్రైస్తవ మతం (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 40.0691,
+			"lng": 45.0382
+		},
+		"desc_en": "Armenia, one of the earliest Christian nations, maintains its faith and culture despite regional conflicts.",
+		"desc_te": "ప్రాంతీయ కలహాల మధ్య కూడా, ఆర్మేనియా పురాతన క్రైస్తవ దేశంగా తన మతాన్ని, సంస్కృతిని కొనసాగించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Ottoman Sultan Mehmed II (Europe/Asia)",
+		"name_te": "ఒట్టోమన్ సుల్తాన్ మెహ్మెద్ II (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 41.0082,
+			"lng": 28.9784
+		},
+		"desc_en": "Mehmed II, known as Mehmed the Conqueror, expands the Ottoman Empire and captures Constantinople in 1453.",
+		"desc_te": "మెహ్మెద్ II (ద కాంకరర్) ఒట్టోమన్ సామ్రాజ్యాన్ని విస్తరించి, 1453లో కాన్స్టాంటినోపుల్‌ను ఆక్రమించాడు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Ivan III the Great Unifies Russia (Europe/Asia)",
+		"name_te": "ఇవాన్ III ది గ్రేట్ రష్యా ఏకీకరణ (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 55.7558,
+			"lng": 37.6173
+		},
+		"desc_en": "Ivan III unifies Russian territories, ending Mongol dominance and laying the foundation for the Russian state.",
+		"desc_te": "ఇవాన్ III రష్యన్ ప్రాంతాలను ఏకీకృతం చేసి, మంగోల్ ఆధిపత్యాన్ని ముగించి, రష్యా రాజ్యానికి పునాది వేశాడు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Battle of Castillon Ends Hundred Years' War (Europe)",
+		"name_te": "కాస్టిలాన్ యుద్ధం - నూరు సంవత్సరాల యుద్ధం ముగింపు (యూరోప్)",
+		"location": {
+			"lat": 44.85,
+			"lng": -0.2667
+		},
+		"desc_en": "The Battle of Castillon in 1453 marks the end of the Hundred Years' War between England and France.",
+		"desc_te": "1453లో కాస్టిలాన్ యుద్ధం ఇంగ్లాండ్-ఫ్రాన్స్ మధ్య నూరు సంవత్సరాల యుద్ధానికి ముగింపు పలికింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Moctezuma I Rules Aztec Empire (America)",
+		"name_te": "మోక్టెజుమా I అజ్టెక్ సామ్రాజ్యం పాలన (అమెరికా)",
+		"location": {
+			"lat": 19.4326,
+			"lng": -99.1332
+		},
+		"desc_en": "Moctezuma I, one of the greatest Aztec rulers, expands the empire and builds Templo Mayor.",
+		"desc_te": "మోక్టెజుమా I అజ్టెక్ సామ్రాజ్యాన్ని విస్తరించి, టెంప్లో మేయర్‌ను నిర్మించాడు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Benin Flourishes (Africa)",
+		"name_te": "బెనిన్ రాజ్యం అభివృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": 6.335,
+			"lng": 5.6037
+		},
+		"desc_en": "The Kingdom of Benin in West Africa is renowned for its art, trade, and powerful rulers during the 15th century.",
+		"desc_te": "15వ శతాబ్దంలో పశ్చిమ ఆఫ్రికాలో బెనిన్ రాజ్యం కళ, వాణిజ్యం, శక్తివంతమైన పాలకులతో ప్రసిద్ధి చెందింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in Spain: Reconquista Ends (Europe)",
+		"name_te": "స్పెయిన్‌లో క్రైస్తవ మతం: రికాంక్విస్టా ముగింపు (యూరోప్)",
+		"location": {
+			"lat": 37.3891,
+			"lng": -5.9845
+		},
+		"desc_en": "The Reconquista ends in 1492 with the fall of Granada, completing Christian rule over Spain.",
+		"desc_te": "1492లో గ్రానడా పతనంతో రికాంక్విస్టా ముగిసి, స్పెయిన్‌లో క్రైస్తవ పాలన పూర్తయింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Ayutthaya Expands (Asia/Thailand)",
+		"name_te": "అయుత్తయ రాజ్యం విస్తరణ (ఆసియా/థాయిలాండ్)",
+		"location": {
+			"lat": 14.3532,
+			"lng": 100.5689
+		},
+		"desc_en": "The Kingdom of Ayutthaya in Thailand expands its influence across Southeast Asia during the 15th century.",
+		"desc_te": "15వ శతాబ్దంలో థాయిలాండ్‌లో అయుత్తయ రాజ్యం దక్షిణాసియాలో తన ప్రభావాన్ని విస్తరించింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Lan Xang (Laos/Asia)",
+		"name_te": "లాన్ జాంగ్ రాజ్యం (లావోస్/ఆసియా)",
+		"location": {
+			"lat": 17.9757,
+			"lng": 102.6331
+		},
+		"desc_en": "The Kingdom of Lan Xang is founded in Laos, becoming a major power in Southeast Asia.",
+		"desc_te": "లావోస్‌లో లాన్ జాంగ్ రాజ్యం స్థాపించబడింది, ఇది దక్షిణాసియాలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in the Americas: Early Missions (America)",
+		"name_te": "అమెరికాలో క్రైస్తవ మిషన్లు (అమెరికా)",
+		"location": {
+			"lat": 18.7357,
+			"lng": -70.1627
+		},
+		"desc_en": "Following Columbus's arrival, the first Christian missions begin in the Caribbean in the late 15th century.",
+		"desc_te": "కొలంబస్ వచ్చిన తర్వాత, 15వ శతాబ్దం చివర్లో కరీబియన్‌లో మొదటి క్రైస్తవ మిషన్లు ప్రారంభమయ్యాయి."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Scotland: James I and James II (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: జేమ్స్ I మరియు జేమ్స్ II (యూరోప్)",
+		"location": {
+			"lat": 55.9533,
+			"lng": -3.1883
+		},
+		"desc_en": "James I and James II rule Scotland, facing internal strife and strengthening the monarchy.",
+		"desc_te": "జేమ్స్ I మరియు జేమ్స్ II స్కాట్లాండ్‌ను పాలించి, అంతర్గత కలహాలను ఎదుర్కొని రాజ్యాన్ని బలోపేతం చేశారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Mahmud Begada rules Gujarat Sultanate (India)",
+		"name_te": "మహ్మద్ బేగడ గుజరాత్ సుల్తానేట్ పాలన (భారతదేశం)",
+		"location": {
+			"lat": 23.0225,
+			"lng": 72.5714
+		},
+		"desc_en": "Mahmud Begada, one of the most prominent rulers of the Gujarat Sultanate, expands the kingdom and fortifies Champaner.",
+		"desc_te": "గుజరాత్ సుల్తానేట్‌లో ప్రముఖ పాలకుడైన మహ్మద్ బేగడ రాజ్యం విస్తరించి, చాంపానెర్‌ను బలోపేతం చేశారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "King Sejong the Great (Korea)",
+		"name_te": "సెజోంగ్ మహారాజు (కొరియా)",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "King Sejong of Joseon Dynasty, Korea, promotes science, technology, and creates the Korean script Hangul.",
+		"desc_te": "కొరియా జోసియోన్ వంశానికి చెందిన సెజోంగ్ మహారాజు శాస్త్ర, సాంకేతిక అభివృద్ధికి తోడ్పడి, హంగుల్ లిపిని రూపొందించారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Battle of Grunwald (Europe)",
+		"name_te": "గ్రున్వాల్డ్ యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 53.4844,
+			"lng": 20.0972
+		},
+		"desc_en": "The Polish-Lithuanian alliance defeats the Teutonic Knights in 1410, one of medieval Europe's largest battles.",
+		"desc_te": "1410లో పోలిష్-లిథువేనియన్ కూటమి ట్యూటానిక్ నైట్స్‌ను ఓడించిన యూరోప్‌లోని అతిపెద్ద యుద్ధాల్లో ఒకటి."
+	},
+	{
+		"year": "1400",
+		"name_en": "Rise of the Ashikaga Shogunate (Japan)",
+		"name_te": "అషికాగ శోగునేట్ ఎదుగుదల (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "The Ashikaga Shogunate consolidates power in Japan, leading to the Muromachi period.",
+		"desc_te": "జపాన్‌లో అషికాగ శోగునేట్ అధికారాన్ని సమీకరించి, మురోమాచీ యుగానికి దారితీసింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Christianity in Russia: Construction of the Kremlin (Europe/Asia)",
+		"name_te": "రష్యాలో క్రైస్తవ మతం: క్రెమ్లిన్ నిర్మాణం (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 55.7522,
+			"lng": 37.6156
+		},
+		"desc_en": "Ivan III (the Great) begins construction of the Moscow Kremlin, symbolizing the rise of Orthodox Christianity in Russia.",
+		"desc_te": "ఇవాన్ III (ది గ్రేట్) మాస్కో క్రెమ్లిన్ నిర్మాణాన్ని ప్రారంభించి, రష్యాలో ఆర్థడాక్స్ క్రైస్తవ మతం అభివృద్ధికి సంకేతంగా నిలిచింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Portuguese Exploration of Africa (Europe/Africa)",
+		"name_te": "పోర్చుగీస్ ఆఫ్రికా అన్వేషణ (యూరోప్/ఆఫ్రికా)",
+		"location": {
+			"lat": 38.7223,
+			"lng": -9.1393
+		},
+		"desc_en": "Portuguese navigators, including Henry the Navigator, explore the West African coast, paving the way for the Age of Discovery.",
+		"desc_te": "హెన్రీ ది నావిగేటర్ సహా పోర్చుగీస్ నావికులు పశ్చిమ ఆఫ్రికా తీరాన్ని అన్వేషించి, డిస్కవరీ యుగానికి బాటలు వేశారు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Mamluk Sultanate in Egypt (Africa/Asia)",
+		"name_te": "ఈజిప్టులో మమలూక్ సుల్తానేట్ (ఆఫ్రికా/ఆసియా)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The Mamluk Sultanate remains a dominant power in Egypt and the Levant, defending against Timur's invasions.",
+		"desc_te": "ఈజిప్టు మరియు లెవాంట్‌లో మమలూక్ సుల్తానేట్ ప్రధాన శక్తిగా కొనసాగి, తిమూర్ దాడులను ఎదుర్కొంది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Timur's Invasions in Asia (Central Asia/India)",
+		"name_te": "తిమూర్ దండయాత్రలు (మధ్య ఆసియా/భారతదేశం)",
+		"location": {
+			"lat": 39.6542,
+			"lng": 66.9597
+		},
+		"desc_en": "Timur (Tamerlane) invades India and Central Asia, sacking Delhi in 1398 and influencing the region into the 15th century.",
+		"desc_te": "తిమూర్ (తామర్లేన్) భారతదేశం, మధ్య ఆసియాలో దండయాత్రలు నిర్వహించి, 1398లో ఢిల్లీని దోచి, 15వ శతాబ్దంలో ప్రాంతాన్ని ప్రభావితం చేశాడు."
+	},
+	{
+		"year": "1400",
+		"name_en": "Kingdom of Kongo Emerges (Africa)",
+		"name_te": "కాంగో రాజ్యం ఆవిర్భావం (ఆఫ్రికా)",
+		"location": {
+			"lat": -6.5742,
+			"lng": 15.2736
+		},
+		"desc_en": "The Kingdom of Kongo rises as a major power in Central Africa during the 15th century.",
+		"desc_te": "15వ శతాబ్దంలో కాంగో రాజ్యం మధ్య ఆఫ్రికాలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "First Contact with Aboriginal Australians (Australia)",
+		"name_te": "ఆస్ట్రేలియాలో ఆదివాసీలతో మొదటి సంప్రదింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25.2744,
+			"lng": 133.7751
+		},
+		"desc_en": "Possible first contact between Makassan traders from Indonesia and Aboriginal Australians in northern Australia.",
+		"desc_te": "ఇండోనేషియా నుండి మకాసన్ వ్యాపారులు ఉత్తర ఆస్ట్రేలియాలో ఆదివాసీలతో మొదటి సంప్రదింపులు జరిపిన అవకాశం ఉంది."
+	},
+	{
+		"year": "1492",
+		"name_en": "Columbus Reaches the Americas (America/Europe)",
+		"name_te": "కొలంబస్ అమెరికా చేరిక (అమెరికా/యూరోప్)",
+		"location": {
+			"lat": 24.5557,
+			"lng": -81.7826
+		},
+		"desc_en": "Christopher Columbus, sailing for Spain, lands in the Americas, initiating European colonization.",
+		"desc_te": "స్పెయిన్ తరఫున ప్రయాణించిన క్రిస్టోఫర్ కొలంబస్ అమెరికా చేరుకుని, యూరోపియన్ వలసలకు నాంది పలికాడు."
+	},
+	{
+		"year": "1453",
+		"name_en": "End of the Hundred Years' War (Europe)",
+		"name_te": "నూరు సంవత్సరాల యుద్ధం ముగింపు (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "The Hundred Years' War between England and France ends in 1453, reshaping European politics.",
+		"desc_te": "ఇంగ్లాండ్-ఫ్రాన్స్ మధ్య నూరు సంవత్సరాల యుద్ధం 1453లో ముగిసి, యూరోపియన్ రాజకీయాలను మార్చింది."
+	},
+	{
+		"year": "1400",
+		"name_en": "Rise of the Mahajanapadas and Regional Kingdoms (India)",
+		"name_te": "మహాజనపదాలు మరియు ప్రాంతీయ రాజ్యాల ఎదుగుదల (భారతదేశం)",
+		"location": {
+			"lat": 25.3176,
+			"lng": 82.9739
+		},
+		"desc_en": "Several regional kingdoms and Mahajanapadas, such as Jaunpur Sultanate and Gajapati Kingdom, flourish in North and East India.",
+		"desc_te": "ఉత్తర మరియు తూర్పు భారతదేశంలో జౌన్‌పూర్ సుల్తానేట్, గజపతి రాజ్యం వంటి మహాజనపదాలు, ప్రాంతీయ రాజ్యాలు అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "1400",
+		"name_en": "Yongle Emperor Builds Forbidden City (China)",
+		"name_te": "యాంగ్‌లే చక్రవర్తి ఫోర్బిడెన్ సిటీ నిర్మాణం (చైనా)",
+		"location": {
+			"lat": 39.9163,
+			"lng": 116.3972
+		},
+		"desc_en": "The Yongle Emperor of the Ming Dynasty builds the Forbidden City in Beijing (1406–1420).",
+		"desc_te": "మింగ్ రాజవంశానికి చెందిన యాంగ్‌లే చక్రవర్తి 1406–1420 మధ్య బీజింగ్‌లో ఫోర్బిడెన్ సిటీని నిర్మించారు."
+	}
+]

@@ -1,0 +1,244 @@
+[
+	{
+		"year": "-2100",
+		"name_en": "God's Covenant with Abraham",
+		"name_te": "అబ్రాహాముతో దేవుని ఒడంబడిక",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "God makes a covenant with Abraham, promising descendants and land (Genesis 15:1-21)",
+		"desc_te": "దేవుడు అబ్రాహాముతో సంతానం, దేశం వాగ్దానం చేస్తూ ఒడంబడిక చేసుకున్నాడు (ఆదికాండము 15:1-21)"
+	},
+	{
+		"year": "-2090",
+		"name_en": "Birth of Ishmael",
+		"name_te": "ఇష్మాయేలు జననం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Ishmael is born to Abraham and Hagar (Genesis 16:1-16)",
+		"desc_te": "అబ్రాహాము, హాగరు కు ఇష్మాయేలు జన్మించాడు (ఆదికాండము 16:1-16)"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Covenant of Circumcision",
+		"name_te": "సున్నతి ఒడంబడిక",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "God establishes circumcision as a sign of the covenant (Genesis 17:9-14)",
+		"desc_te": "దేవుడు ఒడంబడికకు సంకేతంగా సున్నతిని ఆదేశించాడు (ఆదికాండము 17:9-14)"
+	},
+	{
+		"year": "-2070",
+		"name_en": "Promise of Isaac's Birth",
+		"name_te": "ఇస్సాకు జననం వాగ్దానం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "God promises Abraham and Sarah a son, Isaac (Genesis 17:15-22; 18:1-15)",
+		"desc_te": "దేవుడు అబ్రాహాము, సారాకు కుమారుడు ఇస్సాకు వాగ్దానం చేశాడు (ఆదికాండము 17:15-22; 18:1-15)"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Destruction of Sodom and Gomorrah",
+		"name_te": "సొదొము, గోమొరా నాశనం",
+		"location": {
+			"lat": 31.1,
+			"lng": 35.4
+		},
+		"desc_en": "God destroys Sodom and Gomorrah for their wickedness (Genesis 19:1-29)",
+		"desc_te": "దేవుడు సొదొము, గోమొరా పట్టణాలను వారి దుష్టత్వం వల్ల నాశనం చేశాడు (ఆదికాండము 19:1-29)"
+	},
+	{
+		"year": "-2050",
+		"name_en": "Birth of Moab and Ammon",
+		"name_te": "మోయాబు, అమ్మోను జననం",
+		"location": {
+			"lat": 31.1,
+			"lng": 35.4
+		},
+		"desc_en": "Moab and Ammon are born to Lot's daughters (Genesis 19:30-38)",
+		"desc_te": "లోతు కుమార్తెలకు మోయాబు, అమ్మోను జన్మించారు (ఆదికాండము 19:30-38)"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Abraham and Abimelech at Gerar",
+		"name_te": "అబ్రాహాము, అభిమెలెక్ గెరారులో",
+		"location": {
+			"lat": 31.3,
+			"lng": 34.8
+		},
+		"desc_en": "Abraham sojourns in Gerar and makes a treaty with Abimelech (Genesis 20:1-18; 21:22-34)",
+		"desc_te": "అబ్రాహాము గెరారులో నివసించి అభిమెలెక్ తో ఒడంబడిక చేసుకున్నాడు (ఆదికాండము 20:1-18; 21:22-34)"
+	},
+	{
+		"year": "-2030",
+		"name_en": "Birth of Isaac Foretold Again",
+		"name_te": "ఇస్సాకు జననం మళ్ళీ వాగ్దానం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "God again promises Isaac's birth to Abraham and Sarah (Genesis 18:9-15)",
+		"desc_te": "దేవుడు మళ్ళీ అబ్రాహాము, సారాకు ఇస్సాకు జననం వాగ్దానం చేశాడు (ఆదికాండము 18:9-15)"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Birth of Isaac",
+		"name_te": "ఇస్సాకు జననం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Isaac is born to Abraham and Sarah (Genesis 21:1-7)",
+		"desc_te": "అబ్రాహాము, సారాకు ఇస్సాకు జన్మించాడు (ఆదికాండము 21:1-7)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Ishmael Sent Away",
+		"name_te": "ఇష్మాయేలు పంపివేయబడినాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Hagar and Ishmael are sent away by Abraham (Genesis 21:8-21)",
+		"desc_te": "హాగరు, ఇష్మాయేలు అబ్రాహాము ద్వారా పంపివేయబడ్డారు (ఆదికాండము 21:8-21)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Abraham's Treaty with Abimelech at Beersheba",
+		"name_te": "బేర్షెబాలో అబ్రాహాము, అభిమెలెక్ ఒడంబడిక",
+		"location": {
+			"lat": 31.2,
+			"lng": 34.8
+		},
+		"desc_en": "Abraham makes a treaty with Abimelech at Beersheba (Genesis 21:22-34)",
+		"desc_te": "బేర్షెబాలో అబ్రాహాము, అభిమెలెక్ ఒడంబడిక చేసుకున్నారు (ఆదికాండము 21:22-34)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "The Binding of Isaac (Akedah)",
+		"name_te": "ఇస్సాకు బంధనం (ఆకేదా)",
+		"location": {
+			"lat": 31.7,
+			"lng": 35.2
+		},
+		"desc_en": "Abraham is tested by God to sacrifice Isaac (Genesis 22:1-19)",
+		"desc_te": "దేవుడు అబ్రాహామును పరీక్షించి, ఇస్సాకును బలి అర్పించమని ఆజ్ఞాపించాడు (ఆదికాండము 22:1-19)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Death of Sarah, Purchase of Machpelah",
+		"name_te": "సారా మరణం, మక్ఫేలా కొనుగోలు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Sarah dies and Abraham purchases the cave of Machpelah (Genesis 23:1-20)",
+		"desc_te": "సారా మరణించి, అబ్రాహాము మక్ఫేలా గుహను కొనుగోలు చేశాడు (ఆదికాండము 23:1-20)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Abraham's Servant Sent to Find a Wife for Isaac",
+		"name_te": "ఇస్సాకు పెళ్లి కోసం అబ్రాహాము సేవకుడు పంపించబడినాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Abraham sends his servant to find a wife for Isaac (Genesis 24:1-9)",
+		"desc_te": "ఇస్సాకు భార్యను వెతకమని అబ్రాహాము తన సేవకుని పంపాడు (ఆదికాండము 24:1-9)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Rebekah at the Well",
+		"name_te": "బావిలో రిబ్కా",
+		"location": {
+			"lat": 36.9,
+			"lng": 37
+		},
+		"desc_en": "Rebekah is chosen as Isaac's wife at the well (Genesis 24:10-27)",
+		"desc_te": "బావిలో రిబ్కా ఇస్సాకు భార్యగా ఎంపిక చేయబడింది (ఆదికాండము 24:10-27)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Marriage of Isaac and Rebekah",
+		"name_te": "ఇస్సాకు, రిబ్కా వివాహం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Isaac marries Rebekah (Genesis 24:62-67)",
+		"desc_te": "ఇస్సాకు, రిబ్కా వివాహం జరిగింది (ఆదికాండము 24:62-67)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Abraham Marries Keturah",
+		"name_te": "అబ్రాహాము కేతూరాను వివాహం చేసుకున్నాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Abraham marries Keturah and has more children (Genesis 25:1-6)",
+		"desc_te": "అబ్రాహాము కేతూరాను వివాహం చేసుకుని మరిన్ని పిల్లలను కనెను (ఆదికాండము 25:1-6)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Death of Abraham",
+		"name_te": "అబ్రాహాము మరణం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Abraham dies and is buried at Machpelah (Genesis 25:7-11)",
+		"desc_te": "అబ్రాహాము మరణించి మక్ఫేలా గుహలో సమాధి చేయబడినాడు (ఆదికాండము 25:7-11)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Descendants of Ishmael",
+		"name_te": "ఇష్మాయేలు సంతానం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "The genealogy and tribes of Ishmael (Genesis 25:12-18)",
+		"desc_te": "ఇష్మాయేలు సంతానం మరియు వారి గోత్రాలు (ఆదికాండము 25:12-18)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Birth of Esau and Jacob",
+		"name_te": "యేసావు, యాకోబు జననం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Esau and Jacob are born to Isaac and Rebekah (Genesis 25:19-26)",
+		"desc_te": "ఇస్సాకు, రిబ్కాకు యేసావు, యాకోబు జన్మించారు (ఆదికాండము 25:19-26)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Esau Sells His Birthright",
+		"name_te": "యేసావు తన జ్యేష్ఠాధికారం అమ్మాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Esau sells his birthright to Jacob for stew (Genesis 25:27-34)",
+		"desc_te": "యేసావు తన జ్యేష్ఠాధికారాన్ని యాకోబుకు అమ్మాడు (ఆదికాండము 25:27-34)"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Early Life of Isaac's Family",
+		"name_te": "ఇస్సాకు కుటుంబం ప్రారంభ జీవితం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Early events in the life of Isaac, Rebekah, Esau, and Jacob (Genesis 25)",
+		"desc_te": "ఇస్సాకు, రిబ్కా, యేసావు, యాకోబు ప్రారంభ జీవితం (ఆదికాండము 25)"
+	}
+]

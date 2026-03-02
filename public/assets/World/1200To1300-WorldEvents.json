@@ -1,0 +1,508 @@
+[
+	{
+		"year": "1200",
+		"name_en": "Delhi Sultanate: Iltutmish (India)",
+		"name_te": "ఢిల్లీ సుల్తానేట్: ఇల్తుత్మిష్ (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "Iltutmish consolidates the Delhi Sultanate, issues the first Islamic coinage in India, and strengthens administration.",
+		"desc_te": "ఇల్తుత్మిష్ ఢిల్లీ సుల్తానేట్‌ను ఏకీకృతం చేసి, భారతదేశంలో మొట్టమొదటి ఇస్లామిక్ నాణేలను విడుదల చేసి, పరిపాలనను బలోపేతం చేశారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Hungary: Ladislaus IV (Europe)",
+		"name_te": "హంగేరీ రాజ్యం: లాడిస్లాస్ IV (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Ladislaus IV, known as Ladislaus the Cuman, rules Hungary and faces internal strife and Mongol threats.",
+		"desc_te": "లాడిస్లాస్ IV (ది క్యూమన్) హంగేరీని పాలించి, అంతర్గత కలహాలు, మంగోల్ ప్రమాదాలను ఎదుర్కొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Bohemia: Ottokar II (Europe)",
+		"name_te": "బొహేమియా రాజ్యం: ఒట్టోకార్ II (యూరోప్)",
+		"location": {
+			"lat": 50.0755,
+			"lng": 14.4378
+		},
+		"desc_en": "Ottokar II expands Bohemia's territory and influence in Central Europe.",
+		"desc_te": "ఒట్టోకార్ II బొహేమియా భూభాగాన్ని, ప్రభావాన్ని మధ్య యూరోప్‌లో విస్తరించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of France: Philip III (Europe)",
+		"name_te": "ఫ్రాన్స్ రాజ్యం: ఫిలిప్ III (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Philip III rules France, continuing the Capetian dynasty and participating in the Aragonese Crusade.",
+		"desc_te": "ఫిలిప్ III ఫ్రాన్స్‌ను పాలించి, కాపెటియన్ వంశాన్ని కొనసాగించి, అరగోనీస్ క్రూసేడ్‌లో పాల్గొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Portugal: Sancho II (Europe)",
+		"name_te": "పోర్చుగల్ రాజ్యం: సాంచో II (యూరోప్)",
+		"location": {
+			"lat": 38.7223,
+			"lng": -9.1393
+		},
+		"desc_en": "Sancho II rules Portugal, continuing the Christian Reconquista in the Iberian Peninsula.",
+		"desc_te": "సాంచో II పోర్చుగల్‌ను పాలించి, ఐబీరియన్ ద్వీపకల్పంలో క్రైస్తవ రికాంక్విస్టాను కొనసాగించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Poland: Bolesław V the Chaste (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం: బోలెస్లావ్ V ది చాస్ట్ (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "Bolesław V the Chaste rules Poland, promoting peace and religious tolerance.",
+		"desc_te": "బోలెస్లావ్ V ది చాస్ట్ పోలాండ్‌ను పాలించి, శాంతి, మత సహనాన్ని ప్రోత్సహించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Sweden: Canute II (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం: కన్యూట్ II (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "Canute II rules Sweden, facing dynastic struggles and external threats.",
+		"desc_te": "కన్యూట్ II స్వీడన్‌ను పాలించి, వంశపారంపర్య పోరాటాలు, బాహ్య ప్రమాదాలను ఎదుర్కొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Korea: Goryeo Dynasty (Asia)",
+		"name_te": "కొరియా రాజ్యం: గోర్యో వంశం (ఆసియా)",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "The Goryeo Dynasty in Korea faces Mongol invasions and internal strife, but maintains independence.",
+		"desc_te": "గోర్యో వంశం కొరియాను పాలించి, మంగోల్ దాడులు, అంతర్గత కలహాలను ఎదుర్కొని, స్వాతంత్ర్యాన్ని నిలుపుకుంది."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Tonga: Tu'i Tonga Empire (Oceania)",
+		"name_te": "టోంగా రాజ్యం: టుఇ్ టోంగా సామ్రాజ్యం (ఓషేనియా)",
+		"location": {
+			"lat": -21.1789,
+			"lng": -175.1982
+		},
+		"desc_en": "The Tu'i Tonga Empire dominates much of Polynesia, connecting islands through trade and culture.",
+		"desc_te": "టుఇ్ టోంగా సామ్రాజ్యం పాలినీషియాలోని అనేక దీవులను వాణిజ్యం, సంస్కృతితో అనుసంధానించింది."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Hawaii: Early Polynesian Chiefs (Oceania)",
+		"name_te": "హవాయి రాజ్యం: ప్రాథమిక పాలినీషియన్ చీఫ్స్ (ఓషేనియా)",
+		"location": {
+			"lat": 21.3069,
+			"lng": -157.8583
+		},
+		"desc_en": "Early Polynesian chiefs establish powerful chiefdoms in the Hawaiian Islands.",
+		"desc_te": "ప్రాథమిక పాలినీషియన్ చీఫ్స్ హవాయి దీవుల్లో శక్తివంతమైన చీఫ్డమ్స్‌ను స్థాపించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Bulgaria: Ivan Asen II (Europe)",
+		"name_te": "బల్గేరియా రాజ్యం: ఇవాన్ ఆసెన్ II (యూరోప్)",
+		"location": {
+			"lat": 42.6977,
+			"lng": 23.3219
+		},
+		"desc_en": "Ivan Asen II leads Bulgaria to its greatest territorial extent and prosperity.",
+		"desc_te": "ఇవాన్ ఆసెన్ II బల్గేరియాను అత్యధిక విస్తీర్ణం, శ్రేయస్సుకు నడిపించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Serbia: Stefan the First-Crowned (Europe)",
+		"name_te": "సెర్బియా రాజ్యం: స్టెఫాన్ ది ఫస్ట్-క్రౌన్డ్ (యూరోప్)",
+		"location": {
+			"lat": 44.7866,
+			"lng": 20.4489
+		},
+		"desc_en": "Stefan the First-Crowned becomes the first King of Serbia, establishing the Nemanjić dynasty.",
+		"desc_te": "స్టెఫాన్ ది ఫస్ట్-క్రౌన్డ్ సెర్బియాలో మొదటి రాజుగా అవతరించి, నేమనిజ్ వంశాన్ని స్థాపించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Castile: Ferdinand III (Europe)",
+		"name_te": "కాస్టిల్ రాజ్యం: ఫెర్డినాండ్ III (యూరోప్)",
+		"location": {
+			"lat": 40.4168,
+			"lng": -3.7038
+		},
+		"desc_en": "Ferdinand III unites Castile and León, advancing the Christian Reconquista in Spain.",
+		"desc_te": "ఫెర్డినాండ్ III కాస్టిల్, లియోన్‌లను ఏకీకృతం చేసి, స్పెయిన్‌లో క్రైస్తవ రికాంక్విస్టాను ముందుకు నడిపించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Scotland: William the Lion (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: విలియం ది లయన్ (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "William the Lion rules Scotland, strengthening the monarchy and founding royal burghs.",
+		"desc_te": "విలియం ది లయన్ స్కాట్లాండ్‌ను పాలించి, రాజ్యాన్ని బలోపేతం చేసి, రాయల్ బర్గ్స్‌ను స్థాపించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Jerusalem: John of Brienne (Asia/Europe)",
+		"name_te": "జెరూసలేం రాజ్యం: జాన్ ఆఫ్ బ్రియెన్నే (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 31.7683,
+			"lng": 35.2137
+		},
+		"desc_en": "John of Brienne rules the Kingdom of Jerusalem, participating in the Fifth Crusade.",
+		"desc_te": "జాన్ ఆఫ్ బ్రియెన్నే జెరూసలేం రాజ్యాన్ని పాలించి, ఐదవ క్రూసేడ్‌లో పాల్గొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Norway: Guttorm Sigurdsson (Europe)",
+		"name_te": "నార్వే రాజ్యం: గుట్టోర్మ్ సిగుర్డ్సన్ (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Guttorm Sigurdsson briefly rules Norway as a child king during a period of civil war.",
+		"desc_te": "గుట్టోర్మ్ సిగుర్డ్సన్ పౌరయుద్ధ సమయంలో చిన్న వయసులో నార్వేను పాలించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Sweden: Eric XI (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం: ఎరిక్ XI (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "Eric XI rules Sweden, restoring the Eric dynasty after a period of turmoil.",
+		"desc_te": "ఎరిక్ XI స్వీడన్‌ను పాలించి, కలహాల అనంతరం ఎరిక్ వంశాన్ని పునరుద్ధరించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Armenia: Hethum I (Asia/Europe)",
+		"name_te": "ఆర్మేనియా రాజ్యం: హేతుమ్ I (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 40.0691,
+			"lng": 45.0382
+		},
+		"desc_en": "Hethum I rules Cilician Armenia, forging alliances with the Mongols.",
+		"desc_te": "హేతుమ్ I సిలిసియన్ ఆర్మేనియాను పాలించి, మంగోల్స్‌తో కూటములు ఏర్పరిచారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Mapuche in South America (America)",
+		"name_te": "దక్షిణ అమెరికాలో మాపుచే రాజ్యం (అమెరికా)",
+		"location": {
+			"lat": -38.9516,
+			"lng": -72.4359
+		},
+		"desc_en": "The Mapuche people in South America maintain independence and resist Inca expansion.",
+		"desc_te": "దక్షిణ అమెరికాలో మాపుచే ప్రజలు స్వాతంత్ర్యాన్ని నిలుపుకుని, ఇంకా సామ్రాజ్య విస్తరణను ఎదుర్కొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Georgia: Queen Tamar (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యం: రాణి తమార్ (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "Queen Tamar leads Georgia to its golden age, expanding territory and promoting Christianity.",
+		"desc_te": "రాణి తమార్ జార్జియాను స్వర్ణయుగానికి నడిపించి, భూభాగాన్ని విస్తరించి, క్రైస్తవ మతాన్ని ప్రోత్సహించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Sicily: Frederick II (Europe)",
+		"name_te": "సిసిలీ రాజ్యం: ఫ్రెడరిక్ II (యూరోప్)",
+		"location": {
+			"lat": 37.5999,
+			"lng": 14.0154
+		},
+		"desc_en": "Frederick II rules Sicily and the Holy Roman Empire, fostering science, culture, and religious tolerance.",
+		"desc_te": "ఫ్రెడరిక్ II సిసిలీ, హోలీ రోమన్ఎంపెరర్‌గా పాలించి, శాస్త్రం, సంస్కృతి, మత సహనాన్ని ప్రోత్సహించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Denmark: Valdemar II (Europe)",
+		"name_te": "డెన్మార్క్ రాజ్యం: వాల్డెమార్ II (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "Valdemar II expands Danish territory and influence in Northern Europe.",
+		"desc_te": "వాల్డెమార్ II డెన్మార్క్ భూభాగాన్ని, ప్రభావాన్ని ఉత్తర యూరోప్‌లో విస్తరించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Sweden: Birger Jarl (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం: బిర్గర్ జార్ల్ (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "Birger Jarl founds Stockholm and consolidates Swedish power.",
+		"desc_te": "బిర్గర్ జార్ల్ స్టాక్‌హోమ్‌ను స్థాపించి, స్వీడిష్ శక్తిని ఏకీకృతం చేశారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Armenia: Levon II (Asia/Europe)",
+		"name_te": "ఆర్మేనియా రాజ్యం: లెవోన్ II (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 40.0691,
+			"lng": 45.0382
+		},
+		"desc_en": "Levon II rules Cilician Armenia, maintaining Christian rule in the region.",
+		"desc_te": "లెవోన్ II సిలిసియన్ ఆర్మేనియాను పాలించి, ఆ ప్రాంతంలో క్రైస్తవ పాలనను కొనసాగించారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Hungary: Béla IV (Europe)",
+		"name_te": "హంగేరీ రాజ్యం: బెలా IV (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Béla IV rebuilds Hungary after the Mongol invasion, strengthening the kingdom.",
+		"desc_te": "బెలా IV మంగోల్ దాడుల తర్వాత హంగేరీని పునర్నిర్మించి, రాజ్యాన్ని బలోపేతం చేశారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Portugal: Afonso II (Europe)",
+		"name_te": "పోర్చుగల్ రాజ్యం: ఆఫోన్సో II (యూరోప్)",
+		"location": {
+			"lat": 38.7223,
+			"lng": -9.1393
+		},
+		"desc_en": "Afonso II of Portugal strengthens royal authority and codifies laws.",
+		"desc_te": "పోర్చుగల్‌కు చెందిన ఆఫోన్సో II రాజశక్తిని బలోపేతం చేసి, చట్టాలను సంకలనం చేశారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Poland: Władysław III Spindleshanks (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం: వ్లాడిస్లావ్ III స్పిండిల్‌ష్యాంక్స్ (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "Władysław III Spindleshanks rules Poland, facing internal divisions and external threats.",
+		"desc_te": "వ్లాడిస్లావ్ III స్పిండిల్‌ష్యాంక్స్ పోలాండ్‌ను పాలించి, అంతర్గత విభజనలు, బాహ్య ప్రమాదాలను ఎదుర్కొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Norway: Skule Bårdsson (Europe)",
+		"name_te": "నార్వే రాజ్యం: స్కూలే బార్డ్సన్ (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Skule Bårdsson is a powerful noble and regent in Norway, involved in civil wars.",
+		"desc_te": "స్కూలే బార్డ్సన్ నార్వేలో శక్తివంతమైన రాజకుమారుడిగా, పౌరయుద్ధాల్లో పాల్గొన్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Champa in Vietnam (Asia)",
+		"name_te": "వియత్నాంలో చాంపా రాజ్యం (ఆసియా)",
+		"location": {
+			"lat": 15.5394,
+			"lng": 108.0191
+		},
+		"desc_en": "The Kingdom of Champa in central Vietnam faces invasions from the Khmer Empire.",
+		"desc_te": "మధ్య వియత్నాంలోని చాంపా రాజ్యం ఖ్మేర్ సామ్రాజ్య దాడులను ఎదుర్కొంది."
+	},
+	{
+		"year": "1200",
+		"name_en": "Delhi Sultanate: Slave Dynasty (India)",
+		"name_te": "ఢిల్లీ సుల్తానేట్: غلام వంశం (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "The Slave Dynasty (Mamluk Dynasty) rules the Delhi Sultanate, establishing Muslim rule in northern India.",
+		"desc_te": "ఢిల్లీ సుల్తానేట్‌లో غلام వంశం (మమలూక్ వంశం) పాలన, ఉత్తర భారతదేశంలో ముస్లిం పాలన స్థాపన."
+	},
+	{
+		"year": "1200",
+		"name_en": "Mongol Empire: Genghis Khan (Asia)",
+		"name_te": "మంగోల్ సామ్రాజ్యం: చెంగిస్ ఖాన్ (ఆసియా)",
+		"location": {
+			"lat": 47.9212,
+			"lng": 106.9186
+		},
+		"desc_en": "Genghis Khan unites the Mongol tribes and begins the conquest of Asia and Europe, creating the largest land empire in history.",
+		"desc_te": "చెంగిస్ ఖాన్ మంగోల్ గోత్రాలను ఏకీకృతం చేసి, ఆసియా, యూరోప్‌పై దండయాత్రలు ప్రారంభించి, చరిత్రలో అతిపెద్ద భూభాగ సామ్రాజ్యాన్ని నిర్మించాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Fourth Crusade and Sack of Constantinople (Europe/Asia)",
+		"name_te": "నాల్గవ క్రూసేడ్ మరియు కాన్స్టాంటినోపుల్ దోపిడీ (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 41.0082,
+			"lng": 28.9784
+		},
+		"desc_en": "The Fourth Crusade diverts to Constantinople, sacking the city in 1204 and establishing the Latin Empire.",
+		"desc_te": "1204లో నాల్గవ క్రూసేడ్ కాన్స్టాంటినోపుల్‌ను దోచి, లాటిన్ సామ్రాజ్యాన్ని స్థాపించింది."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Mali: Sundiata Keita (Africa)",
+		"name_te": "మాలి రాజ్యం: సుందియాటా కేటా (ఆఫ్రికా)",
+		"location": {
+			"lat": 12.6392,
+			"lng": -8.0029
+		},
+		"desc_en": "Sundiata Keita founds the Mali Empire, which becomes a major center of trade and Islamic culture in West Africa.",
+		"desc_te": "సుందియాటా కేటా మాలి సామ్రాజ్యాన్ని స్థాపించి, పశ్చిమ ఆఫ్రికాలో వాణిజ్యం, ఇస్లామిక్ సంస్కృతికి కేంద్రంగా మార్చాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Magna Carta Signed (Europe/England)",
+		"name_te": "మాగ్నా కార్టా సంతకం (యూరోప్/ఇంగ్లాండ్)",
+		"location": {
+			"lat": 51.4839,
+			"lng": -0.5456
+		},
+		"desc_en": "King John of England signs the Magna Carta in 1215, limiting royal power and laying the foundation for constitutional government.",
+		"desc_te": "ఇంగ్లాండ్‌కు చెందిన కింగ్ జాన్ 1215లో మాగ్నా కార్టా సంతకం చేసి, రాజశక్తిని పరిమితం చేసి, రాజ్యాంగ పాలనకు పునాది వేశాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Yuan Dynasty Founded by Kublai Khan (China/Asia)",
+		"name_te": "కుబ్లాయ్ ఖాన్ ద్వారా యువాన్ వంశం స్థాపన (చైనా/ఆసియా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "Kublai Khan founds the Yuan Dynasty in China in 1271, integrating China into the Mongol Empire.",
+		"desc_te": "1271లో కుబ్లాయ్ ఖాన్ చైనాలో యువాన్ వంశాన్ని స్థాపించి, చైనాను మంగోల్ సామ్రాజ్యంలో భాగం చేశాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of France: Louis IX (Europe)",
+		"name_te": "ఫ్రాన్స్ రాజ్యం: లూయిస్ IX (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Louis IX, later canonized as Saint Louis, rules France and leads the Seventh and Eighth Crusades.",
+		"desc_te": "లూయిస్ IX (తరువాత సెయింట్ లూయిస్) ఫ్రాన్స్‌ను పాలించి, ఏడవ మరియు ఎనిమిదవ క్రూసేడ్లకు నాయకత్వం వహించాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of England: Henry III (Europe)",
+		"name_te": "ఇంగ్లాండ్ రాజ్యం: హెన్రీ III (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Henry III rules England, overseeing the construction of Westminster Abbey and facing baronial revolts.",
+		"desc_te": "హెన్రీ III ఇంగ్లాండ్‌ను పాలించి, వెస్ట్‌మినిస్టర్ అబ్బే నిర్మాణాన్ని పర్యవేక్షించి, బారన్ల తిరుగుబాట్లను ఎదుర్కొన్నాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Poland: Leszek the White (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం: లెషెక్ ది వైట్ (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "Leszek the White rules Poland, facing internal strife and Mongol invasions.",
+		"desc_te": "లెషెక్ ది వైట్ పోలాండ్‌ను పాలించి, అంతర్గత కలహాలు, మంగోల్ దాడులను ఎదుర్కొన్నాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Hungary: Andrew II (Europe)",
+		"name_te": "హంగేరీ రాజ్యం: ఆండ్రూ II (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Andrew II of Hungary issues the Golden Bull of 1222, limiting royal power and granting rights to nobles.",
+		"desc_te": "హంగేరీకి చెందిన ఆండ్రూ II 1222లో గోల్డెన్ బుల్ జారీ చేసి, రాజశక్తిని పరిమితం చేసి, రాజులకు హక్కులు ఇచ్చాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Scotland: Alexander II and III (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: అలెగ్జాండర్ II మరియు III (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "Alexander II and III rule Scotland, defending against Norse invasions and maintaining independence.",
+		"desc_te": "అలెగ్జాండర్ II మరియు III స్కాట్లాండ్‌ను పాలించి, నోర్స్ దాడులను ఎదుర్కొని, స్వాతంత్ర్యాన్ని నిలుపుకున్నారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Norway: Haakon IV (Europe)",
+		"name_te": "నార్వే రాజ్యం: హాకోన్ IV (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Haakon IV rules Norway, expanding its influence and strengthening the monarchy.",
+		"desc_te": "హాకోన్ IV నార్వేను పాలించి, ప్రభావాన్ని విస్తరించి, రాజ్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Japan: Kamakura Shogunate (Asia)",
+		"name_te": "జపాన్ రాజ్యం: కామాకురా శోగునేట్ (ఆసియా)",
+		"location": {
+			"lat": 35.3167,
+			"lng": 139.55
+		},
+		"desc_en": "The Kamakura Shogunate rules Japan, repelling Mongol invasions in 1274 and 1281.",
+		"desc_te": "కామాకురా శోగునేట్ జపాన్‌ను పాలించి, 1274, 1281లో మంగోల్ దాడులను ఎదుర్కొంది."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Khmer: Jayavarman VII (Asia/Cambodia)",
+		"name_te": "ఖ్మేర్ రాజ్యం: జయవర్మన్ VII (ఆసియా/కంబోడియా)",
+		"location": {
+			"lat": 13.4125,
+			"lng": 103.8667
+		},
+		"desc_en": "Jayavarman VII rules the Khmer Empire, building Angkor Thom and promoting Buddhism.",
+		"desc_te": "జయవర్మన్ VII ఖ్మేర్ సామ్రాజ్యాన్ని పాలించి, అంకోర్ థామ్ నిర్మించి, బౌద్ధాన్ని ప్రోత్సహించాడు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Kingdom of Ghana Declines (Africa)",
+		"name_te": "ఘానా రాజ్యం పతనం (ఆఫ్రికా)",
+		"location": {
+			"lat": 7.9465,
+			"lng": -1.0232
+		},
+		"desc_en": "The Kingdom of Ghana declines, replaced by the rising Mali Empire in West Africa.",
+		"desc_te": "ఘానా రాజ్యం పతనమై, పశ్చిమ ఆఫ్రికాలో మాలి సామ్రాజ్యం ఎదుగుదల."
+	},
+	{
+		"year": "1200",
+		"name_en": "Ancestral Puebloans in North America (America)",
+		"name_te": "ఉత్తర అమెరికాలో అన్సెస్ట్రల్ ప్యూబ్లోవాన్స్ (అమెరికా)",
+		"location": {
+			"lat": 36.998,
+			"lng": -109.0452
+		},
+		"desc_en": "The Ancestral Puebloans (Anasazi) build cliff dwellings and develop complex societies in the American Southwest.",
+		"desc_te": "అన్సెస్ట్రల్ ప్యూబ్లోవాన్స్ (అనాసాజీ) ఉత్తర అమెరికా దక్షిణ పశ్చిమంలో కొండలపై నివాసాలు నిర్మించి, సంక్లిష్ట సమాజాలను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "1200",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	}
+]

@@ -1,0 +1,222 @@
+[
+	{
+		"year": "-1300",
+		"name_en": "Trojan War (Anatolia)",
+		"name_te": "ట్రోజన్ యుద్ధం (అనాటోలియా)",
+		"location": {
+			"lat": 39.96,
+			"lng": 26.24
+		},
+		"desc_en": "Legendary Trojan War between Greeks and Trojans",
+		"desc_te": "గ్రీకులు, ట్రోజన్‌ల మధ్య ఐతిహ్య ట్రోజన్ యుద్ధం"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Ramesses II Peace with Hittites (Egypt)",
+		"name_te": "రమెస్సెస్ II హిట్టైట్‌లతో శాంతి (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ramesses II and Hittites sign first international peace treaty",
+		"desc_te": "రమెస్సెస్ II, హిట్టైట్‌లు మొదటి అంతర్జాతీయ శాంతి సంధి సంతకం"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Mycenaean-Dorian Conflict (Greece)",
+		"name_te": "మైసెనియన్-డోరియన్ సంఘర్షణ (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Dorian invasions impact Mycenaean civilization",
+		"desc_te": "డోరియన్ ఆక్రమణ మైసెనియన్ నాగరికతపై ప్రభావం"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Zhou Dynasty Expansion (China)",
+		"name_te": "జోవు రాజవంశ విస్తరణ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou Dynasty expands territory eastward",
+		"desc_te": "పశ్చిమ జోవు రాజవంశం ప్రాంత తూర్పుకు విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1300",
+		"name_en": "Brahmanis Vedic Period (India)",
+		"name_te": "బ్రాహ్మణ వేదిక కాలం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Brahmanic literature begins development in Vedic India",
+		"desc_te": "వేదిక భారతదేశంలో బ్రాహ్మణ సాహిత్యం అభివృద్ధి ప్రారంభ"
+	},
+	{
+		"year": "-1280",
+		"name_en": "Ramesses III Temple of Medinet Habu (Egypt)",
+		"name_te": "రమెస్సెస్ III మెదీనెట్ హాబు దేవాలయ (ఈజిప్ట్)",
+		"location": {
+			"lat": 25.75,
+			"lng": 32.6
+		},
+		"desc_en": "Ramesses III builds Medinet Habu temple complex",
+		"desc_te": "రమెస్సెస్ III మెదీనెట్ హాబు దేవాలయ సముదాయం నిర్మాణం"
+	},
+	{
+		"year": "-1280",
+		"name_en": "Egyptian Power Decline (Egypt)",
+		"name_te": "ఈజిప్టియన్ శక్తి క్షీణత (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian power and influence begin to decline",
+		"desc_te": "ఈజిప్టియన్ శక్తి, ప్రభావం క్షీణత ప్రారంభ"
+	},
+	{
+		"year": "-1280",
+		"name_en": "Greek Dark Age Deepens (Greece)",
+		"name_te": "గ్రీక్ చీకటి యుగం లోతుతరుపుత (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greek Dark Age deepens with writing system lost",
+		"desc_te": "రచన వ్యవస్థ నష్టంతో గ్రీక్ చీకటి యుగం లోతుతరుపుతుంది"
+	},
+	{
+		"year": "-1280",
+		"name_en": "Shang Dynasty Final Years (China)",
+		"name_te": "షాంగ్ రాజవంశ చివరి సంవత్సరాలు (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty enters final years of rule",
+		"desc_te": "షాంగ్ రాజవంశం పాలన చివరి సంవత్సరాలకు ప్రవేశ"
+	},
+	{
+		"year": "-1280",
+		"name_en": "Nubian Independence (Africa)",
+		"name_te": "న్యూబియన్ స్వాతంత్య్రం (ఆఫ్రికా)",
+		"location": {
+			"lat": 18,
+			"lng": 32.5
+		},
+		"desc_en": "Nubian kingdoms gain independence from Egypt",
+		"desc_te": "న్యూబియన్ రాజ్యాలు ఈజిప్ట్ నుండి స్వాతంత్య్రం పొందుతాయి"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Iron Tools Spread (Mediterranean)",
+		"name_te": "ఇనుప్ప సాధనాలు వ్యాపకం (భూమధ్య సాగర)",
+		"location": {
+			"lat": 35,
+			"lng": 30
+		},
+		"desc_en": "Iron tools and weapons begin spreading through Mediterranean",
+		"desc_te": "ఇనుప్ప సాధనాలు, ఆయుధాలు భూమధ్య సాగరలో వ్యాపకం"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Zhou Dynasty Feudal System (China)",
+		"name_te": "జోవు రాజవంశ సామంత వ్యవస్థ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Western Zhou establishes developed feudal system",
+		"desc_te": "పశ్చిమ జోవు పూర్తిగా అభివృద్ధ సామంత వ్యవస్థ ఏర్పాటు"
+	},
+	{
+		"year": "-1260",
+		"name_en": "Vedic Kingdoms Consolidate (India)",
+		"name_te": "వేదిక రాజ్యాలు సంపీడన (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic kingdoms further consolidate in northern India",
+		"desc_te": "వేదిక రాజ్యాలు ఉత్తర భారతదేశంలో మరిన్ని సంపీడన"
+	},
+	{
+		"year": "-1240",
+		"name_en": "Mycenaean Palaces Destroyed (Greece)",
+		"name_te": "మైసెనియన్ రాజభవనాలు నాశనం (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean palaces destroyed in Greece",
+		"desc_te": "గ్రీస్‌లో మైసెనియన్ రాజభవనాలు నాశనం"
+	},
+	{
+		"year": "-1240",
+		"name_en": "Phoenicians Establish Colonies (Mediterranean)",
+		"name_te": "ఫోనిషియన్‌లు కాలోనీలు స్థాపన (భూమధ్య సాగర)",
+		"location": {
+			"lat": 34,
+			"lng": 35
+		},
+		"desc_en": "Phoenicians establish trading colonies across Mediterranean",
+		"desc_te": "ఫోనిషియన్‌లు భూమధ్య సాగర అంతటా వాణిజ్య కాలోనీలు స్థాపన"
+	},
+	{
+		"year": "-1240",
+		"name_en": "Egyptian Priests Gain Power (Egypt)",
+		"name_te": "ఈజిప్టియన్ ఆచార్యులు శక్తి పొందుతారు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian priesthood begins gaining political power",
+		"desc_te": "ఈజిప్టియన్ ఆచార్య సంఘం రాజకీయ శక్తి పొందటం ప్రారంభ"
+	},
+	{
+		"year": "-1220",
+		"name_en": "Bronze Age Collapse Completes (Mediterranean)",
+		"name_te": "ఆరు్యకాశ్య కాలం సంక్షోభ సంపూర్ణ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 35,
+			"lng": 30
+		},
+		"desc_en": "Bronze Age collapse completes across Mediterranean",
+		"desc_te": "భూమధ్య సాగర అంతటా ఆరు్యకాశ్య కాలం సంక్షోభ సంపూర్ణ"
+	},
+	{
+		"year": "-1220",
+		"name_en": "Alphabet Development Begins (Mediterranean)",
+		"name_te": "వర్ణమాల అభివృద్ధి ప్రారంభ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 34,
+			"lng": 35
+		},
+		"desc_en": "Alphabet development begins in Phoenician cities",
+		"desc_te": "ఫోనిషియన్ నగరాలలో వర్ణమాల అభివృద్ధి ప్రారంభ"
+	},
+	{
+		"year": "-1220",
+		"name_en": "Shang Dynasty Ends (China)",
+		"name_te": "షాంగ్ రాజవంశం ముగుస్తుంది (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty ends, Zhou Dynasty becomes dominant",
+		"desc_te": "షాంగ్ రాజవంశం ముగుస్తుంది, జోవు రాజవంశం ఆధిపత్య"
+	},
+	{
+		"year": "-1220",
+		"name_en": "Indo-Aryan Vedic Culture (India)",
+		"name_te": "ఇండో-ఆర్యన్ వేదిక సంస్కృతి (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Indo-Aryan Vedic culture dominates northern India",
+		"desc_te": "ఇండో-ఆర్యన్ వేదిక సంస్కృతి ఉత్తర భారతదేశంపై ఆధిపత్యం"
+	}
+]

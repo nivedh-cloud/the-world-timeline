@@ -1,0 +1,321 @@
+[
+	{
+		"year": "1700",
+		"name_en": "Seven Years' War (Global)",
+		"name_te": "ఏడు సంవత్సరాల యుద్ధం (ప్రపంచం)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "A global conflict involving Europe, North America, Central America, West Africa, India, and the Philippines, ending in 1763.",
+		"desc_te": "యూరోప్, ఉత్తర అమెరికా, మధ్య అమెరికా, పశ్చిమ ఆఫ్రికా, భారతదేశం, ఫిలిప్పీన్స్‌లో జరిగిన ప్రపంచ యుద్ధం 1763లో ముగిసింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "American Revolution (America)",
+		"name_te": "అమెరికన్ విప్లవం (అమెరికా)",
+		"location": {
+			"lat": 39.9526,
+			"lng": -75.1652
+		},
+		"desc_en": "The Thirteen Colonies in North America declare independence from Britain, leading to the formation of the United States.",
+		"desc_te": "ఉత్తర అమెరికాలోని పదమూడు వలసలు బ్రిటన్ నుండి స్వాతంత్ర్యం ప్రకటించి, యునైటెడ్ స్టేట్స్ ఏర్పడింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "French Revolution (France)",
+		"name_te": "ఫ్రెంచ్ విప్లవం (ఫ్రాన్స్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "The French Revolution begins in 1789, ending the monarchy and leading to the rise of Napoleon.",
+		"desc_te": "1789లో ఫ్రెంచ్ విప్లవం ప్రారంభమై, రాజ్యాన్ని ముగించి, నెపోలియన్ ఎదుగుదలకు దారితీసింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Industrial Revolution Begins (Britain)",
+		"name_te": "పరిశ్రమ విప్లవం ప్రారంభం (బ్రిటన్)",
+		"location": {
+			"lat": 53.4808,
+			"lng": -2.2426
+		},
+		"desc_en": "The Industrial Revolution begins in Britain, transforming economies, societies, and technologies worldwide.",
+		"desc_te": "బ్రిటన్‌లో పరిశ్రమ విప్లవం ప్రారంభమై, ప్రపంచవ్యాప్తంగా ఆర్థిక, సామాజిక, సాంకేతిక మార్పులకు దారితీసింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Battle of Plassey (India)",
+		"name_te": "ప్లాసీ యుద్ధం (భారతదేశం)",
+		"location": {
+			"lat": 23.9687,
+			"lng": 88.2534
+		},
+		"desc_en": "The British East India Company defeats the Nawab of Bengal in 1757, marking the start of British rule in India.",
+		"desc_te": "1757లో బ్రిటిష్ ఈస్ట్ ఇండియా కంపెనీ బెంగాల్ నవాబును ఓడించి, భారతదేశంలో బ్రిటిష్ పాలన ప్రారంభమైంది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Catherine the Great Reigns (Russia)",
+		"name_te": "కేథరిన్ ది గ్రేట్ పాలన (రష్యా)",
+		"location": {
+			"lat": 59.9343,
+			"lng": 30.3351
+		},
+		"desc_en": "Catherine the Great expands and modernizes the Russian Empire, promoting the arts and education.",
+		"desc_te": "కేథరిన్ ది గ్రేట్ రష్యా సామ్రాజ్యాన్ని విస్తరించి, ఆధునికీకరించి, కళలు, విద్యను ప్రోత్సహించారు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Qianlong Emperor Reigns (China)",
+		"name_te": "చియన్‌లాంగ్ చక్రవర్తి పాలన (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "Qianlong Emperor rules the Qing Dynasty at its height, expanding Chinese territory and culture.",
+		"desc_te": "చియన్‌లాంగ్ చక్రవర్తి చింగ్ రాజవంశాన్ని శిఖరస్థాయికి తీసుకెళ్లి, చైనా భూభాగాన్ని, సంస్కృతిని విస్తరించారు."
+	},
+	{
+		"year": "1700",
+		"name_en": "First Fleet Arrives in Australia",
+		"name_te": "ఆస్ట్రేలియాలో ఫస్ట్ ఫ్లీట్ రాక",
+		"location": {
+			"lat": -33.8688,
+			"lng": 151.2093
+		},
+		"desc_en": "The First Fleet of British ships arrives in Australia in 1788, establishing the first European colony.",
+		"desc_te": "1788లో బ్రిటిష్ నౌకల ఫస్ట్ ఫ్లీట్ ఆస్ట్రేలియాకు చేరి, తొలి యూరోపియన్ వలసను స్థాపించింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Zulu Kingdom Founded (Africa)",
+		"name_te": "జులు రాజ్యం స్థాపన (ఆఫ్రికా)",
+		"location": {
+			"lat": -29.8587,
+			"lng": 31.0218
+		},
+		"desc_en": "The Zulu Kingdom is founded in southern Africa, becoming a major regional power.",
+		"desc_te": "దక్షిణ ఆఫ్రికాలో జులు రాజ్యం స్థాపించబడి, ప్రధాన ప్రాంతీయ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Spread of Christianity in Korea",
+		"name_te": "కొరియాలో క్రైస్తవ మత విస్తరణ",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "Christianity begins to spread in Korea, with the first Catholic community established in the late 18th century.",
+		"desc_te": "18వ శతాబ్దం చివరలో కొరియాలో తొలి కాథలిక్ సంఘం స్థాపించబడటంతో క్రైస్తవ మతం విస్తరించడం ప్రారంభమైంది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Nader Shah Invades India (Persia/India)",
+		"name_te": "నాదర్ షా భారతదేశంపై దాడి (పర్షియా/భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "Nader Shah of Persia invades India in 1739, sacking Delhi and weakening the Mughal Empire.",
+		"desc_te": "పర్షియాకు చెందిన నాదర్ షా 1739లో భారతదేశంపై దాడి చేసి, ఢిల్లీని దోచి, ముగల్ సామ్రాజ్యాన్ని బలహీనపరిచాడు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Shivaji II and Maratha Expansion (India)",
+		"name_te": "శివాజీ II మరియు మరాఠా విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 18.5204,
+			"lng": 73.8567
+		},
+		"desc_en": "The Maratha Empire expands across India, challenging Mughal and European powers.",
+		"desc_te": "మరాఠా సామ్రాజ్యం భారతదేశంలో విస్తరించి, ముగల్, యూరోపియన్ శక్తులకు సవాలు చేసింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "King George III Reigns (Britain)",
+		"name_te": "కింగ్ జార్జ్ III పాలన (బ్రిటన్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "King George III rules Britain during the American Revolution and Napoleonic Wars.",
+		"desc_te": "అమెరికన్ విప్లవం, నెపోలియన్ యుద్ధాల సమయంలో కింగ్ జార్జ్ III బ్రిటన్‌ను పాలించాడు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Mozart and Classical Music Flourish (Europe)",
+		"name_te": "మొజార్ట్ మరియు క్లాసికల్ సంగీతం వికసించింది (యూరోప్)",
+		"location": {
+			"lat": 48.2082,
+			"lng": 16.3738
+		},
+		"desc_en": "Wolfgang Amadeus Mozart and other composers lead the Classical era in European music.",
+		"desc_te": "వోల్ఫ్‌గాంగ్ అమడియస్ మొజార్ట్ తదితరులు యూరోపియన్ సంగీతంలో క్లాసికల్ యుగాన్ని నడిపించారు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Haitian Revolution (Caribbean)",
+		"name_te": "హైటియన్ విప్లవం (కరీబియన్)",
+		"location": {
+			"lat": 18.9712,
+			"lng": -72.2852
+		},
+		"desc_en": "The Haitian Revolution (1791–1804) leads to the first successful slave revolt and the founding of Haiti.",
+		"desc_te": "హైటియన్ విప్లవం (1791–1804) విజయవంతమైన తొలి బానిస తిరుగుబాటు, హైటి స్థాపనకు దారితీసింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Captain Cook Explores Pacific (Australia/New Zealand)",
+		"name_te": "కెప్టెన్ కుక్ పసిఫిక్ అన్వేషణ (ఆస్ట్రేలియా/న్యూజిలాండ్)",
+		"location": {
+			"lat": -33.8688,
+			"lng": 151.2093
+		},
+		"desc_en": "Captain James Cook explores and maps Australia, New Zealand, and the Pacific Islands.",
+		"desc_te": "కెప్టెన్ జేమ్స్ కుక్ ఆస్ట్రేలియా, న్యూజిలాండ్, పసిఫిక్ దీవులను అన్వేషించి మ్యాప్ చేశాడు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Meiji Emperor Born (Japan)",
+		"name_te": "మెయిజి చక్రవర్తి జననం (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "The birth of the Meiji Emperor in 1852, who would later lead Japan's modernization (notable for late 18th century context).",
+		"desc_te": "1852లో మెయిజి చక్రవర్తి జననం, తరువాత జపాన్ ఆధునికీకరణకు నాయకత్వం వహించాడు (18వ శతాబ్దం చివరి సందర్భానికి ప్రాముఖ్యత)."
+	},
+	{
+		"year": "1700",
+		"name_en": "First Great Awakening (America/Europe)",
+		"name_te": "ఫస్ట్ గ్రేట్ అవేకనింగ్ (అమెరికా/యూరోప్)",
+		"location": {
+			"lat": 42.3601,
+			"lng": -71.0589
+		},
+		"desc_en": "A Protestant religious revival sweeps through the American colonies and Europe in the 1730s–1740s.",
+		"desc_te": "1730–1740లలో అమెరికా వలసలు, యూరోప్‌లో ప్రొటెస్టెంట్ మత పునరుజ్జీవనం జరిగింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Tipu Sultan Reigns (India)",
+		"name_te": "టిప్పు సుల్తాన్ పాలన (భారతదేశం)",
+		"location": {
+			"lat": 12.2958,
+			"lng": 76.6394
+		},
+		"desc_en": "Tipu Sultan, the Tiger of Mysore, resists British expansion in southern India.",
+		"desc_te": "మైసూరు పులి టిప్పు సుల్తాన్ దక్షిణ భారతదేశంలో బ్రిటిష్ విస్తరణకు ప్రతిఘటించాడు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Decline of the Mughal Empire (India)",
+		"name_te": "ముగల్ సామ్రాజ్య పతనం (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "The Mughal Empire weakens after Aurangzeb's death, leading to regional kingdoms and European influence.",
+		"desc_te": "ఔరంగజేబ్ మరణం తర్వాత ముగల్ సామ్రాజ్యం బలహీనపడి, ప్రాంతీయ రాజ్యాలు, యూరోపియన్ ప్రభావం పెరిగాయి."
+	},
+	{
+		"year": "1700",
+		"name_en": "Founding of the Sikh Empire (India)",
+		"name_te": "సిక్ సామ్రాజ్య స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 31.5497,
+			"lng": 74.3436
+		},
+		"desc_en": "Maharaja Ranjit Singh unites Punjab and establishes the Sikh Empire.",
+		"desc_te": "మహారాజా రంజిత్ సింగ్ పంజాబ్‌ను ఏకతాటిపైకి తేవడంతో సిక్ సామ్రాజ్యం స్థాపించబడింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Partition of Poland (Europe)",
+		"name_te": "పోలాండ్ విభజన (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "Poland is partitioned three times by Russia, Prussia, and Austria, erasing it from the map until 1918.",
+		"desc_te": "రష్యా, ప్రషియా, ఆస్ట్రియా మూడు సార్లు పోలాండ్‌ను విభజించడంతో 1918 వరకు దేశం పటంలో లేకుండా పోయింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Napoleon's Rise Begins (France)",
+		"name_te": "నెపోలియన్ ఎదుగుదల ప్రారంభం (ఫ్రాన్స్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Napoleon Bonaparte emerges as a military leader during the French Revolution, setting the stage for his empire.",
+		"desc_te": "ఫ్రెంచ్ విప్లవ సమయంలో నెపోలియన్ బోనాపార్ట్ సైనిక నాయకుడిగా ఎదిగి, తన సామ్రాజ్యానికి బాటలు వేసాడు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Tokugawa Shogunate Stability (Japan)",
+		"name_te": "టోకుగావా షోగునేట్ స్థిరత్వం (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "The Tokugawa Shogunate maintains peace and isolation in Japan, fostering economic and cultural growth.",
+		"desc_te": "టోకుగావా షోగునేట్ జపాన్‌లో శాంతి, వేరుపాటు కొనసాగించి, ఆర్థిక, సాంస్కృతిక అభివృద్ధికి దారితీసింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Manchu Expansion in Central Asia (China)",
+		"name_te": "మంచు విస్తరణ (చైనా/మధ్య ఆసియా)",
+		"location": {
+			"lat": 43.8256,
+			"lng": 87.6168
+		},
+		"desc_en": "The Qing Dynasty expands into Central Asia, incorporating Xinjiang and Tibet.",
+		"desc_te": "చింగ్ రాజవంశం మధ్య ఆసియాలోకి విస్తరించి, జిన్జియాంగ్, టిబెట్‌ను చైనాలో కలిపింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Olaudah Equiano Publishes Autobiography (Africa/Europe)",
+		"name_te": "ఒలౌడా ఎక్వియానో ఆత్మకథ ప్రచురణ (ఆఫ్రికా/యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Olaudah Equiano, a former slave, publishes his autobiography, fueling the abolitionist movement.",
+		"desc_te": "మాజీ బానిస ఒలౌడా ఎక్వియానో తన ఆత్మకథను ప్రచురించి, బానిసత్వ వ్యతిరేక ఉద్యమానికి ఊతమిచ్చాడు."
+	},
+	{
+		"year": "1700",
+		"name_en": "Founding of the United States Navy (America)",
+		"name_te": "యునైటెడ్ స్టేట్స్ నేవీ స్థాపన (అమెరికా)",
+		"location": {
+			"lat": 38.8951,
+			"lng": -77.0364
+		},
+		"desc_en": "The United States Navy is established in 1794, strengthening American maritime power.",
+		"desc_te": "1794లో యునైటెడ్ స్టేట్స్ నేవీ స్థాపించబడటంతో అమెరికా సముద్ర శక్తి బలపడింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "First Abolition of Slavery in Denmark-Norway (Europe)",
+		"name_te": "డెన్మార్క్-నార్వేలో బానిసత్వం తొలగింపు (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "Denmark-Norway becomes the first European country to abolish the slave trade in 1792.",
+		"desc_te": "1792లో డెన్మార్క్-నార్వే బానిస వ్యాపారాన్ని నిషేధించిన తొలి యూరోపియన్ దేశంగా నిలిచింది."
+	},
+	{
+		"year": "1700",
+		"name_en": "Discovery of Oxygen (Global)",
+		"name_te": "ఆక్సిజన్ ఆవిష్కరణ (ప్రపంచం)",
+		"location": {
+			"lat": 51.4545,
+			"lng": -2.5879
+		},
+		"desc_en": "Joseph Priestley and Carl Wilhelm Scheele independently discover oxygen, revolutionizing chemistry.",
+		"desc_te": "జోసెఫ్ ప్రీస్ట్‌లీ, కార్ల్ విల్హెల్మ్ షీలే స్వతంత్రంగా ఆక్సిజన్‌ను కనుగొని, రసాయన శాస్త్రంలో విప్లవాత్మక మార్పులు తీసుకువచ్చారు."
+	}
+]

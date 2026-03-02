@@ -1,0 +1,233 @@
+[
+	{
+		"year": "1200",
+		"name_en": "Innocent III's Papal Expansion",
+		"name_te": "ఇన్నోసెంట్ III పాపల్ విస్తరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Innocent III asserts absolute papal authority. Places kingdoms under interdict for disobedience.",
+		"desc_te": "పోప్ ఇన్నోసెంట్ III సంపూర్ణ పాపల్ అధికారం నొక్కిన విషయం. అవిధేయతకు రాజ్యాలపై నిషేధాం విధించిన విషయం."
+	},
+	{
+		"year": "1205",
+		"name_en": "Fourth Crusade Misdirection",
+		"name_te": "నాల్గవ సలీబీయ చలనం గందరగోళం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Fourth Crusade sacks Constantinople instead of Holy Land. Orthodox Christianity devastated.",
+		"desc_te": "నాల్గవ సలీబీయ చలనం పవిత్ర భూముకు బదులు కాన్‍స్టాంటినోపల్ సంధ్రాంత చేసిన విషయం. ఆర్థోడాక్స్ క్రీస్టియానిటీ విధ్వంసం చేయబడిన విషయం."
+	},
+	{
+		"year": "1208",
+		"name_en": "Albigensian Crusade",
+		"name_te": "ఆల్బిజెన్సియన్ సలీబీయ చలనం",
+		"location": {
+			"lat": 43.5,
+			"lng": 2.5
+		},
+		"desc_en": "Church launches crusade against Cathar heretics in southern France. Thousands killed.",
+		"desc_te": "చర్చ దక్షిణ ఫ్రాన్స్‌లో కటార్ నిందితులకు వ్యతిరేకంగా సలీబీయ చలనం ప్రారంభించిన విషయం. వేలమంది చంపబడిన విషయం."
+	},
+	{
+		"year": "1210",
+		"name_en": "Franciscan Order Founded",
+		"name_te": "ఫ్రాన్సిస్కన్ క్రమం స్థాపన చేయబడిన విషయం",
+		"location": {
+			"lat": 43.1,
+			"lng": 12.6
+		},
+		"desc_en": "Francis of Assisi founds Franciscan order emphasizing poverty and humility. New monastic movement.",
+		"desc_te": "ఆస్సిసి ఫ్రాన్సిస్ ఫ్రాన్సిస్కన్ క్రమం స్థాపన చేసిన విషయం, బిచ్చగిరి, సమీహం నొక్కిన విషయం. నవీన సన్న్యాస చలనం."
+	},
+	{
+		"year": "1215",
+		"name_en": "Fourth Lateran Council",
+		"name_te": "నాల్గవ లాటెరన్ సమావేశం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Council defines Christian doctrine, mandates priest celibacy, establishes transubstantiation dogma.",
+		"desc_te": "సమావేశం క్రీస్టియన్ సిద్ధాంతం నిర్వచనం, పూజారి విియోగం ఆదేశ, రూపాంతరణ సిద్ధాంత ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "1215",
+		"name_en": "Magna Carta and Church Authority",
+		"name_te": "మగ్నా కార్టా, చర్చ అధికారం",
+		"location": {
+			"lat": 51.4,
+			"lng": -0.6
+		},
+		"desc_en": "Magna Carta limits royal power. Church's spiritual authority affirmed over secular rulers.",
+		"desc_te": "మగ్నా కార్టా రాజ శక్తిని పరిమితం చేసిన విషయం. పరిపాలక పాలకుల పై చర్చ ఆధ్యాత్మిక అధికారం సమర్థిత చేయబడిన విషయం."
+	},
+	{
+		"year": "1220",
+		"name_en": "Dominican Order Founded",
+		"name_te": "డోమిनికన్ క్రమం స్థాపన చేయబడిన విషయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Dominic founds Dominican order focused on preaching and combating heresies with learning.",
+		"desc_te": "డోమిनిక్ డోమినికన్ క్రమం స్థాపన చేసిన విషయం, ఉపన్యాసం, నిందితత్వ వ్యతిరేకంగా జ్ఞానంతో పోరాటం కేంద్రీయం చేసిన విషయం."
+	},
+	{
+		"year": "1225",
+		"name_en": "Thomas Aquinas's Birth and Training",
+		"name_te": "థామస్ అక్వీనస్ జన్మ, శిక్షణ",
+		"location": {
+			"lat": 41.3,
+			"lng": 16.3
+		},
+		"desc_en": "Thomas Aquinas born. Becomes greatest medieval theologian integrating Aristotle with Christianity.",
+		"desc_te": "థామస్ అక్వీనస్ జన్మించిన విషయం. ఆరిస్టాటిల్‌ను క్రీస్టియానిటితో సమన్వయం చేసిన గొప్ప మధ్యయుగ దేవతాత్త్ elisabeth కాబడిన విషయం."
+	},
+	{
+		"year": "1230",
+		"name_en": "Inquisition Established",
+		"name_te": "విచారణ ఏర్పాటు చేయబడిన విషయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Gregory IX establishes Medieval Inquisition. Church systematically hunts heretics.",
+		"desc_te": "పోప్ గ్రెగరీ IX మధ్యయుగ విచారణ ఏర్పాటు చేసిన విషయం. చర్చ వ్యవస్థితంగా నిందితులను చేపట్టిన విషయం."
+	},
+	{
+		"year": "1235",
+		"name_en": "University Expansion in Europe",
+		"name_te": "ఐరోపాలో విశ్వవిద్యాలయ విస్తరణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Universities develop from cathedral schools. Church controls education and theology standards.",
+		"desc_te": "విశ్వవిద్యాలయాలు ఆలయ పాఠశాలల నుండి విస్తరిస్తాయి. చర్చ విద్య, దేవతాత్త్వ ప్రమాణాలను నియంత్రిస్తుంది."
+	},
+	{
+		"year": "1240",
+		"name_en": "Papal Political Power Peak",
+		"name_te": "పాపల్ రాజకీయ శక్తి శిఖరం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Innocent IV wields tremendous political and military influence. Papacy at height of power.",
+		"desc_te": "పోప్ ఇన్నోసెంట్ IV అపార రాజకీయ, సైన్య ప్రభావం ఉపయోగించిన విషయం. పాపసిం శక్తి శిఖరంలో చేరిన విషయం."
+	},
+	{
+		"year": "1245",
+		"name_en": "First Council of Lyons",
+		"name_te": "లియోన్‌ల మొదటి సమావేశం",
+		"location": {
+			"lat": 45.8,
+			"lng": 4.8
+		},
+		"desc_en": "Council addresses church authority and orthodoxy. Defines church's response to political challenges.",
+		"desc_te": "సమావేశం చర్చ అధికారం, ఆర్థోడాక్స్‌ను సంబోధించిన విషయం. రాజకీయ సవాళ్లకు చర్చ ప్రతిస్పందన నిర్వచనం చేసిన విషయం."
+	},
+	{
+		"year": "1250",
+		"name_en": "Aquinas's Theological Works",
+		"name_te": "అక్వీనస్ సిద్ధాంత రచనలు",
+		"location": {
+			"lat": 41.3,
+			"lng": 16.3
+		},
+		"desc_en": "Thomas Aquinas writes Summa Theologiae. Becomes definitive medieval Christian theology.",
+		"desc_te": "థామస్ అక్వీనస్ సుమ్మా థియోలోజియే రచన చేసిన విషయం. నిర్ణయక మధ్యయుగ క్రీస్టియన్ దేవతాత్త్వం కాబడిన విషయం."
+	},
+	{
+		"year": "1255",
+		"name_en": "Mendicant Orders Conflict",
+		"name_te": "విషయహారక క్రమ సంఘర్షణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Franciscan and Dominican orders grow in power. Conflict with established monasteries over authority.",
+		"desc_te": "ఫ్రాన్సిస్కన్, డోమినికన్ క్రమం శక్తిలో వృద్ధిచేయబడిన విషయం. స్థాపిత సన్న్యాస సమాజాలతో అధికారం గురించి సంఘర్షణ."
+	},
+	{
+		"year": "1260",
+		"name_en": "Flagellant Movement",
+		"name_te": "కోర్చని చలనం",
+		"location": {
+			"lat": 43.5,
+			"lng": 11.3
+		},
+		"desc_en": "Flagellant movement emphasizes penance through self-mortification. Church views movement with suspicion.",
+		"desc_te": "కోర్చని చలనం స్వయం-శారీరక-కష్ట ద్వారా తపస్య నొక్కిన విషయం. చర్చ చలనం సందేహంతో చూసిన విషయం."
+	},
+	{
+		"year": "1265",
+		"name_en": "Dante's Religious Vision",
+		"name_te": "డాంటె ధార్మిక దృష్టి",
+		"location": {
+			"lat": 43.77,
+			"lng": 11.25
+		},
+		"desc_en": "Dante Alighieri writes Divine Comedy. Medieval Christianity's theology expressed through epic poetry.",
+		"desc_te": "డాంటె అలిఘిరీ డివైన్ కామెడీ రచన చేసిన విషయం. మధ్యయుగ క్రీస్టియానిటీ దేవతాత్త్వం ఐతిహ్య కవిత ద్వారా వ్యక్తం చేయబడిన విషయం."
+	},
+	{
+		"year": "1270",
+		"name_en": "Second Council of Lyons",
+		"name_te": "లియోన్‌ల రెండవ సమావేశం",
+		"location": {
+			"lat": 45.8,
+			"lng": 4.8
+		},
+		"desc_en": "Council attempts reconciliation with Eastern Orthodox Church. Fails to heal Great Schism.",
+		"desc_te": "సమావేశం తూర్పు ఆర్థోడాక్స్ చర్చతో సమన్వయం ప్రయత్నించిన విషయం. గొప్ప విభజనం నయం చేయటంలో విఫలమైన విషయం."
+	},
+	{
+		"year": "1275",
+		"name_en": "Church Art and Architecture Peak",
+		"name_te": "చర్చ కళ, నిర్మాణ శిఖరం",
+		"location": {
+			"lat": 48.76,
+			"lng": 2.35
+		},
+		"desc_en": "Gothic cathedrals reach architectural peak. Church expresses faith through grand building projects.",
+		"desc_te": "గోధిక్ ఆలయాలు నిర్మాణ శిఖరం చేరిన విషయం. చర్చ గొప్ప నిర్మాణ ప్రकల్పనల ద్వారా విశ్వాస వ్యక్తం చేసిన విషయం."
+	},
+	{
+		"year": "1280",
+		"name_en": "Boniface VIII and Clerical Authority",
+		"name_te": "బోనిఫేస్ VIII, పూజారక అధికారం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Boniface VIII issues Unam Sanctam, asserting ultimate papal authority over secular rulers.",
+		"desc_te": "పోప్ బోనిఫేస్ VIII యూనమ్ సాక్టమ్ జారీ చేసిన విషయం, పరిపాలక పాలకుల పై పాపల్ అధికారం నొక్కిన విషయం."
+	},
+	{
+		"year": "1285",
+		"name_en": "Inquisition Intensifies",
+		"name_te": "విచారణ తీవ్రమవుతుంది",
+		"location": {
+			"lat": 42,
+			"lng": 3
+		},
+		"desc_en": "Spanish Inquisition formally established. Church persecutes Jews, Muslims, and heretics systematically.",
+		"desc_te": "స్పానిష్ విచారణ అధికారికంగా స్థాపన చేయబడిన విషయం. చర్చ యూదులు, ముస్లింలు, నిందితులను వ్యవస్థితంగా వేధిస్తుంది."
+	},
+	{
+		"year": "1290",
+		"name_en": "Medieval Christianity's Transformation",
+		"name_te": "మధ్యయుగ క్రీస్టియానిటీ రూపాంతరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "By 1300, church has achieved unprecedented power and authority. Christianity dominates medieval society.",
+		"desc_te": "1300 నాటికి, చర్చ అభూతపూర్వ శక్తి, అధికారం చేరిన విషయం. క్రీస్టియానిటీ మధ్యయుగ సమాజంపై ఆధిపత్యం చేసిన విషయం."
+	}
+]

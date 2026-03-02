@@ -1,0 +1,673 @@
+[
+	{
+		"year": "-600",
+		"name_en": "Rise of Mahajanapadas (India)",
+		"name_te": "మహాజనపదాల ఉద్భవం (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Sixteen Mahajanapadas (great kingdoms) emerge in northern India, marking a period of political and social transformation.",
+		"desc_te": "భారతదేశం ఉత్తర భాగంలో పదహారు మహాజనపదాలు ఉద్భవించాయి, ఇది రాజకీయ, సామాజిక మార్పుల కాలాన్ని సూచిస్తుంది."
+	},
+	{
+		"year": "-600",
+		"name_en": "King Bimbisara of Magadha (India)",
+		"name_te": "మగధ రాజు బింబిసారుడు (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Bimbisara, one of the earliest and most powerful rulers of Magadha, expands his kingdom and lays the foundation for future empires.",
+		"desc_te": "బింబిసారుడు, మగధ యొక్క ప్రారంభ మరియు శక్తివంతమైన రాజుల్లో ఒకడు, తన రాజ్యాన్ని విస్తరించాడు మరియు భవిష్యత్ సామ్రాజ్యాలకు పునాది వేశాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Neo-Babylonian Empire Flourishes (Mesopotamia)",
+		"name_te": "నియో-బాబెలోనియన్ సామ్రాజ్యం అభివృద్ధి (మెసొపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "The Neo-Babylonian Empire reaches its height under Nebuchadnezzar II, including the construction of the Hanging Gardens.",
+		"desc_te": "నియో-బాబెలోనియన్ సామ్రాజ్యం నెబూకద్నెజర్ II పాలనలో అత్యున్నత స్థాయికి చేరుకుంది, హ్యాంగింగ్ గార్డెన్స్ నిర్మాణం జరిగింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Nebuchadnezzar II (Babylon)",
+		"name_te": "నెబూకద్నెజర్ II (బాబెలోను)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nebuchadnezzar II, king of Babylon, is renowned for his military conquests and monumental building projects.",
+		"desc_te": "నెబూకద్నెజర్ II, బాబెలోను రాజు, అతని సైనిక విజయాలు మరియు నిర్మాణ ప్రాజెక్టులకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Achaemenid Empire Expands (Persia)",
+		"name_te": "అఖేమెనిడ్ సామ్రాజ్యం విస్తరణ (పర్షియా)",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "The Achaemenid Empire, founded by Cyrus the Great, expands across the Middle East, Central Asia, and parts of India.",
+		"desc_te": "సైరస్ ది గ్రేట్ స్థాపించిన అఖేమెనిడ్ సామ్రాజ్యం మధ్యప్రాచ్యం, మధ్య ఆసియా, భారతదేశం భాగాల్లో విస్తరించింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Cyrus the Great (Persia)",
+		"name_te": "సైరస్ ది గ్రేట్ (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Cyrus the Great, founder of the Achaemenid Empire, is known for his conquests and enlightened rule.",
+		"desc_te": "సైరస్ ది గ్రేట్, అఖేమెనిడ్ సామ్రాజ్య స్థాపకుడు, అతని విజయాలు మరియు ప్రగతిశీల పాలనకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Zoroaster (Zarathustra) and Zoroastrianism (Persia)",
+		"name_te": "జరథుస్థ్రుడు మరియు జరథుస్థ్ర మతం (పర్షియా)",
+		"location": {
+			"lat": 36.2,
+			"lng": 59.6
+		},
+		"desc_en": "Zoroaster, the prophet, spreads Zoroastrianism, which becomes the dominant religion of Persia.",
+		"desc_te": "జరథుస్థ్రుడు, ప్రవక్త, జరథుస్థ్ర మతాన్ని వ్యాప్తి చేశాడు, ఇది పర్షియాలో ప్రధాన మతంగా మారింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Greek City-States Rise (Europe)",
+		"name_te": "గ్రీకు నగర-రాజ్యాల ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 37.9,
+			"lng": 23.7
+		},
+		"desc_en": "Greek city-states such as Athens and Sparta rise in power, setting the stage for classical Greek civilization.",
+		"desc_te": "అథెన్స్, స్పార్టా వంటి గ్రీకు నగర-రాజ్యాలు శక్తిని సంపాదించాయి, క్లాసికల్ గ్రీకు నాగరికతకు పునాది వేశాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Tyranny of Peisistratus (Athens)",
+		"name_te": "పెసిస్ట్రాటస్ పాలన (అథెన్స్)",
+		"location": {
+			"lat": 37.98,
+			"lng": 23.72
+		},
+		"desc_en": "Peisistratus rules Athens as a tyrant, initiating public works and festivals.",
+		"desc_te": "పెసిస్ట్రాటస్ అథెన్స్‌ను నియంతగా పాలించాడు, ప్రజా పనులు, పండుగలు ప్రారంభించాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Etruscan Civilization in Italy",
+		"name_te": "ఇటలీలో ఎట్రస్కన్ నాగరికత",
+		"location": {
+			"lat": 43,
+			"lng": 12.5
+		},
+		"desc_en": "Etruscan civilization flourishes in central Italy, influencing Roman culture.",
+		"desc_te": "ఎట్రస్కన్ నాగరికత మధ్య ఇటలీలో అభివృద్ధి చెందింది, రోమన్ సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Kingdom of Kush (Africa)",
+		"name_te": "కుష్ రాజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "The Kingdom of Kush in Nubia is a major power in northeast Africa.",
+		"desc_te": "న్యూబియాలో కుష్ రాజ్యం ఈశాన్య ఆఫ్రికాలో ప్రధాన శక్తిగా ఉంది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Zapotec Civilization (Mesoamerica)",
+		"name_te": "జపోటెక్ నాగరికత (మెసోఅమెరికా)",
+		"location": {
+			"lat": 17.1,
+			"lng": -96.7
+		},
+		"desc_en": "Zapotec civilization develops in Oaxaca Valley, Mexico.",
+		"desc_te": "మెక్సికోలో ఒక్సాకా లోయలో జపోటెక్ నాగరికత అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Jomon Culture (Japan)",
+		"name_te": "జోమోన్ సంస్కృతి (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Jomon people continue to develop pottery and hunter-gatherer culture in Japan.",
+		"desc_te": "జపాన్‌లో జోమోన్ ప్రజలు కుండలు, వేటగాళ్ల సంస్కృతిని అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Aboriginal Cultures (Australia)",
+		"name_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultures thrive across Australia, developing unique traditions.",
+		"desc_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు అభివృద్ధి చెందాయి, ప్రత్యేక సంప్రదాయాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "King Ajatashatru of Magadha (India)",
+		"name_te": "మగధ రాజు అజాతశత్రు (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Ajatashatru, son of Bimbisara, expands Magadha through wars and diplomacy, strengthening its dominance in northern India.",
+		"desc_te": "బింబిసారుని కుమారుడు అజాతశత్రు యుద్ధాలు, దౌత్యంతో మగధను విస్తరించాడు, ఉత్తర భారతదేశంలో ఆధిపత్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Battle of Alalia (Mediterranean)",
+		"name_te": "అలాలియా యుద్ధం (మెడిటరేనియన్)",
+		"location": {
+			"lat": 42.7,
+			"lng": 9.4
+		},
+		"desc_en": "A major naval battle between the Greeks and Etruscans/Carthaginians for control of western Mediterranean trade routes.",
+		"desc_te": "పశ్చిమ మెడిటరేనియన్ వాణిజ్య మార్గాలపై ఆధిపత్యం కోసం గ్రీకు, ఎట్రస్కన్/కార్తేజ్‌ల మధ్య ప్రధాన నౌకా యుద్ధం."
+	},
+	{
+		"year": "-600",
+		"name_en": "Laozi and Daoism (China)",
+		"name_te": "లావోజీ మరియు దావో మతం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Laozi, the legendary philosopher, is believed to have lived and taught Daoism during this period.",
+		"desc_te": "ఈ కాలంలో లావోజీ అనే ప్రసిద్ధ తత్వవేత్త దావో మతాన్ని బోధించినట్లు నమ్ముతారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "King Croesus of Lydia (Asia Minor)",
+		"name_te": "లిడియా రాజు క్రోయిసస్ (ఆసియా మైనర్)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Croesus, famed for his wealth, rules Lydia and is defeated by Cyrus the Great.",
+		"desc_te": "క్రోయిసస్ తన సంపదకు ప్రసిద్ధి, లిడియాను పాలించాడు, సైరస్ ది గ్రేట్ చేత ఓడిపోయాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "King Nabonidus of Babylon (Mesopotamia)",
+		"name_te": "బాబెలోను రాజు నబోనిడస్ (మెసొపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nabonidus, the last king of Babylon, is known for his religious reforms and long absence from Babylon.",
+		"desc_te": "నబోనిడస్, బాబెలోను చివరి రాజు, అతని మత సంస్కరణలు మరియు బాబెలోనునుంచి దీర్ఘకాల గైర్హాజరీకి ప్రసిద్ధి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Olmec Civilization Declines (Mesoamerica)",
+		"name_te": "ఒల్మెక్ నాగరికత పతనం (మెసోఅమెరికా)",
+		"location": {
+			"lat": 18,
+			"lng": -94
+		},
+		"desc_en": "The Olmec civilization, one of the earliest in Mesoamerica, begins to decline, influencing later cultures.",
+		"desc_te": "మెసోఅమెరికాలోని ప్రాచీన నాగరికతల్లో ఒకటైన ఒల్మెక్ నాగరికత పతనమై, తరువాతి సంస్కృతులపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Scythian Tribes in Eurasia",
+		"name_te": "యూరేషియాలో స్కిథియన్ గోత్రాలు",
+		"location": {
+			"lat": 48,
+			"lng": 67
+		},
+		"desc_en": "Scythian nomadic tribes dominate the Eurasian steppe, influencing trade and warfare.",
+		"desc_te": "స్కిథియన్ గోత్రాలు యూరేషియన్ స్టెప్పులో ఆధిపత్యం చెలాయించాయి, వాణిజ్యం, యుద్ధాన్ని ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Phoenician Trade Networks Expand",
+		"name_te": "ఫోనీషియన్ వాణిజ్య నెట్‌వర్క్‌లు విస్తరించాయి",
+		"location": {
+			"lat": 34,
+			"lng": 35.7
+		},
+		"desc_en": "Phoenician cities expand their trade networks across the Mediterranean.",
+		"desc_te": "ఫోనీషియన్ నగరాలు మెడిటరేనియన్ అంతటా తమ వాణిజ్య నెట్‌వర్క్‌లను విస్తరించాయి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Bantu Migrations Continue (Africa)",
+		"name_te": "బాంటు వలసలు కొనసాగుతున్నాయి (ఆఫ్రికా)",
+		"location": {
+			"lat": -2,
+			"lng": 23
+		},
+		"desc_en": "Bantu-speaking peoples continue migrating across sub-Saharan Africa, spreading agriculture and ironworking.",
+		"desc_te": "బాంటు మాట్లాడే ప్రజలు ఉప-సహారా ఆఫ్రికాలో వలసలు కొనసాగించారు, వ్యవసాయం, ఇనుప పనులను వ్యాప్తి చేశారు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Pythagoras (Greek Philosopher)",
+		"name_te": "పైథాగరస్ (గ్రీకు తత్వవేత్త)",
+		"location": {
+			"lat": 37.1,
+			"lng": 27.3
+		},
+		"desc_en": "Pythagoras founds a philosophical and mathematical school in southern Italy, influencing Western thought.",
+		"desc_te": "పైథాగరస్ దక్షిణ ఇటలీలో తత్వశాస్త్ర, గణిత పాఠశాలను స్థాపించి, పాశ్చాత్య ఆలోచనలను ప్రభావితం చేశాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Sappho of Lesbos (Greek Poetess)",
+		"name_te": "లెస్బోస్ సాఫో (గ్రీకు కవయిత్రి)",
+		"location": {
+			"lat": 39.2,
+			"lng": 26.5
+		},
+		"desc_en": "Sappho, one of the greatest lyric poets, composes influential poetry on Lesbos island.",
+		"desc_te": "సాఫో, గొప్ప గీతకవి, లెస్బోస్ దీవిలో ప్రభావవంతమైన కవిత్వాన్ని రచించింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "King Astyages of Media (Iran)",
+		"name_te": "మీడియా రాజు అస్టియాజెస్ (ఇరాన్)",
+		"location": {
+			"lat": 36.3,
+			"lng": 59.6
+		},
+		"desc_en": "Astyages, the last king of the Median Empire, is overthrown by Cyrus the Great.",
+		"desc_te": "మీడియా చివరి రాజు అస్టియాజెస్, సైరస్ ది గ్రేట్ చేత పరాజయం పొందాడు."
+	},
+	{
+		"year": "-600",
+		"name_en": "Kingdom of Urartu Declines (Armenia/Turkey)",
+		"name_te": "ఉరార్టు రాజ్యం పతనం (ఆర్మేనియా/టర్కీ)",
+		"location": {
+			"lat": 39.5,
+			"lng": 44
+		},
+		"desc_en": "The ancient kingdom of Urartu in the Armenian Highlands declines and is absorbed by neighboring powers.",
+		"desc_te": "ఆర్మేనియన్ పర్వత ప్రాంతంలోని పురాతన ఉరార్టు రాజ్యం పతనమై, పొరుగున ఉన్న శక్తులలో కలిసిపోయింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Kingdom of D'mt (Eritrea/Ethiopia)",
+		"name_te": "డి'ఎమ్'టి రాజ్యం (ఎరిట్రియా/ఇథియోపియా)",
+		"location": {
+			"lat": 15.3,
+			"lng": 38.9
+		},
+		"desc_en": "The Kingdom of D'mt flourishes in the Horn of Africa, precursor to later Ethiopian civilizations.",
+		"desc_te": "హార్న్ ఆఫ్ ఆఫ్రికాలో డి'ఎమ్'టి రాజ్యం అభివృద్ధి చెందింది, ఇది తరువాతి ఇథియోపియన్ నాగరికతలకు పునాది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Nazca Culture Emerges (Peru)",
+		"name_te": "నాజ్కా సంస్కృతి ఉద్భవం (పెరూ)",
+		"location": {
+			"lat": -14.8,
+			"lng": -74.9
+		},
+		"desc_en": "Nazca culture begins to develop in southern Peru, known for its geoglyphs.",
+		"desc_te": "దక్షిణ పెరూలో నాజ్కా సంస్కృతి అభివృద్ధి చెందింది, ఇది భూమిపై గీసిన చిత్రాలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-600",
+		"name_en": "Hallstatt Culture (Central Europe)",
+		"name_te": "హాల్స్టాట్ సంస్కృతి (మధ్య యూరోప్)",
+		"location": {
+			"lat": 47.6,
+			"lng": 13.6
+		},
+		"desc_en": "The Hallstatt culture, an early Iron Age culture, dominates Central Europe.",
+		"desc_te": "హాల్స్టాట్ సంస్కృతి, ప్రాథమిక ఇనుప యుగ సంస్కృతి, మధ్య యూరోప్‌లో ఆధిపత్యం చెలాయించింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Kingdom of Colchis (Georgia)",
+		"name_te": "కొల్చిస్ రాజ్యం (జార్జియా)",
+		"location": {
+			"lat": 42.5,
+			"lng": 42.2
+		},
+		"desc_en": "The Kingdom of Colchis, known from Greek mythology, flourishes on the eastern Black Sea coast.",
+		"desc_te": "గ్రీకు పురాణాలలో ప్రస్తావించబడిన కొల్చిస్ రాజ్యం నల్ల సముద్ర తూర్పు తీరంలో అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Kingdom of Israel Falls to Babylon",
+		"name_te": "ఇజ్రాయెల్ రాజ్యం బాబెలోనుకు పడిపోవడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Kingdom of Judah (southern Israel) is conquered by Babylon, leading to the Babylonian Exile.",
+		"desc_te": "ఇజ్రాయెల్ రాజ్యం బాబెలోనుకు ఓడిపోయింది, బాబెలోనియన్ నిర్బంధానికి దారితీసింది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Cyrus II Founds Achaemenid Empire",
+		"name_te": "సైరస్ II అఖేమెనిడ్ సామ్రాజ్య స్థాపన",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Cyrus the Great founds Achaemenid Empire; begins vast territorial expansion across Asia.",
+		"desc_te": "సైరస్ ది గ్రేట్ అఖేమెనిడ్ సామ్రాజ్య స్థాపన; ఆసియా అంతటా విస్తారమైన భూభాగ విస్తరణ ప్రారంభిస్తాడు."
+	},
+	{
+		"year": "-590",
+		"name_en": "Babylon Hanging Gardens Built",
+		"name_te": "బాబెలోను హ్యాంగింగ్ గార్డెన్‌లు నిర్మితం",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nebuchadnezzar II constructs the Hanging Gardens of Babylon; one of Seven Wonders.",
+		"desc_te": "నెబూకద్నెజర్ II బాబెలోను హ్యాంగింగ్ గార్డెన్‌లు నిర్మిస్తూ ఏడు అద్భుతాలలో ఒకటు సృష్టిస్తాడు."
+	},
+	{
+		"year": "-580",
+		"name_en": "Buddhism Founded by Buddha",
+		"name_te": "బుద్ధుడు బౌద్ధమతం స్థాపన",
+		"location": {
+			"lat": 26.7,
+			"lng": 83
+		},
+		"desc_en": "Siddhartha Gautama (Buddha) attains enlightenment; founds Buddhism in northern India.",
+		"desc_te": "సిద్ధార్థుడు (బుద్ధుడు) జ్ఞానోదయం పొంది; ఉత్తర భారతలో బౌద్ధమతం స్థాపన చేస్తాడు."
+	},
+	{
+		"year": "-570",
+		"name_en": "Confucius Born China Philosophy",
+		"name_te": "కన్‌ఫ్యూషియస్ జన్మ చైనా తత్వశాస్త్రం",
+		"location": {
+			"lat": 35,
+			"lng": 118
+		},
+		"desc_en": "Confucius is born in China; will become greatest philosopher shaping Eastern thought.",
+		"desc_te": "కన్‌ఫ్యూషియస్ చైనాలో జన్మ; తూర్పు చింతన రూపొందించే గొప్ప తత్వవేత్తగా మారుతాడు."
+	},
+	{
+		"year": "-560",
+		"name_en": "Croesus Reigns Lydia Wealth Famed",
+		"name_te": "క్రోయిసస్ లిడియా పాలన సంపద ప్రసిద్ధి",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "King Croesus reigns over Lydia; becomes legendary for his immense wealth and riches.",
+		"desc_te": "రాజు క్రోయిసస్ లిడియాను పాలిస్తూ తన అతుల్య సంపదకు ప్రసిద్ధమవుతాడు."
+	},
+	{
+		"year": "-550",
+		"name_en": "Cyrus Defeats Lydia Croesus Falls",
+		"name_te": "సైరస్ లిడియా ఓడించి క్రోయిసస్ పడిపోయాడు",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Cyrus the Great defeats Croesus; Lydia conquered; Croesus becomes advisor to Cyrus.",
+		"desc_te": "సైరస్ ది గ్రేట్ క్రోయిసస్‌ను ఓడిస్తూ లిడియా జయం; క్రోయిసస్ సైరస్‌కు సలహాదారుగా మారుతాడు."
+	},
+	{
+		"year": "-540",
+		"name_en": "Cyrus Liberates Judean Exiles",
+		"name_te": "సైరస్ జూడియా ఆశ్రితులను విముక్తి",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Cyrus the Great liberates Judean exiles in Babylon; allows Jews to return to Jerusalem.",
+		"desc_te": "సైరస్ బాబెలోనులో జూడియా ఆశ్రితులను విముక్తం చేస్తూ యూదులను జెరూసలేమ్‌కు వెళ్లిపోవటానికి అనుమతిస్తాడు."
+	},
+	{
+		"year": "-530",
+		"name_en": "Cambyses II Egypt Conquest Persia",
+		"name_te": "కాంబిసెస్ II ఈజిప్టు జయం పర్షియా",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Cambyses II, son of Cyrus, conquers Egypt; expands Persian Empire to Africa.",
+		"desc_te": "సైరస్ కుమారుడు కాంబిసెస్ II ఈజిప్టు జయం చేస్తూ పర్షియన్ సామ్రాజ్యం ఆఫ్రికకు విస్తరిస్తాడు."
+	},
+	{
+		"year": "-520",
+		"name_en": "Darius I Great King Achaemenid",
+		"name_te": "దారియస్ I గ్రేట్ కింగ్ అఖేమెనిడ్",
+		"location": {
+			"lat": 32.7469,
+			"lng": 51.4079
+		},
+		"desc_en": "Darius I becomes Achaemenid king; reorganizes empire with satrapies; strengthens centralized rule.",
+		"desc_te": "దారియస్ I అఖేమెనిడ్ రాజుగా గా; సత్రాపీలతో సామ్రాజ్య సంస్థాపన; కేంద్రీకృత పాలన దృఢీకరిస్తాడు."
+	},
+	{
+		"year": "-510",
+		"name_en": "Etruscan Kingdom Rome Influence Italy",
+		"name_te": "ఎట్రస్కన్ రాజ్యం రోమ్ ప్రభావ ఇటలీ",
+		"location": {
+			"lat": 42.8627,
+			"lng": 11.8555
+		},
+		"desc_en": "Etruscan kingdom reaches peak power in Italy; influences early Roman development.",
+		"desc_te": "ఎట్రస్కన్ రాజ్యం ఇటలీలో శిఖర శక్తిని చేరుకుంటూ ప్రారంభ రోమన్ అభివృద్ధిని ప్రభావితం చేస్తుంది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Peisistratus Athens Tyrant Rules",
+		"name_te": "పెసిస్ట్రాటస్ అథెన్స్ నియంతుడు పాలన",
+		"location": {
+			"lat": 37.98,
+			"lng": 23.72
+		},
+		"desc_en": "Peisistratus establishes tyranny in Athens; brings cultural and economic prosperity.",
+		"desc_te": "పెసిస్ట్రాటస్ అథెన్స్‌లో నిరంకుశ పరిపాలన స్థాపన; సాంస్కృతిక, ఆర్థిక సమృద్ధి తీసుకువస్తాడు."
+	},
+	{
+		"year": "-590",
+		"name_en": "Magadha Kingdom Expands Bimbisara",
+		"name_te": "మగధ రాజ్యం విస్తరణ బింబిసారుడు",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "King Bimbisara expands Magadha through military campaigns and diplomatic alliances.",
+		"desc_te": "రాజు బింబిసారుడు సైనిక ప్రచారం, రాజనీతిక సమాఘాల ద్వారా మగధ విస్తరిస్తుంది."
+	},
+	{
+		"year": "-580",
+		"name_en": "Nebuchadnezzar Building Projects Babylon",
+		"name_te": "నెబూకద్నెజర్ నిర్మాణ ప్రాజెక్టులు బాబెలోను",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nebuchadnezzar II undertakes massive construction projects including temples and city walls.",
+		"desc_te": "నెబూకద్నెజర్ II దేవాలయాలు, నగర గోడల సహా భారీ నిర్మాణ ప్రాజెక్టులు చేపట్టుతాడు."
+	},
+	{
+		"year": "-570",
+		"name_en": "Thales Greek Philosophy Geometry",
+		"name_te": "థేల్‌లస్ గ్రీకు తత్వశాస్త్రం, జ్యామితి",
+		"location": {
+			"lat": 37,
+			"lng": 27.2
+		},
+		"desc_en": "Thales of Miletus pioneered Greek philosophy and geometry; first great Western philosopher.",
+		"desc_te": "మిలేటస్ థేల్‌లస్ గ్రీకు తత్వశాస్త్రం, జ్యామితి ఆధారం; మొదటి గొప్ప పాశ్చాత్య తత్వవేత్త."
+	},
+	{
+		"year": "-560",
+		"name_en": "Sparta Military Hegemony Greece",
+		"name_te": "స్పార్టా సైనిక ఆధిపత్యం గ్రీస్",
+		"location": {
+			"lat": 37.0755,
+			"lng": 22.4297
+		},
+		"desc_en": "Sparta becomes dominant military power in Greece; establishes Peloponnesian League.",
+		"desc_te": "స్పార్టా గ్రీస్‌లో ఆధిపత్య సైనిక శక్తిగా; పెలోపోన్నేసియన్ లీగ్ స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-550",
+		"name_en": "Ionia Greek Cities Rise Asia Minor",
+		"name_te": "ఐయోనియా గ్రీక్ నగరాలు ఎదుగుదల ఆసియా మైనర్",
+		"location": {
+			"lat": 37.5,
+			"lng": 27.5
+		},
+		"desc_en": "Ionian Greek cities flourish on Asia Minor coast; become centers of trade and philosophy.",
+		"desc_te": "ఆసియా మైనర్ తీరంపై ఐయోనియన్ గ్రీక్ నగరాలు సమృద్ధిస్తూ వాణిజ్యం, తత్వశాస్త్ర కేంద్రాలు మారుతాయి."
+	},
+	{
+		"year": "-540",
+		"name_en": "Persian Satrap System Established",
+		"name_te": "పర్షియన్ సత్రాపీ వ్యవస్థ స్థాపన",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Darius I establishes satrap system dividing empire into provinces for efficient governance.",
+		"desc_te": "దారియస్ I సత్రాపీ వ్యవస్థ స్థాపన చేస్తూ సామ్రాజ్యాన్ని కార్యకర నిర్వహణ కోసం ప్రావిన్సులుగా విభజిస్తాడు."
+	},
+	{
+		"year": "-530",
+		"name_en": "Heraclitus Greek Philosopher Born",
+		"name_te": "హెరక్లిటస్ గ్రీకు తత్వవేత్త జన్మ",
+		"location": {
+			"lat": 37.6,
+			"lng": 27.2
+		},
+		"desc_en": "Heraclitus, Greek philosopher of flux and change, develops influential theories.",
+		"desc_te": "పరివర్తన తత్వవేత్త హెరక్లిటస్ గ్రీకులో జన్మ; ప్రభావవంతమైన సిద్ధాంతాలు అభివృద్ధి చేస్తాడు."
+	},
+	{
+		"year": "-520",
+		"name_en": "Zoroastrianism Persia State Religion",
+		"name_te": "జరథుస్థ్రవాదం పర్షియా రాష్ట్ర మతం",
+		"location": {
+			"lat": 36.2,
+			"lng": 59.6
+		},
+		"desc_en": "Zoroastrianism becomes state religion of Persian Empire under Darius I.",
+		"desc_te": "దారియస్ I కింద జరథుస్థ్రవాదం పర్షియన్ సామ్రాజ్య రాష్ట్ర మతంగా మారుతుంది."
+	},
+	{
+		"year": "-600",
+		"name_en": "Kosala Kingdom Emerges Northern India",
+		"name_te": "కోసల రాజ్యం ఉత్తర భారత ఉద్భవం",
+		"location": {
+			"lat": 26.7,
+			"lng": 83
+		},
+		"desc_en": "Kingdom of Kosala emerges as major Mahajanapada in northern India; rivals Magadha for dominance.",
+		"desc_te": "ఉత్తర భారతలో కోసల రాజ్యం ప్రధాన మహాజనపదగా ఉద్భవిస్తూ మగధకు ప్రతిష్ఠిస్తుంది."
+	},
+	{
+		"year": "-590",
+		"name_en": "Sixteen Mahajanapadas Political Structure",
+		"name_te": "పదహారు మహాజనపదాలు రాజకీయ నిర్మాణం",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Sixteen Mahajanapadas establish political systems; republics, oligarchies and monarchies compete.",
+		"desc_te": "పదహారు మహాజనపదాలు రాజకీయ వ్యవస్థలు స్థాపన; రిపబ్లిక్‌లు, ఆలిగార్కీలు, రాచరికాలు ప్రతిస్పందిస్తాయి."
+	},
+	{
+		"year": "-580",
+		"name_en": "Vriji Republic Confederation India",
+		"name_te": "వృజిఖ రిపబ్లిక్ సమాఘం భారత",
+		"location": {
+			"lat": 26.2,
+			"lng": 85.4
+		},
+		"desc_en": "Vriji confederation of tribes establishes republican government; becomes powerful federation.",
+		"desc_te": "వృజిఖ గోత్ర సమాఘం రిపబ్లికన్ ప్రభుత్వం స్థాపన; శక్తివంతమైన సమాఘం గా మారుతుంది."
+	},
+	{
+		"year": "-570",
+		"name_en": "Kashi Kingdom Varanasi Region India",
+		"name_te": "కాశీ రాజ్యం వారణాసీ ప్రాంతం భారత",
+		"location": {
+			"lat": 25.3,
+			"lng": 83
+		},
+		"desc_en": "Kingdom of Kashi establishes power base in Varanasi region; becomes spiritual center.",
+		"desc_te": "కాశీ రాజ్యం వారణాసీ ప్రాంతంలో శక్తి ఆధారం స్థాపన; ఆధ్యాత్మిక కేంద్రంగా మారుతుంది."
+	},
+	{
+		"year": "-560",
+		"name_en": "Videha Kingdom Mithila Northern India",
+		"name_te": "విదేహ రాజ్యం మిథిలా ఉత్తర భారత",
+		"location": {
+			"lat": 26.7,
+			"lng": 85.8
+		},
+		"desc_en": "Kingdom of Videha with capital Mithila; becomes major Mahajanapada in northern India.",
+		"desc_te": "మిథిలా రాజధానిగా విదేహ రాజ్యం; ఉత్తర భారతలో ప్రధాన మహాజనపదగా మారుతుంది."
+	},
+	{
+		"year": "-550",
+		"name_en": "Pancala Kingdom Multiple Republics",
+		"name_te": "పంచాల రాజ్యం బహుళ రిపబ్లిక్‌లు",
+		"location": {
+			"lat": 29,
+			"lng": 78.5
+		},
+		"desc_en": "Pancala kingdom divides into multiple republics; northern and southern branches establish.",
+		"desc_te": "పంచాల రాజ్యం బహుళ రిపబ్లిక్‌లుగా విభజన; ఉత్తర, దక్షిణ శాఖలు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-540",
+		"name_en": "Kosala Pushes Magadha Rivalry",
+		"name_te": "కోసల మగధ ముప్పు ప్రతిష్ఠ",
+		"location": {
+			"lat": 26.7,
+			"lng": 83
+		},
+		"desc_en": "Kingdom of Kosala expands aggressively; challenges Magadha dominance in northern India.",
+		"desc_te": "కోసల రాజ్యం ఆక్రమణాత్మకంగా విస్తరిస్తూ ఉత్తర భారతలో మగధ ఆధిపత్యానికి సవాల్ చేస్తుంది."
+	},
+	{
+		"year": "-530",
+		"name_en": "Mahajanapadas Military Conflicts Begin",
+		"name_te": "మహాజనపదాలు సైనిక సంఘర్షణ ప్రారంభం",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Military conflicts between Mahajanapadas intensify; competition for territorial dominance.",
+		"desc_te": "మహాజనపదాల మధ్య సైనిక సంఘర్షణ తీవ్రతరం; భూభాగ ఆధిపత్య ప్రతిస్పందన."
+	},
+	{
+		"year": "-520",
+		"name_en": "Avanti Kingdom Western Mahajanapada",
+		"name_te": "అవంతి రాజ్యం పశ్చిమ మహాజనపదా",
+		"location": {
+			"lat": 23,
+			"lng": 75.8
+		},
+		"desc_en": "Avanti kingdom emerges in western India; becomes powerful Mahajanapada.",
+		"desc_te": "పశ్చిమ భారతలో అవంతి రాజ్యం ఉద్భవిస్తూ శక్తివంతమైన మహాజనపదగా మారుతుంది."
+	},
+	{
+		"year": "-510",
+		"name_en": "Assaka Southern Mahajanapada Flourish",
+		"name_te": "అస్సక దక్షిణ మహాజనపదా సమృద్ధి",
+		"location": {
+			"lat": 16,
+			"lng": 78
+		},
+		"desc_en": "Assaka kingdom in southern India becomes wealthy Mahajanapada; controls trade routes.",
+		"desc_te": "దక్షిణ భారతలో అస్సక రాజ్యం సమృద్ధ మహాజనపదగా సమృద్ధిస్తూ వాణిజ్య మార్గాలను నియంత్రిస్తుంది."
+	}
+]

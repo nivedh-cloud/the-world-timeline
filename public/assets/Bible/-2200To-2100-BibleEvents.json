@@ -1,0 +1,937 @@
+[
+	{
+		"year": "-2200",
+		"name_en": "Rise of Early City-States in Mesopotamia",
+		"name_te": "మెసపొటేమియాలో ప్రారంభ నగర-రాష్ట్రాల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states such as Ur and Uruk become prominent centers of culture and power.",
+		"desc_te": "ఉర్, ఉరుక్ వంటి నగర-రాష్ట్రాలు సంస్కృతి, అధికార కేంద్రాలుగా ఎదిగాయి."
+	},
+	{
+		"year": "-2180",
+		"name_en": "Birth of Abram (Abraham), Patriarch of Israel",
+		"name_te": "ఇశ్రాయేలు పితామహుడు అబ్రాము (అబ్రాహాము) జననం",
+		"location": {
+			"lat": 31.19,
+			"lng": 29.91
+		},
+		"desc_en": "Abram (later Abraham), a key patriarch in the Bible, is born in Ur of the Chaldeans (Genesis 11:27-28)",
+		"desc_te": "బైబిల్‌లో ముఖ్యమైన పితామహుడు అబ్రాము (తరువాత అబ్రాహాము) కల్దీయుల ఊరులో జన్మించాడు (ఆదికాండము 11:27-28)"
+	},
+	{
+		"year": "-2170",
+		"name_en": "Migration of Terah's Family from Ur to Haran",
+		"name_te": "తెరహు కుటుంబం ఊర్ నుండి హారానుకు వలస వెళ్ళింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Terah, father of Abram, leads his family from Ur to Haran (Genesis 11:31)",
+		"desc_te": "అబ్రాము తండ్రి తెరహు తన కుటుంబాన్ని ఊర్ నుండి హారానుకు తీసుకెళ్లాడు (ఆదికాండము 11:31)"
+	},
+	{
+		"year": "-2150",
+		"name_en": "Growth of Amorite and Canaanite Kingdoms",
+		"name_te": "అమోరీ, కనాను రాజ్యాల అభివృద్ధి",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Amorite and Canaanite kingdoms expand and become influential in the region.",
+		"desc_te": "అమోరీ, కనాను రాజ్యాలు విస్తరించి, ప్రాంతంలో ప్రభావవంతంగా మారాయి."
+	},
+	{
+		"year": "-2120",
+		"name_en": "Early Conflicts and Alliances Among City-States",
+		"name_te": "నగర-రాష్ట్రాల మధ్య ప్రారంభ ఘర్షణలు, కూటములు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states in Mesopotamia and Canaan experience early conflicts and form alliances.",
+		"desc_te": "మెసపొటేమియా, కనాను ప్రాంతాల్లోని నగర-రాష్ట్రాలు ప్రారంభ ఘర్షణలు, కూటములు అనుభవించాయి."
+	},
+	{
+		"year": "-2220",
+		"name_en": "Kingdom of Elam Rises in the East",
+		"name_te": "తూర్పున ఎలాం రాజ్యం ఉద్భవం",
+		"location": {
+			"lat": 32.12,
+			"lng": 48.25
+		},
+		"desc_en": "The kingdom of Elam becomes a significant power in the eastern region, interacting with Mesopotamian city-states.",
+		"desc_te": "తూర్పు ప్రాంతంలో ఎలాం రాజ్యం ప్రధాన శక్తిగా ఎదిగి, మెసపొటేమియా నగర-రాష్ట్రాలతో సంబంధాలు ఏర్పరచుకుంది."
+	},
+	{
+		"year": "-2210",
+		"name_en": "Sumerian Kings Consolidate Power in Ur",
+		"name_te": "సుమేరియన్ రాజులు ఊర్‌లో అధికారాన్ని కేంద్రీకరించారు",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "Sumerian kings strengthen their rule in Ur, influencing the region's politics and religion.",
+		"desc_te": "సుమేరియన్ రాజులు ఊర్‌లో తమ అధికారాన్ని బలపరిచి, ప్రాంత రాజకీయాలు, మతంపై ప్రభావం చూపారు."
+	},
+	{
+		"year": "-2190",
+		"name_en": "Abram's Ancestors: Nahor and Serug",
+		"name_te": "అబ్రాము పూర్వీకులు: నహోరు, సెరూగు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Nahor and Serug, ancestors of Abram, live in Mesopotamia and continue the patriarchal line (Genesis 11:22-23)",
+		"desc_te": "అబ్రాము పూర్వీకులు నహోరు, సెరూగు మెసపొటేమియాలో నివసించి, పితృవంశాన్ని కొనసాగించారు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2175",
+		"name_en": "Expansion of Trade Between Ur and Haran",
+		"name_te": "ఊర్, హారాన్ మధ్య వాణిజ్య విస్తరణ",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Trade routes between Ur and Haran expand, facilitating cultural and economic exchange.",
+		"desc_te": "ఊర్, హారాన్ మధ్య వాణిజ్య మార్గాలు విస్తరించి, సాంస్కృతిక, ఆర్థిక మార్పిడికి దోహదపడ్డాయి."
+	},
+	{
+		"year": "-2130",
+		"name_en": "Early Prophets and Priests Guide the People",
+		"name_te": "ప్రారంభ ప్రవక్తలు, యాజకులు ప్రజలను మార్గనిర్దేశం చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and priests begin to play a key role in guiding spiritual and social life.",
+		"desc_te": "ప్రారంభ ప్రవక్తలు, యాజకులు ఆధ్యాత్మిక, సామాజిక జీవితాన్ని మార్గనిర్దేశం చేయడం ప్రారంభించారు."
+	},
+	{
+		"year": "-2240",
+		"name_en": "Kingdom of Akkad's Influence Continues",
+		"name_te": "అక్కాదు రాజ్యం ప్రభావం కొనసాగింది",
+		"location": {
+			"lat": 33.1,
+			"lng": 44.6
+		},
+		"desc_en": "The Akkadian kingdom continues to influence Mesopotamia, impacting language and administration.",
+		"desc_te": "అక్కాదు రాజ్యం మెసపొటేమియాపై ప్రభావం చూపుతూ, భాష, పరిపాలనలో మార్పులు తీసుకొచ్చింది."
+	},
+	{
+		"year": "-2230",
+		"name_en": "Emergence of Early City Walls and Defenses",
+		"name_te": "ప్రారంభ నగర గోడలు, రక్షణలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states begin constructing walls and defenses to protect against invasions.",
+		"desc_te": "నగర-రాష్ట్రాలు దాడులను ఎదుర్కొనడానికి గోడలు, రక్షణలు నిర్మించడం ప్రారంభించాయి."
+	},
+	{
+		"year": "-2215",
+		"name_en": "Nahor's Family Expands in Mesopotamia",
+		"name_te": "నహోరు కుటుంబం మెసపొటేమియాలో విస్తరించింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Nahor, ancestor of Abraham, expands his family and influence in the region (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు తన కుటుంబాన్ని, ప్రభావాన్ని మెసపొటేమియాలో విస్తరించాడు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "Rise of Local Chieftains and Tribal Leaders",
+		"name_te": "ప్రాంతీయ నాయకులు, గోత్ర నాయకుల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Local chieftains and tribal leaders gain prominence, guiding their people through challenges.",
+		"desc_te": "ప్రాంతీయ నాయకులు, గోత్ర నాయకులు ప్రజలను సవాళ్ల మధ్య మార్గనిర్దేశం చేయడం ప్రారంభించారు."
+	},
+	{
+		"year": "-2140",
+		"name_en": "Early Religious Practices and Temples Established",
+		"name_te": "ప్రారంభ ఆరాధనా పద్ధతులు, దేవాలయాల స్థాపన",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Temples and religious practices are established, shaping the spiritual life of the people.",
+		"desc_te": "దేవాలయాలు, ఆరాధనా పద్ధతులు స్థాపించబడి, ప్రజల ఆధ్యాత్మిక జీవితాన్ని ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-2240",
+		"name_en": "Nimrod's Legacy in City-Building Continues",
+		"name_te": "నిమ్రోదు నగర నిర్మాణ వారసత్వం కొనసాగింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "The influence of Nimrod's city-building efforts persists in Mesopotamia, inspiring new urban centers.",
+		"desc_te": "నిమ్రోదు నగర నిర్మాణం మెసపొటేమియాలో కొనసాగి, కొత్త పట్టణ కేంద్రాలకు ప్రేరణనిచ్చింది."
+	},
+	{
+		"year": "-2235",
+		"name_en": "Early Conflicts Between City-States and Tribes",
+		"name_te": "నగర-రాష్ట్రాలు, గోత్రాల మధ్య ప్రారంభ ఘర్షణలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states and tribes compete for resources, leading to early conflicts and alliances.",
+		"desc_te": "నగర-రాష్ట్రాలు, గోత్రాలు వనరుల కోసం పోటీ పడుతూ, ప్రారంభ ఘర్షణలు, కూటములు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2225",
+		"name_en": "Rise of Local Shrines and Sacred Places",
+		"name_te": "ప్రాంతీయ పుణ్యస్థలాలు, దేవస్థానాల ఉద్భవం",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Local shrines and sacred places are established, becoming centers of worship and community.",
+		"desc_te": "ప్రాంతీయ పుణ్యస్థలాలు, దేవస్థానాలు స్థాపించబడి, ఆరాధన, సమాజ కేంద్రాలుగా మారాయి."
+	},
+	{
+		"year": "-2205",
+		"name_en": "Patriarch Serug's Leadership and Legacy",
+		"name_te": "పితామహుడు సెరూగు నాయకత్వం, వారసత్వం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Serug, ancestor of Abraham, leads his family and leaves a legacy in Mesopotamia (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు సెరూగు తన కుటుంబాన్ని నడిపి, మెసపొటేమియాలో వారసత్వాన్ని వదిలిపెట్టాడు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2150",
+		"name_en": "Growth of Trade and Cultural Exchange in the Region",
+		"name_te": "ప్రాంతంలో వాణిజ్య, సాంస్కృతిక మార్పిడి అభివృద్ధి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Trade and cultural exchange flourish among city-states and neighboring peoples.",
+		"desc_te": "నగర-రాష్ట్రాలు, పొరుగు ప్రజల మధ్య వాణిజ్య, సాంస్కృతిక మార్పిడి అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-2240",
+		"name_en": "Akkadian-Sumerian Cultural Blending in Mesopotamia",
+		"name_te": "మెసపొటేమియాలో అక్కాదు-సుమేరియన్ సాంస్కృతిక కలయిక",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Akkadian and Sumerian peoples blend cultures, languages, and religious practices in Mesopotamia.",
+		"desc_te": "అక్కాదు, సుమేరియన్ ప్రజలు మెసపొటేమియాలో సంస్కృతి, భాష, మతాచారాలను కలిపారు."
+	},
+	{
+		"year": "-2230",
+		"name_en": "Emergence of Early Law Codes and Governance",
+		"name_te": "ప్రారంభ చట్టాలు, పరిపాలన ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states begin to develop early law codes and systems of governance.",
+		"desc_te": "నగర-రాష్ట్రాలు ప్రారంభ చట్టాలు, పరిపాలన వ్యవస్థలను అభివృద్ధి చేశాయి."
+	},
+	{
+		"year": "-2215",
+		"name_en": "Patriarch Nahor's Family and Influence Grows",
+		"name_te": "పితామహుడు నహోరు కుటుంబం, ప్రభావం పెరిగింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Nahor, ancestor of Abraham, expands his family and influence in the region (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు తన కుటుంబాన్ని, ప్రభావాన్ని మెసపొటేమియాలో విస్తరించాడు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Rise of Regional Alliances and Treaties",
+		"name_te": "ప్రాంతీయ కూటములు, ఒప్పందాల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states and tribes form alliances and treaties for mutual benefit and security.",
+		"desc_te": "నగర-రాష్ట్రాలు, గోత్రాలు పరస్పర ప్రయోజనం, భద్రత కోసం కూటములు, ఒప్పందాలు చేసుకున్నాయి."
+	},
+	{
+		"year": "-2140",
+		"name_en": "Early Prophets and Wise Elders Guide Communities",
+		"name_te": "ప్రారంభ ప్రవక్తలు, మేధావి వృద్ధులు సమాజాలను మార్గనిర్దేశం చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and wise elders provide spiritual and practical guidance to the people.",
+		"desc_te": "ప్రారంభ ప్రవక్తలు, మేధావి వృద్ధులు ప్రజలకు ఆధ్యాత్మిక, ప్రాయోగిక మార్గనిర్దేశం అందించారు."
+	},
+	{
+		"year": "-2270",
+		"name_en": "Akkadian Empire's Expansion and Decline",
+		"name_te": "అక్కాదు సామ్రాజ్యం విస్తరణ, పతనం",
+		"location": {
+			"lat": 33.1,
+			"lng": 44.6
+		},
+		"desc_en": "The Akkadian Empire reaches its peak and then begins to decline, affecting the region's power balance.",
+		"desc_te": "అక్కాదు సామ్రాజ్యం పరాకాష్టకు చేరుకుని, తరువాత పతనాన్ని ప్రారంభించింది, ఇది ప్రాంతీయ శక్తి సమతుల్యతను ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-2250",
+		"name_en": "Emergence of Gutian Rule in Mesopotamia",
+		"name_te": "మెసపొటేమియాలో గుటియన్ పాలన ఉద్భవం",
+		"location": {
+			"lat": 34,
+			"lng": 45
+		},
+		"desc_en": "The Gutians rise to power in Mesopotamia, disrupting established kingdoms and city-states.",
+		"desc_te": "గుటియన్‌లు మెసపొటేమియాలో అధికారాన్ని చేపట్టి, స్థిరపడిన రాజ్యాలు, నగర-రాష్ట్రాలను అస్తవ్యస్తం చేశారు."
+	},
+	{
+		"year": "-2235",
+		"name_en": "Patriarch Reu's Family and Legacy",
+		"name_te": "పితామహుడు రేు కుటుంబం, వారసత్వం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Reu, ancestor of Abraham, leads his family and leaves a legacy in the region (Genesis 11:20-21)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు రేు తన కుటుంబాన్ని నడిపి, ప్రాంతంలో వారసత్వాన్ని వదిలిపెట్టాడు (ఆదికాండము 11:20-21)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Rise of Early Fortified Cities and Defenses",
+		"name_te": "ప్రారంభ కోట నగరాలు, రక్షణలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states construct fortified cities and defenses to protect against invasions.",
+		"desc_te": "నగర-రాష్ట్రాలు దాడులను ఎదుర్కొనడానికి కోట నగరాలు, రక్షణలు నిర్మించాయి."
+	},
+	{
+		"year": "-2160",
+		"name_en": "Growth of Religious Leadership and Prophetic Voices",
+		"name_te": "ఆధ్యాత్మిక నాయకత్వం, ప్రవక్తల వాణి అభివృద్ధి",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Religious leaders and early prophets gain influence, guiding the people spiritually and socially.",
+		"desc_te": "ఆధ్యాత్మిక నాయకులు, ప్రారంభ ప్రవక్తలు ప్రజలను ఆధ్యాత్మికంగా, సామాజికంగా మార్గనిర్దేశం చేశారు."
+	},
+	{
+		"year": "-2270",
+		"name_en": "Nimrod's City-Building Traditions Influence Successors",
+		"name_te": "నిమ్రోదు నగర నిర్మాణ సంప్రదాయాలు వారసులకు ప్రభావం చూపాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod's legacy in city-building continues to inspire rulers and city founders in Mesopotamia.",
+		"desc_te": "నిమ్రోదు నగర నిర్మాణ వారసత్వం మెసపొటేమియాలో పాలకులు, పట్టణ స్థాపకులకు ప్రేరణనిచ్చింది."
+	},
+	{
+		"year": "-2265",
+		"name_en": "Early Tribal Conflicts and Alliances Formed",
+		"name_te": "ప్రారంభ గోత్ర ఘర్షణలు, కూటములు ఏర్పడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Tribes compete for land and resources, leading to conflicts and the formation of alliances.",
+		"desc_te": "గోత్రాలు భూమి, వనరుల కోసం పోటీ పడుతూ, ఘర్షణలు, కూటములు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2250",
+		"name_en": "Patriarch Peleg's Era: Division of the Earth",
+		"name_te": "పితామహుడు ఫెలెగ్ కాలం: భూమి విభజన",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "During Peleg's time, the earth is divided among peoples (Genesis 10:25; 11:16-19)",
+		"desc_te": "ఫెలెగ్ కాలంలో భూమి ప్రజల మధ్య విభజించబడింది (ఆదికాండము 10:25; 11:16-19)"
+	},
+	{
+		"year": "-2230",
+		"name_en": "Rise of Local Kingdoms and City-States",
+		"name_te": "ప్రాంతీయ రాజ్యాలు, నగర-రాష్ట్రాల ఉద్భవం",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Local kingdoms and city-states emerge, shaping the political landscape of the region.",
+		"desc_te": "ప్రాంతీయ రాజ్యాలు, నగర-రాష్ట్రాలు ఉద్భవించి, ప్రాంతీయ రాజకీయాలను ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-2160",
+		"name_en": "Early Priests and Prophets Guide Spiritual Life",
+		"name_te": "ప్రారంభ యాజకులు, ప్రవక్తలు ఆధ్యాత్మిక జీవితాన్ని మార్గనిర్దేశం చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Priests and prophets play a key role in guiding the spiritual life of the people.",
+		"desc_te": "యాజకులు, ప్రవక్తలు ప్రజల ఆధ్యాత్మిక జీవితాన్ని మార్గనిర్దేశం చేయడంలో కీలక పాత్ర పోషించారు."
+	},
+	{
+		"year": "-2270",
+		"name_en": "Spread of Nimrod's Urban Planning Methods",
+		"name_te": "నిమ్రోదు పట్టణ ప్రణాళికా పద్ధతుల వ్యాప్తి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod's urban planning and city-building methods are adopted by new rulers and city founders.",
+		"desc_te": "నిమ్రోదు పట్టణ ప్రణాళిక, నగర నిర్మాణ పద్ధతులు కొత్త పాలకులు, పట్టణ స్థాపకులు అనుసరించారు."
+	},
+	{
+		"year": "-2265",
+		"name_en": "Early Inter-Tribal Treaties and Peace Agreements",
+		"name_te": "ప్రారంభ గోత్రాల ఒప్పందాలు, శాంతి సంధులు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Tribes begin to form treaties and peace agreements to avoid conflict and share resources.",
+		"desc_te": "గోత్రాలు ఘర్షణలు నివారించేందుకు, వనరులను పంచుకునేందుకు ఒప్పందాలు, శాంతి సంధులు చేసుకున్నాయి."
+	},
+	{
+		"year": "-2250",
+		"name_en": "Patriarch Eber's Era: Language and Identity",
+		"name_te": "పితామహుడు హెబెరు కాలం: భాష, గుర్తింపు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "During Eber's time, language and identity become important among the peoples (Genesis 10:25; 11:14-17)",
+		"desc_te": "హెబెరు కాలంలో ప్రజల్లో భాష, గుర్తింపు ముఖ్యంగా మారాయి (ఆదికాండము 10:25; 11:14-17)"
+	},
+	{
+		"year": "-2230",
+		"name_en": "Formation of Regional Councils and Governance",
+		"name_te": "ప్రాంతీయ మండలులు, పరిపాలన ఏర్పాట్లు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Regional councils and governance structures are formed to manage growing populations.",
+		"desc_te": "పెరుగుతున్న జనాభాను నిర్వహించేందుకు ప్రాంతీయ మండలులు, పరిపాలన వ్యవస్థలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2160",
+		"name_en": "Emergence of Early Judges and Wise Leaders",
+		"name_te": "ప్రారంభ న్యాయాధిపతులు, మేధావి నాయకుల ఉద్భవం",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Judges and wise leaders begin to resolve disputes and guide communities.",
+		"desc_te": "న్యాయాధిపతులు, మేధావి నాయకులు వివాదాలను పరిష్కరించి, సమాజాలను మార్గనిర్దేశం చేయడం ప్రారంభించారు."
+	},
+	{
+		"year": "-2270",
+		"name_en": "Nimrod's Successors Expand Urban Centers",
+		"name_te": "నిమ్రోదు వారసులు పట్టణ కేంద్రాలను విస్తరించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Successors of Nimrod continue to expand and develop urban centers in Mesopotamia.",
+		"desc_te": "నిమ్రోదు వారసులు మెసపొటేమియాలో పట్టణ కేంద్రాలను విస్తరించి అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2262",
+		"name_en": "Early Tribal Councils and Leadership Structures",
+		"name_te": "ప్రారంభ గోత్ర మండలులు, నాయకత్వ నిర్మాణాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Tribal councils and leadership structures are established to govern and organize communities.",
+		"desc_te": "గోత్ర మండలులు, నాయకత్వ నిర్మాణాలు సమాజాన్ని నిర్వహించేందుకు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-2250",
+		"name_en": "Patriarch Peleg's Descendants and Regional Influence",
+		"name_te": "పితామహుడు ఫెలెగ్ సంతానం, ప్రాంతీయ ప్రభావం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Peleg's descendants spread and influence the region, continuing the patriarchal line (Genesis 10:25; 11:16-19)",
+		"desc_te": "ఫెలెగ్ సంతానం విస్తరించి, ప్రాంతంలో ప్రభావాన్ని చూపింది (ఆదికాండము 10:25; 11:16-19)"
+	},
+	{
+		"year": "-2235",
+		"name_en": "Formation of Early Kingdoms and City-State Rivalries",
+		"name_te": "ప్రారంభ రాజ్యాలు, నగర-రాష్ట్ర పోటీలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early kingdoms and city-states form, leading to rivalries and shifting alliances.",
+		"desc_te": "ప్రారంభ రాజ్యాలు, నగర-రాష్ట్రాలు ఏర్పడి, పోటీలు, కూటములు మారుతూ వచ్చాయి."
+	},
+	{
+		"year": "-2160",
+		"name_en": "Wise Elders and Prophets Shape Social Order",
+		"name_te": "మేధావి వృద్ధులు, ప్రవక్తలు సామాజిక క్రమాన్ని రూపొందించారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Wise elders and prophets play a key role in shaping the social and spiritual order of the people.",
+		"desc_te": "మేధావి వృద్ధులు, ప్రవక్తలు ప్రజల సామాజిక, ఆధ్యాత్మిక క్రమాన్ని రూపొందించడంలో కీలక పాత్ర పోషించారు."
+	},
+	{
+		"year": "-2270",
+		"name_en": "Nimrod's Urban Legacy Inspires New City Founders",
+		"name_te": "నిమ్రోదు పట్టణ వారసత్వం కొత్త పట్టణ స్థాపకులకు ప్రేరణనిచ్చింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Nimrod's achievements in city-building inspire a new generation of city founders in Mesopotamia.",
+		"desc_te": "నిమ్రోదు నగర నిర్మాణ విజయాలు మెసపొటేమియాలో కొత్త పట్టణ స్థాపకులకు ప్రేరణనిచ్చాయి."
+	},
+	{
+		"year": "-2265",
+		"name_en": "Early Tribal Migrations and Settlement Patterns",
+		"name_te": "ప్రారంభ గోత్ర వలసలు, నివాస నమూనాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Tribes migrate and establish new settlements, shaping the demographic landscape.",
+		"desc_te": "గోత్రాలు వలస వెళ్ళి, కొత్త నివాసాలు ఏర్పాటు చేసి, జనాభా నమూనాను రూపొందించాయి."
+	},
+	{
+		"year": "-2250",
+		"name_en": "Patriarch Peleg's Era: Regional Changes and Growth",
+		"name_te": "పితామహుడు ఫెలెగ్ కాలం: ప్రాంతీయ మార్పులు, అభివృద్ధి",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "During Peleg's era, the region experiences significant changes and growth (Genesis 10:25; 11:16-19)",
+		"desc_te": "ఫెలెగ్ కాలంలో ప్రాంతంలో ముఖ్యమైన మార్పులు, అభివృద్ధి చోటు చేసుకున్నాయి (ఆదికాండము 10:25; 11:16-19)"
+	},
+	{
+		"year": "-2235",
+		"name_en": "Formation of Early Alliances and Rivalries",
+		"name_te": "ప్రారంభ కూటములు, పోటీలు ఏర్పడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Early alliances and rivalries form among city-states and tribes, influencing politics.",
+		"desc_te": "నగర-రాష్ట్రాలు, గోత్రాల మధ్య ప్రారంభ కూటములు, పోటీలు ఏర్పడి, రాజకీయాలను ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-2160",
+		"name_en": "Prophets and Elders Guide Justice and Worship",
+		"name_te": "ప్రవక్తలు, వృద్ధులు న్యాయం, ఆరాధనను మార్గనిర్దేశం చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and elders provide guidance in justice and worship for the people.",
+		"desc_te": "ప్రవక్తలు, వృద్ధులు ప్రజలకు న్యాయం, ఆరాధనలో మార్గనిర్దేశం అందించారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Rise of Ur as a Major City-State",
+		"name_te": "ఊర్ ప్రధాన నగర-రాష్ట్రంగా ఎదుగుతుంది",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "Ur becomes a leading city-state in Mesopotamia, known for its culture and power.",
+		"desc_te": "ఊర్ మెసపొటేమియాలో ప్రముఖ నగర-రాష్ట్రంగా, సంస్కృతి, అధికారానికి ప్రసిద్ధి చెందింది."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Expansion of Sumerian Influence in the Region",
+		"name_te": "ప్రాంతంలో సుమేరియన్ ప్రభావం విస్తరించింది",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian rulers expand their influence, impacting language, religion, and administration.",
+		"desc_te": "సుమేరియన్ పాలకులు తమ ప్రభావాన్ని విస్తరించి, భాష, మతం, పరిపాలనపై ప్రభావం చూపారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Patriarch Nahor's Family Grows in Mesopotamia",
+		"name_te": "పితామహుడు నహోరు కుటుంబం మెసపొటేమియాలో పెరిగింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Nahor, ancestor of Abraham, expands his family and influence in the region (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు తన కుటుంబాన్ని, ప్రభావాన్ని మెసపొటేమియాలో విస్తరించాడు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "Early City-State Rivalries and Alliances",
+		"name_te": "ప్రారంభ నగర-రాష్ట్ర పోటీలు, కూటములు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states compete for dominance, leading to rivalries and shifting alliances.",
+		"desc_te": "నగర-రాష్ట్రాలు ఆధిపత్యం కోసం పోటీ పడుతూ, పోటీలు, కూటములు మారుతూ వచ్చాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Religious Leaders and Prophets Guide the People",
+		"name_te": "ఆధ్యాత్మిక నాయకులు, ప్రవక్తలు ప్రజలను మార్గనిర్దేశం చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Religious leaders and prophets provide spiritual and social guidance to the people.",
+		"desc_te": "ఆధ్యాత్మిక నాయకులు, ప్రవక్తలు ప్రజలకు ఆధ్యాత్మిక, సామాజిక మార్గనిర్దేశం అందించారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Uruk's Continued Growth and Influence",
+		"name_te": "ఉరుక్ అభివృద్ధి, ప్రభావం కొనసాగింది",
+		"location": {
+			"lat": 31.32,
+			"lng": 45.63
+		},
+		"desc_en": "Uruk continues to grow as a major city-state, influencing culture and trade in Mesopotamia.",
+		"desc_te": "ఉరుక్ ప్రధాన నగర-రాష్ట్రంగా అభివృద్ధి చెంది, మెసపొటేమియాలో సంస్కృతి, వాణిజ్యంపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Sumerian Kings Establish New Temples",
+		"name_te": "సుమేరియన్ రాజులు కొత్త దేవాలయాలు నిర్మించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian kings commission the construction of new temples, enhancing religious life.",
+		"desc_te": "సుమేరియన్ రాజులు కొత్త దేవాలయాలను నిర్మించి, ఆధ్యాత్మిక జీవితాన్ని అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Nahor's Descendants Spread Across the Region",
+		"name_te": "నహోరు సంతానం ప్రాంతంలో విస్తరించింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Descendants of Nahor, ancestor of Abraham, spread and establish new settlements (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు సంతానం విస్తరించి, కొత్త నివాసాలు ఏర్పాటు చేసింది (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "City-States Form Defensive Alliances",
+		"name_te": "నగర-రాష్ట్రాలు రక్షణ కూటములు ఏర్పరిచాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states form defensive alliances to protect against external threats and invasions.",
+		"desc_te": "నగర-రాష్ట్రాలు బయటి ముప్పులు, దాడులను ఎదుర్కొనడానికి రక్షణ కూటములు ఏర్పరిచాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Prophets and Wise Elders Advise Rulers and People",
+		"name_te": "ప్రవక్తలు, మేధావి వృద్ధులు పాలకులు, ప్రజలకు సలహా ఇచ్చారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and wise elders provide counsel to rulers and guide the people spiritually.",
+		"desc_te": "ప్రవక్తలు, మేధావి వృద్ధులు పాలకులకు సలహా ఇచ్చి, ప్రజలను ఆధ్యాత్మికంగా మార్గనిర్దేశం చేశారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Ur's Rulers Initiate Major Building Projects",
+		"name_te": "ఊర్ పాలకులు ప్రధాన నిర్మాణ ప్రాజెక్టులు ప్రారంభించారు",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "Rulers of Ur begin major building projects, including temples and public works.",
+		"desc_te": "ఊర్ పాలకులు దేవాలయాలు, ప్రజా నిర్మాణాలు వంటి ప్రధాన నిర్మాణ ప్రాజెక్టులను ప్రారంభించారు."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Sumerian Kings Promote Religious Festivals",
+		"name_te": "సుమేరియన్ రాజులు ఆధ్యాత్మిక ఉత్సవాలను ప్రోత్సహించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian kings promote religious festivals, strengthening community bonds.",
+		"desc_te": "సుమేరియన్ రాజులు ఆధ్యాత్మిక ఉత్సవాలను ప్రోత్సహించి, సమాజ బంధాలను బలపరిచారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Nahor's Family Establishes New Settlements",
+		"name_te": "నహోరు కుటుంబం కొత్త నివాసాలు ఏర్పాటు చేసింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Nahor's family, ancestors of Abraham, establish new settlements in Mesopotamia (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు కుటుంబం మెసపొటేమియాలో కొత్త నివాసాలు ఏర్పాటు చేసింది (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "City-States Develop Early Military Forces",
+		"name_te": "నగర-రాష్ట్రాలు ప్రారంభ సైనిక దళాలను అభివృద్ధి చేశాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states develop early military forces to defend against threats and expand territory.",
+		"desc_te": "నగర-రాష్ట్రాలు ముప్పులను ఎదుర్కొనడానికి, భూభాగాన్ని విస్తరించడానికి ప్రారంభ సైనిక దళాలను అభివృద్ధి చేశాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Prophets and Elders Mediate Disputes and Guide Worship",
+		"name_te": "ప్రవక్తలు, వృద్ధులు వివాదాలను పరిష్కరించి, ఆరాధనను మార్గనిర్దేశం చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and elders mediate disputes and provide spiritual guidance to the people.",
+		"desc_te": "ప్రవక్తలు, వృద్ధులు వివాదాలను పరిష్కరించి, ప్రజలకు ఆధ్యాత్మిక మార్గనిర్దేశం అందించారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Uruk's Rulers Expand Trade Networks",
+		"name_te": "ఉరుక్ పాలకులు వాణిజ్య నెట్‌వర్క్‌లను విస్తరించారు",
+		"location": {
+			"lat": 31.32,
+			"lng": 45.63
+		},
+		"desc_en": "Rulers of Uruk expand trade networks, connecting Mesopotamia with distant regions.",
+		"desc_te": "ఉరుక్ పాలకులు వాణిజ్య నెట్‌వర్క్‌లను విస్తరించి, మెసపొటేమియాను దూర ప్రాంతాలతో కలిపారు."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Sumerian Kings Establish Legal Codes",
+		"name_te": "సుమేరియన్ రాజులు చట్ట వ్యవస్థలను ఏర్పాటు చేశారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian kings establish early legal codes to govern their city-states.",
+		"desc_te": "సుమేరియన్ రాజులు తమ నగర-రాష్ట్రాలను పరిపాలించేందుకు ప్రారంభ చట్ట వ్యవస్థలను ఏర్పాటు చేశారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Nahor's Descendants Influence Local Politics",
+		"name_te": "నహోరు సంతానం ప్రాంతీయ రాజకీయాలను ప్రభావితం చేసింది",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Descendants of Nahor, ancestor of Abraham, play a role in local politics and leadership (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు సంతానం ప్రాంతీయ రాజకీయాలు, నాయకత్వంలో పాత్ర వహించింది (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "City-States Engage in Early Warfare and Diplomacy",
+		"name_te": "నగర-రాష్ట్రాలు ప్రారంభ యుద్ధాలు, దౌత్యంలో పాల్గొన్నాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states engage in early warfare and diplomacy to secure their interests.",
+		"desc_te": "నగర-రాష్ట్రాలు తమ ప్రయోజనాలను కాపాడేందుకు ప్రారంభ యుద్ధాలు, దౌత్యంలో పాల్గొన్నాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Prophets and Elders Foster Social Unity and Justice",
+		"name_te": "ప్రవక్తలు, వృద్ధులు సామాజిక ఐక్యత, న్యాయాన్ని ప్రోత్సహించారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and elders foster social unity and justice among the people.",
+		"desc_te": "ప్రవక్తలు, వృద్ధులు ప్రజల్లో సామాజిక ఐక్యత, న్యాయాన్ని ప్రోత్సహించారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Uruk's Leaders Promote Agricultural Innovation",
+		"name_te": "ఉరుక్ నాయకులు వ్యవసాయ ఆవిష్కరణను ప్రోత్సహించారు",
+		"location": {
+			"lat": 31.32,
+			"lng": 45.63
+		},
+		"desc_en": "Leaders in Uruk promote new agricultural techniques, increasing food production.",
+		"desc_te": "ఉరుక్ నాయకులు కొత్త వ్యవసాయ పద్ధతులను ప్రోత్సహించి, ఆహార ఉత్పత్తిని పెంచారు."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Sumerian Kings Encourage Artistic and Cultural Growth",
+		"name_te": "సుమేరియన్ రాజులు కళా, సాంస్కృతిక అభివృద్ధిని ప్రోత్సహించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian kings encourage the growth of arts and culture in their city-states.",
+		"desc_te": "సుమేరియన్ రాజులు తమ నగర-రాష్ట్రాల్లో కళ, సాంస్కృతిక అభివృద్ధిని ప్రోత్సహించారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Nahor's Descendants Establish Trade and Family Ties",
+		"name_te": "నహోరు సంతానం వాణిజ్య, కుటుంబ సంబంధాలు ఏర్పరిచారు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Descendants of Nahor, ancestor of Abraham, establish trade and family ties across the region (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు సంతానం ప్రాంతంలో వాణిజ్య, కుటుంబ సంబంధాలు ఏర్పరిచారు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "City-States Develop Water Management Systems",
+		"name_te": "నగర-రాష్ట్రాలు నీటి నిర్వహణ వ్యవస్థలను అభివృద్ధి చేశాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states develop water management systems to support agriculture and urban life.",
+		"desc_te": "నగర-రాష్ట్రాలు వ్యవసాయం, పట్టణ జీవనానికి మద్దతుగా నీటి నిర్వహణ వ్యవస్థలను అభివృద్ధి చేశాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Prophets and Elders Inspire Social Reforms",
+		"name_te": "ప్రవక్తలు, వృద్ధులు సామాజిక సంస్కరణలకు ప్రేరణనిచ్చారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and elders inspire social reforms and improvements in justice.",
+		"desc_te": "ప్రవక్తలు, వృద్ధులు సామాజిక సంస్కరణలు, న్యాయంలో మెరుగుదలలకు ప్రేరణనిచ్చారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Uruk's Rulers Initiate Defensive Fortifications",
+		"name_te": "ఉరుక్ పాలకులు రక్షణ కోటలు ప్రారంభించారు",
+		"location": {
+			"lat": 31.32,
+			"lng": 45.63
+		},
+		"desc_en": "Rulers of Uruk initiate the construction of defensive fortifications to protect the city.",
+		"desc_te": "ఉరుక్ పాలకులు నగరాన్ని రక్షించేందుకు రక్షణ కోటల నిర్మాణాన్ని ప్రారంభించారు."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Sumerian Kings Standardize Weights and Measures",
+		"name_te": "సుమేరియన్ రాజులు బరువులు, కొలతలను ప్రమాణీకరించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian kings introduce standardized weights and measures to facilitate trade.",
+		"desc_te": "సుమేరియన్ రాజులు వాణిజ్యాన్ని సులభతరం చేయడానికి బరువులు, కొలతలను ప్రమాణీకరించారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Nahor's Descendants Foster Religious Traditions",
+		"name_te": "నహోరు సంతానం ఆధ్యాత్మిక సంప్రదాయాలను పెంపొందించారు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Descendants of Nahor, ancestor of Abraham, foster religious traditions and practices (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు సంతానం ఆధ్యాత్మిక సంప్రదాయాలను, ఆచారాలను పెంపొందించింది (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "City-States Compete for Control of Trade Routes",
+		"name_te": "నగర-రాష్ట్రాలు వాణిజ్య మార్గాల నియంత్రణ కోసం పోటీ పడ్డాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states compete for control of important trade routes, leading to rivalry and conflict.",
+		"desc_te": "నగర-రాష్ట్రాలు ముఖ్యమైన వాణిజ్య మార్గాల నియంత్రణ కోసం పోటీ పడుతూ, పోటీ, ఘర్షణలకు దారితీశాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Prophets and Elders Establish Community Laws",
+		"name_te": "ప్రవక్తలు, వృద్ధులు సమాజ చట్టాలను ఏర్పాటు చేశారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and elders establish community laws to maintain order and justice.",
+		"desc_te": "ప్రవక్తలు, వృద్ధులు క్రమం, న్యాయాన్ని పాటించేందుకు సమాజ చట్టాలను ఏర్పాటు చేశారు."
+	},
+	{
+		"year": "-2200",
+		"name_en": "Uruk's Leaders Organize First Public Assemblies",
+		"name_te": "ఉరుక్ నాయకులు మొదటి ప్రజా సభలను నిర్వహించారు",
+		"location": {
+			"lat": 31.32,
+			"lng": 45.63
+		},
+		"desc_en": "Leaders in Uruk organize the first public assemblies to discuss city matters and laws.",
+		"desc_te": "ఉరుక్ నాయకులు నగర విషయాలు, చట్టాలపై చర్చించేందుకు మొదటి ప్రజా సభలను నిర్వహించారు."
+	},
+	{
+		"year": "-2198",
+		"name_en": "Sumerian Kings Encourage Written Records and Archives",
+		"name_te": "సుమేరియన్ రాజులు వ్రాతపూర్వక రికార్డులు, ఆర్కైవ్‌లను ప్రోత్సహించారు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Sumerian kings encourage the keeping of written records and archives for administration.",
+		"desc_te": "సుమేరియన్ రాజులు పరిపాలన కోసం వ్రాతపూర్వక రికార్డులు, ఆర్కైవ్‌లను ప్రోత్సహించారు."
+	},
+	{
+		"year": "-2195",
+		"name_en": "Nahor's Descendants Promote Education and Learning",
+		"name_te": "నహోరు సంతానం విద్య, అభ్యాసాన్ని ప్రోత్సహించారు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.03
+		},
+		"desc_en": "Descendants of Nahor, ancestor of Abraham, promote education and learning in their communities (Genesis 11:22-23)",
+		"desc_te": "అబ్రాహాము పూర్వికుడు నహోరు సంతానం తమ సమాజాల్లో విద్య, అభ్యాసాన్ని ప్రోత్సహించారు (ఆదికాండము 11:22-23)"
+	},
+	{
+		"year": "-2185",
+		"name_en": "City-States Establish Early Marketplaces",
+		"name_te": "నగర-రాష్ట్రాలు ప్రారంభ మార్కెట్లను ఏర్పాటు చేశాయి",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "City-states establish early marketplaces, boosting trade and economic activity.",
+		"desc_te": "నగర-రాష్ట్రాలు ప్రారంభ మార్కెట్లను ఏర్పాటు చేసి, వాణిజ్యం, ఆర్థిక కార్యకలాపాలను పెంచాయి."
+	},
+	{
+		"year": "-2175",
+		"name_en": "Prophets and Elders Lead Community Celebrations",
+		"name_te": "ప్రవక్తలు, వృద్ధులు సమాజ ఉత్సవాలను నడిపించారు",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.21
+		},
+		"desc_en": "Prophets and elders lead community celebrations, strengthening social bonds.",
+		"desc_te": "ప్రవక్తలు, వృద్ధులు సమాజ ఉత్సవాలను నడిపించి, సామాజిక బంధాలను బలపరిచారు."
+	}
+]

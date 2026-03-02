@@ -1,0 +1,530 @@
+[
+	{
+		"year": "1900",
+		"name_en": "World War I (Global)",
+		"name_te": "ప్రపంచ యుద్ధం I (ప్రపంచం)",
+		"location": {
+			"lat": 50.1109,
+			"lng": 8.6821
+		},
+		"desc_en": "World War I (1914–1918) involves most of the world's great powers and leads to major geopolitical changes.",
+		"desc_te": "ప్రపంచ యుద్ధం I (1914–1918)లో ప్రపంచంలోని ప్రధాన శక్తులు పాల్గొని, రాజకీయంగా భారీ మార్పులు చోటు చేసుకున్నాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "World War II (Global)",
+		"name_te": "ప్రపంచ యుద్ధం II (ప్రపంచం)",
+		"location": {
+			"lat": 52.52,
+			"lng": 13.405
+		},
+		"desc_en": "World War II (1939–1945) is the deadliest conflict in history, reshaping nations and societies.",
+		"desc_te": "ప్రపంచ యుద్ధం II (1939–1945) చరిత్రలోనే అత్యంత ప్రాణనష్టం కలిగిన యుద్ధంగా, దేశాలు, సమాజాలను మలిచింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Indian Independence (India)",
+		"name_te": "భారత స్వాతంత్ర్యం (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "India gains independence from British rule in 1947.",
+		"desc_te": "1947లో భారతదేశం బ్రిటిష్ పాలన నుండి స్వాతంత్ర్యం పొందింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Partition of India and Pakistan (Asia)",
+		"name_te": "భారత-పాకిస్తాన్ విభజన (ఆసియా)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "The partition of British India in 1947 creates the independent nations of India and Pakistan.",
+		"desc_te": "1947లో బ్రిటిష్ ఇండియా విభజనతో భారతదేశం, పాకిస్తాన్ అనే రెండు స్వతంత్ర దేశాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "People's Republic of China Founded (China)",
+		"name_te": "పీపుల్స్ రిపబ్లిక్ ఆఫ్ చైనా స్థాపన (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "The People's Republic of China is established in 1949 under Mao Zedong.",
+		"desc_te": "1949లో మావో జెడాంగ్ నేతృత్వంలో పీపుల్స్ రిపబ్లిక్ ఆఫ్ చైనా స్థాపించబడింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Formation of the United Nations (Global)",
+		"name_te": "యునైటెడ్ నేషన్స్ స్థాపన (ప్రపంచం)",
+		"location": {
+			"lat": 40.7128,
+			"lng": -74.006
+		},
+		"desc_en": "The United Nations is founded in 1945 to promote international cooperation and peace.",
+		"desc_te": "1945లో అంతర్జాతీయ సహకారం, శాంతి కోసం యునైటెడ్ నేషన్స్ స్థాపించబడింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Independence of African Nations (Africa)",
+		"name_te": "ఆఫ్రికా దేశాల స్వాతంత్ర్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 6.5244,
+			"lng": 3.3792
+		},
+		"desc_en": "Many African nations gain independence from colonial rule during the mid-20th century.",
+		"desc_te": "20వ శతాబ్దం మధ్యలో అనేక ఆఫ్రికా దేశాలు వలస పాలన నుండి స్వాతంత్ర్యం పొందాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "Fall of the Berlin Wall (Europe)",
+		"name_te": "బెర్లిన్ గోడ కూల్చివేత (యూరోప్)",
+		"location": {
+			"lat": 52.52,
+			"lng": 13.405
+		},
+		"desc_en": "The Berlin Wall falls in 1989, symbolizing the end of the Cold War and the reunification of Germany.",
+		"desc_te": "1989లో బెర్లిన్ గోడ కూల్చివేయడం శీతయుద్ధానికి ముగింపు, జర్మనీ ఏకీకరణకు సంకేతంగా నిలిచింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Nelson Mandela Released and Apartheid Ends (Africa)",
+		"name_te": "నెల్సన్ మండేలా విడుదల, అపార్థైడ్ ముగింపు (ఆఫ్రికా)",
+		"location": {
+			"lat": -25.7479,
+			"lng": 28.2293
+		},
+		"desc_en": "Nelson Mandela is released from prison in 1990, leading to the end of apartheid in South Africa.",
+		"desc_te": "1990లో నెల్సన్ మండేలా విడుదలై, దక్షిణ ఆఫ్రికాలో అపార్థైడ్ పాలన ముగిసింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Moon Landing (America)",
+		"name_te": "చంద్రునిపై అడుగు (అమెరికా)",
+		"location": {
+			"lat": 28.5721,
+			"lng": -80.648
+		},
+		"desc_en": "Apollo 11 mission lands the first humans on the Moon in 1969.",
+		"desc_te": "1969లో అపోలో 11 మిషన్ ద్వారా మొదటి మనుషులు చంద్రునిపై అడుగుపెట్టారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Independence of Australia (Australia)",
+		"name_te": "ఆస్ట్రేలియా స్వాతంత్ర్యం (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -35.2809,
+			"lng": 149.13
+		},
+		"desc_en": "Australia becomes a fully sovereign nation in 1901.",
+		"desc_te": "1901లో ఆస్ట్రేలియా పూర్తిస్థాయి స్వతంత్ర దేశంగా మారింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Vatican II Council (Europe)",
+		"name_te": "వాటికన్ II కౌన్సిల్ (యూరోప్)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "The Second Vatican Council (1962–1965) brings major reforms to the Catholic Church.",
+		"desc_te": "1962–1965లో రెండవ వాటికన్ కౌన్సిల్ కాథలిక్ చర్చిలో ప్రధాన సంస్కరణలు తీసుకువచ్చింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Mahatma Gandhi Leads Salt March (India)",
+		"name_te": "మహాత్మా గాంధీ ఉప్పు సత్యాగ్రహం (భారతదేశం)",
+		"location": {
+			"lat": 21.6417,
+			"lng": 72.8667
+		},
+		"desc_en": "Mahatma Gandhi leads the Salt March in 1930, a pivotal event in India's independence movement.",
+		"desc_te": "1930లో మహాత్మా గాంధీ ఉప్పు సత్యాగ్రహాన్ని నడిపించారు, ఇది భారత స్వాతంత్ర్య ఉద్యమంలో కీలక ఘట్టం."
+	},
+	{
+		"year": "1900",
+		"name_en": "Atomic Bombings of Hiroshima and Nagasaki (Japan)",
+		"name_te": "హిరోషిమా, నాగసాకి అణు బాంబు దాడులు (జపాన్)",
+		"location": {
+			"lat": 34.3853,
+			"lng": 132.4553
+		},
+		"desc_en": "The United States drops atomic bombs on Hiroshima and Nagasaki in 1945, leading to Japan's surrender in WWII.",
+		"desc_te": "1945లో అమెరికా హిరోషిమా, నాగసాకిపై అణు బాంబులు వేసి, WWIIలో జపాన్ లొంగిపోవడానికి దారితీసింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Creation of Israel (Middle East)",
+		"name_te": "ఇజ్రాయెల్ స్థాపన (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 31.7683,
+			"lng": 35.2137
+		},
+		"desc_en": "The State of Israel is established in 1948, leading to major regional changes in the Middle East.",
+		"desc_te": "1948లో ఇజ్రాయెల్ స్థాపించబడటంతో మధ్యప్రాచ్యంలో ప్రధాన మార్పులు చోటు చేసుకున్నాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "Civil Rights Movement (America)",
+		"name_te": "సివిల్ రైట్స్ ఉద్యమం (అమెరికా)",
+		"location": {
+			"lat": 38.9072,
+			"lng": -77.0369
+		},
+		"desc_en": "The Civil Rights Movement in the United States (1950s–1960s) fights for equality and ends segregation.",
+		"desc_te": "1950–1960లలో అమెరికాలో సివిల్ రైట్స్ ఉద్యమం సమానత్వం కోసం పోరాడి, వర్గీకరణను ముగించింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Mao Zedong's Cultural Revolution (China)",
+		"name_te": "మావో జెడాంగ్ సాంస్కృతిక విప్లవం (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "The Cultural Revolution (1966–1976) in China leads to massive social and political upheaval.",
+		"desc_te": "1966–1976లో చైనాలో మావో జెడాంగ్ సాంస్కృతిక విప్లవం భారీ సామాజిక, రాజకీయ కల్లోలానికి దారితీసింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "End of the British Empire (Global)",
+		"name_te": "బ్రిటిష్ సామ్రాజ్య ముగింపు (ప్రపంచం)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "The British Empire dissolves after WWII, with many colonies gaining independence.",
+		"desc_te": "WWII తర్వాత బ్రిటిష్ సామ్రాజ్యం కూలిపోవడంతో అనేక వలస దేశాలు స్వాతంత్ర్యం పొందాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "Formation of the European Union (Europe)",
+		"name_te": "యూరోపియన్ యూనియన్ స్థాపన (యూరోప్)",
+		"location": {
+			"lat": 50.8503,
+			"lng": 4.3517
+		},
+		"desc_en": "The European Union is formally established by the Maastricht Treaty in 1993.",
+		"desc_te": "1993లో మాస్ట్రిచ్ట్ ఒప్పందంతో యూరోపియన్ యూనియన్ అధికారికంగా స్థాపించబడింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Pope John Paul II Elected (Europe)",
+		"name_te": "పోప్ జాన్ పాల్ II ఎన్నిక (యూరోప్)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "Pope John Paul II is elected in 1978, becoming one of the most influential popes in history.",
+		"desc_te": "1978లో పోప్ జాన్ పాల్ II ఎన్నికై, చరిత్రలో అత్యంత ప్రభావవంతమైన పోప్స్‌లో ఒకరిగా నిలిచారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Independence of Indonesia (Asia)",
+		"name_te": "ఇండోనేషియా స్వాతంత్ర్యం (ఆసియా)",
+		"location": {
+			"lat": -6.2088,
+			"lng": 106.8456
+		},
+		"desc_en": "Indonesia declares independence from Dutch colonial rule in 1945.",
+		"desc_te": "1945లో ఇండోనేషియా డచ్ వలస పాలన నుండి స్వాతంత్ర్యం ప్రకటించింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Korean War (Asia)",
+		"name_te": "కొరియన్ యుద్ధం (ఆసియా)",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "The Korean War (1950–1953) divides the Korean Peninsula into North and South Korea.",
+		"desc_te": "కొరియన్ యుద్ధం (1950–1953) కొరియా ద్వీపకల్పాన్ని ఉత్తర, దక్షిణ కొరియాగా విభజించింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Gandhi Assassinated (India)",
+		"name_te": "గాంధీ హత్య (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "Mahatma Gandhi is assassinated in 1948, shocking India and the world.",
+		"desc_te": "1948లో మహాత్మా గాంధీ హత్య భారతదేశాన్ని, ప్రపంచాన్ని దిగ్భ్రాంతికి గురిచేసింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Discovery of Penicillin (Europe)",
+		"name_te": "పెనిసిలిన్ ఆవిష్కరణ (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Alexander Fleming discovers penicillin in 1928, revolutionizing medicine.",
+		"desc_te": "1928లో అలెగ్జాండర్ ఫ్లెమింగ్ పెనిసిలిన్‌ను కనుగొని వైద్యరంగంలో విప్లవాత్మక మార్పులు తీసుకువచ్చారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Formation of the League of Nations (Global)",
+		"name_te": "లీగ్ ఆఫ్ నేషన్స్ స్థాపన (ప్రపంచం)",
+		"location": {
+			"lat": 46.2044,
+			"lng": 6.1432
+		},
+		"desc_en": "The League of Nations is founded in 1920 to promote peace after World War I.",
+		"desc_te": "ప్రపంచ యుద్ధం I తర్వాత శాంతి కోసం 1920లో లీగ్ ఆఫ్ నేషన్స్ స్థాపించబడింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Suez Crisis (Middle East)",
+		"name_te": "సూయెజ్ సంక్షోభం (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "The Suez Crisis of 1956 marks a turning point in Middle Eastern and global politics.",
+		"desc_te": "1956లో సూయెజ్ సంక్షోభం మధ్యప్రాచ్య, ప్రపంచ రాజకీయాల్లో కీలక మలుపు."
+	},
+	{
+		"year": "1900",
+		"name_en": "First Man in Space (Russia)",
+		"name_te": "మొదటి వ్యోమగామి (రష్యా)",
+		"location": {
+			"lat": 55.7558,
+			"lng": 37.6173
+		},
+		"desc_en": "Yuri Gagarin becomes the first human in space in 1961.",
+		"desc_te": "1961లో యూరీ గగారిన్ మొదటి వ్యోమగామిగా నిలిచారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Rwandan Genocide (Africa)",
+		"name_te": "రువాండా జెనోసైడ్ (ఆఫ్రికా)",
+		"location": {
+			"lat": -1.9403,
+			"lng": 29.8739
+		},
+		"desc_en": "The Rwandan Genocide in 1994 results in the deaths of hundreds of thousands.",
+		"desc_te": "1994లో రువాండా జెనోసైడ్‌లో లక్షలాది మంది ప్రాణాలు కోల్పోయారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Queen Elizabeth II Coronation (Britain)",
+		"name_te": "క్వీన్ ఎలిజబెత్ II పట్టాభిషేకం (బ్రిటన్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Queen Elizabeth II is crowned in 1953, becoming the longest-reigning British monarch.",
+		"desc_te": "1953లో క్వీన్ ఎలిజబెత్ II పట్టాభిషేకం చేయబడి, బ్రిటన్‌లో అత్యంత కాలం పాలించిన రాణిగా నిలిచారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Vietnam War (Asia)",
+		"name_te": "వియత్నాం యుద్ధం (ఆసియా)",
+		"location": {
+			"lat": 21.0285,
+			"lng": 105.8542
+		},
+		"desc_en": "The Vietnam War (1955–1975) is a major conflict involving the US, North and South Vietnam, and others.",
+		"desc_te": "వియత్నాం యుద్ధం (1955–1975)లో అమెరికా, ఉత్తర, దక్షిణ వియత్నాం తదితర దేశాలు పాల్గొన్నాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "Bangladesh Liberation War (Asia)",
+		"name_te": "బంగ్లాదేశ్ విముక్తి యుద్ధం (ఆసియా)",
+		"location": {
+			"lat": 23.8103,
+			"lng": 90.4125
+		},
+		"desc_en": "The Bangladesh Liberation War in 1971 leads to the creation of Bangladesh.",
+		"desc_te": "1971లో బంగ్లాదేశ్ విముక్తి యుద్ధం ద్వారా బంగ్లాదేశ్ దేశంగా ఏర్పడింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Mahatma Gandhi's Non-Cooperation Movement (India)",
+		"name_te": "మహాత్మా గాంధీ అసహకార ఉద్యమం (భారతదేశం)",
+		"location": {
+			"lat": 22.5726,
+			"lng": 88.3639
+		},
+		"desc_en": "Gandhi leads the Non-Cooperation Movement (1920–1922) against British rule in India.",
+		"desc_te": "మహాత్మా గాంధీ 1920–1922లో బ్రిటిష్ పాలనకు వ్యతిరేకంగా అసహకార ఉద్యమాన్ని నడిపించారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Billy Graham's Global Crusades (America/World)",
+		"name_te": "బిల్లీ గ్రాహం గ్లోబల్ క్రూసేడ్స్ (అమెరికా/ప్రపంచం)",
+		"location": {
+			"lat": 35.2271,
+			"lng": -80.8431
+		},
+		"desc_en": "Billy Graham, a prominent Christian evangelist, leads global crusades from the 1940s to the 2000s.",
+		"desc_te": "బిల్లీ గ్రాహం, ప్రముఖ క్రైస్తవ ప్రవక్త, 1940ల నుండి 2000ల వరకు ప్రపంచవ్యాప్తంగా క్రూసేడ్స్ నిర్వహించారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "UNICEF Founded (Global)",
+		"name_te": "యునిసెఫ్ స్థాపన (ప్రపంచం)",
+		"location": {
+			"lat": 40.7128,
+			"lng": -74.006
+		},
+		"desc_en": "UNICEF, the United Nations Children's Fund, is founded in 1946 to provide humanitarian aid to children worldwide.",
+		"desc_te": "1946లో యునిసెఫ్ (యునైటెడ్ నేషన్స్ చిల్డ్రెన్స్ ఫండ్) స్థాపించబడింది, ఇది ప్రపంచవ్యాప్తంగా పిల్లలకు మానవతా సహాయం అందిస్తుంది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Discovery of DNA Structure (Europe)",
+		"name_te": "DNA నిర్మాణం ఆవిష్కరణ (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "James Watson and Francis Crick discover the double helix structure of DNA in 1953.",
+		"desc_te": "1953లో జేమ్స్ వాట్సన్, ఫ్రాన్సిస్ క్రిక్ DNA యొక్క డబుల్ హీలిక్స్ నిర్మాణాన్ని కనుగొన్నారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Formation of the Republic of Turkey (Asia/Europe)",
+		"name_te": "టర్కీ గణతంత్ర స్థాపన (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 39.9334,
+			"lng": 32.8597
+		},
+		"desc_en": "The Republic of Turkey is founded in 1923 under Mustafa Kemal Atatürk, ending the Ottoman Empire.",
+		"desc_te": "1923లో ముస్తఫా కమాల్ అతతుర్క్ నేతృత్వంలో టర్కీ గణతంత్రం స్థాపించబడింది, ఒట్టోమన్ సామ్రాజ్యానికి ముగింపు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Japanese Economic Miracle (Japan)",
+		"name_te": "జపాన్ ఆర్థిక అద్భుతం (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "Japan experiences rapid economic growth and modernization after World War II.",
+		"desc_te": "ప్రపంచ యుద్ధం II తర్వాత జపాన్ వేగంగా ఆర్థిక అభివృద్ధి, ఆధునికీకరణను అనుభవించింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Apartheid Laws Enacted (Africa)",
+		"name_te": "అపార్థైడ్ చట్టాలు అమలు (ఆఫ్రికా)",
+		"location": {
+			"lat": -25.7479,
+			"lng": 28.2293
+		},
+		"desc_en": "Apartheid laws are enacted in South Africa in 1948, institutionalizing racial segregation until the 1990s.",
+		"desc_te": "1948లో దక్షిణ ఆఫ్రికాలో అపార్థైడ్ చట్టాలు అమలై, 1990ల వరకు జాతి వర్గీకరణను చట్టబద్ధం చేశాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "First Woman Prime Minister: Sirimavo Bandaranaike (Sri Lanka)",
+		"name_te": "మొదటి మహిళా ప్రధాని: సిరిమావో బండారనాయకే (శ్రీలంక)",
+		"location": {
+			"lat": 6.9271,
+			"lng": 79.8612
+		},
+		"desc_en": "Sirimavo Bandaranaike becomes the world's first female prime minister in 1960.",
+		"desc_te": "1960లో సిరిమావో బండారనాయకే ప్రపంచంలోనే తొలి మహిళా ప్రధాని అయ్యారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Poland's Solidarity Movement (Europe)",
+		"name_te": "పోలాండ్ సొలిడారిటీ ఉద్యమం (యూరోప్)",
+		"location": {
+			"lat": 54.352,
+			"lng": 18.6466
+		},
+		"desc_en": "The Solidarity movement in Poland (1980s) challenges communist rule and inspires change across Eastern Europe.",
+		"desc_te": "1980లలో పోలాండ్‌లో సొలిడారిటీ ఉద్యమం కమ్యూనిస్టు పాలనకు సవాలు చేసి, తూర్పు యూరోప్‌లో మార్పులకు ప్రేరణనిచ్చింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "End of the Soviet Union (Europe/Asia)",
+		"name_te": "సోవియట్ యూనియన్ ముగింపు (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 55.7558,
+			"lng": 37.6173
+		},
+		"desc_en": "The Soviet Union dissolves in 1991, ending the Cold War and creating new independent nations.",
+		"desc_te": "1991లో సోవియట్ యూనియన్ కూలిపోవడంతో శీతయుద్ధం ముగిసింది, కొత్త స్వతంత్ర దేశాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "1900",
+		"name_en": "Mother Teresa Wins Nobel Peace Prize (India)",
+		"name_te": "మదర్ థెరిసా నోబెల్ శాంతి బహుమతి (భారతదేశం)",
+		"location": {
+			"lat": 22.5726,
+			"lng": 88.3639
+		},
+		"desc_en": "Mother Teresa is awarded the Nobel Peace Prize in 1979 for her humanitarian work in India.",
+		"desc_te": "1979లో మదర్ థెరిసా భారతదేశంలో మానవతా సేవలకు నోబెల్ శాంతి బహుమతి అందుకున్నారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Formation of the African Union (Africa)",
+		"name_te": "ఆఫ్రికన్ యూనియన్ స్థాపన (ఆఫ్రికా)",
+		"location": {
+			"lat": 9.03,
+			"lng": 38.74
+		},
+		"desc_en": "The African Union is founded in 2001 to promote unity and development across Africa.",
+		"desc_te": "ఆఫ్రికా ఖండంలో ఐక్యత, అభివృద్ధి కోసం 2001లో ఆఫ్రికన్ యూనియన్ స్థాపించబడింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "First Non-European Pope in Centuries (Europe)",
+		"name_te": "శతాబ్దాల తర్వాత తొలి యూరోపేతర పోప్ (యూరోప్)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "Pope John Paul II, from Poland, becomes the first non-Italian pope in 455 years in 1978.",
+		"desc_te": "1978లో పోలాండ్‌కు చెందిన పోప్ జాన్ పాల్ II, 455 సంవత్సరాల తర్వాత తొలి యూరోపేతర పోప్ అయ్యారు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Hong Kong Returned to China (Asia)",
+		"name_te": "హాంగ్‌కాంగ్ చైనాకు తిరిగి కలిపారు (ఆసియా)",
+		"location": {
+			"lat": 22.3193,
+			"lng": 114.1694
+		},
+		"desc_en": "Hong Kong is handed over from Britain to China in 1997, ending over 150 years of colonial rule.",
+		"desc_te": "1997లో బ్రిటన్ నుండి చైనా హాంగ్‌కాంగ్‌ను తిరిగి పొందింది, 150 సంవత్సరాల వలస పాలనకు ముగింపు."
+	},
+	{
+		"year": "1900",
+		"name_en": "Internet Revolutionizes Communication (Global)",
+		"name_te": "ఇంటర్నెట్ కమ్యూనికేషన్‌లో విప్లవం (ప్రపంచం)",
+		"location": {
+			"lat": 37.7749,
+			"lng": -122.4194
+		},
+		"desc_en": "The rise of the Internet in the late 20th century transforms global communication, business, and society.",
+		"desc_te": "20వ శతాబ్దం చివరలో ఇంటర్నెట్ అభివృద్ధి ప్రపంచ కమ్యూనికేషన్, వ్యాపారం, సమాజాన్ని మార్చింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "Fall of the Qing Dynasty (China)",
+		"name_te": "చింగ్ రాజవంశ పతనం (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "The Qing Dynasty, China's last imperial dynasty, falls in 1912, ending over two millennia of imperial rule.",
+		"desc_te": "1912లో చైనా చివరి చక్రవర్తి రాజవంశం అయిన చింగ్ రాజవంశం పతనమై, రెండు వేల సంవత్సరాల చక్రవర్తి పాలనకు ముగింపు పలికింది."
+	},
+	{
+		"year": "1900",
+		"name_en": "UN Declaration of Human Rights (Global)",
+		"name_te": "ఐక్యరాజ్యసమితి మానవ హక్కుల ప్రకటన (ప్రపంచం)",
+		"location": {
+			"lat": 40.7128,
+			"lng": -74.006
+		},
+		"desc_en": "The Universal Declaration of Human Rights is adopted by the United Nations in 1948.",
+		"desc_te": "1948లో ఐక్యరాజ్యసమితి మానవ హక్కుల విశ్వప్రకటనను ఆమోదించింది."
+	}
+]

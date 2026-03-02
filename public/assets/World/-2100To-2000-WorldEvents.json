@@ -1,0 +1,596 @@
+[
+	{
+		"year": "-2100",
+		"name_en": "Ur III Dynasty Peak (Mesopotamia)",
+		"name_te": "ఉర్ III డైనస్టీ శిఖరం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "Ur III empire reaches maximum territorial extent under Sulgi",
+		"desc_te": "ఉర్ III సామ్రాజ్యం సుల్గీ కింద గరిష్ట భూభాగ విస్తీర్ణానికి చేరుకుంటుంది"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Egypt Old Kingdom Ends (Egypt)",
+		"name_te": "ఈజిప్ట్ పురాతన రాజ్యం ముగుస్తుంది (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Old Kingdom of Egypt collapses, First Intermediate Period begins",
+		"desc_te": "ఈజిప్ట్ పురాతన రాజ్యం కూలిపోతుంది, ప్రథమ ఆంతర్గత కాలం ప్రారంభ"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Early Indus Valley Civilization (India)",
+		"name_te": "ప్రారంభ సిందువు లోయ నాగరికత (భారతదేశం)",
+		"location": {
+			"lat": 27.5,
+			"lng": 68
+		},
+		"desc_en": "Early Harappan culture develops in Indus region settlements",
+		"desc_te": "సిందువు ప్రాంత నియోజనాల్లో ప్రారంభ హరప్పన్ సంస్కృతి అభివృద్ధి చెందుతుంది"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Akkadian Empire Decline (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సామ్రాజ్యం క్షీణత (మెసోపొటేమియా)",
+		"location": {
+			"lat": 33.5,
+			"lng": 44
+		},
+		"desc_en": "Akkadian Empire weakens as Gutians invade from mountains",
+		"desc_te": "పర్వత నుండి గుటియన్‌లు దండయాత్ర చేయడంతో అక్కాడియన్ సామ్రాజ్యం బలహీనం"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Xia Dynasty Flourishes (China)",
+		"name_te": "క్సియా రాజవంశం వర్ధిల్లుతుంది (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Xia Dynasty at height of power under legendary Yu successors",
+		"desc_te": "పురాణ యు వారసుల కింద క్సియా రాజవంశం శక్తి శిఖరస్థాయిలో"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Minoan Civilization Begins (Greece)",
+		"name_te": "మినోయన్ నాగరికత ప్రారంభ (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.7
+		},
+		"desc_en": "Minoan civilization emerges in Crete with palace development",
+		"desc_te": "క్రీట్‌లో రాజభవన నిర్మాణంతో మినోయన్ నాగరికత ఉదయం"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Vedic Age Begins (India)",
+		"name_te": "వేద యుగం ప్రారంభ (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 76
+		},
+		"desc_en": "Vedic period begins with Rigveda oral traditions emerging",
+		"desc_te": "రిగ్‌వేద మౌఖిక సంప్రదాయాలతో వేద యుగం ప్రారంభ"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Early Dynastic Sumer (Mesopotamia)",
+		"name_te": "ప్రారంభ డైనస్టిక్ సుమెరు (మెసోపొటేమియా)",
+		"location": {
+			"lat": 31,
+			"lng": 46.5
+		},
+		"desc_en": "City-states of Sumer engage in territorial disputes and alliances",
+		"desc_te": "సుమెరు నగర-రాష్ట్రాలు భూభాగ వివాదాలు, సంధులను నిర్వహిస్తాయి"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Sulgi Expands Ur III Empire (Mesopotamia)",
+		"name_te": "సుల్గీ ఉర్ III సామ్రాజ్యం విస్తరణ (మెసోపొటేమియా)",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "King Sulgi establishes vast administrative system and military",
+		"desc_te": "రాజు సుల్గీ విస్తృత పరిపాలన వ్యవస్థ, సైన్యం స్థాపన"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Mentuhotep III Rules Egypt (Egypt)",
+		"name_te": "మెంటుహోటెప్ III ఈజిప్ట్ పాలన (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Mentuhotep III continues Middle Kingdom unification",
+		"desc_te": "మెంటుహోటెప్ III మధ్య రాజ్యం ఏకీకరణ కొనసాగిస్తారు"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Jemdet Nasr Period Ends (Mesopotamia)",
+		"name_te": "జెమ్‌దెట్ నస్‌ర్ కాలం ముగుస్తుంది (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32,
+			"lng": 45
+		},
+		"desc_en": "Transition from early to classical Sumerian civilization",
+		"desc_te": "ప్రారంభ నుండి శాస్త్రీయ సుమెరు నాగరికతకు పరిణామం"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Hittite Kingdom Forms (Anatolia)",
+		"name_te": "హిట్టైట్ రాజ్యం నిర్మాణం (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittites establish kingdom in Anatolia with Anitta founding dynasty",
+		"desc_te": "అనిత్త రాజవంశ స్థాపనతో హిట్టైట్‌లు అనాటోలియాలో రాజ్యం స్థాపన"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Amorite Migrations Begin (Middle East)",
+		"name_te": "అమోరైట్ వలసలు ప్రారంభ (మధ్య తూర్పు)",
+		"location": {
+			"lat": 34,
+			"lng": 38
+		},
+		"desc_en": "Amorite tribes migrate from Arabia into Mesopotamia",
+		"desc_te": "అమోరైట్ తెగలు అరేబియా నుండి మెసోపొటేమియాలోకు వలస"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Amarnatna Period (Egypt)",
+		"name_te": "అమర్‌నా కాలం (ఈజిప్ట్)",
+		"location": {
+			"lat": 27.5,
+			"lng": 30.9
+		},
+		"desc_en": "Mentuhotep III builds temples and restores Egyptian stability",
+		"desc_te": "మెంటుహోటెప్ III ఆలయాలు నిర్మిస్తారు, ఈజిప్టియన్ స్థిరత్వం పునరుద్ధరిస్తారు"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Zhuo Dynasty Transition (China)",
+		"name_te": "జుువో రాజవంశ పరిణామం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia Dynasty weakens as Zhuo Dynasty begins consolidation",
+		"desc_te": "జుువో రాజవంశ సంపీడన ప్రారంభంతో క్సియా రాజవంశం బలహీనం"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Urban Centers Flourish (Indus Valley)",
+		"name_te": "నగర కేంద్రాలు సమృద్ధిం (సిందువు లోయ)",
+		"location": {
+			"lat": 28,
+			"lng": 69
+		},
+		"desc_en": "Harappan cities develop sophisticated water systems and grid planning",
+		"desc_te": "హరప్పన్ నగరాలు అత్యాధునిక నీటి వ్యవస్థలు, గ్రిడ్ ప్రణాళిక అభివృద్ధి"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Lagash-Umma Conflicts (Mesopotamia)",
+		"name_te": "లగాష్-ఉమ్మ సంఘర్షణలు (మెసోపొటేమియా)",
+		"location": {
+			"lat": 31.4,
+			"lng": 46
+		},
+		"desc_en": "City-states Lagash and Umma fight for water rights",
+		"desc_te": "లగాష్, ఉమ్మ నగర-రాష్ట్రాలు నీటి హక్కుల కోసం పోరాడుతాయి"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Bronze Age Spreads (Europe)",
+		"name_te": "కాంస్య యుగం వ్యాపనం (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Bronze tools and weapons become standard across Central Europe",
+		"desc_te": "కాంస్య సాధనాలు, శస్త్రాలు మధ్య యూరోప్‌లో ప్రామాణికమై"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Senusret II Builds Pyramids (Egypt)",
+		"name_te": "సెనుస్రేట్ II పిరమిడ్‌లు నిర్మాణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 29,
+			"lng": 31.1
+		},
+		"desc_en": "Senusret II constructs pyramid at Lahun, expands Egypt",
+		"desc_te": "సెనుస్రేట్ II లాహూన్‌లో పిరమిడ్ నిర్మిస్తారు, ఈజిప్ట్ విస్తరణ"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Hammurabi Unites Babylonia (Mesopotamia)",
+		"name_te": "హమ్మురాబీ బాబిలోనియా ఐక్యం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi begins conquests uniting Mesopotamian city-states",
+		"desc_te": "హమ్మురాబీ మెసోపొటేమియన్ నగర-రాష్ట్రాలను ఐక్య చేసే జయాలు ప్రారంభ"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Shang Dynasty Emerges (China)",
+		"name_te": "షాంగ్ రాజవంశం ఉదయం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty emerges displacing Xia, oracle bones develop",
+		"desc_te": "క్సియాను స్థానభ్రంశం చేసి షాంగ్ రాజవంశం ఉదయం, దీవిస్ఫటికలు అభివృద్ధి"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Mohenjo-Daro Founded (India)",
+		"name_te": "మోహెంజోదారో స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 27.3,
+			"lng": 68.1
+		},
+		"desc_en": "Mohenjo-Daro city founded with planned grid layout",
+		"desc_te": "పథకీకృత గ్రిడ్ లేఅవుట్‌తో మోహెంజోదారో నగర స్థాపన"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Mycenaean Civilization Begins (Greece)",
+		"name_te": "మైసెనియన్ నాగరికత ప్రారంభ (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 23.3
+		},
+		"desc_en": "Mycenaean civilization emerges in mainland Greece",
+		"desc_te": "ఖండ గ్రీస్‌లో మైసెనియన్ నాగరికత ఉదయం"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Cahokia Culture Develops (America)",
+		"name_te": "కాహోకియా సంస్కృతి అభివృద్ధి (అమెరికా)",
+		"location": {
+			"lat": 38.6,
+			"lng": -90.1
+		},
+		"desc_en": "Cahokia mound builders culture emerges in North America",
+		"desc_te": "ఉత్తర అమెరికాలో కాహోకియా చిట్టడు నిర్మాతల సంస్కృతి ఉదయం"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Amenemhat III Peak (Egypt)",
+		"name_te": "అమెనెమ్‌హాట్ III శిఖరం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Pharaoh Amenemhat III reaches peak of Middle Kingdom",
+		"desc_te": "ఫారో అమెనెమ్‌హాట్ III మధ్య రాజ్యం శిఖరస్థాయిని చేరుకుంటారు"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Hammurabi's Code Established (Babylon)",
+		"name_te": "హమ్మురాబీ నియమ వ్యవస్థ స్థాపన (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi establishes famous code of laws for Babylon",
+		"desc_te": "హమ్మురాబీ బాబిలోన్ కోసం ప్రసిద్ధ నియమ సంహిత స్థాపన"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Wu Ding Commands Shang (China)",
+		"name_te": "వూ డింగ్ షాంగ్‌ను నిర్దేశించారు (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Wu Ding becomes powerful Shang king, expands kingdom",
+		"desc_te": "వూ డింగ్ శక్తివంతమైన షాంగ్ రాజు, రాజ్యం విస్తరణ"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Indus Valley Peak (India)",
+		"name_te": "సిందువు లోయ శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 69
+		},
+		"desc_en": "Indus Valley civilization reaches maximum territorial extent",
+		"desc_te": "సిందువు లోయ నాగరికత గరిష్ట భూభాగ విస్తీర్ణానికి చేరుకుంటుంది"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Suppiluliuma Begins Hittite Expansion (Anatolia)",
+		"name_te": "సుప్పిలులియుమా హిట్టైట్ విస్తరణ ప్రారంభ (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Suppiluliuma I begins major Hittite territorial expansion",
+		"desc_te": "సుప్పిలులియుమా I ప్రధాన హిట్టైట్ భూభాగ విస్తరణ ప్రారంభ"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Scythian Horse Warriors Rise (Russia)",
+		"name_te": "స్కిథియన్ గుర్రపు యోధులు ఉదయం (రష్యా)",
+		"location": {
+			"lat": 50,
+			"lng": 60
+		},
+		"desc_en": "Scythian horse warriors emerge in Central Asian steppes",
+		"desc_te": "కేంద్ర ఆసియన్ మైదానాలలో స్కిథియన్ గుర్రపు యోధులు ఉదయం"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Olmec Civilization Begins (America)",
+		"name_te": "ఓల్‌మెక్ నాగరికత ప్రారంభ (అమెరికా)",
+		"location": {
+			"lat": 17.4,
+			"lng": -92.6
+		},
+		"desc_en": "Olmec civilization emerges in Mesoamerica",
+		"desc_te": "మెసోఅమెరికాలో ఓల్‌మెక్ నాగరికత ఉదయం"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Polynesian Migrations Begin (Pacific)",
+		"name_te": "పాలినీషియన్ వలసలు ప్రారంభ (పసిఫిక్)",
+		"location": {
+			"lat": -15,
+			"lng": 170
+		},
+		"desc_en": "Polynesians begin ocean navigation voyages across Pacific",
+		"desc_te": "పాలినీషియన్‌లు సముద్ర నావిగేషన్ ప్రయాణాలు పసిఫిక్ అంతటా ప్రారంభ"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Hyksos Invasions Begin (Egypt)",
+		"name_te": "హిక్సోస్ దండయాత్రలు ప్రారంభ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Hyksos people begin invasions from Asia into Egypt",
+		"desc_te": "హిక్సోస్ ప్రజలు ఆసియా నుండి ఈజిప్టులోకు దండయాత్రలు ప్రారంభ"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Sumerian Literature Flourishes (Mesopotamia)",
+		"name_te": "సుమెరు సాహిత్యం వర్ధిల్లుతుంది (మెసోపొటేమియా)",
+		"location": {
+			"lat": 31,
+			"lng": 46.5
+		},
+		"desc_en": "Epic of Gilgamesh composed in Sumerian language",
+		"desc_te": "సుమెరు భాషలో గిల్గమేష్ ఇతిహాసం రచన"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Ziggurat Architecture Develops (Mesopotamia)",
+		"name_te": "జిగురట్ నిర్మాణ శిల్పం అభివృద్ధి (మెసోపొటేమియా)",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "Massive stepped temples called ziggurats built across Mesopotamia",
+		"desc_te": "మెసోపొటేమియా అంతటా జిగురట్ పేరుగల భారీ సోపాన ఆలయాలు నిర్మణం"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Egyptian Nubia Campaigns (Egypt)",
+		"name_te": "ఈజిప్టియన్ నూబియా చర్యలు (ఈజిప్ట్)",
+		"location": {
+			"lat": 22,
+			"lng": 31
+		},
+		"desc_en": "Egyptian armies campaign into Nubia establishing control",
+		"desc_te": "ఈజిప్టియన్ సేనలు నూబియాలోకి చర్యలు నిర్వహిస్తూ నియంత్రణ స్థాపన"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Indus Seals Production (India)",
+		"name_te": "సిందువు ముద్రలు ఉత్పత్తి (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 69
+		},
+		"desc_en": "Indus Valley artisans produce distinctive seals with undeciphered script",
+		"desc_te": "సిందువు లోయ కళాకారులు అర్థం కాని లిపితో విలక్షణ ముద్రలు ఉత్పత్తి"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Cretan Palaces Built (Greece)",
+		"name_te": "క్రీటన్ రాజభవనాలు నిర్మణం (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.7
+		},
+		"desc_en": "Minoan palaces of Knossos and Phaistos constructed",
+		"desc_te": "నోసోస్, ఫైస్టోస్ మినోయన్ రాజభవనాలు నిర్మణం"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Japanese Jomon Culture (Japan)",
+		"name_te": "జపాన్‌లో జోమన్ సంస్కృతి (జపాన్)",
+		"location": {
+			"lat": 37,
+			"lng": 138
+		},
+		"desc_en": "Jomon hunting-gathering culture thrives in Japan with pottery",
+		"desc_te": "జపాన్‌లో జోమన్ వేటు-సংగ్రహణ సంస్కృతి కుండ నిర్మాణంతో సమృద్ధిం"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Abydos Boat Graves (Egypt)",
+		"name_te": "అబిడోస్ పడవ సమాధులు (ఈజిప్ట్)",
+		"location": {
+			"lat": 26.2,
+			"lng": 31.9
+		},
+		"desc_en": "Pharaohs buried with boats at Abydos for afterlife journey",
+		"desc_te": "ఫారోలు అతీంద్రియ ప్రయాణం కోసం అబిడోస్‌లో పడవలతో సమాధియైనారు"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Rig Veda Compilation (India)",
+		"name_te": "రిగ్‌వేద సంకలనం (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 76
+		},
+		"desc_en": "Rigveda, oldest Hindu sacred text, orally composed and memorized",
+		"desc_te": "హిందూ పవిత్ర గ్రంథం రిగ్‌వేద మౌఖికంగా కూర్చుకుని స్మరించబడుతుంది"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Caral Civilization (America)",
+		"name_te": "కరల్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": -9.5,
+			"lng": -77.7
+		},
+		"desc_en": "Caral pyramid cities emerge in Peru, one of oldest civilizations",
+		"desc_te": "పెరూలో కరల్ పిరమిడ్ నగరాలు ఉదయం, పురా నాగరికతల్లో ఒకటి"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Nile Delta Control (Egypt)",
+		"name_te": "నైల్ డెల్టా నియంత్రణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30.5,
+			"lng": 31.5
+		},
+		"desc_en": "Egyptian dynasties establish firm control over Nile Delta",
+		"desc_te": "ఈజిప్టియన్ రాజవంశాలు నైల్ డెల్టాపై దృఢ నియంత్రణ స్థాపన"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Labyrinth Temple Construction (Egypt)",
+		"name_te": "లాబిరింత్ ఆలయ నిర్మణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 29.2,
+			"lng": 30.8
+		},
+		"desc_en": "Amenemhat III builds famous Labyrinth temple complex",
+		"desc_te": "అమెనెమ్‌హాట్ III ప్రసిద్ధ లాబిరింత్ ఆలయ సంకీర్ణం నిర్మణ"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Harappa-Mohenjo Trade (India)",
+		"name_te": "హరప్ప-మోహెంజో వాణిజ్యం (భారతదేశం)",
+		"location": {
+			"lat": 28.5,
+			"lng": 69.5
+		},
+		"desc_en": "Extensive trade networks connect Indus Valley cities",
+		"desc_te": "సిందువు లోయ నగరాలను విస్తృత వాణిజ్య నెట్‌వర్కులు సংযోగం"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Linear A Script (Greece)",
+		"name_te": "లీనియర్ A లిపి (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.7
+		},
+		"desc_en": "Minoan Linear A script develops in Crete",
+		"desc_te": "క్రీట్‌లో మినోయన్ లీనియర్ A లిపి అభివృద్ధి"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Zhou Dynasty Methods (China)",
+		"name_te": "జోవు రాజవంశ పద్ధతులు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Zhou Dynasty refines agriculture and feudal governance",
+		"desc_te": "జోవు రాజవంశం వ్యవసాయం, సామంత పాలన శుద్ధీకరణ"
+	},
+	{
+		"year": "-2020",
+		"name_en": "Cahokia Mounds (America)",
+		"name_te": "కాహోకియా చిట్టడులు (అమెరికా)",
+		"location": {
+			"lat": 38.6,
+			"lng": -90.1
+		},
+		"desc_en": "Massive earthen mounds built at Cahokia settlement",
+		"desc_te": "కాహోకియా నియోజనలో భారీ మట్టి చిట్టడులు నిర్మణం"
+	},
+	{
+		"year": "-2100",
+		"name_en": "Military Chariot Development (Central Asia)",
+		"name_te": "సైనిక రథ అభివృద్ధి (మధ్య ఆసియా)",
+		"location": {
+			"lat": 45,
+			"lng": 70
+		},
+		"desc_en": "Horse-drawn chariots engineered for warfare in steppes",
+		"desc_te": "మైదానాల్లో యుద్ధానికి గుర్రపై ఎక్కిన రథాలు ఇంజిన్‌ చేయబడ్డాయి"
+	},
+	{
+		"year": "-2080",
+		"name_en": "Astronomy Mathematics (Mesopotamia)",
+		"name_te": "ఖగోళ గణితం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Babylonian mathematicians develop early astronomical calculations",
+		"desc_te": "బాబిలోనియన్ గణితవిదులు ఆరంభ ఖగోళ గణనలను అభివృద్ధి"
+	},
+	{
+		"year": "-2060",
+		"name_en": "Textile Trade Routes (India)",
+		"name_te": "కట్టె వాణిజ్య మార్గాలు (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 68.5
+		},
+		"desc_en": "Indus Valley textiles exported to Mesopotamia",
+		"desc_te": "సిందువు లోయ కట్టెలు మెసోపొటేమియాకు ఎగుమతి"
+	},
+	{
+		"year": "-2040",
+		"name_en": "Bronze Working Techniques (Europe)",
+		"name_te": "కాంస్య నిర్మాణ విధానాలు (యూరోప్)",
+		"location": {
+			"lat": 50,
+			"lng": 15
+		},
+		"desc_en": "European metalworkers master bronze alloying and casting",
+		"desc_te": "యూరోపియన్ లోహకారులు కాంస్య మిశ్రమం, కాస్టింగ్ నైపుణ్య సాధన"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Indus Cities Decline Begins (India)",
+		"name_te": "సిందువు నగరాల క్షీణత ప్రారంభ (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 69
+		},
+		"desc_en": "Indus Valley civilization begins mysterious decline",
+		"desc_te": "సిందువు లోయ నాగరికత రహస్య క్షీణత ప్రారంభ"
+	},
+	{
+		"year": "-2000",
+		"name_en": "Nubian Kingdom Forms (Africa)",
+		"name_te": "నూబియన్ రాజ్యం నిర్మాణం (ఆఫ్రికా)",
+		"location": {
+			"lat": 15.5,
+			"lng": 32.5
+		},
+		"desc_en": "Kingdom of Kush emerges in Upper Nubia",
+		"desc_te": "ఉత్తర నూబియాలో కుష్ రాజ్యం ఉదయం"
+	}
+]

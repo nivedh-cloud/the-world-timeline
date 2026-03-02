@@ -1,0 +1,1025 @@
+[
+	{
+		"year": "-200",
+		"name_en": "Third Punic War Ends (Carthage)",
+		"name_te": "మూడవ ప్యూనిక్ యుద్ధం ముగిసింది (కార్తేజ్)",
+		"location": {
+			"lat": 36.85,
+			"lng": 10.33
+		},
+		"desc_en": "Rome destroys Carthage, ending Punic Wars",
+		"desc_te": "రోమ్ కార్తేజ్‌ను ధ్వంసం చేసి, ప్యూనిక్ యుద్ధాలను ముగించింది"
+	},
+	{
+		"year": "-221",
+		"name_en": "Qin Dynasty Unifies China",
+		"name_te": "చిన్ రాజవంశం చైనాను ఏకీకృతం చేసింది",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "First emperor Qin Shi Huang unifies China",
+		"desc_te": "మొదటి చక్రవర్తి చిన్ షిహువాంగ్ చైనాను ఏకీకృతం చేశాడు"
+	},
+	{
+		"year": "-202",
+		"name_en": "Han Dynasty Expands (China)",
+		"name_te": "హాన్ రాజవంశం విస్తరణ (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Han Dynasty consolidates and expands Chinese territory",
+		"desc_te": "హాన్ రాజవంశం చైనా భూభాగాన్ని విస్తరించింది"
+	},
+	{
+		"year": "-168",
+		"name_en": "Macedonia Conquered by Rome",
+		"name_te": "మేసిడోనియా రోమ్ చేత ఆక్రమించబడింది",
+		"location": {
+			"lat": 40.6401,
+			"lng": 22.9444
+		},
+		"desc_en": "Rome defeats Macedonia, ending Hellenistic rule in Greece",
+		"desc_te": "రోమ్ మేసిడోనియాను ఓడించి, గ్రీస్‌లో హెలెనిస్టిక్ పాలనను ముగించింది"
+	},
+	{
+		"year": "-150",
+		"name_en": "Nazca Culture Emerges (Peru)",
+		"name_te": "నాజ్కా సంస్కృతి (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "Nazca culture begins to flourish in Peru, famous for geoglyphs",
+		"desc_te": "పెరూ లో నాజ్కా సంస్కృతి ప్రారంభమై, భూమిపై చిత్రలేఖనాలకు ప్రసిద్ధి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Maya Civilization Expands (America)",
+		"name_te": "మాయా నాగరికత విస్తరణ (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya cities and culture expand in Mesoamerica",
+		"desc_te": "మెసోఅమెరికాలో మాయా నగరాలు, సంస్కృతి విస్తరించాయి"
+	},
+	{
+		"year": "-200",
+		"name_en": "Hopewell Culture (North America)",
+		"name_te": "హోప్‌వెల్ సంస్కృతి (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 39.96,
+			"lng": -83
+		},
+		"desc_en": "Hopewell tradition flourishes in Ohio River Valley",
+		"desc_te": "ఓహియో నది లోయలో హోప్‌వెల్ సంస్కృతి అభివృద్ధి చెందింది"
+	},
+	{
+		"year": "-200",
+		"name_en": "Satavahana Dynasty (India)",
+		"name_te": "సాతవాహన రాజవంశం (భారతదేశం)",
+		"location": {
+			"lat": 17.4,
+			"lng": 78.5
+		},
+		"desc_en": "Satavahana dynasty rules Deccan region, inherits Mauryan administrative legacy and establishes maritime trade with Southeast Asia and Mediterranean.",
+		"desc_te": "సాతవాహన రాజవంశం డెక్కన్ ప్రాంతాన్ని పాలిస్తూ, మౌర్య పరిపాలన వారసత్వం అందుకొని, తూర్పు-దక్షిణ ఆసియా, మధ్యసాగర్‌లకు సముద్ర వాణిజ్యాన్ని స్థాపన చేస్తారు."
+	},
+	{
+		"year": "-200",
+		"name_en": "Maurya Empire Decline Post-Ashoka (India)",
+		"name_te": "అశోక తర్వాత మౌర్య సామ్రాజ్య పతనం (భారత)",
+		"location": {
+			"lat": 25,
+			"lng": 82
+		},
+		"desc_en": "After Emperor Ashoka's death, Maurya power weakens dramatically; former Mahajanapada territories regain independence and autonomy from central Mauryan rule.",
+		"desc_te": "చక్రవర్తి అశోక మరణం తర్వాత మౌర్య శక్తి బలహీనమవుతుంది; పూర్వ మహాజనపద ప్రాంతాలు కేంద్ర మౌర్య పాలన నుండి స్వాధీనత పున సంపాదిస్తాయి."
+	},
+	{
+		"year": "-150",
+		"name_en": "Shunga Dynasty Consolidation (India)",
+		"name_te": "శుంగ రాజవంశ సమీకరణ (భారత)",
+		"location": {
+			"lat": 23.5,
+			"lng": 80
+		},
+		"desc_en": "Shunga dynasty consolidates power in central India after Mauryan collapse; Hindu traditions revive while Buddhist patronage continues moderately.",
+		"desc_te": "శుంగ రాజవంశం మౌర్య సామ్రాజ్య సంకోచం తర్వాత కేంద్ర భారతదేశంలో శక్తి సమీకరిస్తుంది; హిందూ సంప్రదాయాలు పునరుజ్జీవితమవుతూ బౌద్ధ ప్రోత్సాహం సమంజసముగా కొనసాగుతుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Indo-Greek Kingdoms Flourish (India)",
+		"name_te": "ఇండో-గ్రీక్ రాజ్యాల సమృద్ధి (భారత)",
+		"location": {
+			"lat": 32,
+			"lng": 72
+		},
+		"desc_en": "Indo-Greek kingdoms establish in Northwest India after Alexander's successors; succeed Mauryan rule and blend Hellenistic, Indian cultures establishing syncretic governance.",
+		"desc_te": "అలెగ్జాండర్ వారసుల తర్వాత ఇండో-గ్రీక్ రాజ్యాలు ఉత్తర-పశ్చిమ భారతలో స్థాపన చేస్తూ, మౌర్య పాలన స్థానంలో వచ్చి, హెలెనిస్టిక్, భారతీయ సంస్కృతులను సమన్విత పాలన ద్వారా కలుపుతారు."
+	},
+	{
+		"year": "-120",
+		"name_en": "Chola Empire Maritime Dominance (South India)",
+		"name_te": "చోల సామ్రాజ్య సముద్ర ఆధిపత్యం (దక్షిణ భారత)",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "Chola Empire strengthens maritime control over Indian Ocean; establishes extensive trading networks with Southeast Asia, Lanka, and distant Mediterranean partners.",
+		"desc_te": "చోల సామ్రాజ్యం భారత మహాసాగర్‌పై సముద్ర నియంత్రణ శక్తిపరుస్తూ, తూర్పు-దక్షిణ ఆసియా, లంక, దూర మధ్యసాగర్ భాగస్వాములకు విస్తృత వాణిజ్య నెట్‌వర్క్‌లు స్థాపన చేస్తారు."
+	},
+	{
+		"year": "-200",
+		"name_en": "Pandy Kingdom Expansion (South India)",
+		"name_te": "పాండియ రాజ్య విస్తరణ (దక్షిణ భారత)",
+		"location": {
+			"lat": 8.7,
+			"lng": 77.7
+		},
+		"desc_en": "Pandy kingdom expands its territorial and maritime influence in southern India; competes vigorously with Cholas for trade route control and naval supremacy.",
+		"desc_te": "పాండియ రాజ్యం దక్షిణ భారతదేశంలో ప్రాంతీయ, సముద్ర ప్రభావాన్ని విస్తరిస్తూ, చోలలతో వాణిజ్య మార్గ నియంత్రణ, నౌకా ఆధిపత్యం కోసం తీవ్రంగా పోటీ చేస్తారు."
+	},
+	{
+		"year": "-150",
+		"name_en": "Kushan Empire Emergence (Central Asia & India)",
+		"name_te": "కుషాణ సామ్రాజ్య ఉద్భవం (మధ్య ఆసియా, భారత)",
+		"location": {
+			"lat": 35,
+			"lng": 68
+		},
+		"desc_en": "Kushan Empire begins to emerge from Central Asian steppes; eventually bridges Silk Road and introduces Buddhism deeper into Indian territories.",
+		"desc_te": "కుషాణ సామ్రాజ్యం మధ్య ఆసియా తృణ భూమి నుండి ఉద్భవించటం ప్రారంభిస్తూ; చివరికి సిల్క్ రోడ్‌ను సంధిస్తూ బౌద్ధమతాన్ని భారత ప్రాంతాలలోకి లోతుగా ప్రవేశం చేస్తారు."
+	},
+	{
+		"year": "-180",
+		"name_en": "Andhra Pradesh Agricultural Innovation (India)",
+		"name_te": "ఆంధ్రప్రదేశ్ వ్యవసాయ ఆవిష్కరణ (భారత)",
+		"location": {
+			"lat": 16,
+			"lng": 79
+		},
+		"desc_en": "Advanced agricultural techniques, sophisticated irrigation systems develop in Andhra Pradesh under Satavahana patronage; increases agricultural productivity significantly.",
+		"desc_te": "సాతవాహన ప్రోత్సాహనలో ఆంధ్రప్రదేశ్‌లో అత్యాధునిక వ్యవసాయ పద్ధతులు, సంక్లిష్ట నీటిపారుదყ వ్యవస్థలు అభివృద్ధి చెందాయి; వ్యవసాయ ఉత్పాదకత ముఖ్యంగా పెరుగుతుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Brahmi Script Spread (India)",
+		"name_te": "బ్రాహ్మీ లిపి వ్యాపన (భారత)",
+		"location": {
+			"lat": 23,
+			"lng": 82
+		},
+		"desc_en": "Brahmi script spreads across India following Ashoka's edicts legacy; gradually replaces earlier scripts and becomes foundation for modern Indian languages.",
+		"desc_te": "అశోక సంegnాసనల వారసత్వం అనుసరించి బ్రాహ్మీ లిపి భారతదేశం వ్యాప్తంగా వ్యాపిస్తూ, ముందటి లిపులను క్రమంగా భర్తీ చేస్తూ, ఆధునిక భారతీయ భాషల భిత్తిగా మారుతుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Bactrian Kingdom (Central Asia)",
+		"name_te": "బాక్ట్రియన్ రాజ్యం (మధ్య ఆసియా)",
+		"location": {
+			"lat": 36.7,
+			"lng": 67.1
+		},
+		"desc_en": "Greek-ruled Bactria flourishes in Central Asia",
+		"desc_te": "గ్రీకు పాలిత బాక్ట్రియా మధ్య ఆసియాలో అభివృద్ధి చెందింది"
+	},
+	{
+		"year": "-200",
+		"name_en": "Parthian Empire Expands (Iran)",
+		"name_te": "పార్థియన్ సామ్రాజ్యం విస్తరణ (ఇరాన్)",
+		"location": {
+			"lat": 35.6892,
+			"lng": 51.389
+		},
+		"desc_en": "Parthian Empire expands in Persia, rival to Rome",
+		"desc_te": "పార్థియన్ సామ్రాజ్యం పర్షియాలో విస్తరించి, రోమ్‌కు ప్రత్యర్థిగా మారింది"
+	},
+	{
+		"year": "-185",
+		"name_en": "Reign of Menander I (Indo-Greek King)",
+		"name_te": "మెనాండర్ I పాలన (ఇండో-గ్రీకు రాజు)",
+		"location": {
+			"lat": 30.1575,
+			"lng": 71.5249
+		},
+		"desc_en": "Menander I, a prominent Indo-Greek king, rules northwest India and converts to Buddhism.",
+		"desc_te": "మెనాండర్ I, ప్రముఖ ఇండో-గ్రీకు రాజు, వాయువ్య భారతాన్ని పాలించి, బౌద్ధమతాన్ని స్వీకరించాడు."
+	},
+	{
+		"year": "-133",
+		"name_en": "Death of Tiberius Gracchus (Rome)",
+		"name_te": "టైబీరియస్ గ్రాక్కస్ మరణం (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman reformer Tiberius Gracchus is killed for his land reforms.",
+		"desc_te": "రోమన్ సంస్కర్త టైబీరియస్ గ్రాక్కస్ భూసంస్కరణల కోసం హత్య చేయబడ్డాడు."
+	},
+	{
+		"year": "-104",
+		"name_en": "Warring States in Japan (Yayoi Period)",
+		"name_te": "జపాన్‌లో యుద్ధరాజ్యాలు (యయోయ్ కాలం)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "Emergence of early political units and warfare in Japan's Yayoi period.",
+		"desc_te": "జపాన్ యయోయ్ కాలంలో ప్రాథమిక రాజకీయ యూనిట్లు, యుద్ధాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-120",
+		"name_en": "Xiongnu Raids on Han China",
+		"name_te": "హాన్ చైనాపై షియోంగ్ను దాడులు",
+		"location": {
+			"lat": 41,
+			"lng": 112
+		},
+		"desc_en": "Nomadic Xiongnu tribes raid Han China, prompting military campaigns.",
+		"desc_te": "షియోంగ్ను గోత్రాలు హాన్ చైనాపై దాడులు చేసి, సైనిక చర్యలకు దారితీశాయి."
+	},
+	{
+		"year": "-150",
+		"name_en": "Expansion of Teotihuacan (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ విస్తరణ (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan city grows into a major urban center in central Mexico.",
+		"desc_te": "టియోటిహుయాకాన్ నగరం మధ్య మెక్సికోలో ప్రధాన నగరంగా అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Aboriginal Cultures Flourish (Australia)",
+		"name_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultures thrive across Australia, developing unique traditions.",
+		"desc_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు అభివృద్ధి చెందాయి, ప్రత్యేక సంప్రదాయాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-200",
+		"name_en": "Kingdom of Aksum Emerges (Africa)",
+		"name_te": "అక్సుమ్ రాజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "The Kingdom of Aksum begins to emerge in the Horn of Africa.",
+		"desc_te": "ఆఫ్రికా హార్న్‌లో అక్సుమ్ రాజ్యం ప్రారంభమైంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Celtic Tribes in Europe",
+		"name_te": "యూరోప్‌లో సెల్టిక్ గోత్రాలు",
+		"location": {
+			"lat": 48,
+			"lng": 2
+		},
+		"desc_en": "Celtic tribes dominate much of Western and Central Europe.",
+		"desc_te": "పశ్చిమ మరియు మధ్య యూరోప్‌లో సెల్టిక్ గోత్రాలు ఆధిపత్యం చెలాయించాయి."
+	},
+	{
+		"year": "-200",
+		"name_en": "Kingdom of Meroë (Nubia)",
+		"name_te": "మెరోయే రాజ్యం (న్యూబియా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Meroë becomes a powerful kingdom in Nubia (modern Sudan).",
+		"desc_te": "మెరోయే న్యూబియాలో (ఈరోజు సూడాన్) శక్తివంతమైన రాజ్యంగా మారింది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Scythian Dominance in Central Asia",
+		"name_te": "మధ్య ఆసియాలో స్కిథియన్ ఆధిపత్యం",
+		"location": {
+			"lat": 48,
+			"lng": 67
+		},
+		"desc_en": "Scythian tribes control large parts of the Eurasian steppe.",
+		"desc_te": "స్కిథియన్ గోత్రాలు యూరేషియన్ స్టెప్పులో విస్తృతంగా ఆధిపత్యం చెలాయించాయి."
+	},
+	{
+		"year": "-80",
+		"name_en": "Hasmonean Kings Reign (Judea)",
+		"name_te": "హస్మోనియన్ రాజుల పాలన (యూదయ)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hasmonean kings establish independence from Seleucid rule, expanding their kingdom throughout the Levant region with military campaigns and diplomatic prowess.",
+		"desc_te": "హస్మోనియన్ రాజులు సెల్యూసిడ్ పాలన నుండి స్వాతంత్ర్యం స్థాపన చేసుకుంటూ, సైనిక ప్రచారాలు, దిక్కు నిర్ణయ ఆధిపత్య ద్వారా లెవాంట్ ప్రాంతం అంతటా సామ్రాజ్యం విస్తరిస్తారు."
+	},
+	{
+		"year": "-60",
+		"name_en": "Civil War in Judea",
+		"name_te": "యూదేయాలో ఆంతర సంయుద్ధం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Internal conflict between Hasmonean rulers Aristobulus II and Hyrcanus II weakens the Jewish kingdom, creating political instability and internal strife.",
+		"desc_te": "హస్మోనియన్ రాజులు అరిస్టోబూలస్ II, హిర్కానస్ II మధ్య అంతర్గత సంఘర్షణ యూదా రాజ్యాన్ని బలహీనం చేస్తూ రాజకీయ అస్థిరత, అంతర్గత సంఘర్షణ సృష్టిస్తుంది."
+	},
+	{
+		"year": "-63",
+		"name_en": "Roman General Pompey Captures Jerusalem",
+		"name_te": "రోమన్ జనరల్ పోంపే యెరూషలేమును ఆక్రమించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Pompey the Great captures Jerusalem, ending Hasmonean independence and bringing Roman control to Judea. This marks the end of Jewish sovereignty until the modern era.",
+		"desc_te": "పోంపే ఎరుక్ సిటీలో యెరూషలేమును ఆక్రమించి, హస్మోనియన్ స్వాతంత్ర్యాన్ని ముగించి, యూదేయాకు రోమన్ నియంత్రణ తెస్తాడు. ఇది ఆధునిక యుగం వరకు యూదా సార్వభౌమత్వం ముగింపు గుర్తిస్తుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Han Dynasty Consolidation Under Liu Bang (China)",
+		"name_te": "లియు బాంగ్ కింద హాన్ సామ్రాజ్య సమీకరణ (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Liu Bang founds the Han Dynasty, establishing a centralized government after the chaos of the Qin collapse.",
+		"desc_te": "లియు బాంగ్ హాన్ రాజవంశాన్ని స్థాపన చేసి, చిన్ పతనం తర్వాత కేంద్రీకృత ప్రభుత్వం ఏర్పరుచుకుంటాడు."
+	},
+	{
+		"year": "-180",
+		"name_en": "Roman Expansion in Greece (Macedonia)",
+		"name_te": "గ్రీస్‌లో రోమన్ విస్తరణ (మేసిడోనియా)",
+		"location": {
+			"lat": 40.6401,
+			"lng": 22.9444
+		},
+		"desc_en": "Rome defeats Macedonia; Greek city-states lose independence as Rome becomes Mediterranean superpower.",
+		"desc_te": "రోమ్ మేసిడోనియాను ఓడించి, గ్రీక్ నగర-రాష్ట్రాలు స్వాధీనత కోల్పోవటం, రోమ్ మధ్యసాగర్ సూపర్ పవర్‌గా మారటం."
+	},
+	{
+		"year": "-160",
+		"name_en": "Parthian Empire Solidifies (Persia)",
+		"name_te": "పార్థియన్ సామ్రాజ్య దృఢీకరణ (పర్షియా)",
+		"location": {
+			"lat": 35.6892,
+			"lng": 51.389
+		},
+		"desc_en": "Parthian Empire consolidates control over Persia, becoming a major political rival to Rome and controlling vital Silk Road routes.",
+		"desc_te": "పార్థియన్ సామ్రాజ్యం పర్షియాపై నియంత్రణ సమీకరిస్తూ, రోమ్‌కు ప్రధాన రాజకీయ ప్రత్యర్థిగా, సిల్క్ రోడ్ మార్గాలను నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-140",
+		"name_en": "Seleucid Decline in Near East",
+		"name_te": "సమీప తూర్పులో సెల్యూసిడ్ పతనం",
+		"location": {
+			"lat": 33.3157,
+			"lng": 44.3661
+		},
+		"desc_en": "Seleucid Empire fragments as regional kingdoms assert independence; Rome gradually extends influence across the Eastern Mediterranean.",
+		"desc_te": "సెల్యూసిడ్ సామ్రాజ్యం విభజనకు గురిగా ప్రాంతీయ రాజ్యాలు స్వాధీనత కోసం ప్రయత్నిస్తున్నందున, రోమ్ తూర్పు భూమధ్యసాగర్‌లో ప్రభావం విస్తరిస్తుంది."
+	},
+	{
+		"year": "-120",
+		"name_en": "Egyptian Ptolemaic Struggles (Egypt)",
+		"name_te": "ఈజిప్టు టాలెమీ సంఘర్షణలు (ఈజిప్టు)",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Ptolemaic Egypt faces internal succession disputes and civil conflict; Rome increasingly interferes in Egyptian affairs.",
+		"desc_te": "టాలెమీ ఈజిప్టు అంతర్గత వారసత్వ వివాదాలు, సంఘర్షణలకు ఎదుర్కుంటుంది; రోమ్ ఈజిప్టు విషయాలలో విరమణ నిలుపుతుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Mauryan Decline & Regional Fragmentation (India)",
+		"name_te": "మౌర్య పతనం, ప్రాంతీయ విభజనం (భారత)",
+		"location": {
+			"lat": 25,
+			"lng": 82
+		},
+		"desc_en": "Mauryan Empire weakens after Ashoka; central authority collapses allowing independent kingdoms to flourish across India.",
+		"desc_te": "అశోక తర్వాత మౌర్య సామ్రాజ్యం బలహీనమవుతుంది; కేంద్ర అధికారం కూలిపోవటం ఆధీన రాజ్యాలను భారత వ్యాప్తంగా అభివృద్ధి చెందిస్తుంది."
+	},
+	{
+		"year": "-180",
+		"name_en": "Menander I Indo-Greek Rule (Northwest India)",
+		"name_te": "మెనాండర్ I ఇండో-గ్రీక్ పాలన (ఉత్తర-పశ్చిమ భారత)",
+		"location": {
+			"lat": 32,
+			"lng": 72
+		},
+		"desc_en": "Menander I, the greatest Indo-Greek king, rules northwest India; famed for his diplomatic skills and Buddhist conversion.",
+		"desc_te": "గొప్ప ఇండో-గ్రీక్ రాజు మెనాండర్ I ఉత్తర-పశ్చిమ భారతాన్ని పాలిస్తాడు; దిక్కు నిర్ణయ నైపుణ్యం, బౌద్ధమత స్వీకరణకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-160",
+		"name_en": "Shunga Dynasty Flourishes in Central India",
+		"name_te": "శుంగ రాజవంశ కేంద్ర భారత సమృద్ధి",
+		"location": {
+			"lat": 23.5,
+			"lng": 80
+		},
+		"desc_en": "Shunga Dynasty establishes itself as central India's dominant power; patronizes both Hindu and Buddhist culture.",
+		"desc_te": "శుంగ రాజవంశం కేంద్ర భారతలో ప్రధాన శక్తిగా స్థాపన చేసుకుంటుంది; హిందూ, బౌద్ధ సంస్కృతులను ప్రోత్సహిస్తుంది."
+	},
+	{
+		"year": "-140",
+		"name_en": "Satavahana Expansion in Deccan (South India)",
+		"name_te": "డెక్కనులో సాతవాహన విస్తరణ (దక్షిణ భారత)",
+		"location": {
+			"lat": 18.5,
+			"lng": 77
+		},
+		"desc_en": "Satavahana kingdom expands power in the Deccan; establishes extensive trade networks with Southeast Asia and the Mediterranean.",
+		"desc_te": "సాతవాహన రాజ్యం డెక్కనులో శక్తి విస్తరిస్తుంది; తూర్పు-దక్షిణ ఆసియా, మధ్యసాగర్‌లకు విస్తృత వాణిజ్య నెట్‌వర్క్‌లు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-120",
+		"name_en": "Chola Dynasty Ascendance in South India",
+		"name_te": "దక్షిణ భారతలో చోల రాజవంశ ఆరోహణ",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "Chola Dynasty rises as a major naval and trading power; controls Coromandel coast and establishes maritime supremacy.",
+		"desc_te": "చోల రాజవంశం ప్రధాన సముద్ర, వాణిజ్య శక్తిగా ఉద్భవిస్తుంది; కోరోమండల్ తీరం నియంత్రిస్తూ సముద్ర ఆధిపత్యం స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Roman-Carthaginian Conflicts (Second Punic War)",
+		"name_te": "రోమన్-కార్థేజియన్ సంఘర్షణలు (రెండవ ప్యూనిక్ యుద్ధం)",
+		"location": {
+			"lat": 37,
+			"lng": 14
+		},
+		"desc_en": "Second Punic War between Rome and Carthage; Hannibal leads Carthaginian forces across Alps into Italy.",
+		"desc_te": "రోమ్, కార్తేజ్ మధ్య రెండవ ప్యూనిక్ యుద్ధం; హన్నిబల్ కార్థేజియన్ సైన్యాన్ని ఆల్ప్‌లను అతిక్రమించి ఇటలీకు చేర్చాడు."
+	},
+	{
+		"year": "-180",
+		"name_en": "Greek Hellenistic Culture Flourishes",
+		"name_te": "గ్రీక్ హెలెనిస్టిక్ సంస్కృతి సమృద్ధి",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Hellenistic culture reaches its zenith; Greek philosophy, science, and art influence the entire Mediterranean and Near East.",
+		"desc_te": "హెలెనిస్టిక్ సంస్కృతి శిఖరస్థాయిలో చేరుకుంటుంది; గ్రీక్ తత్వవేత్త, విజ్ఞానం, కళ మధ్యసాగర్, సమీప తూర్పువ్యాప్తంగా ప్రభావం చూపుతుంది."
+	},
+	{
+		"year": "-160",
+		"name_en": "Han Dynasty Expansion Westward (China)",
+		"name_te": "హాన్ రాజవంశ పశ్చిమ విస్తరణ (చైనా)",
+		"location": {
+			"lat": 36,
+			"lng": 103
+		},
+		"desc_en": "Han Dynasty sends military expeditions westward; establishes control over Central Asian trade routes leading to the Silk Road.",
+		"desc_te": "హాన్ రాజవంశం పశ్చిమ దిశ సైనిక యాత్రలను పంపుతుంది; మధ్య ఆసియా వాణిజ్య మార్గాలపై నియంత్రణ స్థాపన చేస్తుంది సిల్క్ రోడ్‌కు దారితీస్తుంది."
+	},
+	{
+		"year": "-140",
+		"name_en": "Xiongnu-Han Diplomacy & Peace Accords",
+		"name_te": "షియోంగ్ను-హాన్ దిక్కు నిర్ణయం, శాంతి సంధులు",
+		"location": {
+			"lat": 41,
+			"lng": 112
+		},
+		"desc_en": "Han Dynasty negotiates peace with Xiongnu nomads; establishes marriage alliances and tributary relationships stabilizing the frontier.",
+		"desc_te": "హాన్ రాజవంశం షియోంగ్ను చరిత్రజ్ఞులకు శాంతి సంధులను సంపాదించుకుంటుంది; వివాహ సమాచారం, నివేదిక సంబంధాలు సరిహద్దు స్థిరత్వం స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-120",
+		"name_en": "Silk Road Trade Routes Establish (Central Asia)",
+		"name_te": "సిల్క్ రోడ్ వాణిజ్య మార్గాలు స్థాపన (మధ్య ఆసియా)",
+		"location": {
+			"lat": 42,
+			"lng": 70
+		},
+		"desc_en": "Silk Road trade routes officially established connecting China to the Mediterranean; goods, ideas, and culture flow between East and West.",
+		"desc_te": "సిల్క్ రోడ్ వాణిజ్య మార్గాలు అధికారికంగా చైనాను మధ్యసాగర్‌కు సంధిస్తూ స్థాపన చేయబడ్డాయి; వస్తువులు, ఆలోచనలు, సంస్కృతి తూర్పు-పశ్చిమ ప్రవాహం."
+	},
+	{
+		"year": "-200",
+		"name_en": "Maya Early Classic Period (Mesoamerica)",
+		"name_te": "మాయా ప్రారంభ క్లాసిక్ కాలం (మెసోఅమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya civilization enters Early Classic Period; city-states expand, hieroglyphic writing develops, and monumental architecture flourishes.",
+		"desc_te": "మాయా నాగరికత ప్రారంభ క్లాసిక్ కాలంలో ప్రవేశిస్తుంది; నగర-రాష్ట్రాలు విస్తరిస్తూ సంకేత లేఖనం అభివృద్ధి, స్మారక నిర్మాణం సమృద్ధిస్తాయి."
+	},
+	{
+		"year": "-180",
+		"name_en": "Teotihuacan Expansion Accelerates (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ విస్తరణ త్వరణం (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan grows into a major metropolitan center; its influence spreads across Mesoamerica through trade and cultural exchange.",
+		"desc_te": "టియోటిహుయాకాన్ ప్రధాన నగర కేంద్రంగా అభివృద్ధి చెందుతుంది; వాణిజ్య, సాంస్కృతిక వినిమయం ద్వారా మెసోఅమెరికా అంతటా దాని ప్రభావం వ్యాపిస్తుంది."
+	},
+	{
+		"year": "-160",
+		"name_en": "Nazca Geoglyphs Period (Peru)",
+		"name_te": "నాజ్కా భూ-చిత్రకాల కాలం (పెరూ)",
+		"location": {
+			"lat": -14.83,
+			"lng": -74.94
+		},
+		"desc_en": "Nazca culture at its height; creates famous massive geoglyphs depicting animals and geometric designs across desert landscape.",
+		"desc_te": "నాజ్కా సంస్కృతి శిఖరస్థాయిలో; ఎడారి ల్యాండ్‌స్కేప్‌పై జంతువులు, రేఖాగణిత నమూనాలను చిత్రించిన ప్రసిద్ధ భారీ చిత్రకాలు సృష్టిస్తుంది."
+	},
+	{
+		"year": "-140",
+		"name_en": "Aksumite Kingdom Emergence (Horn of Africa)",
+		"name_te": "అక్సుమ్ రాజ్యం ఉద్భవం (ఆఫ్రికా హార్న్)",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "Aksumite Kingdom begins to emerge as a powerful trading state in the Horn of Africa, controlling Red Sea commerce.",
+		"desc_te": "అక్సుమ్ రాజ్యం ఆఫ్రికా హార్న్‌లో శక్తివంతమైన వాణిజ్య రాష్ట్రంగా ఉద్భవించటం ప్రారంభిస్తూ, ఎర్ర సముద్ర వాణిజ్యాన్ని నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-120",
+		"name_en": "Meroë Kingdom at Peak (Nubia)",
+		"name_te": "మెరోయే రాజ్యం శిఖరం (న్యూబియా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Kingdom of Meroë at its height as center of power in Nubia; controls trade between Mediterranean, Red Sea, and African interior.",
+		"desc_te": "మెరోయే రాజ్యం న్యూబియాలో శక్తి కేంద్రం శిఖరస్థాయిలో; మధ్యసాగర్, ఎర్ర సముద్ర, ఆఫ్రికా అంతరిక్షం మధ్య వాణిజ్యాన్ని నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-141",
+		"name_en": "Reign of Emperor Wu of Han (China)",
+		"name_te": "హాన్ చైనా చక్రవర్తి వు పాలన",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Emperor Wu expands Han China, Silk Road trade flourishes.",
+		"desc_te": "చక్రవర్తి వు హాన్ చైనాను విస్తరించి, సిల్క్ రోడ్ వాణిజ్యాన్ని అభివృద్ధి చేశాడు."
+	},
+	{
+		"year": "-150",
+		"name_en": "Kingdom of Funan Emerges (Southeast Asia)",
+		"name_te": "ఫునాన్ రాజ్యం (దక్షిణ-ఆసియా)",
+		"location": {
+			"lat": 11.55,
+			"lng": 104.9167
+		},
+		"desc_en": "Funan, one of the earliest Southeast Asian kingdoms, emerges in the Mekong Delta.",
+		"desc_te": "దక్షిణ-ఆసియాలో ప్రాచీన రాజ్యాలలో ఒకటైన ఫునాన్ మెకాంగ్ డెల్టాలో ఏర్పడింది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Olmec Influence Continues (Mesoamerica)",
+		"name_te": "ఒల్మెక్ ప్రభావం కొనసాగింది (మెసోఅమెరికా)",
+		"location": {
+			"lat": 18,
+			"lng": -94
+		},
+		"desc_en": "Olmec culture influences later Mesoamerican civilizations.",
+		"desc_te": "ఒల్మెక్ సంస్కృతి తరువాతి మెసోఅమెరికా నాగరికతలపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Iron Age in Sub-Saharan Africa",
+		"name_te": "ఉప-సహారా ఆఫ్రికాలో ఇనుప యుగం",
+		"location": {
+			"lat": 7,
+			"lng": 21
+		},
+		"desc_en": "Ironworking spreads across Sub-Saharan Africa, transforming societies.",
+		"desc_te": "ఉప-సహారా ఆఫ్రికాలో ఇనుప పనులు వ్యాప్తి చెంది సమాజాలను మార్చాయి."
+	},
+	{
+		"year": "-200",
+		"name_en": "Expansion of Polynesian Navigation",
+		"name_te": "పాలినీషియన్ నావిగేషన్ విస్తరణ",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian peoples expand navigation and settlement across the Pacific islands.",
+		"desc_te": "పాలినీషియన్ ప్రజలు పసిఫిక్ దీవుల్లో నావిగేషన్, నివాసాన్ని విస్తరించారు."
+	},
+	{
+		"year": "-200",
+		"name_en": "Jomon to Yayoi Transition (Japan)",
+		"name_te": "జపాన్‌లో జోమోన్ నుండి యయోయ్ మార్పు",
+		"location": {
+			"lat": 35,
+			"lng": 137
+		},
+		"desc_en": "Transition from Jomon to Yayoi culture in Japan, with new technologies and agriculture.",
+		"desc_te": "జపాన్‌లో జోమోన్ నుండి యయోయ్ సంస్కృతికి మార్పు, కొత్త సాంకేతికతలు, వ్యవసాయం."
+	},
+	{
+		"year": "-200",
+		"name_en": "Germanic Tribes Expand in Europe",
+		"name_te": "యూరోప్‌లో జర్మానిక్ గోత్రాల విస్తరణ",
+		"location": {
+			"lat": 51,
+			"lng": 10
+		},
+		"desc_en": "Germanic tribes expand their territories in northern and central Europe.",
+		"desc_te": "జర్మానిక్ గోత్రాలు ఉత్తర మరియు మధ్య యూరోప్‌లో తమ భూభాగాన్ని విస్తరించాయి."
+	},
+	{
+		"year": "-200",
+		"name_en": "Dacian Kingdom (Eastern Europe)",
+		"name_te": "డేసియన్ రాజ్యం (తూర్పు యూరోప్)",
+		"location": {
+			"lat": 45.9432,
+			"lng": 24.9668
+		},
+		"desc_en": "Dacians establish a powerful kingdom in what is now Romania.",
+		"desc_te": "డేసియన్‌లు నేటి రొమేనియాలో శక్తివంతమైన రాజ్యాన్ని స్థాపించారు."
+	},
+	{
+		"year": "-200",
+		"name_en": "Kingdom of Saba (Arabia)",
+		"name_te": "సబా రాజ్యం (అరేబియా)",
+		"location": {
+			"lat": 15.3694,
+			"lng": 44.191
+		},
+		"desc_en": "The Kingdom of Saba (Sheba) flourishes in southern Arabia.",
+		"desc_te": "సబా (శెబా) రాజ్యం దక్షిణ అరేబియాలో అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-195",
+		"name_en": "Seleucid Wars in Asia Minor",
+		"name_te": "ఆసియా మైనర్‌లో సెల్యూసిడ్ యుద్ధాలు",
+		"location": {
+			"lat": 38.9637,
+			"lng": 35.2433
+		},
+		"desc_en": "Seleucid kings engage in military campaigns across Asia Minor and Syria, expanding their territorial control.",
+		"desc_te": "సెల్యూసిడ్ రాజులు ఆసియా మైనర్, సిరియా అంతటా సైనిక ప్రచారాలను నిర్వహిస్తూ ప్రాంతీయ నియంత్రణ విస్తరిస్తారు."
+	},
+	{
+		"year": "-190",
+		"name_en": "Etruscan Decline in Italy",
+		"name_te": "ఇటలీలో ఎట్రుస్కన్ పతనం",
+		"location": {
+			"lat": 42.8627,
+			"lng": 11.8555
+		},
+		"desc_en": "Etruscan civilization gradually loses power as Rome expands; cultural assimilation of Etruscan society.",
+		"desc_te": "రోమ్ విస్తరణకు సంబంధించి ఎట్రుస్కన్ నాగరికత క్రమంగా శక్తి కోల్పోతుంది; ఎట్రుస్కన్ సమాజ సాంస్కృతిక సమీకరణ."
+	},
+	{
+		"year": "-170",
+		"name_en": "Greek Science & Mathematics Flourishes",
+		"name_te": "గ్రీక్ విజ్ఞానం, గణితం సమృద్ధి",
+		"location": {
+			"lat": 37.7749,
+			"lng": 23.4379
+		},
+		"desc_en": "Greek mathematicians and scientists like Archimedes make groundbreaking discoveries in geometry and physics.",
+		"desc_te": "ఆర్కిమిడీస్ వంటి గ్రీక్ గణితవేత్తలు, శాస్త్రవేత్తలు జ్యామితి, భౌతిక శాస్త్రంలో అভూతపూర్వ ఆవిష్కరణలు చేస్తారు."
+	},
+	{
+		"year": "-160",
+		"name_en": "Roman-Syrian Wars (Syria)",
+		"name_te": "రోమన్-సిరియన్ యుద్ధాలు (సిరియా)",
+		"location": {
+			"lat": 34.8021,
+			"lng": 38.9968
+		},
+		"desc_en": "Rome clashes with Seleucid Syria; major military campaigns establish Roman dominance in eastern Mediterranean.",
+		"desc_te": "రోమ్ సెల్యూసిడ్ సిరియాతో ఘర్షణ చెందుతుంది; తూర్పు మధ్యసాగర్‌లో రోమన్ ఆధిపత్యం స్థాపించే ప్రధాన సైనిక ప్రచారాలు."
+	},
+	{
+		"year": "-150",
+		"name_en": "Roman Conquest of Greece",
+		"name_te": "గ్రీస్ పై రోమన్ జయం",
+		"location": {
+			"lat": 39.0742,
+			"lng": 21.8243
+		},
+		"desc_en": "Rome fully conquers Greece; Greek city-states become Roman provinces, ending Greek independence.",
+		"desc_te": "రోమ్ గ్రీస్‌ను పూర్తిగా జయించుతుంది; గ్రీక్ నగర-రాష్ట్రాలు రోమన్ ప్రావిన్సులుగా మారుతూ గ్రీక్ స్వాధీనత ముగుస్తుంది."
+	},
+	{
+		"year": "-145",
+		"name_en": "Judean Independence Under Hasmoneans",
+		"name_te": "హస్మోనియన్ కింద యూదా స్వాధీనత",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hasmonean dynasty expands Jewish kingdom; Judea becomes a major power in Levant region.",
+		"desc_te": "హస్మోనియన్ రాజవంశం యూదా రాజ్యాన్ని విస్తరిస్తుంది; లెవాంట్ ప్రాంతంలో యూదేయ ప్రధాన శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-130",
+		"name_en": "Parthian Consolidation of Iran",
+		"name_te": "ఇరాన్ యొక్క పార్థియన్ సమీకరణ",
+		"location": {
+			"lat": 33.3128,
+			"lng": 44.3615
+		},
+		"desc_en": "Parthian Empire becomes fully established; controls Persia and becomes Rome's major rival.",
+		"desc_te": "పార్థియన్ సామ్రాజ్యం పూర్తిగా స్థాపన చేయబడుతుంది; పర్షియాను నియంత్రిస్తూ రోమ్‌కు ప్రధాన ప్రత్యర్థిగా మారుతుంది."
+	},
+	{
+		"year": "-125",
+		"name_en": "Han Dynasty Military Campaigns (China)",
+		"name_te": "హాన్ రాజవంశ సైనిక ప్రచారాలు (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Emperor Wu of Han launches military expeditions against Xiongnu; expands Chinese territory westward.",
+		"desc_te": "హాన్ చక్రవర్తి వు షియోంగ్ను వ్యతిరేకంగా సైనిక ప్రచారాలు ప్రారంభిస్తూ చైనా భూభాగం పశ్చిమం వైపు విస్తరిస్తాడు."
+	},
+	{
+		"year": "-115",
+		"name_en": "Nubian Kingdom of Meroe Power (Africa)",
+		"name_te": "నూబియన్ మెరోయే రాజ్య శక్తి (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Meroë becomes the center of Nubian civilization; controls trade routes between Africa and Mediterranean.",
+		"desc_te": "మెరోయే నూబియన్ నాగరికత కేంద్రంగా మారుతుంది; ఆఫ్రికా, మధ్యసాగర్ మధ్య వాణిజ్య మార్గాలను నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-110",
+		"name_en": "Hindu Philosophy Development (India)",
+		"name_te": "హిందూ తత్వవేత్త అభివృద్ధి (భారత)",
+		"location": {
+			"lat": 25.3548,
+			"lng": 81.7664
+		},
+		"desc_en": "Hindu philosophical schools develop; Buddhism and Hinduism coexist and influence each other in India.",
+		"desc_te": "హిందూ తత్వవేత్త విధానాలు అభివృద్ధి చెందుతాయి; బౌద్ధమతం, హిందూమతం భారతదేశంలో సహజీవనం చేసి ఒకదానిపై ఒకటి ప్రభావం చూపుతాయి."
+	},
+	{
+		"year": "-105",
+		"name_en": "Teotihuacan Urban Expansion (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ నగర విస్తరణ (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan expands into largest city in Americas; becomes center of Mesoamerican culture and trade.",
+		"desc_te": "టియోటిహుయాకాన్ అమెరికాలో అతిపెద్ద నగరంగా విస్తరిస్తుంది; మెసోఅమెరికన్ సంస్కృతి, వాణిజ్య కేంద్రంగా మారుతుంది."
+	},
+	{
+		"year": "-100",
+		"name_en": "Roman Territorial Consolidation",
+		"name_te": "రోమన్ ప్రాంతీయ సమీకరణ",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Rome controls Mediterranean basin; establishes provinces across North Africa, Spain, Gaul, and Greece.",
+		"desc_te": "రోమ్ మధ్యసాగర్ బేసిన్‌ను నియంత్రిస్తుంది; ఉత్తర ఆఫ్రికా, స్పెయిన్, గాల్, గ్రీస్ అంతటా ప్రావిన్సులు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-100",
+		"name_en": "Egyptian-Nubian Trade Routes",
+		"name_te": "ఈజిప్టు-నూబియన్ వాణిజ్య మార్గాలు",
+		"location": {
+			"lat": 27.1767,
+			"lng": 34.5597
+		},
+		"desc_en": "Flourishing trade between Egypt and Nubia; exchange of goods, gold, and cultural influences.",
+		"desc_te": "ఈజిప్టు, నూబియా మధ్య సమృద్ధి వాణిజ్యం; వస్తువులు, బంగారం, సాంస్కృతిక ప్రభావ వినిమయం."
+	},
+	{
+		"year": "-100",
+		"name_en": "Aksumite Commercial Expansion (Africa)",
+		"name_te": "అక్సుమ్ వాణిజ్య విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "Aksumite Kingdom expands trade networks; becomes major commercial power in Red Sea region.",
+		"desc_te": "అక్సుమ్ రాజ్యం వాణిజ్య నెట్‌వర్క్‌లను విస్తరిస్తుంది; ఎర్ర సముద్ర ప్రాంతంలో ప్రధాన వాణిజ్య శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-95",
+		"name_en": "Gallic Wars & Celtic Resistance (Europe)",
+		"name_te": "గాలిక్ యుద్ధాలు, సెల్టిక్ ప్రతిఘటన (యూరోప్)",
+		"location": {
+			"lat": 46.6028,
+			"lng": 2.2137
+		},
+		"desc_en": "Roman expansion into Gaul; Celtic tribes resist Roman conquest with guerrilla warfare.",
+		"desc_te": "రోమన్ గాల్‌లో విస్తరణ; సెల్టిక్ గోత్రాలు గెరిల్లా యుద్ధంతో రోమన్ జయానికి ప్రతిఘటన చేస్తాయి."
+	},
+	{
+		"year": "-90",
+		"name_en": "Social War in Roman Republic (Rome)",
+		"name_te": "రోమన్ రిపబ్లిక్‌లో సామాజిక యుద్ధం (రోమ్)",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Italian allies revolt against Rome; conflict weakens Roman state but establishes citizen rights.",
+		"desc_te": "ఇటాలియన్ మిత్రులు రోమ్‌కు వ్యతిరేకంగా తిరుగుబాటు చేస్తారు; సంఘర్షణ రోమన్ రాష్ట్రాన్ని బలహీనం చేస్తుంది కాని పౌరుల అధికారాలను స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-85",
+		"name_en": "Mithridates VI Persian Wars",
+		"name_te": "మిథ్రిడేట్‌లు VI పర్షియన్ యుద్ధాలు",
+		"location": {
+			"lat": 40.764,
+			"lng": 35.4615
+		},
+		"desc_en": "Mithridates VI of Pontus challenges Roman power; major conflict in Anatolia and Eastern Mediterranean.",
+		"desc_te": "పోంటస్ యొక్క మిథ్రిడేట్‌లు VI రోమన్ శక్తికి సవాలు విసురుతారు; అనటోలియా, తూర్పు మధ్యసాగర్‌లో ప్రధాన సంఘర్షణ."
+	},
+	{
+		"year": "-80",
+		"name_en": "Satavahana Naval Trade Expansion (India)",
+		"name_te": "సాతవాహన సముద్ర వాణిజ్య విస్తరణ (భారత)",
+		"location": {
+			"lat": 18.5,
+			"lng": 77
+		},
+		"desc_en": "Satavahana kingdom reaches maritime peak; controls major sea routes to Southeast Asia and beyond.",
+		"desc_te": "సాతవాహన రాజ్యం సముద్ర శిఖరందకు చేరుకుంటుంది; తూర్పు-దక్షిణ ఆసియా, అంతకు అతీతమైన ప్రధాన సముద్ర మార్గాలను నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-75",
+		"name_en": "Third Mithridatic War (Mediterranean)",
+		"name_te": "మూడవ మిథ్రిడాటిక్ యుద్ధం (మధ్యసాగర్)",
+		"location": {
+			"lat": 39.1431,
+			"lng": 34.4004
+		},
+		"desc_en": "Pompey defeats Mithridates VI; Rome becomes dominant power in Mediterranean and Near East.",
+		"desc_te": "పోంపే మిథ్రిడేట్‌లు VI ను ఓడించుతాడు; మధ్యసాగర్, సమీప తూర్పులో రోమ్ ఆధిపత్య శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-70",
+		"name_en": "Pompey's Eastern Campaigns (Near East)",
+		"name_te": "పోంపే తూర్పు ప్రచారాలు (సమీప తూర్పు)",
+		"location": {
+			"lat": 35.5,
+			"lng": 36
+		},
+		"desc_en": "Pompey reorganizes eastern territories; Syria becomes Roman province, Judea becomes client state.",
+		"desc_te": "పోంపే తూర్పు భూభాగాలను పునర్నిర్మిస్తాడు; సిరియా రోమన్ ప్రావిన్సుగా, యూదేయ ক్లায়েంట్ రాష్ట్రంగా మారుతుంది."
+	},
+	{
+		"year": "-65",
+		"name_en": "Chola Naval Dominance Peaks (South India)",
+		"name_te": "చోల సముద్ర ఆధిపత్య శిఖరం (దక్షిణ భారత)",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "Chola navy reaches maximum expansion; controls Indian Ocean trade from Sri Lanka to Indonesia.",
+		"desc_te": "చోల నౌకసైన్యం గరిష్ఠ విస్తరణకు చేరుకుంటుంది; శ్రీలంక నుండి ఇండోనేషియా వరకు భారత మహాసాగర్ వాణిజ్యాన్ని నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-60",
+		"name_en": "First Triumvirate Formation (Rome)",
+		"name_te": "రోమన్‌లో మొదటి త్రిపక్ష ఒప్పందం (రోమ్)",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Caesar, Pompey, and Crassus form alliance; reshape Roman politics and begin conquest of Gaul.",
+		"desc_te": "సీజర్, పోంపే, క్రాసస్ సంజ్ఞ ఏర్పరుచుకుంటారు; రోమన్ రాజకీయతను పున్నర్నిర్మిస్తూ గాల్ జయం ప్రారంభిస్తారు."
+	},
+	{
+		"year": "-58",
+		"name_en": "Caesar's Conquest of Gaul (France)",
+		"name_te": "సీజర్ గాల్ జయం (ఫ్రాన్స్)",
+		"location": {
+			"lat": 46,
+			"lng": 2
+		},
+		"desc_en": "Julius Caesar conquers Gaul in a series of campaigns; subdues Celtic tribes and annexes territory to Rome.",
+		"desc_te": "జూలియస్ సీజర్ ప్రచారాల సిరిజ్‌లో గాల్‌ను జయించుతాడు; సెల్టిక్ గోత్రాలను అణచివేసి భూభాగం రోమ్‌కు జోడిస్తాడు."
+	},
+	{
+		"year": "-55",
+		"name_en": "Kushan Empire Expands (Central Asia)",
+		"name_te": "కుషాణ సామ్రాజ్య విస్తరణ (మధ్య ఆసియా)",
+		"location": {
+			"lat": 35,
+			"lng": 68
+		},
+		"desc_en": "Kushan dynasty expands from Central Asia; extends control to northwest India and spreads Buddhism.",
+		"desc_te": "కుషాణ రాజవంశం మధ్య ఆసియా నుండి విస్తరిస్తుంది; ఉత్తర-పశ్చిమ భారతకు నియంత్రణ విస్తరిస్తూ బౌద్ధమతం ప్రసారం చేస్తుంది."
+	},
+	{
+		"year": "-50",
+		"name_en": "Roman Civil Wars (Rome)",
+		"name_te": "రోమన్ సంపూర్ణ సంయుద్ధాలు (రోమ్)",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Caesar vs. Pompey; civil war destabilizes Rome but leads to emergence of Augustus as sole ruler.",
+		"desc_te": "సీజర్ vs. పోంపే; నాగరిక యుద్ధం రోమ్‌ను అస్థిరం చేసి కానీ అగస్టస్‌ను ఏకైక పాలకుడిగా ఉద్భవింపజేస్తుంది."
+	},
+	{
+		"year": "-49",
+		"name_en": "Battle of Pharsalus & Caesar's Victory",
+		"name_te": "ఫర్సలస్ యుద్ధం, సీజర్ విజయం",
+		"location": {
+			"lat": 39.2033,
+			"lng": 22.5103
+		},
+		"desc_en": "Caesar defeats Pompey at Pharsalus; becomes master of Rome and begins dictatorship.",
+		"desc_te": "సీజర్ ఫర్సలస్‌లో పోంపేను ఓడించుతాడు; రోమ్ యజమానిగా మారుతూ నిరంకుశ పాలన ప్రారంభిస్తాడు."
+	},
+	{
+		"year": "-45",
+		"name_en": "Octavian Consolidates Roman Power",
+		"name_te": "ఆక్టేవియన్ రోమన్ శక్తి సమీకరణ",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Caesar's adopted heir Octavian defeats rivals; becomes Augustus, first Roman Emperor.",
+		"desc_te": "సీజర్ యొక్క దత్తક వారసుడు ఆక్టేవియన్ ప్రత్యర్థులను ఓడించుతాడు; అగస్టస్‌గా మారుతూ మొదటి రోమన్ చక్రవర్తిగా నిలుస్తాడు."
+	},
+	{
+		"year": "-40",
+		"name_en": "Parthian-Roman Border Conflicts",
+		"name_te": "పార్థియన్-రోమన్ సరిహద్దు సంఘర్షణలు",
+		"location": {
+			"lat": 35,
+			"lng": 40
+		},
+		"desc_en": "Rome and Parthia clash over Mesopotamian territory; establishes balance of power in Near East.",
+		"desc_te": "రోమ్, పార్థియా మెసోపోటేమియన్ భూభాగానికి ఎదుర్కుంటాయి; సమీప తూర్పులో శక్తి సమతుల్యత స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-35",
+		"name_en": "Pandy-Chola Rivalry (South India)",
+		"name_te": "పాండియ-చోల ప్రత్యర్థితకం (దక్షిణ భారత)",
+		"location": {
+			"lat": 10,
+			"lng": 78
+		},
+		"desc_en": "Intense competition between Pandya and Chola kingdoms for trade dominance in southern India.",
+		"desc_te": "దక్షిణ భారతలో వాణిజ్య ఆధిపత్యం కోసం పాండియ, చోల సామ్రాజ్యాల మధ్య తీవ్ర పోటీ."
+	},
+	{
+		"year": "-30",
+		"name_en": "Cleopatra VII Reign (Egypt)",
+		"name_te": "క్లియోపాత్ర VII పాలన (ఈజిప్టు)",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Last Ptolemaic queen Cleopatra VII rules Egypt; forms alliance with Caesar and then Antony.",
+		"desc_te": "చివరి టాలెమీ రాణి క్లియోపాత్ర VII ఈజిప్టుని పాలిస్తుంది; సీజర్‌తో ఆపై అంటోనీతో సంజ్ఞ ఏర్పరుచుకుంటుంది."
+	},
+	{
+		"year": "-27",
+		"name_en": "Augustus Reign (Roman Emperor)",
+		"name_te": "అగస్టస్ పాలన (రోమన్ చక్రవర్తి)",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Augustus establishes Roman Empire; brings peace after civil wars, expands territory, reforms governance.",
+		"desc_te": "అగస్టస్ రోమన్ సామ్రాజ్యం స్థాపన చేస్తుంది; నాగరిక యుద్ధాల తర్వాత శాంతి తెస్తూ భూభాగం విస్తరిస్తూ పరిపాలన సంస్కరిస్తాడు."
+	},
+	{
+		"year": "-25",
+		"name_en": "Kushan Buddhist Expansion (India)",
+		"name_te": "కుషాణ బౌద్ధ విస్తరణ (భారత)",
+		"location": {
+			"lat": 33,
+			"lng": 72
+		},
+		"desc_en": "Kushan rulers become patrons of Buddhism; spread Buddhist culture across Silk Road routes.",
+		"desc_te": "కుషాణ పాలకులు బౌద్ధమతానికి పోషకులుగా మారుతారు; సిల్క్ రోడ్ మార్గాల్లో బౌద్ధ సంస్కృతిని ప్రసారం చేస్తారు."
+	},
+	{
+		"year": "-20",
+		"name_en": "Maya City-States Flourish (Mesoamerica)",
+		"name_te": "మాయా నగర-రాష్ట్రాల సమృద్ధి (మెసోఅమెరికా)",
+		"location": {
+			"lat": 16,
+			"lng": -89
+		},
+		"desc_en": "Maya civilization reaches classical period; complex societies, advanced mathematics, and astronomy.",
+		"desc_te": "మాయా నాగరికత శాస్త్రీయ కాలానికి చేరుకుంటుంది; సంక్లిష్ట సమాజాలు, అత్యాధునిక గణితం, ఖగోళ శాస్త్రం."
+	}
+]

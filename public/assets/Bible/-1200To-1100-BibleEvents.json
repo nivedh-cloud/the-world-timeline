@@ -1,0 +1,354 @@
+[
+	{
+		"year": "-1200",
+		"name_en": "Deborah and Barak Defeat Sisera",
+		"name_te": "దెబోరా, బారాకు సిసెరాపై విజయం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Deborah the prophetess and Barak defeat Sisera and the Canaanites (Judges 4-5)",
+		"desc_te": "దెబోరా ప్రవక్త, బారాకు కలిసి సిసెరా, కనానీయులను ఓడించారు (న్యాయాధిపతులు 4-5)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Song of Deborah",
+		"name_te": "దెబోరా గీతము",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "The Song of Deborah celebrates Israel's victory (Judges 5)",
+		"desc_te": "దెబోరా గీతము ఇశ్రాయేలు విజయాన్ని స్మరించుకుంటుంది (న్యాయాధిపతులు 5)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Gideon's Call and Victory over Midianites",
+		"name_te": "గిద్యోను పిలుపు, మిద్యానీయులపై విజయం",
+		"location": {
+			"lat": 32.6,
+			"lng": 35.3
+		},
+		"desc_en": "Gideon is called by God and defeats the Midianites with a small army (Judges 6-7)",
+		"desc_te": "గిద్యోను దేవునిచే పిలవబడి, చిన్న సైన్యంతో మిద్యానీయులను ఓడించాడు (న్యాయాధిపతులు 6-7)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Gideon Destroys the Altar of Baal",
+		"name_te": "గిద్యోను బాల్ బలి పీఠాన్ని ధ్వంసం చేయడం",
+		"location": {
+			"lat": 32.6,
+			"lng": 35.3
+		},
+		"desc_en": "Gideon destroys the altar of Baal, leading to religious reform (Judges 6:25-32)",
+		"desc_te": "గిద్యోను బాల్ బలి పీఠాన్ని ధ్వంసం చేసి, మత సంస్కరణకు దారితీశాడు (న్యాయాధిపతులు 6:25-32)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Gideon's 300 Chosen Men",
+		"name_te": "గిద్యోను 300 మంది ఎంపిక చేసినవారు",
+		"location": {
+			"lat": 32.6,
+			"lng": 35.3
+		},
+		"desc_en": "Gideon selects 300 men for the surprise attack on Midian (Judges 7:1-8)",
+		"desc_te": "గిద్యోను మిద్యానీయులపై ఆకస్మిక దాడికి 300 మందిని ఎంపిక చేశాడు (న్యాయాధిపతులు 7:1-8)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Abimelech's Kingship at Shechem",
+		"name_te": "అబీమెలెకు షెకెములో రాజుగా",
+		"location": {
+			"lat": 32.217,
+			"lng": 35.3
+		},
+		"desc_en": "Abimelech, son of Gideon, makes himself king at Shechem (Judges 9)",
+		"desc_te": "గిద్యోను కుమారుడు అబీమెలెకు షెకెములో తనను తాను రాజుగా ప్రకటించుకున్నాడు (న్యాయాధిపతులు 9)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Jotham's Parable of the Trees",
+		"name_te": "యోతాము చెట్ల ఉపమానం",
+		"location": {
+			"lat": 32.217,
+			"lng": 35.3
+		},
+		"desc_en": "Jotham, son of Gideon, delivers the parable of the trees as a warning (Judges 9:7-21)",
+		"desc_te": "గిద్యోను కుమారుడు యోతాము చెట్ల ఉపమానాన్ని హెచ్చరికగా చెప్పాడు (న్యాయాధిపతులు 9:7-21)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Tola Judges Israel",
+		"name_te": "తోలా ఇశ్రాయేలు న్యాయాధిపతి",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Tola judges Israel after Abimelech (Judges 10:1-2)",
+		"desc_te": "అబీమెలెకు తరువాత తోలా ఇశ్రాయేలు న్యాయాధిపతిగా ఉన్నాడు (న్యాయాధిపతులు 10:1-2)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Jair Judges Israel",
+		"name_te": "యాయిరు ఇశ్రాయేలు న్యాయాధిపతి",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Jair judges Israel for 22 years (Judges 10:3-5)",
+		"desc_te": "యాయిరు 22 సంవత్సరాలు ఇశ్రాయేలు న్యాయాధిపతిగా ఉన్నాడు (న్యాయాధిపతులు 10:3-5)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Jephthah's Vow and Victory over Ammonites",
+		"name_te": "యెఫ్తా ప్రమాణం, అమోనీయులపై విజయం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Jephthah defeats the Ammonites and fulfills his vow (Judges 11)",
+		"desc_te": "యెఫ్తా అమోనీయులను ఓడించి, తన ప్రమాణాన్ని నెరవేర్చాడు (న్యాయాధిపతులు 11)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Ibzan, Elon, and Abdon Judge Israel",
+		"name_te": "ఇబ్జాన్, ఏలోన్, అబ్దోను న్యాయాధిపతులు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Ibzan, Elon, and Abdon serve as judges in Israel (Judges 12:8-15)",
+		"desc_te": "ఇబ్జాన్, ఏలోన్, అబ్దోను ఇశ్రాయేలు న్యాయాధిపతులుగా ఉన్నారు (న్యాయాధిపతులు 12:8-15)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Oppression by Jabin, King of Canaan",
+		"name_te": "కనాను రాజు యాబీను దోపిడీ",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Jabin, king of Canaan, oppresses Israel before Deborah's leadership (Judges 4:1-3)",
+		"desc_te": "కనాను రాజు యాబీను దెబోరా నాయకత్వానికి ముందు ఇశ్రాయేలను దోపిడీ చేశాడు (న్యాయాధిపతులు 4:1-3)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Jael Kills Sisera",
+		"name_te": "యాయేలు సిసెరాను చంపడం",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Jael kills Sisera, the Canaanite general, ending the threat (Judges 4:17-22)",
+		"desc_te": "యాయేలు కనానీయుల సేనాధిపతి సిసెరాను చంపి, ప్రమాదాన్ని తొలగించింది (న్యాయాధిపతులు 4:17-22)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Gideon's Ephod at Ophrah",
+		"name_te": "గిద్యోను ఎఫోదు ఒఫ్రాలో",
+		"location": {
+			"lat": 32.6,
+			"lng": 35.3
+		},
+		"desc_en": "Gideon makes an ephod at Ophrah, which becomes a snare (Judges 8:27)",
+		"desc_te": "గిద్యోను ఒఫ్రాలో ఎఫోదును తయారు చేసి, అది ఇశ్రాయేలకు ఉక్కిరిబిక్కిరి చేసింది (న్యాయాధిపతులు 8:27)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Destruction of Shechem by Abimelech",
+		"name_te": "అబీమెలెకు షెకెమును ధ్వంసం చేయడం",
+		"location": {
+			"lat": 32.217,
+			"lng": 35.3
+		},
+		"desc_en": "Abimelech destroys Shechem after a revolt (Judges 9:22-57)",
+		"desc_te": "షెకెములో తిరుగుబాటు తరువాత అబీమెలెకు పట్టణాన్ని ధ్వంసం చేశాడు (న్యాయాధిపతులు 9:22-57)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Rise of Philistine Threat",
+		"name_te": "ఫిలిష్తీయుల ముప్పు ప్రారంభం",
+		"location": {
+			"lat": 31.8,
+			"lng": 34.8
+		},
+		"desc_en": "The Philistines begin to emerge as a major threat to Israel (Judges 10:7; 13:1)",
+		"desc_te": "ఫిలిష్తీయులు ఇశ్రాయేలకు ప్రధాన ముప్పుగా మారడం ప్రారంభమైంది (న్యాయాధిపతులు 10:7; 13:1)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Jephthah's Conflict with Ephraimites",
+		"name_te": "యెఫ్తా-ఎఫ్రాయిమీయుల మధ్య ఘర్షణ",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Jephthah defeats the Ephraimites after a dispute (Judges 12:1-7)",
+		"desc_te": "యెఫ్తా, ఎఫ్రాయిమీయుల మధ్య ఘర్షణలో యెఫ్తా విజయం సాధించాడు (న్యాయాధిపతులు 12:1-7)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Birth of Samson Foretold",
+		"name_te": "సంసోను జననం ముందుగా ప్రకటించబడింది",
+		"location": {
+			"lat": 31.8,
+			"lng": 34.8
+		},
+		"desc_en": "An angel foretells the birth of Samson, future judge of Israel (Judges 13:1-5)",
+		"desc_te": "దూత సంసోను జననాన్ని ముందుగా ప్రకటించాడు, అతడు భవిష్యత్తులో న్యాయాధిపతిగా మారాడు (న్యాయాధిపతులు 13:1-5)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Tribal Territories and Boundaries Defined",
+		"name_te": "గోత్రాల భూభాగాలు, సరిహద్దులు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Israelite tribal territories and boundaries are established and contested (Judges 1; Joshua 13-21)",
+		"desc_te": "ఇశ్రాయేలు గోత్రాల భూభాగాలు, సరిహద్దులు స్థిరపడ్డాయి, వివాదాలు జరిగాయి (న్యాయాధిపతులు 1; యెహోషువ 13-21)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Religious Apostasy and Cycles of Oppression",
+		"name_te": "మతపరమైన విపథనం, దోపిడీ చక్రాలు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Israel repeatedly falls into idolatry, leading to cycles of oppression and deliverance (Judges 2-3)",
+		"desc_te": "ఇశ్రాయేలు మళ్లీ మళ్లీ విగ్రహారాధనలో పడిపోతూ, దోపిడీ, విమోచన చక్రాలు ఎదుర్కొంది (న్యాయాధిపతులు 2-3)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Rise of Minor Judges: Ibzan, Elon, Abdon",
+		"name_te": "చిన్న న్యాయాధిపతులు: ఇబ్జాన్, ఏలోన్, అబ్దోను",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "Ibzan, Elon, and Abdon serve as minor judges, maintaining order (Judges 12:8-15)",
+		"desc_te": "ఇబ్జాన్, ఏలోన్, అబ్దోను చిన్న న్యాయాధిపతులుగా వ్యవహరించారు (న్యాయాధిపతులు 12:8-15)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Gilead as a Center of Leadership",
+		"name_te": "గిలెయాదు నాయకత్వ కేంద్రంగా",
+		"location": {
+			"lat": 32,
+			"lng": 35.7
+		},
+		"desc_en": "Gilead becomes a key region for leadership and judges (Judges 10-12)",
+		"desc_te": "గిలెయాదు ప్రాంతం నాయకత్వానికి, న్యాయాధిపతులకు కేంద్రంగా మారింది (న్యాయాధిపతులు 10-12)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Ammonite Oppression of Israel",
+		"name_te": "అమోనీయుల దోపిడీ",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "The Ammonites oppress Israel, leading to Jephthah's rise (Judges 10:7-18; 11:4-33)",
+		"desc_te": "అమోనీయులు ఇశ్రాయేలను దోపిడీ చేయగా, యెఫ్తా నాయకుడిగా ఎదిగాడు (న్యాయాధిపతులు 10:7-18; 11:4-33)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Levite and Concubine at Gibeah",
+		"name_te": "గిబియాలో లేవీయుడు, ఉపపత్ని ఘటన",
+		"location": {
+			"lat": 31.857,
+			"lng": 35.226
+		},
+		"desc_en": "The incident of the Levite and his concubine at Gibeah leads to inter-tribal war (Judges 19-21)",
+		"desc_te": "గిబియాలో లేవీయుడు, ఉపపత్ని ఘటన గోత్రాల మధ్య యుద్ధానికి దారితీసింది (న్యాయాధిపతులు 19-21)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Civil War against the Tribe of Benjamin",
+		"name_te": "బిన్యామీను గోత్రంపై అంతర్గోత్ర యుద్ధం",
+		"location": {
+			"lat": 31.857,
+			"lng": 35.226
+		},
+		"desc_en": "Israelite tribes wage civil war against Benjamin, nearly wiping it out (Judges 20-21)",
+		"desc_te": "ఇశ్రాయేలు గోత్రాలు బిన్యామీను గోత్రంపై అంతర్గోత్ర యుద్ధం చేసి, దాదాపు అంతరించిపోయేలా చేశాయి (న్యాయాధిపతులు 20-21)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Kenite Settlement in Israel",
+		"name_te": "కేనీయుల ఇశ్రాయేలు నివాసం",
+		"location": {
+			"lat": 31.5,
+			"lng": 34.75
+		},
+		"desc_en": "The Kenites, descendants of Hobab, settle among the Israelites (Judges 1:16; 4:11)",
+		"desc_te": "హోబాబు సంతతి కేనీయులు ఇశ్రాయేలు మధ్య నివసించారు (న్యాయాధిపతులు 1:16; 4:11)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Caleb and the Conquest of Hebron",
+		"name_te": "కాలేబు, హెబ్రోను స్వాధీనం",
+		"location": {
+			"lat": 31.532,
+			"lng": 35.095
+		},
+		"desc_en": "Caleb conquers Hebron and receives it as an inheritance (Judges 1:20)",
+		"desc_te": "కాలేబు హెబ్రోను పట్టణాన్ని స్వాధీనం చేసుకుని, తన వారసత్వంగా పొందాడు (న్యాయాధిపతులు 1:20)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Othniel: First Judge of Israel",
+		"name_te": "ఒత్నియేలు: మొదటి న్యాయాధిపతి",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.1
+		},
+		"desc_en": "Othniel, Caleb's nephew, delivers Israel from Cushan-Rishathaim (Judges 3:7-11)",
+		"desc_te": "కాలేబు మేనల్లుడు ఒత్నియేలు కూషాను-రిషాతయిమ్ నుండి ఇశ్రాయేలను విమోచించాడు (న్యాయాధిపతులు 3:7-11)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Ehud Delivers Israel from Moab",
+		"name_te": "ఎహూదు మోయాబు నుండి విమోచన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ehud kills Eglon, king of Moab, and delivers Israel (Judges 3:12-30)",
+		"desc_te": "ఎహూదు మోయాబు రాజు ఎగ్లోనును చంపి, ఇశ్రాయేలను విమోచించాడు (న్యాయాధిపతులు 3:12-30)"
+	},
+	{
+		"year": "-1200",
+		"name_en": "Shamgar Defeats the Philistines",
+		"name_te": "షామ్గారు ఫిలిష్తీయులను ఓడించడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 34.8
+		},
+		"desc_en": "Shamgar kills 600 Philistines with an oxgoad (Judges 3:31)",
+		"desc_te": "షామ్గారు ఎద్దు మోకాలి తోకతో 600 ఫిలిష్తీయులను చంపాడు (న్యాయాధిపతులు 3:31)"
+	},
+	{
+		"year": "-1150",
+		"name_en": "Rise of Ammonite Threat",
+		"name_te": "అమోనీయుల ముప్పు",
+		"location": {
+			"lat": 32.5,
+			"lng": 35.2
+		},
+		"desc_en": "The Ammonites become a significant threat to Israel (Judges 10:7-9)",
+		"desc_te": "అమోనీయులు ఇశ్రాయేలకు ప్రధాన ముప్పుగా మారారు (న్యాయాధిపతులు 10:7-9)"
+	},
+	{
+		"year": "-1120",
+		"name_en": "Gibeah as a Place of Notoriety",
+		"name_te": "గిబియా: అపఖ్యాతి ప్రదేశం",
+		"location": {
+			"lat": 31.857,
+			"lng": 35.226
+		},
+		"desc_en": "Gibeah becomes infamous due to the Levite's concubine incident (Judges 19-21)",
+		"desc_te": "లేవీయుని ఉపపత్ని ఘటన కారణంగా గిబియా అపఖ్యాతి పొందింది (న్యాయాధిపతులు 19-21)"
+	}
+]

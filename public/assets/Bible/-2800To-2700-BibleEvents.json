@@ -1,0 +1,211 @@
+[
+	{
+		"year": "-2800",
+		"name_en": "Genealogy from Adam to Lamech",
+		"name_te": "ఆదాము నుండి లామెకు వరకు వంశావళి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The genealogy from Adam to Lamech is recorded (Genesis 5:1-28)",
+		"desc_te": "ఆదాము నుండి లామెకు వరకు వంశావళి వివరించబడింది (ఆదికాండము 5:1-28)"
+	},
+	{
+		"year": "-2790",
+		"name_en": "Birth of Lamech",
+		"name_te": "లామెకు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Lamech is born to Methuselah (Genesis 5:25)",
+		"desc_te": "లామెకు మెతూసెలాకు జన్మించాడు (ఆదికాండము 5:25)"
+	},
+	{
+		"year": "-2780",
+		"name_en": "Birth of Methuselah",
+		"name_te": "మెతూసెలా జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Methuselah is born to Enoch (Genesis 5:21)",
+		"desc_te": "మెతూసెలా హోనోకు కుమారుడిగా జన్మించాడు (ఆదికాండము 5:21)"
+	},
+	{
+		"year": "-2770",
+		"name_en": "Birth of Enoch",
+		"name_te": "హోనోకు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Enoch is born to Jared (Genesis 5:18)",
+		"desc_te": "హోనోకు యారెదుకు జన్మించాడు (ఆదికాండము 5:18)"
+	},
+	{
+		"year": "-2760",
+		"name_en": "Enoch Walks with God",
+		"name_te": "హోనోకు దేవునితో నడిచాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Enoch walks with God and is taken by God (Genesis 5:22-24)",
+		"desc_te": "హోనోకు దేవునితో నడిచి దేవుడు అతన్ని తీసుకుపోయాడు (ఆదికాండము 5:22-24)"
+	},
+	{
+		"year": "-2750",
+		"name_en": "Birth of Jared",
+		"name_te": "యారెదు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Jared is born to Mahalalel (Genesis 5:15)",
+		"desc_te": "యారెదు మహలలేలు కుమారుడిగా జన్మించాడు (ఆదికాండము 5:15)"
+	},
+	{
+		"year": "-2740",
+		"name_en": "Birth of Mahalalel",
+		"name_te": "మహలలేలు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Mahalalel is born to Kenan (Genesis 5:12-13)",
+		"desc_te": "మహలలేలు కేనాను కుమారుడిగా జన్మించాడు (ఆదికాండము 5:12-13)"
+	},
+	{
+		"year": "-2730",
+		"name_en": "Birth of Kenan",
+		"name_te": "కేనాను జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Kenan is born to Enosh (Genesis 5:9)",
+		"desc_te": "కేనాను ఏనోషుకు కుమారుడిగా జన్మించాడు (ఆదికాండము 5:9)"
+	},
+	{
+		"year": "-2720",
+		"name_en": "Birth of Enosh",
+		"name_te": "ఏనోషు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Enosh is born to Seth (Genesis 5:6)",
+		"desc_te": "ఏనోషు శేతుకు కుమారుడిగా జన్మించాడు (ఆదికాండము 5:6)"
+	},
+	{
+		"year": "-2710",
+		"name_en": "Birth of Seth",
+		"name_te": "శేతు జననం",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Seth is born to Adam and Eve (Genesis 4:25, 5:3)",
+		"desc_te": "శేతు ఆదాము, హవకు కుమారుడిగా జన్మించాడు (ఆదికాండము 4:25, 5:3)"
+	},
+	{
+		"year": "-2785",
+		"name_en": "Rise of Early City-States in Mesopotamia",
+		"name_te": "మెసొపొటేమియాలో ప్రాథమిక నగర-రాజ్యాల ఉద్భవం",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Early city-states begin to form in Mesopotamia, setting the stage for later kingdoms.",
+		"desc_te": "మెసొపొటేమియాలో ప్రాథమిక నగర-రాజ్యాలు ఏర్పడటం ప్రారంభమయ్యాయి."
+	},
+	{
+		"year": "-2775",
+		"name_en": "Notable Descendants of Adam",
+		"name_te": "ఆదాము యొక్క ప్రముఖ సంతతి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The descendants of Adam, including Enoch and Methuselah, are highlighted in genealogies.",
+		"desc_te": "ఆదాము సంతతిలో హోనోకు, మెతూసెలా వంటి ప్రముఖులు వంశావళిలో ప్రస్తావించబడ్డారు."
+	},
+	{
+		"year": "-2765",
+		"name_en": "Enoch as a Prophet",
+		"name_te": "హోనోకు ప్రవక్తగా",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Enoch is recognized as a prophet who walked with God.",
+		"desc_te": "హోనోకు దేవునితో నడిచిన ప్రవక్తగా గుర్తించబడ్డాడు."
+	},
+	{
+		"year": "-2755",
+		"name_en": "Spread of Mankind after Adam",
+		"name_te": "ఆదాము తరువాత మానవ జాతి వ్యాప్తి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Humanity begins to spread and multiply after Adam's descendants.",
+		"desc_te": "ఆదాము సంతతివారితో మానవ జాతి వ్యాప్తి చెందడం ప్రారంభమైంది."
+	},
+	{
+		"year": "-2745",
+		"name_en": "Early Altars and Worship",
+		"name_te": "ప్రాథమిక బలిపీఠాలు మరియు ఆరాధన",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early mankind begins to call on the name of the Lord and establish worship.",
+		"desc_te": "ప్రాథమిక మానవులు యెహోవా నామాన్ని పిలిచి ఆరాధన ప్రారంభించారు."
+	},
+	{
+		"year": "-2735",
+		"name_en": "Development of Tools and Skills",
+		"name_te": "పరికరాలు మరియు నైపుణ్యాల అభివృద్ధి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The descendants of Cain develop tools, music, and skills.",
+		"desc_te": "కాయిను సంతతి పరికరాలు, సంగీతం, నైపుణ్యాలను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-2725",
+		"name_en": "First Mention of Prophets",
+		"name_te": "ప్రవక్తల ప్రథమ ప్రస్తావన",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Enoch is mentioned as a prophet who prophesied about judgment.",
+		"desc_te": "హోనోకు తీర్పు గురించి ప్రవచించిన ప్రవక్తగా ప్రస్తావించబడ్డాడు."
+	},
+	{
+		"year": "-2715",
+		"name_en": "Generations of Seth",
+		"name_te": "శేతు తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The generations of Seth are listed, showing the godly line.",
+		"desc_te": "శేతు తరాలు, భక్తి మార్గాన్ని చూపిస్తూ, వివరించబడ్డాయి."
+	},
+	{
+		"year": "-2705",
+		"name_en": "Preparation for the Flood Era",
+		"name_te": "ప్రళయ యుగానికి సిద్ధత",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The world continues to grow in population and wickedness, setting the stage for the coming flood.",
+		"desc_te": "ప్రపంచ జనాభా పెరిగి, దుష్టత పెరిగి, ప్రళయానికి పునాది పడింది."
+	}
+]

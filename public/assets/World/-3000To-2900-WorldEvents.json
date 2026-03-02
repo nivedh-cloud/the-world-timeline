@@ -1,0 +1,442 @@
+[
+	{
+		"year": "-3000",
+		"name_en": "Early Dynastic Period Mesopotamia",
+		"name_te": "ఎర్లీ డైనాస్టిక్ కాలం మెసొపొటేమియా",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Early Dynastic Period begins with Sumerian civilization flourishing.",
+		"desc_te": "ఎర్లీ డైనాస్టిక్ కాలం సుమేరియన్ నాగరికత వికసిస్తూ ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Sumerian City Civilization",
+		"name_te": "సుమేరియన్ నగర నాగరికత",
+		"location": {
+			"lat": 32.5,
+			"lng": 46.5
+		},
+		"desc_en": "Sumerian city civilization develops with Uruk as major center.",
+		"desc_te": "సుమేరియన్ నగర నాగరికత ఉరుక్ ప్రధాన కేంద్రంగా అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2960",
+		"name_en": "Cuneiform Script Invention",
+		"name_te": "చాపిత లిపి ఆవిష్కారం",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Cuneiform writing system invented for record-keeping.",
+		"desc_te": "చాపిత లిపి వ్యవస్థ రికార్డ్-భర్తపట్టుకోవడం కోసం ఆవిష్కరించబడుతుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Temple Authority System Mesopotamia",
+		"name_te": "ఆలయ అధికారం వ్యవస్థ మెసొపొటేమియా",
+		"location": {
+			"lat": 32.5,
+			"lng": 46
+		},
+		"desc_en": "Temple-based authority system establishes in city-states.",
+		"desc_te": "ఆలయ-ఆధారిత అధికారం వ్యవస్థ నగర-రాష్ట్రాలలో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Sumerian Literary Tradition",
+		"name_te": "సుమేరియన్ సాహిత్య సంప్రదాయ",
+		"location": {
+			"lat": 32,
+			"lng": 46
+		},
+		"desc_en": "Sumerian literary works record myths and regulations.",
+		"desc_te": "సుమేరియన్ సాహిత్య రచనలు పురాణాలు, నియమాలను రికార్డ్ చేస్తుంది."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Bronze Age Begins Near East",
+		"name_te": "కాంస్య యుగ ప్రారంభం సమీప తూర్పు",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Bronze Age begins transforming Near Eastern civilizations.",
+		"desc_te": "కాంస్య యుగ సమీప తూర్పు నాగరికతలను రూపాంతరం చేస్తూ ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Egyptian Old Kingdom Preparation",
+		"name_te": "ఈజిప్టు పురాతన రాజ్యం ప్రస్తుతీకరణ",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Egypt prepares for Old Kingdom with centralized authority.",
+		"desc_te": "ఈజిప్టు కేంద్రీకృత అధికారంతో పురాతన రాజ్యం కోసం ప్రస్తుతీకరణ చేస్తుంది."
+	},
+	{
+		"year": "-2960",
+		"name_en": "First Dynasty Egypt",
+		"name_te": "మొదటి వంశం ఈజిప్టు",
+		"location": {
+			"lat": 30.5,
+			"lng": 31
+		},
+		"desc_en": "First Dynasty of Egypt begins with unification.",
+		"desc_te": "ఈజిప్టు మొదటి వంశం ఐక్యతర్హితంతో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Egyptian Writing System",
+		"name_te": "ఈజిప్టు లిపి వ్యవస్థ",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Egyptian hieroglyphic writing system develops.",
+		"desc_te": "ఈజిప్టు సంకేత లిపి వ్యవస్థ అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Egyptian Administrative Systems",
+		"name_te": "ఈజిప్టు పరిపాలన వ్యవస్థలు",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Centralized administrative systems organize Egypt.",
+		"desc_te": "కేంద్రీకృత పరిపాలన వ్యవస్థలు ఈజిప్టుని సంస్థ చేస్తుంది."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Indus Civilization Foundation",
+		"name_te": "సిందువు నాగరికత ఆధారం",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley Civilization foundations begin.",
+		"desc_te": "సిందువు లోయ నాగరికత ఆధారాలు ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Indus Valley Proto-Urban",
+		"name_te": "సిందువు లోయ ప్రోటో-నగర",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Proto-urban settlements develop in Indus Valley.",
+		"desc_te": "ప్రోటో-నగర నిపటనాలు సిందువు లోయ అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2960",
+		"name_en": "Harappa Occupancy Begins",
+		"name_te": "హరప్ప నిష్క్రియ ప్రారంభం",
+		"location": {
+			"lat": 30.627,
+			"lng": 72.855
+		},
+		"desc_en": "Harappa site occupation begins.",
+		"desc_te": "హరప్ప సైట్ నిష్క్రియ ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Indus Valley Agriculture",
+		"name_te": "సిందువు లోయ వ్యవసాయ",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Agricultural practices establish in Indus Valley.",
+		"desc_te": "సిందువు లోయలో వ్యవసాయ అభ్యాసాలు స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Indus Valley Settlements Expand",
+		"name_te": "సిందువు లోయ నిపటనాలు విస్తరిస్తాయి",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley settlements expand in number and size.",
+		"desc_te": "సిందువు లోయ నిపటనాలు సంఖ్య, పరిమాణంలో విస్తరిస్తాయి."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Shang Dynasty Earliest Phase China",
+		"name_te": "శాంగ్ వంశ అతిప్రారంభ దశ చైనా",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Shang Dynasty foundations traditionally begin.",
+		"desc_te": "శాంగ్ వంశ ఆధారాలు సంప్రదాయ ప్రకారం ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Chinese Oracle Bones Begin",
+		"name_te": "చైనీస్ ఓరాకిల్ ఎముకలు ప్రారంభం",
+		"location": {
+			"lat": 34.5,
+			"lng": 108
+		},
+		"desc_en": "Oracle bone divination practices begin.",
+		"desc_te": "ఓరాకిల్ ఎముక విభజన అభ్యాసాలు ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2960",
+		"name_en": "Xia Dynasty Legendary Era",
+		"name_te": "జియా వంశ పురాణ్ యుగ",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia Dynasty legendary era in traditional accounts.",
+		"desc_te": "సంప్రదాయ ఖాతాలలో జియా వంశ పురాణ్ యుగ."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Ancient China Bronze Beginning",
+		"name_te": "పురాతన చైనా కాంస్య ప్రారంభం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Bronze working begins in ancient China.",
+		"desc_te": "పురాతన చైనాలో కాంస్య కాజిన ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Chinese Dynastic Principle",
+		"name_te": "చైనీస్ వంశ సూత్రం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Dynastic principle establishes in China.",
+		"desc_te": "వంశ సూత్రం చైనాలో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Early Minoan Bronze Age Crete",
+		"name_te": "ప్రారంభ మినోయన్ కాంస్య యుగ క్రీట్",
+		"location": {
+			"lat": 35.2,
+			"lng": 24.9
+		},
+		"desc_en": "Early Minoan Bronze Age begins on Crete.",
+		"desc_te": "ప్రారంభ మినోయన్ కాంస్య యుగ క్రీట్‌లో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Crete Maritime Trade",
+		"name_te": "క్రీట్ సముద్ర వాణిజ్యం",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Maritime trade connections develop from Crete.",
+		"desc_te": "క్రీట్ నుండి సముద్ర వాణిజ్య సంబంధాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2960",
+		"name_en": "Minoan Settlement Patterns",
+		"name_te": "మినోయన్ నిపటన నమూనాలు",
+		"location": {
+			"lat": 35.4,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan settlement patterns establish on Crete.",
+		"desc_te": "మినోయన్ నిపటన నమూనాలు క్రీట్‌లో స్థాపిత చేయబడుతుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Crete Population Growth",
+		"name_te": "క్రీట్ జనాభా వృద్ధి",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Population growth on Crete.",
+		"desc_te": "క్రీట్‌లో జనాభా వృద్ధి."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Early Minoan Culture",
+		"name_te": "ప్రారంభ మినోయన్ సంస్కృతి",
+		"location": {
+			"lat": 35.4,
+			"lng": 25
+		},
+		"desc_en": "Early Minoan culture flourishes.",
+		"desc_te": "ప్రారంభ మినోయన్ సంస్కృతి అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Proto-Helladic Greece",
+		"name_te": "ప్రోటో-హెలాడిక్ గ్రీస్",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Proto-Helladic period begins in Greece.",
+		"desc_te": "ప్రోటో-హెలాడిక్ కాలం గ్రీసులో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Greek Settlement Emergence",
+		"name_te": "గ్రీకు నిపటన ఆవిర్భావం",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Greek settlements emerge on mainland.",
+		"desc_te": "గ్రీకు నిపటనాలు ప్రధాన భూమిలో ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-2960",
+		"name_en": "Greek Bronze Age",
+		"name_te": "గ్రీకు కాంస్య యుగ",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Bronze Age arrives in Greece.",
+		"desc_te": "కాంస్య యుగ గ్రీసుకు చేరుకుంటుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Helladic Culture Formation",
+		"name_te": "హెలాడిక్ సంస్కృతి ఏర్పాటు",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Helladic culture forms in Greece.",
+		"desc_te": "గ్రీసులో హెలాడిక్ సంస్కృతి ఏర్పాటు చేస్తుంది."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Early Greek Communities",
+		"name_te": "ప్రారంభ గ్రీకు సమాజాలు",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Early Greek communities develop.",
+		"desc_te": "ప్రారంభ గ్రీకు సమాజాలు అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Neolithic Europe Transition",
+		"name_te": "నియోలిథిక్ యూరోప్ పరివర్తన",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Europe transitions from Neolithic to Bronze Age.",
+		"desc_te": "యూరోప్ నియోలిథిక్ నుండి కాంస్య యుగానికి పరివర్తన చేస్తుంది."
+	},
+	{
+		"year": "-2980",
+		"name_en": "European Settlement Expansion",
+		"name_te": "యూరోపియన్ నిపటన విస్తరణ",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "European settlements expand across regions.",
+		"desc_te": "యూరోపియన్ నిపటనాలు ప్రాంతాల్లో విస్తరిస్తాయి."
+	},
+	{
+		"year": "-2960",
+		"name_en": "European Bronze Introduction",
+		"name_te": "యూరోపియన్ కాంస్య ప్రవేశం",
+		"location": {
+			"lat": 48.5,
+			"lng": 16
+		},
+		"desc_en": "Bronze technology introduced to Europe.",
+		"desc_te": "కాంస్య సాంకేతికత యూరోపకు పరిచయం చేయబడుతుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "European Pastoralism Expansion",
+		"name_te": "యూరోపియన్ పశుపాలన విస్తరణ",
+		"location": {
+			"lat": 50,
+			"lng": 12
+		},
+		"desc_en": "Pastoral practices expand in Europe.",
+		"desc_te": "యూరోపులో పశుపాలన అభ్యాసాలు విస్తరిస్తాయి."
+	},
+	{
+		"year": "-2920",
+		"name_en": "European Cultural Diversity",
+		"name_te": "యూరోపియన్ సాంస్కృతిక వైవిధ్యం",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Cultural diversity emerges in Europe.",
+		"desc_te": "యూరోపులో సాంస్కృతిక వైవిధ్యం ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-3000",
+		"name_en": "Aboriginal Australia Establishment",
+		"name_te": "ఆదివాసీ ఆస్ట్రేలియా స్థాపన",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australian cultures well-established.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియన్ సంస్కృతులు బాగా స్థాపిత చేయబడతాయి."
+	},
+	{
+		"year": "-2980",
+		"name_en": "Aboriginal Art Traditions",
+		"name_te": "ఆదివాసీ కళా సంప్రదాయాలు",
+		"location": {
+			"lat": -12.8,
+			"lng": 132.5
+		},
+		"desc_en": "Aboriginal artistic traditions established.",
+		"desc_te": "ఆదివాసీ కళా సంప్రదాయాలు స్థాపిత చేయబడతాయి."
+	},
+	{
+		"year": "-2960",
+		"name_en": "Aboriginal Knowledge Systems",
+		"name_te": "ఆదివాసీ జ్ఞానం వ్యవస్థలు",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Aboriginal knowledge systems well-developed.",
+		"desc_te": "ఆదివాసీ జ్ఞానం వ్యవస్థలు బాగా అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2940",
+		"name_en": "Aboriginal Hunting Skills",
+		"name_te": "ఆదివాసీ వేటకాడటం నైపుణ్యాలు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal hunting skills highly developed.",
+		"desc_te": "ఆదివాసీ వేటకాడటం నైపుణ్యాలు చాలా అభివృద్ధిస్తుంది."
+	},
+	{
+		"year": "-2920",
+		"name_en": "Aboriginal Cultural Refinement",
+		"name_te": "ఆదివాసీ సాంస్కృతిక రూపకరణ",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal culture refined over millennia.",
+		"desc_te": "ఆదివాసీ సంస్కృతి సహస్రాబ్దుల నుండి రూపకరణ చేయబడతాయి."
+	}
+]

@@ -1,0 +1,222 @@
+[
+	{
+		"year": "1600",
+		"name_en": "Catholic Baroque and Religious Art",
+		"name_te": "కాథలిక్ బరోక్, ధార్మిక కళ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Catholic Counter-Reformation expresses theology through dramatic Baroque art and architecture.",
+		"desc_te": "కాథలిక్ ప్రతిసంస్కరణ నాటక బరోక్ కళ, నిర్మాణ ద్వారా దేవతాత్త్వం వ్యక్తం చేసిన విషయం."
+	},
+	{
+		"year": "1605",
+		"name_en": "King James Bible Published",
+		"name_te": "కింగ్ జేమ్‌స్ బైబిల్ ప్రచురణ",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "King James Bible becomes definitive Protestant scripture. Shapes English language and faith for centuries.",
+		"desc_te": "కింగ్ జేమ్‌స్ బైబిల్ నిర్ణయక ప్రొటెస్టాంట్ గ్రంధం కాబడిన విషయం. శతాబ్దాలకు ఇంగ్లీష్ భాష, విశ్వాస ఆకారం ఇస్తుంది."
+	},
+	{
+		"year": "1608",
+		"name_en": "Thirty Years War and Religion",
+		"name_te": "ముప్పై సంవత్సరాల యుద్ధం, ధర్మం",
+		"location": {
+			"lat": 50,
+			"lng": 14
+		},
+		"desc_en": "Thirty Years War devastates Central Europe. Religion and politics entangle in massive conflict.",
+		"desc_te": "ముప్పై సంవత్సరాల యుద్ధం మధ్య ఐరోపా తీవ్రంగా విధ్వంసం చేసిన విషయం. ధర్మం, రాజకీయాలు భారీ సంఘర్షణలో సమ్మిళితమైన విషయం."
+	},
+	{
+		"year": "1610",
+		"name_en": "Jesuit Missions in Americas",
+		"name_te": "అమెరికాలో జెసూట్ మిషన్‌లు",
+		"location": {
+			"lat": -15,
+			"lng": -60
+		},
+		"desc_en": "Jesuit missionaries establish reductions (communities) in South America. Convert native populations.",
+		"desc_te": "జెసూట్ మిషనరీలు దక్షిణ అమెరికాలో తగ్గింపులు (సమూహాలు) స్థాపన చేసిన విషయం. స్థానిక ప్రజలను మతాంతరం చేసిన విషయం."
+	},
+	{
+		"year": "1615",
+		"name_en": "Protestant Pietism Emerges",
+		"name_te": "ప్రొటెస్టాంట్ పియటిజం ఉద్భవిస్తుంది",
+		"location": {
+			"lat": 52.5,
+			"lng": 13.4
+		},
+		"desc_en": "Pietism emphasizes personal faith and spiritual experience over institutional religion.",
+		"desc_te": "పియటిజం సంస్థాపన ధర్మం కంటే ఖచ్చిత విశ్వాస, ఆధ్యాత్మిక అనుభవ నొక్కిన విషయం."
+	},
+	{
+		"year": "1620",
+		"name_en": "Pilgrim Fathers and America",
+		"name_te": "తీర్థయాత్రీ తండ్రులు, అమెరికా",
+		"location": {
+			"lat": 42,
+			"lng": -71
+		},
+		"desc_en": "Puritan Pilgrims establish Plymouth. Christian America begins with religious separatism.",
+		"desc_te": "ప్యూరిటన్ తీర్థయాత్రీలు ప్లిమౌత్ స్థాపన చేసిన విషయం. ధార్మిక విభజనిస్త్వంతో క్రీస్టియన్ అమెరికా ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1625",
+		"name_en": "Peace of Westphalia Approaches",
+		"name_te": "వెస్ట్‌ఫాలియా శాంతి సమీపిస్తుంది",
+		"location": {
+			"lat": 50,
+			"lng": 14
+		},
+		"desc_en": "Wars wind down. Religious tolerance begins replacing sectarian conflict in Europe.",
+		"desc_te": "యుద్ధాలు సమాప్తం కుదుటున్నాయి. ఐరోపాలో సంప్రదాయ సంఘర్షణ స్థానంలో ధార్మిక సహనీయత ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1630",
+		"name_en": "Massachusetts Bay Colony",
+		"name_te": "మసాచుసెట్‌స్ బే కాలనీ",
+		"location": {
+			"lat": 42.3,
+			"lng": -71
+		},
+		"desc_en": "Puritans establish Massachusetts Bay Colony. Christian commonwealth theology takes root in America.",
+		"desc_te": "ప్యూరితన్‌లు మసాచుసెట్‌స్ బే కాలనీ స్థాపన చేసిన విషయం. క్రీస్టియన్ సామ్రాజ్య దేవతాత్త్వం అమెరికాలో మూలం ఎత్తిన విషయం."
+	},
+	{
+		"year": "1635",
+		"name_en": "Religious Science Conflict",
+		"name_te": "ధార్మిక, జ్ఞానం సంఘర్షణ",
+		"location": {
+			"lat": 41.8,
+			"lng": 12.6
+		},
+		"desc_en": "Galileo conflicts with Catholic Church over science. Religion versus scientific discovery emerges.",
+		"desc_te": "గెలీలియో విజ్ఞానం గురించి కాథలిక్ చర్చతో సంఘర్షణ చేసిన విషయం. ధర్మం, విజ్ఞానాన్ని ఆవిష్కరణ ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1640",
+		"name_en": "English Civil War and Religion",
+		"name_te": "ఇంగ్లీష్ గృహయుద్ధం, ధర్మం",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "English Civil War pits Puritan Parliament against Anglican Crown. Religion drives political conflict.",
+		"desc_te": "ఇంగ్లీష్ గృహయుద్ధం ప్యూరిటన్ పార్లిమెంట్‌ను ఆంగ్లికన్ కిరీటం ఎదుర్కోసిన విషయం. ధర్మం రాజకీయ సంఘర్షణ ఉత్సాహపరచిన విషయం."
+	},
+	{
+		"year": "1645",
+		"name_en": "Peace of Westphalia (1648)",
+		"name_te": "వెస్ట్‌ఫాలియా శాంతి (1648)",
+		"location": {
+			"lat": 50.8,
+			"lng": 7.1
+		},
+		"desc_en": "Peace ends Thirty Years War. Religious pluralism accepted in principle across Europe.",
+		"desc_te": "శాంతి ముప్పై సంవత్సరాల యుద్ధం ముగించిన విషయం. ధార్మిక బహుత్వం సూత్రంగా ఐరోపా వ్యాపకంగా గుర్తించిన విషయం."
+	},
+	{
+		"year": "1650",
+		"name_en": "Quaker Movement Begins",
+		"name_te": "క్వేకర్ చలనం ప్రారంభం",
+		"location": {
+			"lat": 54,
+			"lng": -2
+		},
+		"desc_en": "George Fox founds Quaker movement emphasizing inner light and direct divine experience.",
+		"desc_te": "జార్జ్ ఫాక్స్ అంతర్గత కాశ్మీర, నేరుగా దేవుని అనుభవ నొక్కిన క్వేకర్ చలనం స్థాపన చేసిన విషయం."
+	},
+	{
+		"year": "1655",
+		"name_en": "Sabbatai Zvi Messianic Movement",
+		"name_te": "సబ్బటై జీవీ మెస్సియానిక్ చలనం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "False messiah movements shake Jewish and Christian communities. Excitement and disappointment.",
+		"desc_te": "తప్పుడు మెస్సియా చలనాలు యూదు, క్రీస్టియన్ సమూహాలను కంపించిన విషయం. ఉత్సాహం, నిరాశ."
+	},
+	{
+		"year": "1660",
+		"name_en": "Restoration and Anglicanism",
+		"name_te": "పున:స్థాపన, ఆంగ్లికానిజం",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "English Restoration restores Anglican church. Religious compromise continues in England.",
+		"desc_te": "ఇంగ్లీష్ పున:స్థాపన ఆంగ్లికన్ చర్చ పున:స్థాపన చేసిన విషయం. ఇంగ్లాండ్‌లో ధార్మిక రాజీనామా కొనసాగిన విషయం."
+	},
+	{
+		"year": "1665",
+		"name_en": "Louis XIV and Catholic France",
+		"name_te": "లూయిస్ XIV, కాథలిక్ ఫ్రాన్స్",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Louis XIV uses Catholic faith to legitimize absolute monarchy. Religion serves state power.",
+		"desc_te": "లూయిస్ XIV ఖచ్చిత రాచరణకు చట్టబద్ధత ఇవ్వటానికి కాథలిక్ విశ్వాసం ఉపయోగించిన విషయం. ధర్మం రాష్ట్ర శక్తికు సేవ చేసిన విషయం."
+	},
+	{
+		"year": "1670",
+		"name_en": "Descartes and Religious Philosophy",
+		"name_te": "డెస్‌కార్టెస్, ధార్మిక తత్వవేదం",
+		"location": {
+			"lat": 47.7,
+			"lng": 2.2
+		},
+		"desc_en": "Descartes develops philosophy reconciling faith and reason. Modern theology begins.",
+		"desc_te": "డెస్‌కార్టెస్ విశ్వాస, కారణం సమన్వయం చేసిన తత్వవేదం అభివృద్ధి చేసిన విషయం. ఆధుനిక దేవతాత్త్వం ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1675",
+		"name_en": "Christian Mysticism Revival",
+		"name_te": "క్రీస్టియన్ రహస్యవాదం పున:ప్రారంభం",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Quietism and mysticism emphasize contemplative prayer and union with divine.",
+		"desc_te": "నిశ్చలవాదం, రహస్యవాదం ధ్యానం, దేవుని ఐక్య నొక్కిన విషయం."
+	},
+	{
+		"year": "1680",
+		"name_en": "Glorious Revolution and Religion",
+		"name_te": "గ్లోరియస్ విప్లవం, ధర్మం",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "Glorious Revolution establishes religious liberty and limited monarchy in England.",
+		"desc_te": "గ్లోరియస్ విప్లవం ఇంగ్లాండ్‌లో ధార్మిక స్వేచ్ఛ, పరిమిత రాచరణ ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "1685",
+		"name_en": "Revocation of Edict of Nantes",
+		"name_te": "నాంటెస్ ఆజ్ఞ రద్దు",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Louis XIV revokes Edict of Nantes. French Huguenots persecuted, many flee France.",
+		"desc_te": "లూయిస్ XIV నాంటెస్ ఆజ్ఞ రద్దు చేసిన విషయం. ఫ్రెంచ్ హ్యూగోనట్‌లు వేధిస్తారు, చాలా మంది ఫ్రాన్స్ నుండి విమానమైన విషయం."
+	},
+	{
+		"year": "1690",
+		"name_en": "Enlightenment and Christianity",
+		"name_te": "జ్ఞానోదయం, క్రీస్టియానిటీ",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Enlightenment rationalism challenges religious authority. Deism offers alternative to orthodoxy.",
+		"desc_te": "జ్ఞానోదయ హేతువస్థానం ధార్మిక అధికారం సవాలు చేసిన విషయం. దేfreguववాదం ఆర్థోడాక్స్‌కు ప్రత్యామ్నాయం అందించిన విషయం."
+	}
+]

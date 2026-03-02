@@ -1,0 +1,552 @@
+[
+	{
+		"year": "1300",
+		"name_en": "Delhi Sultanate: Alauddin Khalji (India)",
+		"name_te": "ఢిల్లీ సుల్తానేట్: అలౌద్దీన్ ఖిల్జీ (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "Alauddin Khalji expands the Delhi Sultanate, reforms administration, and defends India from Mongol invasions.",
+		"desc_te": "అలౌద్దీన్ ఖిల్జీ ఢిల్లీ సుల్తానేట్‌ను విస్తరించి, పరిపాలనలో సంస్కరణలు చేసి, మంగోల్ దాడులను ఎదుర్కొన్నాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Hungary: Charles I (Europe)",
+		"name_te": "హంగేరీ రాజ్యం: చార్లెస్ I (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Charles I of Hungary restores royal authority and strengthens the kingdom in Central Europe.",
+		"desc_te": "చార్లెస్ I హంగేరీలో రాజశక్తిని పునరుద్ధరించి, మధ్య యూరోప్‌లో రాజ్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Morocco: Marinid Dynasty (Africa)",
+		"name_te": "మొరాకో రాజ్యం: మరినిడ్ వంశం (ఆఫ్రికా)",
+		"location": {
+			"lat": 34.0209,
+			"lng": -6.8416
+		},
+		"desc_en": "The Marinid Dynasty rules Morocco, making Fez a center of Islamic learning and culture.",
+		"desc_te": "మరినిడ్ వంశం మొరాకోను పాలించి, ఫెజ్‌ను ఇస్లామిక్ విద్య, సంస్కృతికి కేంద్రంగా మార్చింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Bohemia: Charles IV (Europe)",
+		"name_te": "బొహేమియా రాజ్యం: చార్లెస్ IV (యూరోప్)",
+		"location": {
+			"lat": 50.0755,
+			"lng": 14.4378
+		},
+		"desc_en": "Charles IV, King of Bohemia and Holy Roman Emperor, founds Charles University in Prague in 1348.",
+		"desc_te": "చార్లెస్ IV బొహేమియా రాజుగా, హోలీ రోమన్ఎంపెరర్‌గా, 1348లో ప్రాగ్‌లో చార్లెస్ విశ్వవిద్యాలయాన్ని స్థాపించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Mali: Ibn Battuta's Visit (Africa)",
+		"name_te": "మాలి రాజ్యం: ఇబ్న్ బత్తూతా సందర్శన (ఆఫ్రికా)",
+		"location": {
+			"lat": 12.6392,
+			"lng": -8.0029
+		},
+		"desc_en": "The famous traveler Ibn Battuta visits the Mali Empire in the 1350s, documenting its wealth and culture.",
+		"desc_te": "ప్రసిద్ధ ప్రయాణికుడు ఇబ్న్ బత్తూతా 1350లలో మాలి సామ్రాజ్యాన్ని సందర్శించి, దాని సంపద, సంస్కృతిని వర్ణించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Denmark: Valdemar IV (Europe)",
+		"name_te": "డెన్మార్క్ రాజ్యం: వాల్డెమార్ IV (యూరోప్)",
+		"location": {
+			"lat": 55.6761,
+			"lng": 12.5683
+		},
+		"desc_en": "Valdemar IV restores Danish power and unites the kingdom after a period of decline.",
+		"desc_te": "వాల్డెమార్ IV డెన్మార్క్‌ను పునరుద్ధరించి, పతనానంతరం రాజ్యాన్ని ఏకీకృతం చేశాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Sweden: Saint Bridget (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం: సెయింట్ బ్రిడ్జెట్ (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "Saint Bridget of Sweden, a Christian mystic and founder of the Bridgettine Order, influences European Christianity.",
+		"desc_te": "స్వీడన్‌కు చెందిన సెయింట్ బ్రిడ్జెట్ క్రైస్తవ మిస్టిక్‌గా, బ్రిడ్జెటైన్ ఆర్డర్ స్థాపకురాలిగా, యూరోపియన్ క్రైస్తవ మతాన్ని ప్రభావితం చేశారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Cambodia: Khmer Empire Declines (Asia)",
+		"name_te": "కంబోడియా రాజ్యం: ఖ్మేర్ సామ్రాజ్యం పతనం (ఆసియా)",
+		"location": {
+			"lat": 11.5449,
+			"lng": 104.8922
+		},
+		"desc_en": "The Khmer Empire in Cambodia declines, with Angkor being abandoned in the 15th century.",
+		"desc_te": "కంబోడియాలో ఖ్మేర్ సామ్రాజ్యం పతనమై, అంకోర్ 15వ శతాబ్దంలో విడిచిపెట్టబడింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Tonga: Tu'i Tonga Empire (Oceania)",
+		"name_te": "టోంగా రాజ్యం: టుఇ్ టోంగా సామ్రాజ్యం (ఓషేనియా)",
+		"location": {
+			"lat": -21.1789,
+			"lng": -175.1982
+		},
+		"desc_en": "The Tu'i Tonga Empire dominates much of Polynesia, connecting islands through trade and culture.",
+		"desc_te": "టుఇ్ టోంగా సామ్రాజ్యం పాలినీషియాలోని అనేక దీవులను వాణిజ్యం, సంస్కృతితో అనుసంధానించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Japan: Emperor Go-Daigo (Asia)",
+		"name_te": "జపాన్ రాజ్యం: గో-డైగో చక్రవర్తి (ఆసియా)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "Emperor Go-Daigo attempts to restore imperial rule in Japan, leading to the Nanboku-chō period.",
+		"desc_te": "గో-డైగో చక్రవర్తి జపాన్‌లో చక్రవర్తి పాలన పునరుద్ధరించేందుకు ప్రయత్నించి, నాన్బోకు-చో యుగానికి నాంది పలికాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Lithuania and Jogaila (Europe)",
+		"name_te": "లిథువేనియా రాజ్యం మరియు జోగైలా (యూరోప్)",
+		"location": {
+			"lat": 54.6872,
+			"lng": 25.2797
+		},
+		"desc_en": "Jogaila becomes Grand Duke of Lithuania and later King of Poland, leading to the Polish-Lithuanian union.",
+		"desc_te": "జోగైలా లిథువేనియా గ్రాండ్ డ్యూక్‌గా, తరువాత పోలాండ్ రాజుగా అవతరించి, పోలాండ్-లిథువేనియా యూనియన్‌కు నాంది పలికాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Serbia: Stefan Dušan (Europe)",
+		"name_te": "సెర్బియా రాజ్యం: స్టెఫాన్ దుశాన్ (యూరోప్)",
+		"location": {
+			"lat": 44.7866,
+			"lng": 20.4489
+		},
+		"desc_en": "Stefan Dušan expands the Serbian Empire, becoming one of the most powerful rulers in the Balkans.",
+		"desc_te": "స్టెఫాన్ దుశాన్ సెర్బియన్ సామ్రాజ్యాన్ని విస్తరించి, బాల్కన్‌లో శక్తివంతమైన పాలకుడిగా ఎదిగాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Naples: Robert the Wise (Europe)",
+		"name_te": "నేపుల్స్ రాజ్యం: రాబర్ట్ ది వైస్ (యూరోప్)",
+		"location": {
+			"lat": 40.8518,
+			"lng": 14.2681
+		},
+		"desc_en": "Robert the Wise rules Naples, fostering culture and stability in southern Italy.",
+		"desc_te": "రాబర్ట్ ది వైస్ నేపుల్స్‌ను పాలించి, దక్షిణ ఇటలీలో సంస్కృతి, స్థిరత్వాన్ని ప్రోత్సహించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Castile: Alfonso XI (Europe)",
+		"name_te": "కాస్టిల్ రాజ్యం: ఆల్ఫోన్సో XI (యూరోప్)",
+		"location": {
+			"lat": 40.4168,
+			"lng": -3.7038
+		},
+		"desc_en": "Alfonso XI of Castile strengthens the kingdom and wins the Battle of Río Salado against the Moors in 1340.",
+		"desc_te": "కాస్టిల్‌కు చెందిన ఆల్ఫోన్సో XI రాజ్యాన్ని బలోపేతం చేసి, 1340లో మూర్స్‌పై రియో సాలాడో యుద్ధంలో విజయం సాధించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Portugal: Afonso IV (Europe)",
+		"name_te": "పోర్చుగల్ రాజ్యం: ఆఫోన్సో IV (యూరోప్)",
+		"location": {
+			"lat": 38.7223,
+			"lng": -9.1393
+		},
+		"desc_en": "Afonso IV of Portugal strengthens the navy and participates in the Battle of Río Salado.",
+		"desc_te": "పోర్చుగల్‌కు చెందిన ఆఫోన్సో IV నౌకాదళాన్ని బలోపేతం చేసి, రియో సాలాడో యుద్ధంలో పాల్గొన్నారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Armenia: Leo V (Asia/Europe)",
+		"name_te": "ఆర్మేనియా రాజ్యం: లియో V (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 40.0691,
+			"lng": 45.0382
+		},
+		"desc_en": "Leo V is the last king of Cilician Armenia, marking the end of the Armenian kingdom in the region.",
+		"desc_te": "లియో V సిలిసియన్ ఆర్మేనియా చివరి రాజుగా, ఆ ప్రాంతంలో ఆర్మేనియా రాజ్యానికి ముగింపు పలికాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Norway: Margaret I and the Kalmar Union (Europe)",
+		"name_te": "నార్వే రాజ్యం: మార్గరెట్ I మరియు కల్మార్ యూనియన్ (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Margaret I unites Denmark, Norway, and Sweden under the Kalmar Union in 1397.",
+		"desc_te": "మార్గరెట్ I 1397లో డెన్మార్క్, నార్వే, స్వీడన్‌లను కల్మార్ యూనియన్ ద్వారా ఏకీకృతం చేశారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Korea: Goryeo Dynasty (Asia)",
+		"name_te": "కొరియా రాజ్యం: గోర్యో వంశం (ఆసియా)",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "The Goryeo Dynasty rules Korea, facing invasions from the Mongols and internal strife.",
+		"desc_te": "గోర్యో వంశం కొరియాను పాలించి, మంగోల్స్ దాడులు, అంతర్గత కలహాలను ఎదుర్కొంది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Hawaii: Early Polynesian Chiefs (Oceania)",
+		"name_te": "హవాయి రాజ్యం: ప్రాథమిక పాలినీషియన్ చీఫ్స్ (ఓషేనియా)",
+		"location": {
+			"lat": 21.3069,
+			"lng": -157.8583
+		},
+		"desc_en": "Early Polynesian chiefs establish powerful chiefdoms in the Hawaiian Islands.",
+		"desc_te": "ప్రాథమిక పాలినీషియన్ చీఫ్స్ హవాయి దీవుల్లో శక్తివంతమైన చీఫ్డమ్స్‌ను స్థాపించారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Mapuche Resists Inca Expansion (America/South America)",
+		"name_te": "మాపుచే రాజ్యం ఇంకా విస్తరణను ఎదుర్కొంది (అమెరికా/దక్షిణ అమెరికా)",
+		"location": {
+			"lat": -38.9516,
+			"lng": -72.4359
+		},
+		"desc_en": "The Mapuche people in South America resist Inca expansion, maintaining their independence.",
+		"desc_te": "దక్షిణ అమెరికాలో మాపుచే ప్రజలు ఇంకా సామ్రాజ్య విస్తరణను ఎదుర్కొని, స్వాతంత్ర్యాన్ని నిలుపుకున్నారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Scotland: Robert the Bruce (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: రాబర్ట్ ది బ్రూస్ (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "Robert the Bruce leads Scotland to independence from England, winning the Battle of Bannockburn in 1314.",
+		"desc_te": "రాబర్ట్ ది బ్రూస్ 1314లో బానోక్‌బర్న్ యుద్ధంలో విజయం సాధించి, స్కాట్లాండ్‌ను ఇంగ్లాండ్ నుండి స్వాతంత్ర్యం పొందించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Granada: Nasrid Dynasty (Europe)",
+		"name_te": "గ్రానడా రాజ్యం: నస్రిడ్ వంశం (యూరోప్)",
+		"location": {
+			"lat": 37.1773,
+			"lng": -3.5986
+		},
+		"desc_en": "The Nasrid Dynasty rules the Emirate of Granada, the last Muslim kingdom in Spain.",
+		"desc_te": "నస్రిడ్ వంశం స్పెయిన్‌లో చివరి ముస్లిం రాజ్యం అయిన గ్రానడా రాజ్యాన్ని పాలించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Majapahit at its Height (Asia/Indonesia)",
+		"name_te": "మజపాహిత్ సామ్రాజ్యం శిఖరస్థాయిలో (ఆసియా/ఇండోనేషియా)",
+		"location": {
+			"lat": -7.5361,
+			"lng": 112.2384
+		},
+		"desc_en": "The Majapahit Empire dominates maritime Southeast Asia, reaching its peak in the 14th century.",
+		"desc_te": "మజపాహిత్ సామ్రాజ్యం 14వ శతాబ్దంలో దక్షిణాసియా సముద్ర ప్రాంతాన్ని శాసించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Ava in Burma (Asia)",
+		"name_te": "బర్మాలో అవా రాజ్యం (ఆసియా)",
+		"location": {
+			"lat": 21.9596,
+			"lng": 96.0891
+		},
+		"desc_en": "The Kingdom of Ava rises as a major power in Burma (Myanmar) during the 14th century.",
+		"desc_te": "14వ శతాబ్దంలో బర్మాలో అవా రాజ్యం ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Christianity in Russia: Metropolitan Peter (Europe/Asia)",
+		"name_te": "రష్యాలో క్రైస్తవ మతం: మెట్రోపాలిటన్ పీటర్ (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 55.7558,
+			"lng": 37.6173
+		},
+		"desc_en": "Metropolitan Peter moves the seat of the Russian Orthodox Church to Moscow, strengthening Christianity in Russia.",
+		"desc_te": "మెట్రోపాలిటన్ పీటర్ రష్యన్ ఆర్థడాక్స్ చర్చ్‌ను మాస్కోకు మార్చి, రష్యాలో క్రైస్తవ మతాన్ని బలోపేతం చేశారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Benin Expands (Africa)",
+		"name_te": "బెనిన్ రాజ్యం విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 6.335,
+			"lng": 5.6037
+		},
+		"desc_en": "The Kingdom of Benin in West Africa expands its influence and is renowned for its art and trade.",
+		"desc_te": "పశ్చిమ ఆఫ్రికాలో బెనిన్ రాజ్యం తన ప్రభావాన్ని విస్తరించి, కళ, వాణిజ్యంలో ప్రసిద్ధి చెందింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Ayutthaya Founded (Asia/Thailand)",
+		"name_te": "అయుత్తయ రాజ్యం స్థాపన (ఆసియా/థాయిలాండ్)",
+		"location": {
+			"lat": 14.3532,
+			"lng": 100.5689
+		},
+		"desc_en": "The Kingdom of Ayutthaya is founded in 1351, becoming a dominant power in Southeast Asia.",
+		"desc_te": "1351లో అయుత్తయ రాజ్యం స్థాపించబడింది, ఇది దక్షిణాసియాలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Kongo Emerges (Africa)",
+		"name_te": "కాంగో రాజ్యం ఆవిర్భావం (ఆఫ్రికా)",
+		"location": {
+			"lat": -6.5742,
+			"lng": 15.2736
+		},
+		"desc_en": "The Kingdom of Kongo rises as a major power in Central Africa during the 14th century.",
+		"desc_te": "14వ శతాబ్దంలో కాంగో రాజ్యం మధ్య ఆఫ్రికాలో ప్రధాన శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of France: Philip VI (Europe)",
+		"name_te": "ఫ్రాన్స్ రాజ్యం: ఫిలిప్ VI (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Philip VI becomes King of France in 1328, leading the country into the Hundred Years' War.",
+		"desc_te": "ఫిలిప్ VI 1328లో ఫ్రాన్స్ రాజుగా అవతరించి, దేశాన్ని నూరు సంవత్సరాల యుద్ధంలోకి నడిపించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Poland: Casimir III the Great (Europe)",
+		"name_te": "పోలాండ్ రాజ్యం: కాసిమిర్ III ది గ్రేట్ (యూరోప్)",
+		"location": {
+			"lat": 52.2297,
+			"lng": 21.0122
+		},
+		"desc_en": "Casimir III the Great strengthens Poland, reforms administration, and founds the University of Krakow in 1364.",
+		"desc_te": "కాసిమిర్ III ది గ్రేట్ పాలనలో పోలాండ్ బలోపేతం చేయబడింది, పరిపాలనలో సంస్కరణలు, 1364లో క్రాకో విశ్వవిద్యాలయం స్థాపించబడింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Hungary: Louis I (Europe)",
+		"name_te": "హంగేరీ రాజ్యం: లూయిస్ I (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Louis I of Hungary expands the kingdom's influence in Central and Eastern Europe.",
+		"desc_te": "హంగేరీకి చెందిన లూయిస్ I మధ్య మరియు తూర్పు యూరోప్‌లో రాజ్యాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Armenia: Cilician Armenia (Asia/Europe)",
+		"name_te": "సిలిసియన్ ఆర్మేనియా రాజ్యం (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 37.5744,
+			"lng": 36.9371
+		},
+		"desc_en": "Cilician Armenia remains a Christian stronghold in the Near East during the 14th century.",
+		"desc_te": "14వ శతాబ్దంలో సిలిసియన్ ఆర్మేనియా నెయర్ ఈస్ట్‌లో క్రైస్తవ బలమైన కేంద్రంగా నిలిచింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Norway: Haakon V (Europe)",
+		"name_te": "నార్వే రాజ్యం: హాకోన్ V (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Haakon V rules Norway, moving the capital to Oslo and strengthening the monarchy.",
+		"desc_te": "హాకోన్ V నార్వేను పాలించి, రాజధానిని ఓస్లోకి మార్చి, రాజ్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Sweden: Magnus IV (Europe)",
+		"name_te": "స్వీడన్ రాజ్యం: మాగ్నస్ IV (యూరోప్)",
+		"location": {
+			"lat": 59.3293,
+			"lng": 18.0686
+		},
+		"desc_en": "Magnus IV rules Sweden and Norway, facing internal strife and external threats.",
+		"desc_te": "మాగ్నస్ IV స్వీడన్, నార్వేను పాలించి, అంతర్గత కలహాలు, బాహ్య ప్రమాదాలను ఎదుర్కొన్నాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of Georgia: George V (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యం: జార్జ్ V (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "George V the Brilliant restores the Kingdom of Georgia, bringing stability and prosperity.",
+		"desc_te": "జార్జ్ V ది బ్రిలియంట్ జార్జియా రాజ్యాన్ని పునరుద్ధరించి, స్థిరత్వం, శ్రేయస్సును తీసుకొచ్చాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Delhi Sultanate under Tughlaq Dynasty (India)",
+		"name_te": "టుగ్లక్ వంశం పాలనలో ఢిల్లీ సుల్తానేట్ (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "The Tughlaq dynasty rules the Delhi Sultanate, expanding its territory across much of the Indian subcontinent.",
+		"desc_te": "టుగ్లక్ వంశం ఢిల్లీ సుల్తానేట్‌ను పాలించి, భారత ఉపఖండంలో విస్తరించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Mansa Musa's Reign in Mali (Africa)",
+		"name_te": "మాన్సా మూసా పాలనలో మాలి సామ్రాజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 12.6392,
+			"lng": -8.0029
+		},
+		"desc_en": "Mansa Musa, emperor of Mali, is renowned for his wealth and pilgrimage to Mecca, making Mali a center of Islamic culture.",
+		"desc_te": "మాన్సా మూసా పాలనలో మాలి సామ్రాజ్యం సంపద, మక్కా యాత్ర, ఇస్లామిక్ సంస్కృతికి కేంద్రంగా ప్రసిద్ధి చెందింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Hundred Years' War Begins (Europe)",
+		"name_te": "నూరు సంవత్సరాల యుద్ధం ప్రారంభం (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "The Hundred Years' War between England and France begins in 1337, shaping medieval European politics.",
+		"desc_te": "1337లో ఇంగ్లాండ్-ఫ్రాన్స్ మధ్య నూరు సంవత్సరాల యుద్ధం ప్రారంభమై, యూరోప్ రాజకీయాలను ప్రభావితం చేసింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Black Death Plague (Europe/Asia)",
+		"name_te": "బ్లాక్ డెత్ ప్లేగ్ (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "The Black Death devastates Europe and Asia from 1347 to 1351, killing millions and altering societies.",
+		"desc_te": "1347-1351 మధ్య యూరోప్, ఆసియాలో బ్లాక్ డెత్ ప్లేగ్ లక్షల మందిని చంపి, సమాజాన్ని మార్చింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Rise of the Ottoman Empire (Europe/Asia)",
+		"name_te": "ఒట్టోమన్ సామ్రాజ్యం ఆవిర్భావం (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 40.7769,
+			"lng": 29.9481
+		},
+		"desc_en": "The Ottoman Empire emerges as a major power, capturing Bursa in 1326 and expanding into Europe and Asia.",
+		"desc_te": "ఒట్టోమన్ సామ్రాజ్యం 1326లో బుర్సాను ఆక్రమించి, యూరోప్, ఆసియాలో విస్తరించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Yuan Dynasty in China (Asia)",
+		"name_te": "చైనాలో యువాన్ వంశం (ఆసియా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "The Yuan Dynasty, established by Kublai Khan, rules China and promotes trade along the Silk Road.",
+		"desc_te": "కుబ్లాయ్ ఖాన్ స్థాపించిన యువాన్ వంశం చైనాను పాలించి, సిల్క్ రోడ్ వాణిజ్యాన్ని ప్రోత్సహించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Aztec Civilization Rises (America)",
+		"name_te": "అజ్టెక్ నాగరికత ఆవిర్భావం (అమెరికా)",
+		"location": {
+			"lat": 19.4326,
+			"lng": -99.1332
+		},
+		"desc_en": "The Aztec civilization begins to rise in central Mexico, founding Tenochtitlan in 1325.",
+		"desc_te": "1325లో టెనోచ్టిట్లాన్‌ను స్థాపించి, మధ్య మెక్సికోలో అజ్టెక్ నాగరికత ఆవిర్భవించింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Great Zimbabwe Flourishes (Africa)",
+		"name_te": "గ్రేట్ జింబాబ్వే అభివృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": -20.2675,
+			"lng": 30.9333
+		},
+		"desc_en": "Great Zimbabwe becomes a major center of trade and culture in Southern Africa.",
+		"desc_te": "దక్షిణ ఆఫ్రికాలో గ్రేట్ జింబాబ్వే వాణిజ్యం, సంస్కృతికి కేంద్రంగా అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Ming Dynasty Founded (China/Asia)",
+		"name_te": "మింగ్ వంశం స్థాపన (చైనా/ఆసియా)",
+		"location": {
+			"lat": 32.0603,
+			"lng": 118.7969
+		},
+		"desc_en": "The Ming Dynasty is founded in 1368, restoring Han Chinese rule and beginning a new era of prosperity.",
+		"desc_te": "1368లో మింగ్ వంశం స్థాపించబడింది, హాన్ చైనీస్ పాలన పునరుద్ధరించబడింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Timur (Tamerlane) Rises in Central Asia",
+		"name_te": "మధ్య ఆసియాలో తిమూర్ (తామర్లేన్) ఆవిర్భావం",
+		"location": {
+			"lat": 39.6542,
+			"lng": 66.9597
+		},
+		"desc_en": "Timur, also known as Tamerlane, rises as a conqueror in Central Asia, founding the Timurid Empire.",
+		"desc_te": "తిమూర్ (తామర్లేన్) మధ్య ఆసియాలో విజేతగా ఎదిగి, తిమురిడ్ సామ్రాజ్యాన్ని స్థాపించాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Kingdom of England: Edward III (Europe)",
+		"name_te": "ఇంగ్లాండ్ రాజ్యం: ఎడ్వర్డ్ III (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Edward III rules England, initiating the Hundred Years' War and strengthening the monarchy.",
+		"desc_te": "ఎడ్వర్డ్ III ఇంగ్లాండ్‌ను పాలించి, నూరు సంవత్సరాల యుద్ధాన్ని ప్రారంభించి, రాజ్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Rise of the Vijayanagara Empire (India)",
+		"name_te": "విజయనగర సామ్రాజ్యం ఆవిర్భావం (భారతదేశం)",
+		"location": {
+			"lat": 15.335,
+			"lng": 76.462
+		},
+		"desc_en": "The Vijayanagara Empire is founded in South India in 1336, becoming a major Hindu kingdom.",
+		"desc_te": "1336లో దక్షిణ భారతదేశంలో విజయనగర సామ్రాజ్యం స్థాపించబడింది, ఇది ప్రధాన హిందూ రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Christianity in Ethiopia (Africa)",
+		"name_te": "ఇథియోపియాలో క్రైస్తవ మతం (ఆఫ్రికా)",
+		"location": {
+			"lat": 9.03,
+			"lng": 38.74
+		},
+		"desc_en": "Christianity continues to flourish in Ethiopia, one of the world's oldest Christian kingdoms.",
+		"desc_te": "ప్రపంచంలోనే పురాతన క్రైస్తవ రాజ్యాల్లో ఒకటైన ఇథియోపియాలో క్రైస్తవ మతం అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "1300",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	},
+	{
+		"year": "1300",
+		"name_en": "Ashikaga Shogunate in Japan (Asia)",
+		"name_te": "జపాన్‌లో అషికాగ శోగునేట్ (ఆసియా)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "The Ashikaga Shogunate is established in Japan, beginning the Muromachi period.",
+		"desc_te": "జపాన్‌లో అషికాగ శోగునేట్ స్థాపించబడింది, మురోమాచీ యుగానికి నాంది పలికింది."
+	}
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "jesus_ministry_01",
+    "name_tel": "క్రిస్తయోధ",
+    "name_eng": "Jordan River",
+    "coords": [32.0, 35.5],
+    "description": "Jesus is baptized by John the Baptist. Beginning of public ministry.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_ministry_02",
+    "name_tel": "నజరేతు",
+    "name_eng": "Nazareth",
+    "coords": [32.700, 35.303],
+    "description": "Jesus preaches in the synagogue and is rejected by his hometown people.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_ministry_03",
+    "name_tel": "కపర్‌నాయూమ్",
+    "name_eng": "Capernaum",
+    "coords": [32.881, 35.573],
+    "description": "Jesus makes Capernaum his base for ministry in Galilee. Many healings and miracles occur here.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_ministry_04",
+    "name_tel": "గెనిసరేతు సరస్సు",
+    "name_eng": "Sea of Galilee",
+    "coords": [32.8, 35.5],
+    "description": "Jesus walks on water, calms the storm, teaches from boats. Calls disciples to be fishers of men.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_ministry_05",
+    "name_tel": "చెకెము",
+    "name_eng": "Shechem",
+    "coords": [32.214, 35.281],
+    "description": "Jesus meets the Samaritan woman at the well. Ministry to Samaria.",
+    "isMajorStop": false
+  },
+  {
+    "id": "jesus_ministry_06",
+    "name_tel": "కానా",
+    "name_eng": "Cana",
+    "coords": [32.810, 35.312],
+    "description": "Jesus performs his first miracle, turning water into wine at a wedding.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_ministry_07",
+    "name_tel": "బేతెసదా",
+    "name_eng": "Bethesda",
+    "coords": [31.768, 35.214],
+    "description": "Jesus heals a lame man at the Pool of Bethesda on the Sabbath in Jerusalem.",
+    "isMajorStop": false
+  },
+  {
+    "id": "jesus_ministry_08",
+    "name_tel": "పరిసియుల భూమి",
+    "name_eng": "Regions of Tyre and Sidon",
+    "coords": [33.272, 35.125],
+    "description": "Jesus ministers beyond the Jewish borders to Gentile regions. Heals daughter of Canaanite woman.",
+    "isMajorStop": true
+  }
+]

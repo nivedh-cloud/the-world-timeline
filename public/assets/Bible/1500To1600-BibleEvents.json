@@ -1,0 +1,255 @@
+[
+	{
+		"year": "1500",
+		"name_en": "Renaissance Pope Alexander VI",
+		"name_te": "పునరుజ్జీవనం పోప్ అలెక్జాండర్ VI",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Alexander VI symbolizes corruption. Renaissance pope lacks spiritual authority. Reformation criticism intensifies.",
+		"desc_te": "పోప్ అలెక్జాండర్ VI భ్రష్టత సూచిస్తుంది. పునరుజ్జీవనం పోప్ ఆధ్యాత్మిక అధికారం లేనివాడు. సంస్కరణ విమర్శ తీవ్రమవుతుంది."
+	},
+	{
+		"year": "1503",
+		"name_en": "Julius II and Papal Power",
+		"name_te": "జూలియస్ II, పాపల్ శక్తి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Julius II wields military power. Commissions St. Peter's Basilica construction. Church militarization criticized.",
+		"desc_te": "పోప్ జూలియస్ II సైన్య శక్తి ఉపయోగించిన విషయం. సెయింట్ పీటర్ బాసిలికా నిర్మాణం ఆదేశించిన విషయం. చర్చ సైన్యీకరణ విమర్శన చేయబడిన విషయం."
+	},
+	{
+		"year": "1505",
+		"name_en": "Martin Luther's Early Years",
+		"name_te": "మార్టిన్ లూథర్ ప్రారంభ సంవత్సరాలు",
+		"location": {
+			"lat": 51.9,
+			"lng": 10.3
+		},
+		"desc_en": "Martin Luther becomes Augustinian monk. Wrestling with grace and faith begins theological journey.",
+		"desc_te": "మార్టిన్ లూథర్ ఆగస్టినియన్ సన్న్యాసి కాబడిన విషయం. దయ, విశ్వాస గురించి సంఘర్షణ దేవతాత్త్వ యాత్ర ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1510",
+		"name_en": "Luther Studies Scripture",
+		"name_te": "లూథర్ గ్రంధ అధ్యయనం",
+		"location": {
+			"lat": 51.9,
+			"lng": 10.3
+		},
+		"desc_en": "Luther intensely studies Bible and theology. Questions church teachings on salvation and grace.",
+		"desc_te": "లూథర్ బైబిల్, దేవతాత్త్వ తీవ్రంగా అధ్యయనం చేసిన విషయం. విముక్తి, దయ గురించి చర్చ బోధనలను ప్రశ్నించిన విషయం."
+	},
+	{
+		"year": "1515",
+		"name_en": "Indulgence Crisis Brews",
+		"name_te": "క్షమాపన సంకట చేవిరవుతుంది",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Church aggressively sells indulgences to finance St. Peter's. Luther's anger grows at church corruption.",
+		"desc_te": "చర్చ సెయింట్ పీటర్‌కు నిధులుకు ఆక్రమణాత్మకంగా క్షమాపనలు విక్రయించిన విషయం. లూథర్ చర్చ భ్రష్టత ఆగ్రహం పెరిగిన విషయం."
+	},
+	{
+		"year": "1517",
+		"name_en": "95 Theses and Reformation Begins",
+		"name_te": "95 థీసిస్, సంస్కరణ ప్రారంభం",
+		"location": {
+			"lat": 51.9,
+			"lng": 10.3
+		},
+		"desc_en": "Luther posts 95 Theses challenging indulgence theology. Reformation officially begins. Church authority challenged.",
+		"desc_te": "లూథర్ క్షమాపన దేవతాత్త్వ సవాలు చేసిన 95 థీసిస్ ప్రసారం చేసిన విషయం. సంస్కరణ అధికారికంగా ప్రారంభమైన విషయం. చర్చ అధికారం సవాలు చేయబడిన విషయం."
+	},
+	{
+		"year": "1520",
+		"name_en": "Luther Excommunicated",
+		"name_te": "లూథర్ భ్రష్టీకృతుడు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Leo X excommunicates Martin Luther. Church-state relationship tested. Reformation gains momentum.",
+		"desc_te": "పోప్ లీओ X మార్టిన్ లూథర్‌కు భ్రష్టీకరణ చేసిన విషయం. చర్చ-రాష్ట్ర సంబంధం పరీక్ష చేయబడిన విషయం. సంస్కరణ వేగం చేరిన విషయం."
+	},
+	{
+		"year": "1522",
+		"name_en": "Luther's German Bible",
+		"name_te": "లూథర్ జర్మన్ బైబిల్",
+		"location": {
+			"lat": 51.9,
+			"lng": 10.3
+		},
+		"desc_en": "Luther translates Bible into German. Vernacular scripture reaches common people. Church authority undermined.",
+		"desc_te": "లూథర్ బైబిల్‌ను జర్మన్‌కు అనువదించిన విషయం. స్థానిక గ్రంధ సాధారణ ప్రజలకు చేరిన విషయం. చర్చ అధికారం బలహీనమైన విషయం."
+	},
+	{
+		"year": "1524",
+		"name_en": "Peasant Wars and Reformation",
+		"name_te": "రైతు యుద్ధాలు, సంస్కరణ",
+		"location": {
+			"lat": 48.5,
+			"lng": 9
+		},
+		"desc_en": "Peasant Wars in Germany. Reformation's radical social implications become apparent.",
+		"desc_te": "జర్మానీలో రైతు యుద్ధాలు. సంస్కరణ యొక్క రాడికల్ సామాజిక ప్రభావాలు స్పష్టమైన విషయం."
+	},
+	{
+		"year": "1528",
+		"name_en": "Zwingli and Swiss Reformation",
+		"name_te": "జ్వింగ్లీ, స్విస్ సంస్కరణ",
+		"location": {
+			"lat": 47.4,
+			"lng": 8.5
+		},
+		"desc_en": "Ulrich Zwingli leads Reformed movement in Switzerland. Protestant alternatives to Luther emerge.",
+		"desc_te": "ఉల్రిచ్ జ్వింగ్లీ స్విజర్‌ల్యాండ్‌లో సంస్కారిత చలనం నాయకత్వం ఇచ్చిన విషయం. లూథర్‌కు ప్రొటెస్టాంట్ ప్రత్యామ్నాయాలు ఉద్భవిస్తాయి."
+	},
+	{
+		"year": "1534",
+		"name_en": "Henry VIII and English Reformation",
+		"name_te": "హెన్రీ VIII, ఇంగ్లీష్ సంస్కరణ",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "Henry VIII breaks with Rome. England becomes Protestant. Church authority fragmented globally.",
+		"desc_te": "హెన్రీ VIII రోమ్ నుండి విచ్ఛిన్నమైన విషయం. ఇంగ్లాండ్ ప్రొటెస్టాంట్ కాబడిన విషయం. చర్చ అధికారం ప్రపంచవ్యాపకంగా విభజితమైన విషయం."
+	},
+	{
+		"year": "1536",
+		"name_en": "Calvin's Institutes Published",
+		"name_te": "కాల్విన్ సంస్థానుల ప్రచురణ",
+		"location": {
+			"lat": 46.2,
+			"lng": 6.1
+		},
+		"desc_en": "John Calvin publishes Institutes of Christian Religion. Reformed theology becomes major Protestant tradition.",
+		"desc_te": "జాన్ కాల్విన్ క్రీస్టియన్ ధర్మ సంస్థానుల ప్రచురణ చేసిన విషయం. సంస్కారిత దేవతాత్త్వం ప్రధాన ప్రొటెస్టాంట్ సంప్రదాయ కాబడిన విషయం."
+	},
+	{
+		"year": "1540",
+		"name_en": "Jesuit Order Founded",
+		"name_te": "జెసూట్ క్రమం స్థాపన",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Ignatius of Loyola founds Jesuit order. Counter-Reformation strengthens Catholic church response.",
+		"desc_te": "ఇగ్నేషియస్ లోయోలా జెసూట్ క్రమం స్థాపన చేసిన విషయం. ప్రతిసంస్కరణ కాథలిక్ చర్చ ప్రతిస్పందన దృఢపరిచిన విషయం."
+	},
+	{
+		"year": "1545",
+		"name_en": "Council of Trent",
+		"name_te": "ట్రెంట్ సమావేశం",
+		"location": {
+			"lat": 46.06,
+			"lng": 11.12
+		},
+		"desc_en": "Council of Trent defines Catholic orthodoxy. Counter-Reformation responds to Protestant challenges.",
+		"desc_te": "ట్రెంట్ సమావేశం కాథలిక్ ఆర్థోడాక్స్‌ను నిర్వచనం చేసిన విషయం. ప్రతిసంస్కరణ ప్రొటెస్టాంట్ సవాళ్లకు ప్రతిస్పందించిన విషయం."
+	},
+	{
+		"year": "1550",
+		"name_en": "Religious Wars in Europe",
+		"name_te": "ఐరోపాలో ధార్మిక యుద్ధాలు",
+		"location": {
+			"lat": 48.5,
+			"lng": 2.5
+		},
+		"desc_en": "Protestant-Catholic wars erupt across Europe. Religion becomes justification for political conflict.",
+		"desc_te": "ప్రొటెస్టాంట్-కాథలిక్ యుద్ధాలు ఐరోపా వ్యాపకంగా విస్ఫోటనం చేసిన విషయం. ధర్మం రాజకీయ సంఘర్షణకు సమర్థన కాబడిన విషయం."
+	},
+	{
+		"year": "1555",
+		"name_en": "Peace of Augsburg",
+		"name_te": "ఆగ్‌స్‌బర్గ్ శాంతి",
+		"location": {
+			"lat": 48.36,
+			"lng": 10.9
+		},
+		"desc_en": "Peace of Augsburg allows Protestant and Catholic territories. Religious pluralism recognized officially.",
+		"desc_te": "ఆగ్‌స్‌బర్గ్ శాంతి ప్రొటెస్టాంట్, కాథలిక్ భూభాగాలను అనుమతించిన విషయం. ధార్మిక బహుత్వం అధికారికంగా గుర్తించిన విషయం."
+	},
+	{
+		"year": "1560",
+		"name_en": "Calvinism in Scotland and France",
+		"name_te": "స్కాటిష్‌, ఫ్రాన్స్‌లో కాల్వినిజం",
+		"location": {
+			"lat": 56,
+			"lng": -4
+		},
+		"desc_en": "Calvin's theology spreads beyond Switzerland. Protestant reform becomes international movement.",
+		"desc_te": "కాల్విన్ దేవతాత్త్వం స్విజర్‌ల్యాండ్ ఆవల వ్యాపిస్తుంది. ప్రొటెస్టాంట్ సంస్కరణ అంతర్జాతీయ చలనం కాబడిన విషయం."
+	},
+	{
+		"year": "1565",
+		"name_en": "Saint Bartholomew's Day Massacre",
+		"name_te": "సెయింట్ బర్థోలోమ్యూ రోజు ఘోరకांडం",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "French Catholics massacre Huguenot Protestants. Religious violence escalates in Europe.",
+		"desc_te": "ఫ్రెంచ్ కాథలిక్‌లు హ్యూగోనట్ ప్రొటెస్టాంట్‌లను ఘోరకాండం చేసిన విషయం. ఐరోపాలో ధార్మిక హింస తీవ్రమవుతుంది."
+	},
+	{
+		"year": "1570",
+		"name_en": "Elizabethan Religious Settlement",
+		"name_te": "ఎలిజాబెధన్ ధార్మిక పరిష్కారం",
+		"location": {
+			"lat": 51.5,
+			"lng": -0.1
+		},
+		"desc_en": "England establishes via media between Catholicism and Protestantism. Religious compromise emerges.",
+		"desc_te": "ఇంగ్లాండ్ కాథలిక్నిజం, ప్రొటెస్టాంటిజం మధ్య మధ్య మార్గం ఏర్పాటు చేసిన విషయం. ధార్మిక రాజీనామా ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1575",
+		"name_en": "Spanish Armada and Religion",
+		"name_te": "స్పానిష్ ఆర్మాడా, ధర్మం",
+		"location": {
+			"lat": 50.5,
+			"lng": -4
+		},
+		"desc_en": "Spanish Armada attempts invasion of Protestant England. Religion fuels international conflict.",
+		"desc_te": "స్పానిష్ ఆర్మాడా ప్రొటెస్టాంట్ ఇంగ్లాండ్ ఆక్రమణ ప్రయత్నించిన విషయం. ధర్మం అంతర్జాతీయ సంఘర్షణను ఉత్సాహపరచిన విషయం."
+	},
+	{
+		"year": "1580",
+		"name_en": "Catholic Reformation Matures",
+		"name_te": "కాథలిక్ సంస్కరణ పరిణతి చెరిన విషయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Counter-Reformation consolidates Catholic response to Protestantism. Christianity permanently divided.",
+		"desc_te": "ప్రతిసంస్కరణ ప్రొటెస్టాంటిజానికి కాథలిక్ ప్రతిస్పందన సమీకృతం చేసిన విషయం. క్రీస్టియానిటీ శాశ్వతంగా విభజితమైన విషయం."
+	},
+	{
+		"year": "1585",
+		"name_en": "Missionary Expansion to Americas",
+		"name_te": "అమెరికాకు మిషనరీ విస్తరణ",
+		"location": {
+			"lat": -15,
+			"lng": -60
+		},
+		"desc_en": "Catholic and Protestant missionaries compete in New World. Religion drives colonial expansion.",
+		"desc_te": "కాథలిక్, ప్రొటెస్టాంట్ మిషనరీలు నవీన ప్రపంచంలో పోటీ చేసిన విషయం. ధర్మం సంధ్రాంత విస్తరణ ఉత్సాహపరచిన విషయం."
+	},
+	{
+		"year": "1590",
+		"name_en": "Christian Europe Transformed",
+		"name_te": "క్రీస్టియన్ ఐరోపా రూపాంతరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "By 1600, Christianity reshaped by Reformation. Multiple denominations, sustained conflicts, global impact.",
+		"desc_te": "1600 నాటికి, క్రీస్టియానిటీ సంస్కరణ ద్వారా పున:రూపకల్పన చేయబడిన విషయం. బహుళ సంప్రదాయాలు, నిలిచిన సంఘర్షణలు, ప్రపంచ ప్రభావం."
+	}
+]

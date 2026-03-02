@@ -1,0 +1,706 @@
+[
+	{
+		"year": "-700",
+		"name_en": "Early Mahajanapadas Form (India)",
+		"name_te": "ప్రారంభ మహాజనపదాల ఏర్పాట్లు (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "The earliest Mahajanapadas (great kingdoms) begin to form in northern India, setting the stage for later political developments.",
+		"desc_te": "భారతదేశం ఉత్తర భాగంలో ప్రారంభ మహాజనపదాలు ఏర్పడటం ప్రారంభమయ్యాయి, తదుపరి రాజకీయ పరిణామాలకు పునాది వేశాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Prasenajit of Kosala (India)",
+		"name_te": "కోసల రాజు ప్రసేనజిత్ (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 82.2
+		},
+		"desc_en": "Prasenajit, king of Kosala, is a prominent ruler in northern India during this period.",
+		"desc_te": "ఈ కాలంలో ఉత్తర భారతదేశంలో ప్రసిద్ధి చెందిన కోసల రాజు ప్రసేనజిత్."
+	},
+	{
+		"year": "-700",
+		"name_en": "Assyrian Empire Dominates Near East",
+		"name_te": "అస్సిరియన్ సామ్రాజ్యం ఆధిపత్యం (నియర్ ఈస్ట్)",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "The Neo-Assyrian Empire is the dominant power in the Near East, known for its military campaigns and administration.",
+		"desc_te": "నియో-అస్సిరియన్ సామ్రాజ్యం నియర్ ఈస్ట్‌లో ఆధిపత్యం చెలాయించింది, సైనిక యాత్రలు, పరిపాలనకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Sennacherib of Assyria",
+		"name_te": "అస్సిరియా రాజు సెన్నాచెరిబ్",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Sennacherib, king of Assyria, is known for his campaigns against Babylon and Judah.",
+		"desc_te": "అస్సిరియా రాజు సెన్నాచెరిబ్ బాబెలోను, యూదాపై యుద్ధాలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Hezekiah of Judah (Israel)",
+		"name_te": "యూదా రాజు హిజ్కియా (ఇజ్రాయెల్)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hezekiah, king of Judah, is noted for his religious reforms and resistance to Assyrian invasion.",
+		"desc_te": "యూదా రాజు హిజ్కియా మత సంస్కరణలు, అస్సిరియన్ దాడికి ప్రతిఘటనకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-700",
+		"name_en": "Greek City-States Develop (Europe)",
+		"name_te": "గ్రీకు నగర-రాజ్యాల అభివృద్ధి (యూరోప్)",
+		"location": {
+			"lat": 37.9,
+			"lng": 23.7
+		},
+		"desc_en": "Greek city-states such as Athens, Sparta, and Corinth develop, laying the foundation for classical Greek civilization.",
+		"desc_te": "అథెన్స్, స్పార్టా, కొరింథ్ వంటి గ్రీకు నగర-రాజ్యాలు అభివృద్ధి చెందాయి, క్లాసికల్ గ్రీకు నాగరికతకు పునాది వేశాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "Homeric Epics Circulated (Greece)",
+		"name_te": "హోమెరిక్ కావ్యాలు ప్రచారం (గ్రీస్)",
+		"location": {
+			"lat": 37.6,
+			"lng": 22.8
+		},
+		"desc_en": "The Iliad and the Odyssey, attributed to Homer, are widely circulated and shape Greek culture.",
+		"desc_te": "హోమర్ రచించిన ఇలియడ్, ఒడిస్సీ కావ్యాలు విస్తృతంగా ప్రచారం పొందాయి, గ్రీకు సంస్కృతిని ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "Etruscan Civilization in Italy",
+		"name_te": "ఇటలీలో ఎట్రస్కన్ నాగరికత",
+		"location": {
+			"lat": 43,
+			"lng": 12.5
+		},
+		"desc_en": "Etruscan civilization flourishes in central Italy, influencing Roman culture.",
+		"desc_te": "ఎట్రస్కన్ నాగరికత మధ్య ఇటలీలో అభివృద్ధి చెందింది, రోమన్ సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Kingdom of Urartu (Armenia/Turkey)",
+		"name_te": "ఉరార్టు రాజ్యం (ఆర్మేనియా/టర్కీ)",
+		"location": {
+			"lat": 39.5,
+			"lng": 44
+		},
+		"desc_en": "The Kingdom of Urartu is a major power in the Armenian Highlands.",
+		"desc_te": "ఆర్మేనియన్ పర్వత ప్రాంతంలో ఉరార్టు రాజ్యం ప్రధాన శక్తిగా ఉంది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Kingdom of Kush (Africa)",
+		"name_te": "కుష్ రాజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "The Kingdom of Kush in Nubia is a major power in northeast Africa.",
+		"desc_te": "న్యూబియాలో కుష్ రాజ్యం ఈశాన్య ఆఫ్రికాలో ప్రధాన శక్తిగా ఉంది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Olmec Civilization (Mesoamerica)",
+		"name_te": "ఒల్మెక్ నాగరికత (మెసోఅమెరికా)",
+		"location": {
+			"lat": 18,
+			"lng": -94
+		},
+		"desc_en": "The Olmec civilization continues to develop in Mesoamerica, influencing later cultures.",
+		"desc_te": "మెసోఅమెరికాలో ఒల్మెక్ నాగరికత అభివృద్ధి చెందింది, తరువాతి సంస్కృతులపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Jomon Culture (Japan)",
+		"name_te": "జోమోన్ సంస్కృతి (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Jomon people continue to develop pottery and hunter-gatherer culture in Japan.",
+		"desc_te": "జపాన్‌లో జోమోన్ ప్రజలు కుండలు, వేటగాళ్ల సంస్కృతిని అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Aboriginal Cultures (Australia)",
+		"name_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultures thrive across Australia, developing unique traditions.",
+		"desc_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు అభివృద్ధి చెందాయి, ప్రత్యేక సంప్రదాయాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Ashur-dan III of Assyria",
+		"name_te": "అస్సిరియా రాజు అషూర్-దాన్ III",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Ashur-dan III rules Assyria during a period of internal strife and external threats.",
+		"desc_te": "అషూర్-దాన్ III అస్సిరియాను అంతర్గత కలహాలు, బాహ్య ప్రమాదాల సమయంలో పాలించాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Prophet Isaiah (Israel)",
+		"name_te": "ప్రవక్త యెషయా (ఇజ్రాయెల్)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Isaiah, a major Hebrew prophet, is active in Judah, delivering prophecies and guidance.",
+		"desc_te": "యెషయా, ప్రముఖ హెబ్రూ ప్రవక్త, యూదాలో ప్రవచనాలు, మార్గదర్శకత్వం అందించాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Gyges of Lydia (Asia Minor)",
+		"name_te": "లిడియా రాజు గైగెస్ (ఆసియా మైనర్)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Gyges, founder of the Mermnad dynasty, rules Lydia and expands its territory.",
+		"desc_te": "గైగెస్, మర్మ్నాడ్ వంశ స్థాపకుడు, లిడియాను పాలించి దాని ప్రాంతాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Piye of Kush (Africa)",
+		"name_te": "కుష్ రాజు పియే (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Piye, king of Kush, conquers Egypt and unites the Nile Valley.",
+		"desc_te": "కుష్ రాజు పియే ఈజిప్టును జయించి నైల్ లోయను ఏకీకృతం చేశాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Chavin Culture (Peru)",
+		"name_te": "చావిన్ సంస్కృతి (పెరూ)",
+		"location": {
+			"lat": -9.6,
+			"lng": -77.2
+		},
+		"desc_en": "The Chavin culture flourishes in the Andes, influencing later Andean civilizations.",
+		"desc_te": "ఆండీస్‌లో చావిన్ సంస్కృతి అభివృద్ధి చెందింది, తరువాతి ఆండియన్ నాగరికతలను ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Hallstatt Culture (Central Europe)",
+		"name_te": "హాల్స్టాట్ సంస్కృతి (మధ్య యూరోప్)",
+		"location": {
+			"lat": 47.6,
+			"lng": 13.6
+		},
+		"desc_en": "The Hallstatt culture, an early Iron Age culture, dominates Central Europe.",
+		"desc_te": "హాల్స్టాట్ సంస్కృతి, ప్రాథమిక ఇనుప యుగ సంస్కృతి, మధ్య యూరోప్‌లో ఆధిపత్యం చెలాయించింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Kingdom of D'mt (Eritrea/Ethiopia)",
+		"name_te": "డి'ఎమ్'టి రాజ్యం (ఎరిట్రియా/ఇథియోపియా)",
+		"location": {
+			"lat": 15.3,
+			"lng": 38.9
+		},
+		"desc_en": "The Kingdom of D'mt flourishes in the Horn of Africa, precursor to later Ethiopian civilizations.",
+		"desc_te": "హార్న్ ఆఫ్ ఆఫ్రికాలో డి'ఎమ్'టి రాజ్యం అభివృద్ధి చెందింది, ఇది తరువాతి ఇథియోపియన్ నాగరికతలకు పునాది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Jade Carving in China",
+		"name_te": "చైనాలో జేడ్ చెక్కడం",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Jade carving becomes highly developed in China, symbolizing status and spirituality.",
+		"desc_te": "చైనాలో జేడ్ చెక్కడం అత్యంత అభివృద్ధి చెందింది, ఇది స్థితి, ఆధ్యాత్మికతకు సంకేతంగా మారింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "King Ashurnasirpal II of Assyria",
+		"name_te": "అస్సిరియా రాజు అష్చూర్నసిర్‌పాల్ II",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Ashurnasirpal II expands Assyrian empire through military campaigns in Mesopotamia and surrounding regions, establishing strong administrative networks.",
+		"desc_te": "అష్చూర్నసిర్‌పాల్ II మెసోపొటేమియా, చుట్టుపక్క ప్రాంతాలలో సైనిక ప్రచారాల ద్వారా అస్సిరియన్ సామ్రాజ్యాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "-700",
+		"name_en": "Iron Working Spreads in India",
+		"name_te": "భారతదేశంలో ఇనుప కార్యక్రమ విస్తృతమవుతుంది",
+		"location": {
+			"lat": 23.5,
+			"lng": 85
+		},
+		"desc_en": "Iron working technology spreads across northern India, enabling better tools and weapons for the growing Mahajanapadas kingdoms.",
+		"desc_te": "ఇనుప కార్యక్రమ సాంకేతికత ఉత్తర భారతదేశంలో విస్తరించింది, వృద్ధిశీల మహాజనపద రాజ్యాలకు మెరుసుకున్న సాధనాలు, ఆయుధాలను అందించింది."
+	},
+	{
+		"year": "-700",
+		"name_en": "Scythian Warriors Dominate Central Asia",
+		"name_te": "స్కిథియన్ యోధులు మధ్య ఆసియా ఆధిపత్యం",
+		"location": {
+			"lat": 48,
+			"lng": 70
+		},
+		"desc_en": "Nomadic Scythian warriors expand their control over Central Asian steppes, creating trade routes and cultural exchange networks.",
+		"desc_te": "చర్య క్షేత్ర స్కిథియన్ యోధులు మధ్య ఆసియా తృణ భూమిపై తమ నియంత్రణ విస్తరించారు, వాణిజ్య మార్గాలు, సాంస్కృతిక వినిమయ నెట్‌వర్కులను సృష్టించారు."
+	},
+	{
+		"year": "-690",
+		"name_en": "King Sargon II of Assyria Captures Israel",
+		"name_te": "అస్సిరియా రాజు సార్గాన్ II ఇజ్రాయెల్‌ను ఆక్రమించడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Sargon II defeats Israel and conquers the northern kingdom, deporting thousands of Israelites in the Assyrian diaspora.",
+		"desc_te": "సార్గాన్ II ఇజ్రాయెల్‌ను ఓడించి ఉత్తర రాజ్యాన్ని జయించాడు, వేలమంది ఇజ్రాయెలీలను అస్సిరియన్ చెదరిపోయిన జనసంఖ్యకు చేరుకున్నాడు."
+	},
+	{
+		"year": "-690",
+		"name_en": "Spring and Autumn Period Begins (China)",
+		"name_te": "చైనాలో వసంత-శరద్ కాలం ప్రారంభం",
+		"location": {
+			"lat": 35,
+			"lng": 115
+		},
+		"desc_en": "China enters the Spring and Autumn period, marked by the fragmentation of Zhou Dynasty authority and rise of independent states.",
+		"desc_te": "చైనా వసంత-శరద్ కాలంలోకి ప్రవేశించింది, ఇది జౌ రాజవంశ అధికారం విఘ్నం, స్వతంత్ర రాష్ట్రాల ఆగమనతో గుర్తించబడింది."
+	},
+	{
+		"year": "-690",
+		"name_en": "Archaic Greek Period Pottery",
+		"name_te": "ఆర్కైక్ గ్రీకు కాలం కుండలు",
+		"location": {
+			"lat": 37.9,
+			"lng": 23.7
+		},
+		"desc_en": "Greek city-states develop distinct pottery styles, with black-figure technique dominating artistic expression in Athens and Corinth.",
+		"desc_te": "గ్రీకు నగర-రాజ్యాలు విభిన్న కుండల శైలులను అభివృద్ధి చేశాయి, నల్ల-పటం సాంకేతికత అథెన్స్, కొరింథ్‌లో కళాత్మక వ్యక్తీకరణ ఆధిపత్యం చెలాయించింది."
+	},
+	{
+		"year": "-690",
+		"name_en": "Nok Culture Emerges (Nigeria)",
+		"name_te": "నోక్ సంస్కృతి ఆవిర్భావం (నైజీరియా)",
+		"location": {
+			"lat": 10,
+			"lng": 8.5
+		},
+		"desc_en": "The Nok culture emerges in central Nigeria, known for terracotta figurines and early iron working technology.",
+		"desc_te": "మధ్య నైజీరియాలో నోక్ సంస్కృతి ఆవిర్భవించింది, మట్టి పట్టిక, ప్రారంభ ఇనుప కార్యక్రమ సాంకేతికతకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-680",
+		"name_en": "King Sennacherib Constructs Nineveh Palace",
+		"name_te": "రాజు సెన్నాచెరిబ్ నినెవె రాజభవనం నిర్మాణం",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Sennacherib constructs the magnificent palace at Nineveh with elaborate gardens and advanced water engineering systems.",
+		"desc_te": "సెన్నాచెరిబ్ నినెవెలో ఘనమైన రాజభవనం నిర్మించాడు, విస్తృత తోటలు, అధునాతన నీటి ఇంజనీరింగ్ వ్యవస్థలతో."
+	},
+	{
+		"year": "-680",
+		"name_en": "Mahajanapada Wars (North India)",
+		"name_te": "మహాజనపద యుద్ధాలు (ఉత్తర భారత)",
+		"location": {
+			"lat": 26,
+			"lng": 85
+		},
+		"desc_en": "Multiple Mahajanapada kingdoms clash over territorial expansion, establishing Magadha as emerging military power under King Bimbisara's policies.",
+		"desc_te": "చెందిన మహాజనపద రాజ్యాలు ప్రాంతీయ విస్తరణ కోసం ఢీకొట్టాయి, రాజు బింబిసారचु విధానాల ఆధారంగా మగధాన్ని ఆవిష్కృత సైనిక శక్తిగా స్థాపించారు."
+	},
+	{
+		"year": "-680",
+		"name_en": "Etruscan Expansion in Italy",
+		"name_te": "ఇటలీలో ఎట్రస్కన్ విస్తరణ",
+		"location": {
+			"lat": 43,
+			"lng": 12.5
+		},
+		"desc_en": "Etruscan civilization expands throughout central Italy, establishing trading networks and cultural influence over emerging Latin settlements.",
+		"desc_te": "ఎట్రస్కన్ నాగరికత మధ్య ఇటలీ చుట్టూ విస్తరించింది, వాణిజ్య నెట్‌వర్కులు, ఉదీయమాన లాటిన్ సెట్‌లమెంట్‌లపై సాంస్కృతిక ప్రభావం స్థాపించారు."
+	},
+	{
+		"year": "-680",
+		"name_en": "Oracle of Delphi Established (Greece)",
+		"name_te": "డెల్ఫీ ఓరాకిల్ స్థాపనა (గ్రీస్)",
+		"location": {
+			"lat": 38.48,
+			"lng": 22.5
+		},
+		"desc_en": "The Oracle of Delphi gains prominence, becoming the most important religious center in ancient Greece and influencing political decisions.",
+		"desc_te": "డెల్ఫీ ఓరాకిల్ ప్రాముఖ్యతను పొందింది, పురాతన గ్రీస్‌లో అత్యంత ముఖ్యమైన మతపరమైన కేంద్రంగా మారింది, రాజకీయ నిర్ణయాలను ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-680",
+		"name_en": "Zapotec Civilization Develops (Mexico)",
+		"name_te": "జపోటెక్ నాగరికత అభివృద్ధి (మెక్సికో)",
+		"location": {
+			"lat": 16.9,
+			"lng": -96.7
+		},
+		"desc_en": "The Zapotec civilization begins to develop in the Oaxaca Valley, creating a writing system and establishing agricultural settlements.",
+		"desc_te": "జపోటెక్ నాగరికత ఓక్సాకా లోయలో అభివృద్ధి చేయడం ప్రారంభించింది, రచన వ్యవస్థ సృష్టించి, వ్యవసాయ సెట్‌లమెంట్‌లను స్థాపించింది."
+	},
+	{
+		"year": "-670",
+		"name_en": "King Esarhaddon of Assyria Conquers Egypt",
+		"name_te": "అస్సిరియా రాజు ఎసర్‌హదన్ ఈజిప్టును జయించడం",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Esarhaddon expands Assyrian empire to its greatest extent, conquering Egypt and establishing military supremacy across the known world.",
+		"desc_te": "ఎసర్‌హదన్ అస్సిరియన్ సామ్రాజ్యాన్ని దాని గొప్ప విస్తృతిలోకి విస్తరించాడు, ఈజిప్టును జయించి తెలిసిన ప్రపంచ జुड్ను సైనిక గణన ప్రతిపాదించాడు."
+	},
+	{
+		"year": "-670",
+		"name_en": "Library of Ashurbanipal (Mesopotamia)",
+		"name_te": "అశూర్బనిపాల్ పాఠాগారం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Ashurbanipal compiles the first great library at Nineveh, preserving thousands of cuneiform tablets and creating the world's first organized archive.",
+		"desc_te": "అశూర్బనిపాల్ నినెవెలో మొదటి గొప్ప పాఠాగారాన్ని సంకలనం చేశాడు, వేలమందుకు లెక్కవెంట్ర వేయిన ఖండితాక్షర బిల్లులను సంరక్షించి, ప్రపంచం యొక్క మొదటి సంస్థాపిత ఆర్కైవ్‌ను సృష్టించాడు."
+	},
+	{
+		"year": "-670",
+		"name_en": "Kosala Kingdom Prosperity (India)",
+		"name_te": "కోసల రాజ్యం సమృద్ధి (భారత)",
+		"location": {
+			"lat": 26.8,
+			"lng": 82.2
+		},
+		"desc_en": "Kosala Kingdom flourishes under wise administration, promoting trade routes and establishing cultural centers throughout northern India.",
+		"desc_te": "కోసల రాజ్యం జ్ఞానవంత పరిపాలన ఆధారంగా సమృద్ధి చెందింది, వాణిజ్య మార్గాలను ప్రోత్సహించి, ఉత్తర భారతదేశ చుట్టూ సాంస్కృతిక కేంద్రాలను స్థాపించారు."
+	},
+	{
+		"year": "-670",
+		"name_en": "Lao Tzu Philosophy Emerges (China)",
+		"name_te": "లాओ త్జు ఫిలాసఫీ ఆవిర్భావం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The philosophy of Lao Tzu develops, establishing Daoism as a major spiritual and philosophical movement influencing Chinese thought for millennia.",
+		"desc_te": "లాओ త్జు ఫిలాసఫీ అభివృద్ధి చెందింది, దావోసం్‌ను ప్రధాన ఆధ్యాత్మిక, తాత్త్విక కదలికగా స్థాపించింది, చైనీ ఆలోచనను సహస్రాబ్దాలుండా ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-670",
+		"name_en": "Sparta Develops Militaristic Society (Greece)",
+		"name_te": "స్పార్టా సైనిక సమాజం అభివృద్ధి (గ్రీస్)",
+		"location": {
+			"lat": 37.06,
+			"lng": 23.43
+		},
+		"desc_en": "Sparta establishes its militaristic governing system under Lycurgus, creating rigid discipline and military training from childhood.",
+		"desc_te": "స్పార్టా లిసర్గస్ ఆధారంగా దాని సైనిక పాలన వ్యవస్థ స్థాపించారు, శిశువోతి నుండి కఠిన క్రమశిక్షణ, సైనిక శిక్షణ సృష్టించారు."
+	},
+	{
+		"year": "-670",
+		"name_en": "Jaipur Citadel Construction Begins (India)",
+		"name_te": "జైపూర్ కిల్లె నిర్మాణం ప్రారంభం (భారత)",
+		"location": {
+			"lat": 26.9,
+			"lng": 75.8
+		},
+		"desc_en": "Early fortification constructions begin in Rajasthan region, establishing defensive settlements that would later develop into major kingdoms.",
+		"desc_te": "రాజస్థాన్ ప్రాంతంలో ప్రారంభ కిల్లె నిర్మాణం ప్రారంభమయ్యాయి, రక్షణ సెట్‌లమెంట్‌లను స్థాపించి, ఇవి తరువాతిగా ప్రధాన రాజ్యాలుగా అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "-660",
+		"name_en": "King Ashurbanipal Rules Assyria",
+		"name_te": "రాజు అశూర్బనిపాల్ అస్సిరియా పాలన",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Ashurbanipal becomes the last great king of Assyria, patronizing arts, sciences, and establishing cultural supremacy alongside military dominance.",
+		"desc_te": "అశూర్బనిపాల్ అస్సిరియా చివరి గొప్ప రాజుగా నిలిచాడు, కళలు, విజ్ఞానాలను ఆందోళన చేసి, సైనిక ఆధిపత్యంతో పాటు సాంస్కృతిక ఆధిపత్యం స్థాపించాడు."
+	},
+	{
+		"year": "-660",
+		"name_en": "Confucius Philosophical Influence (China)",
+		"name_te": "కన్ఫ్యూషియస్ ఫిలాసఫికల్ ప్రభావం (చైనా)",
+		"location": {
+			"lat": 35.6,
+			"lng": 117.1
+		},
+		"desc_en": "Confucius begins influencing Chinese thought with emphasis on ethics, ritual, and social hierarchy, shaping governance for future dynasties.",
+		"desc_te": "కన్ఫ్యూషియస్ నైతికత, అనুష్ఠానం, సామాజిక క్రమానికి జోరు ఇచ్చుకొని చైనీ ఆలోచనను ప్రభావితం చేయడం ప్రారంభించాడు, ఆయా రాజవంశాల పాలనకు ఆకృతి ఇచ్చాడు."
+	},
+	{
+		"year": "-660",
+		"name_en": "African Iron Age Begins (Nubia)",
+		"name_te": "ఆఫ్రికన్ ఇనుప యుగ ప్రారంభం (న్యూబియా)",
+		"location": {
+			"lat": 18.5,
+			"lng": 32
+		},
+		"desc_en": "Iron working technology spreads across northeast Africa, revolutionizing agriculture, warfare, and tool-making capabilities.",
+		"desc_te": "ఇనుప కార్యక్రమ సాంకేతికత ఈశాన్య ఆఫ్రికాలో విస్తరించింది, వ్యవసాయం, యుద్ధం, సాధన-తయారీ సామర్థ్యాన్ని చేస్తూ విప్లవం కలిపించింది."
+	},
+	{
+		"year": "-660",
+		"name_en": "Olympic Games Tradition Begins (Greece)",
+		"name_te": "ఒలింపిక్ క్రీడలు సంప్రదాయం ప్రారంభం (గ్రీస్)",
+		"location": {
+			"lat": 37.63,
+			"lng": 21.63
+		},
+		"desc_en": "The Olympic Games begin as a religious festival dedicated to Zeus, becoming the most important athletic competition in ancient Greece.",
+		"desc_te": "ఒలింపిక్ క్రీడలు జూపిటర్‌కు అంకితం చేసిన మతపరమైన పండుగగా ప్రారంభమయ్యాయి, పురాతన గ్రీస్‌లో అత్యంత ముఖ్యమైన క్రీడా పోటీగా మారాయి."
+	},
+	{
+		"year": "-660",
+		"name_en": "Mayan Early Classic Period Begins (Guatemala)",
+		"name_te": "మాయన్ ప్రారంభ క్లాసిక్ కాలం ప్రారంభం (గువాటెమాల)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "The Mayan civilization enters the early classic period with development of complex calendar systems and hieroglyphic writing.",
+		"desc_te": "మాయన్ నాగరికత ప్రారంభ క్లాసిక్ కాలంలోకి ప్రవేశించింది, సంక్లిష్ట క్యాలెండర్ వ్యవస్థ, చిత్రలిపి రచన అభివృద్ధితో."
+	},
+	{
+		"year": "-650",
+		"name_en": "Nabopolassar Founds Neo-Babylonian Empire",
+		"name_te": "నబోపోలాసర్ నియో-బాబిలోనియన్ సామ్రాజ్యం స్థాపనα",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nabopolassar establishes the Neo-Babylonian Empire, overthrowing Assyrian rule and establishing Babylon as a major world power.",
+		"desc_te": "నబోపోలాసర్ నియో-బాబిలోనియన్ సామ్రాజ్యాన్ని స్థాపించాడు, అస్సిరియన్ పాలనను వదిలించుకొని, బాబిలోనిని ప్రపంచ శక్తిగా స్థాపించాడు."
+	},
+	{
+		"year": "-650",
+		"name_en": "Vedic Period Transitions (India)",
+		"name_te": "వేద కాలం పరివర్తనాలు (భారత)",
+		"location": {
+			"lat": 26,
+			"lng": 80
+		},
+		"desc_en": "The Vedic period transitions toward the post-Vedic era, with establishment of early kingdoms and urbanization in the Gangetic plains.",
+		"desc_te": "వేద కాలం పోస్ట్-వేద యుగానికి పరివర్తనం చెందింది, గంగ సమతలంలో ప్రారంభ రాజ్యాల స్థాపన, నగరీకరణ ఆధారంగా."
+	},
+	{
+		"year": "-650",
+		"name_en": "Fall of Nineveh (Mesopotamia)",
+		"name_te": "నినెవె పతనం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "The great city of Nineveh falls to Babylonian and Median forces, marking the decline of Assyrian empire and reshaping Middle Eastern power dynamics.",
+		"desc_te": "గొప్ప నగరం నినెవె బాబిలోనియన్, మీడియన్ దళాలకు పతనమయ్యాయి, అస్సిరియన్ సామ్రాజ్యం క్షీణత, మధ్య తూర్పు శక్తి డైనమిక్‌ల పునర్నిర్ణయం గుర్తించాయి."
+	},
+	{
+		"year": "-650",
+		"name_en": "Alphabet Standardization (Phoenicia)",
+		"name_te": "వర్ణమాల ప్రమాణీకరణ (ఫీనిషియా)",
+		"location": {
+			"lat": 33.8,
+			"lng": 35.5
+		},
+		"desc_en": "Phoenician traders standardize their alphabet, facilitating trade communications across Mediterranean and influencing Greek alphabet development.",
+		"desc_te": "ఫీనిషియన్ వ్యాపారులు వారి వర్ణమాలను ప్రమాణీకృతం చేశారు, మధ్య సముద్రం వాణిజ్య సంభాషణలను సులభం చేసారు, గ్రీకు వర్ణమాల అభివృద్ధిని ప్రభావితం చేసారు."
+	},
+	{
+		"year": "-650",
+		"name_en": "Lydian Coins Invented (Asia Minor)",
+		"name_te": "లిడియన్ నాణేలు ఆవిష్కరణ (ఆసియా మైనర్)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Lydians invent coinage, creating the first standardized metal currency that revolutionizes trade and economic systems throughout the Mediterranean.",
+		"desc_te": "లిడియన్లు నాణేలను ఆవిష్కరించారు, మెడిటరేనియన్ చుట్టూ వాణిజ్య, ఆర్థిక వ్యవస్థాలను విప్లవం చేసిన మొదటి ప్రమాణిత లోహ కరెన్సీ సృష్టించారు."
+	},
+	{
+		"year": "-640",
+		"name_en": "King Nabonidus of Babylon",
+		"name_te": "బాబిలోన్ రాజు నబోనిదస్",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nabonidus rules Babylon, undertaking archaeological expeditions and religious reforms while strengthening Babylonian military and economic power.",
+		"desc_te": "నబోనిదస్ బాబిలోనిని పాలించాడు, పురాతత్వ విప్రవర్తన, మతపరమైన సంస్కరణలను చేపట్టారు, బాబిలోనియన్ సైనిక, ఆర్థిక శక్తిని బలపరిచారు."
+	},
+	{
+		"year": "-640",
+		"name_en": "Herodotus Historical Writings (Greece)",
+		"name_te": "హెరోడోటస్ చారిత్రక రచనలు (గ్రీస్)",
+		"location": {
+			"lat": 37.9,
+			"lng": 23.7
+		},
+		"desc_en": "Herodotus develops early historical writing methods, documenting wars, civilizations, and customs, establishing foundations of historical study.",
+		"desc_te": "హెరోడోటస్ ప్రారంభ చారిత్రక రచన పద్ధతులను అభివృద్ధి చేశాడు, యుద్ధాలు, నాగరికతలు, ఆచారాలను నివేదించాడు, చారిత్రక అధ్యయన పునాది స్థాపించాడు."
+	},
+	{
+		"year": "-640",
+		"name_en": "Persepolis Architecture Development (Persia)",
+		"name_te": "పర్సెపోలిస్ ఆర్కిటెక్చర్ అభివృద్ధి (పర్షియా)",
+		"location": {
+			"lat": 29.94,
+			"lng": 52.89
+		},
+		"desc_en": "Early architectural styles in Persia develop, laying groundwork for the monumental structures that would become hallmarks of Persian civilization.",
+		"desc_te": "పర్షియాలో ప్రారంభ ఆర్కిటెక్చర్ శైలులు అభివృద్ధి చెందాయి, పర్షియన్ నాగరికత యొక్క చిహ్నాలుగా మారిన స్మారక నిర్మాణాల పునాది వేశాయి."
+	},
+	{
+		"year": "-640",
+		"name_en": "Magadha Kingdom Power Growth (India)",
+		"name_te": "మగధ రాజ్యం శక్తి వృద్ధి (భారత)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.5
+		},
+		"desc_en": "Magadha Kingdom expands military capabilities and territorial control, challenging Kosala's dominance and establishing itself as major Indian power.",
+		"desc_te": "మగధ రాజ్యం సైనిక సామర్థ్యం, ప్రాంతీయ నియంత్రణ విస్తరించారు, కోసల ఆధిపత్యానికి సవాళ్ల విసరారు, భారతీయ శక్తిగా స్థాపించారు."
+	},
+	{
+		"year": "-640",
+		"name_en": "African Trade Routes Expand (Egypt)",
+		"name_te": "ఆఫ్రికన్ వాణిజ్య మార్గాలు విస్తరణ (ఈజిప్ట)",
+		"location": {
+			"lat": 26.8,
+			"lng": 30.8
+		},
+		"desc_en": "Egyptian merchants establish expanded trade networks across Africa, linking Mediterranean commerce with sub-Saharan trade routes.",
+		"desc_te": "ఈజిప్టీయ వ్యాపారులు ఆఫ్రికా చుట్టూ విస్తృత వాణిజ్య నెట్‌వర్కులను స్థాపించారు, మెడిటరేనియన్ వాణిజ్యాన్ని సబ్-సహారన్ వాణిజ్య మార్గాలకు అనుసంధానం చేశారు."
+	},
+	{
+		"year": "-630",
+		"name_en": "Fall of Assyrian Empire",
+		"name_te": "అస్సిరియన్ సామ్రాజ్యం పతనం",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "The Assyrian Empire completely collapses as Babylonian and Median forces conquer all major cities, ending 3 centuries of Near Eastern dominance.",
+		"desc_te": "అస్సిరియన్ సామ్రాజ్యం సంపూర్ణంగా సంకోచం చెందింది, బాబిలోనియన్, మీడియన్ దళాలు అన్ని ప్రధాన నగరాలను జయించారు, నియర్ ఈస్ట్ 3 శతాబ్దాల ఆధిపత్యం చివరకు లేచింది."
+	},
+	{
+		"year": "-630",
+		"name_en": "Buddha Born (India)",
+		"name_te": "బుద్ధుడు జన్మించారు (భారత)",
+		"location": {
+			"lat": 27.6,
+			"lng": 85.4
+		},
+		"desc_en": "Siddhartha Gautama (Buddha) is born in Lumbini, who will later found Buddhism and transform spiritual thought across Asia for millennia.",
+		"desc_te": "సిద్ధార్థ గౌతమ (బుద్ధుడు) లుంబిని జన్మించారు, ఈయన తరువాతిగా బౌద్ధం స్థాపించి, ఆసియా చుట్టూ ఆధ్యాత్మిక ఆలోచనను సహస్రాబ్దాలుండా రూపాంతరం చేశారు."
+	},
+	{
+		"year": "-630",
+		"name_en": "Cyaxares Unites Median Tribes (Persia)",
+		"name_te": "సయక్సారెస్ మీడియన్ తెగలను ఏకీకృతం (పర్షియా)",
+		"location": {
+			"lat": 35.8,
+			"lng": 51.4
+		},
+		"desc_en": "Cyaxares unites Median tribes into a cohesive empire, establishing a major power that rivals Babylon and reshapes Middle Eastern geopolitics.",
+		"desc_te": "సయక్సారెస్ మీడియన్ తెగలను సమన్వయ సామ్రాజ్యంలోకి ఏకీకృతం చేశాడు, బాబిలోనిని ప్రతిరూపకమైన ప్రధాన శక్తిని స్థాపించారు, మధ్య తూర్పు భూ-రాజకీయాలను పునర్నిర్ణయం చేశారు."
+	},
+	{
+		"year": "-630",
+		"name_en": "Greek Colonization Continues (Mediterranean)",
+		"name_te": "గ్రీకు వలసవాద కొనసాగటం (మెడిటరేనియన్)",
+		"location": {
+			"lat": 40,
+			"lng": 20
+		},
+		"desc_en": "Greek city-states expand colonization across Mediterranean and Black Sea regions, establishing trade posts, settlements, and cultural centers.",
+		"desc_te": "గ్రీకు నగర-రాజ్యాలు మెడిటరేనియన్, నల్ల సముద్రం ప్రాంతాలు చుట్టూ వలసవాద విస్తరించారు, వాణిజ్య పోస్టులు, సెట్‌లమెంట్‌లు, సాంస్కృతిక కేంద్రాలను స్థాపించారు."
+	},
+	{
+		"year": "-630",
+		"name_en": "Zoroastrianism Established (Persia)",
+		"name_te": "జోరోస్ట్రియనిజం స్థాపిత (పర్షియా)",
+		"location": {
+			"lat": 36,
+			"lng": 53
+		},
+		"desc_en": "Zoroaster establishes Zoroastrianism in Persia, introducing monotheistic concepts and dualistic philosophy that influences multiple religions.",
+		"desc_te": "జోరోస్టర్ పర్షియాలో జోరోస్ట్రియనిజం స్థాపించారు, ఏకేశ్వరవాద భావనలు, ద్వంద్వవాదక ఫిలాసఫీ ప్రవేశం చేసారు, ఇది బహుళ ధర్మాలను ప్రభావితం చేసింది."
+	},
+	{
+		"year": "-620",
+		"name_en": "Thales of Miletus Philosophy (Greece)",
+		"name_te": "మిలేటస్ థేల్స్ ఫిలాసఫీ (గ్రీస్)",
+		"location": {
+			"lat": 37.74,
+			"lng": 27.26
+		},
+		"desc_en": "Thales of Miletus develops early natural philosophy, proposing that water is the fundamental element of all matter, pioneering scientific thought.",
+		"desc_te": "మిలేటస్ థేల్స్ ప్రారంభ సహజ ఫిలాసఫీ అభివృద్ధి చేశాడు, నీరు సమస్త పదార్థం యొక్క ప్రాథమిక మూలకం అని ప్రతిపాదించారు, శాస్త్రీయ ఆలోచనను పరిశోధన చేశారు."
+	},
+	{
+		"year": "-620",
+		"name_en": "Chaldean Astrology Develops (Babylon)",
+		"name_te": "చాల్డియన్ ఖగోళ శాస్త్రం అభివృద్ధి (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Chaldean scholars advance astronomical and astrological knowledge, mapping stars, planets, and establishing mathematical astronomical models.",
+		"desc_te": "చాల్డియన్ విద్వాంసులు ఖగోళ, ఖగోళ జ్ఞానం ఉన్నత చేసారు, నక్షత్రాలు, గ్రహాలను మ్యాపింగ్ చేసారు, గణిత ఖగోళ నమూనాలను స్థాపించారు."
+	},
+	{
+		"year": "-620",
+		"name_en": "Kingdom of Lydia at Peak (Asia Minor)",
+		"name_te": "లిడియా రాజ్యం శిఖరం వద్ద (ఆసియా మైనర్)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Lydia reaches its peak prosperity under King Croesus, becoming the wealthiest kingdom in Asia Minor through trade and monetary innovation.",
+		"desc_te": "లిడియా రాజు క్రోసస్ కింద దాని శిఖర సమృద్ధికి చేరుకుంది, ఆసియా మైనర్‌లో వాణిజ్య, నిధీయ ఆవిష్కరణ ద్వారా సంపన్న రాజ్యంగా మారింది."
+	},
+	{
+		"year": "-610",
+		"name_en": "Final Vedic Kingdom Era Transitions (India)",
+		"name_te": "చివరి వేద రాజ్య యుగ పరివర్తనాలు (భారత)",
+		"location": {
+			"lat": 25,
+			"lng": 82
+		},
+		"desc_en": "The Vedic period finally ends as Mahajanapada kingdoms consolidate, moving from tribal governance toward organized monarchical systems.",
+		"desc_te": "వేద కాలం చివరకు ముగిసింది, మహాజనపద రాజ్యాలు సమీకరించారు, తెగ పాలన నుండి సంస్థాపిత రాచకీయ వ్యవస్థాల వైపుకు కదలిక చేసారు."
+	},
+	{
+		"year": "-610",
+		"name_en": "Vassal States Recognition in Persia",
+		"name_te": "పర్షియాలో రాజస్వ రాష్ట్రాల గుర్తింపు",
+		"location": {
+			"lat": 35.5,
+			"lng": 51
+		},
+		"desc_en": "Persian Empire establishes formal relationships with vassal states, creating complex political networks and tribute systems across the Middle East.",
+		"desc_te": "పర్షియన్ సామ్రాజ్యం రాజస్వ రాష్ట్రాలతో ఔపచారిక సంబంధాలను స్థాపించారు, మధ్య తూర్పు చుట్టూ సంక్లిష్ట రాజకీయ నెట్‌వర్కులు, కప్పకట్టిన వ్యవస్థలను సృష్టించారు."
+	}
+]

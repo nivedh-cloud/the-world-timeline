@@ -1,0 +1,211 @@
+[
+	{
+		"year": "800",
+		"name_en": "Charlemagne's Empire Solidifies",
+		"name_te": "చార్లేమాన్ సామ్రాజ్యం దృఢమవుతుంది",
+		"location": {
+			"lat": 50.8,
+			"lng": 6.3
+		},
+		"desc_en": "Charlemagne establishes stable empire with Christianity as unifying force across Western Europe.",
+		"desc_te": "చార్లేమాన్ పశ్చిమ ఐరోపా వ్యాపకంగా క్రీస్టియానిటీని ఏకీకరణ శక్తిగా ఉపయోగించిన స్థిర సామ్రాజ్యం ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "805",
+		"name_en": "Alcuin and Scholarly Revival",
+		"name_te": "అల్కుయిన్, విద్వత్ పునరుజ్జీవనం",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Alcuin leads educational reform at Charlemagne's court. Classical texts preserved and copied.",
+		"desc_te": "అల్కుయిన్ చార్లేమాన్ రాజ్యంలో విద్యా సంస్కరణకు నాయకత్వం ఇచ్చిన విషయం. ప్రాచీన గ్రంధాలు సంరక్షించిన, నకిలు చేసిన విషయం."
+	},
+	{
+		"year": "810",
+		"name_en": "Division of Charlemagne's Empire",
+		"name_te": "చార్లేమాన్ సామ్రాజ్యం విభజనం",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "After Charlemagne's death, empire divides among sons. Church becomes stabilizing institution.",
+		"desc_te": "చార్లేమాన్ చనిపోయిన తర్వాత, సామ్రాజ్యం కుమారుల మధ్య విభజితమైన విషయం. చర్చ స్థిరీకరణ సంస్థ కాబడిన విషయం."
+	},
+	{
+		"year": "815",
+		"name_en": "Treaty of Verdun Aftermath",
+		"name_te": "వర్దూన్ ఒప్పందం తర్వాత",
+		"location": {
+			"lat": 49.6,
+			"lng": 5.4
+		},
+		"desc_en": "Empire formally divided into three parts. Church structures remain unified despite political fragmentation.",
+		"desc_te": "సామ్రాజ్యం అధికారికంగా మూడు భాగాలుగా విభజితమైన విషయం. చర్చ కట్టడాలు రాజకీయ విచ్ఛిన్నత ఉన్నప్పటికీ ఏకీకృతమైన విషయం."
+	},
+	{
+		"year": "820",
+		"name_en": "Islamic-Christian Coexistence in Iberia",
+		"name_te": "ఐబేరియాలో ఇస్లామిక్-క్రీస్టియన్ సహజీవనం",
+		"location": {
+			"lat": 40,
+			"lng": -3
+		},
+		"desc_en": "Christian kingdoms and Islamic emirates coexist in Iberia. Cultural and intellectual exchange occurs.",
+		"desc_te": "ఐబేరియాలో క్రీస్టియన్ రాజ్యాలు, ఇస్లామిక్ ఎమిరేట్‌లు సహ-ఉనికిలో ఉన్నాయి. సాంస్కృతిక, బుద్ధిబలం సమ్మేళనం జరిగిన విషయం."
+	},
+	{
+		"year": "825",
+		"name_en": "Photian Schism Tensions",
+		"name_te": "ఫోటియన్ విభజనం ఉద్వేగాలు",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Tensions between Constantinople and Rome over church authority. Photius challenges papal supremacy.",
+		"desc_te": "కాన్‍స్టాంటినోపల్, రోమ్ మధ్య చర్చ అధికారం గురించి ఉద్వేగాలు. ఫోటియస్ పాపల్ ఆధిపత్యానికి సవాలు విసిరిన విషయం."
+	},
+	{
+		"year": "830",
+		"name_en": "Monastic Cluny's Growth",
+		"name_te": "సన్న్యాస క్లూనీ వృద్ధి",
+		"location": {
+			"lat": 46.4,
+			"lng": 4.6
+		},
+		"desc_en": "Cluny monastery founded and rapidly expands. Becomes center of monastic reform and influence.",
+		"desc_te": "క్లూనీ సన్న్యాస సమాజం స్థాపన చేయబడిన విషయం, వేగంగా విస్తరణ చేసిన విషయం. సన్న్యాస సంస్కరణ, ప్రభావ కేంద్రం కాబడిన విషయం."
+	},
+	{
+		"year": "835",
+		"name_en": "Viking Raids on Christian Monasteries",
+		"name_te": "వైకింగ్ క్రీస్టియన్ సన్న్యాస సమాజాలపై దాడులు",
+		"location": {
+			"lat": 51.5,
+			"lng": -3
+		},
+		"desc_en": "Viking raiders attack monasteries across Europe. Monasteries become fortified and militarized.",
+		"desc_te": "వైకింగ్ దండయాత్రాకారులు ఐరోపా వ్యాపకంగా సన్న్యాస సమాజాలపై దాడి చేసిన విషయం. సన్న్యాస సమాజాలు కోటిబద్ధ, సైన్యీకరించిన విషయం."
+	},
+	{
+		"year": "840",
+		"name_en": "Constantinople Patriarchs and Politics",
+		"name_te": "కాన్‍స్టాంటినోపల్ పితృపతులు, రాజకీయాలు",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Patriarchs of Constantinople navigate complex political and religious terrain with emperor.",
+		"desc_te": "కాన్‍స్టాంటినోపల్ పిតృపతులు చక్రవర్తితో క్లిష్ట రాజకీయ, ధార్మిక భూభాగం నావిగేట్ చేసిన విషయం."
+	},
+	{
+		"year": "845",
+		"name_en": "Council of Quierzy-sur-Oise",
+		"name_te": "క్యూరీర్జీ-సుర్-ఓస్ సమావేశం",
+		"location": {
+			"lat": 49.3,
+			"lng": 2.8
+		},
+		"desc_en": "Council addresses church-state relations and church property rights during political fragmentation.",
+		"desc_te": "సమావేశం రాజకీయ విచ్ఛిన్నత సమయంలో చర్చ-రాష్ట్ర సంబంధాలు, చర్చ సంపత్తి హక్కులను సంబోధించిన విషయం."
+	},
+	{
+		"year": "850",
+		"name_en": "Theodora and Icon Restoration",
+		"name_te": "థియోడోరా, చిత్ర పునరుద్ధారణ",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Empress Theodora ends iconoclasm, restores icons to churches. Religious stability in Byzantium.",
+		"desc_te": "చక్రవర్తిని థియోడోరా చిత్రనిందనం ముగించిన విషయం, చర్చిలకు చిత్రాలు పున:స్థాపన చేసిన విషయం. బైజాంటియంలో ధార్మిక స్థిరత్వం."
+	},
+	{
+		"year": "855",
+		"name_en": "Missionaries Among Slavic Peoples",
+		"name_te": "స్లావిక్ ప్రజల మధ్య మిషనరీలు",
+		"location": {
+			"lat": 50,
+			"lng": 15
+		},
+		"desc_en": "Christian missionaries evangelize Slavic territories. Byzantine and Latin Christianity compete for influence.",
+		"desc_te": "క్రీస్టియన్ మిషనరీలు స్లావిక్ భూభాగాలను సువార్త చెప్పిన విషయం. బైజాంటైన్, లాటిన్ క్రీస్టియానిటీ ప్రభావానికి పోరాటం చేసిన విషయం."
+	},
+	{
+		"year": "860",
+		"name_en": "Photius and Papal Crisis",
+		"name_te": "ఫోటియస్, పాపల్ సంకట",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Photius patriarch of Constantinople claims authority over Eastern churches. Conflict with Rome intensifies.",
+		"desc_te": "ఫోటియస్ కాన్‍స్టాంటినోపల్ పిતృపతిగా తూర్పు చర్చిలపై అధికారం విజ్ఞప్తిం చేసిన విషయం. రోమ్‌తో ఘర్షణ తీవ్రమవుతుంది."
+	},
+	{
+		"year": "865",
+		"name_en": "Cyril and Methodius' Mission",
+		"name_te": "సిరిల్, మెథడియస్ ఆయోగ",
+		"location": {
+			"lat": 48.1,
+			"lng": 17.1
+		},
+		"desc_en": "Cyril and Methodius evangelize Slavic regions, create Cyrillic alphabet for Slavic Bible translation.",
+		"desc_te": "సిరిల్, మెథడియస్ స్లావిక్ ప్రాంతాలను సువార్త చెప్పిన విషయం, స్లావిక్ బైబిల్ అనువాదానికి సిరిలిక్ వర్ణమాల సృష్టించిన విషయం."
+	},
+	{
+		"year": "870",
+		"name_en": "Treaty of Aachen and Church",
+		"name_te": "ఆచెన్ ఒప్పందం, చర్చ",
+		"location": {
+			"lat": 50.8,
+			"lng": 6.1
+		},
+		"desc_en": "Empire divided further by treaty. Church boundaries evolve with political reorganization.",
+		"desc_te": "ఒప్పందం ద్వారా సామ్రాజ్యం మరింత విభజితమైన విషయం. చర్చ సీమానాలు రాజకీయ పుનర్సంస్థాపనతో శ్రేష్ఠీకరిణ్చేయబడిన విషయం."
+	},
+	{
+		"year": "875",
+		"name_en": "Basil the Macedonian Emperor",
+		"name_te": "బసిల్ మాసిడోనియన్ చక్రవర్తి",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Emperor Basil strengthens Byzantine empire and enhances church authority in Orthodox Christianity.",
+		"desc_te": "చక్రవర్తి బసిల్ బైజాంటైన్ సామ్రాజ్యం దృఢపరిచిన విషయం, ఆర్థోడాక్స్ క్రీస్టియానిటీలో చర్చ అధికారం వర్ధించిన విషయం."
+	},
+	{
+		"year": "880",
+		"name_en": "First Bulgarian Empire Conversion",
+		"name_te": "మొదటి బల్గేరియన్ సామ్రాజ్యం మతాంతరం",
+		"location": {
+			"lat": 43,
+			"lng": 25
+		},
+		"desc_en": "Bulgaria converts to Christianity through Byzantine missionaries, becomes Orthodox Christian state.",
+		"desc_te": "బల్గేరియా బైజాంటైన్ మిషనరీల ద్వారా క్రీస్టియానిటీకి మతాంతరం పొంది, ఆర్థోడాక్స్ క్రీస్టియన్ రాష్ట్రం కాబడిన విషయం."
+	},
+	{
+		"year": "885",
+		"name_en": "Old Church Slavonic Translation",
+		"name_te": "పూర్వీయ చర్చ స్లావోనిక్ అనువాదం",
+		"location": {
+			"lat": 50,
+			"lng": 15
+		},
+		"desc_en": "Bible translated into Old Church Slavonic, allowing Eastern European peoples to read scripture.",
+		"desc_te": "బైబిల్ పూర్వీయ చర్చ స్లావోనిక్‌కు అనువదించిన విషయం, తూర్పు ఐరోపా ప్రజలకు గ్రంధాలు చదవటానికి అనుమతిస్తుంది."
+	},
+	{
+		"year": "890",
+		"name_en": "Norse Conversion Movements",
+		"name_te": "నోర్స్ మతాంతరణ చలనాలు",
+		"location": {
+			"lat": 60,
+			"lng": 10
+		},
+		"desc_en": "Scandinavian peoples begin converting to Christianity. Viking raids decrease as conversions increase.",
+		"desc_te": "స్కాండినేవియన్ ప్రజలు క్రీస్టియానిటీకి మతాంతరణ ప్రారంభించిన విషయం. వైకింగ్ దాడులు మతాంతరణ వృద్ధితో కూడా తగ్గిన విషయం."
+	}
+]

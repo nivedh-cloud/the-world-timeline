@@ -1,0 +1,211 @@
+[
+	{
+		"year": "1000",
+		"name_en": "Millennium Celebrations and Church Authority",
+		"name_te": "సహస్రాబ్ది వేడుకలు, చర్చ అధికారం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "After year 1000 passes without apocalypse, church strengthens authority and influence over society.",
+		"desc_te": "1000 సంవత్సరం కూడా సృష్టిసంహారం లేకుండా గడిచిన తర్వాత, చర్చ సమాజంపై అధికారం, ప్రభావ దృఢపరిచిన విషయం."
+	},
+	{
+		"year": "1005",
+		"name_en": "Pope John XVIII and Synods",
+		"name_te": "పోప్ జాన్ XVIII, సమావేశాలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope John XVIII convenes ecclesiastical councils to reform church practices and discipline.",
+		"desc_te": "పోప్ జాన్ XVIII చర్చ ఆచారాలు, సంఘం సంస్కరణకు ఆధ్యాత్మిక సమావేశాలు ఆహ్వానం చేసిన విషయం."
+	},
+	{
+		"year": "1010",
+		"name_en": "Growth of Pilgrimage Networks",
+		"name_te": "తీర్థయాత్ర నెట్‌వర్క్‌ల వృద్ధి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Christian pilgrimage to Jerusalem, Rome, and Santiago de Compostela becomes mass phenomenon.",
+		"desc_te": "జెరూసలెం, రోమ్, సాంటియాగో డి కొంపోస్టెలాకు క్రీస్టియన్ తీర్థయాత్ర ద్రవ్య దృష్టిభంగం కాబడిన విషయం."
+	},
+	{
+		"year": "1015",
+		"name_en": "Cathedral School Expansion",
+		"name_te": "ఆలయ పాఠశాల విస్తరణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Cathedral schools develop as centers of learning. Scholasticism begins to develop.",
+		"desc_te": "ఆలయ పాఠశాలలు జ్ఞానం కేంద్రాలుగా అభివృద్ధి చేయబడిన విషయం. స్కూలస్టిసిజం అభివృద్ధి ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1020",
+		"name_en": "Berengarius and Eucharist Controversy",
+		"name_te": "బెరెంగేరియస్, యూఖారిస్ట్ వివాదం",
+		"location": {
+			"lat": 47.4,
+			"lng": 0.7
+		},
+		"desc_en": "Berengarius disputes transubstantiation doctrine. Church defines official Eucharistic theology.",
+		"desc_te": "బెరెంగేరియస్ రూపాంతరణ సిద్ధాంతం వివాదం చేసిన విషయం. చర్చ అధికారిక యూఖారిస్ట్ దేవతాత్త్వం నిర్వచనం చేసిన విషయం."
+	},
+	{
+		"year": "1025",
+		"name_en": "Basil II's Death and Church Changes",
+		"name_te": "బసిల్ II చనిపోయిన విషయం, చర్చ మార్పులు",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Death of Basil II. Byzantine church authority weakens. Political instability follows.",
+		"desc_te": "బసిల్ II చనిపోయిన విషయం. బైజాంటైన్ చర్చ అధికారం బలహీనమవుతుంది. రాజకీయ అస్థిరత ఇదిగా."
+	},
+	{
+		"year": "1030",
+		"name_en": "Anselm and Scholasticism",
+		"name_te": "ఆన్‍సెల్‌మ్, స్కూలస్టిసిజం",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Anselm of Canterbury develops ontological argument. Scholasticism becomes dominant theological method.",
+		"desc_te": "కాంటర్‌బరీ ఆన్‍సెల్‌మ్ సత్త వాదం అభివృద్ధి చేసిన విషయం. స్కూలస్టిసిజం ప్రధాన దేవతాత్త్వ పద్ధతి కాబడిన విషయం."
+	},
+	{
+		"year": "1035",
+		"name_en": "Norman Conquest and Church",
+		"name_te": "నార్మన్ జయం, చర్చ",
+		"location": {
+			"lat": 51.5,
+			"lng": -1
+		},
+		"desc_en": "Norman conquest brings new church hierarchy to England. Papal authority increases in Britain.",
+		"desc_te": "నార్మన్ జయం ఇంగ్లాండుకు నవీన చర్చ క్రమానుక్రమం తీసుకువచ్చిన విషయం. బ్రిటన్‌లో పాపల్ అధికారం వృద్ధిచేయబడిన విషయం."
+	},
+	{
+		"year": "1040",
+		"name_en": "Leo IX and Church Reforms",
+		"name_te": "లీओ IX, చర్చ సంస్కరణలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Leo IX initiates major church reforms. Centralizes papal authority and fights simony.",
+		"desc_te": "పోప్ లీओ IX ప్రధాన చర్చ సంస్కరణ ప్రారంభించిన విషయం. పాపల్ అధికారం కేంద్రీయ చేసిన విషయం, విక్రయ ఆధ్యాత్మిక పదవుల వ్యతిరేకంగా పోరాటం చేసిన విషయం."
+	},
+	{
+		"year": "1045",
+		"name_en": "Schism Between East and West",
+		"name_te": "తూర్పు, పశ్చిమ విభజనం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Growing theological and political tensions lead toward permanent split between Orthodox and Catholic churches.",
+		"desc_te": "అధిక్రమ సిద్ధాంత, రాజకీయ ఉద్వేగాలు ఆర్థోడాక్స్, కాథలిక్ చర్చల మధ్య శాశ్వత విభజనకు దారితీసిన విషయం."
+	},
+	{
+		"year": "1050",
+		"name_en": "Great Schism of 1054",
+		"name_te": "1054 గొప్ప విభజనం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Final break between Orthodox and Roman Catholic churches. Mutual excommunications formalize split.",
+		"desc_te": "ఆర్థోడాక్స్, రోమన్ కాథలిక్ చర్చల మధ్య తుది విచ్ఛేదం. పరస్పర భ్రష్టీకరణ విభజనం అధికారికీయం చేసిన విషయం."
+	},
+	{
+		"year": "1055",
+		"name_en": "Gregory VII and Investiture Controversy",
+		"name_te": "గ్రెగరీ VII, నియామక వివాదం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Gregory VII asserts papal supremacy. Church-state conflict over bishop appointments intensifies.",
+		"desc_te": "గ్రెగరీ VII పాపల్ ఆధిపత్యం నొక్కిన విషయం. బిషప్ నియామకాలపై చర్చ-రాష్ట్ర సంఘర్షణ తీవ్రమవుతుంది."
+	},
+	{
+		"year": "1060",
+		"name_en": "Normans Conquer Southern Italy",
+		"name_te": "నార్మన్‌లు దక్షిణ ఇటలీ జయించారు",
+		"location": {
+			"lat": 39,
+			"lng": 16
+		},
+		"desc_en": "Norman knights conquer southern Italy from Byzantines. New kingdom becomes papal ally.",
+		"desc_te": "నార్మన్ వీరులు బైజాంటైన్‌ల నుండి దక్షిణ ఇటలీ జయించిన విషయం. నవీన రాజ్యం పాపల్ సమస్యకుడు కాబడిన విషయం."
+	},
+	{
+		"year": "1065",
+		"name_en": "Henry IV and Gregorian Reforms",
+		"name_te": "హెన్రీ IV, గ్రెగోరియన్ సంస్కరణలు",
+		"location": {
+			"lat": 52.5,
+			"lng": 13.4
+		},
+		"desc_en": "Henry IV of Germany opposes papal authority. Investiture Controversy becomes major political crisis.",
+		"desc_te": "జర్మానీ హెన్రీ IV పాపల్ అధికారం వ్యతిరేకం చేసిన విషయం. నియామక వివాదం ప్రధాన రాజకీయ సంకట కాబడిన విషయం."
+	},
+	{
+		"year": "1070",
+		"name_en": "Hildebrand as Gregory VII",
+		"name_te": "గ్రెగరీ VII గా హిల్డెబ్రాండ్",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Hildebrand becomes Pope Gregory VII. Strengthens papal authority against lay investiture.",
+		"desc_te": "హిల్డెబ్రాండ్ పోప్ గ్రెగరీ VII కాబడిన విషయం. స్థానిక నియామకానికి వ్యతిరేకంగా పాపల్ అధికారం దృఢపరిచిన విషయం."
+	},
+	{
+		"year": "1075",
+		"name_en": "Walk to Canossa",
+		"name_te": "కానోస్సాకు నడక",
+		"location": {
+			"lat": 44.1,
+			"lng": 10.3
+		},
+		"desc_en": "Henry IV walks barefoot to Canossa to seek papal forgiveness. Symbolizes papal power over emperors.",
+		"desc_te": "హెన్రీ IV పాపల్ క్షమ కోరటానికి కానోస్సాకు చేతిగా నడిచిన విషయం. చక్రవర్తిలపై పాపల్ శక్తి సూచిస్తుంది."
+	},
+	{
+		"year": "1080",
+		"name_en": "Urban II and Crusades Preparation",
+		"name_te": "అర్బన్ II, సలీబీయ చలన సన్నద్ధత",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Urban II prepares church for military action. Crusading ideology begins to develop.",
+		"desc_te": "పోప్ అర్బన్ II సైన్యక చర్యకు చర్చ సన్నద్ధం చేసిన విషయం. సలీబీయ తత్వవేదం అభివృద్ధి ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1085",
+		"name_en": "First Crusade Proclaimed",
+		"name_te": "మొదటి సలీబీయ చలనం ప్రకటించిన విషయం",
+		"location": {
+			"lat": 43.9,
+			"lng": 4.8
+		},
+		"desc_en": "Pope Urban II proclaims First Crusade at Council of Clermont. Church launches military campaign.",
+		"desc_te": "పోప్ అర్బన్ II క్లెర్‌మాన్ట్ సమావేశంలో మొదటి సలీబీయ చలన ప్రకటన చేసిన విషయం. చర్చ సైన్య ప్రచారం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1090",
+		"name_en": "Crusaders Begin Journey to Holy Land",
+		"name_te": "సలీబీయులు పవిత్ర భూముకు ప్రయాణం ప్రారంభించారు",
+		"location": {
+			"lat": 35,
+			"lng": 35
+		},
+		"desc_en": "First Crusade armies march toward Jerusalem. Medieval Christianity's military expansion begins.",
+		"desc_te": "మొదటి సలీబీయ సైన్యాలు జెరూసలెంకు కవాతు చేసిన విషయం. మధ్యయుగ క్రీస్టియానిటీ సైన్య విస్తరణ ప్రారంభమైన విషయం."
+	}
+]

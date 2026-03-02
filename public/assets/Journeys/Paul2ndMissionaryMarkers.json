@@ -1,0 +1,90 @@
+[
+  {
+    "id": "paul2_01",
+    "name_tel": "అంతియోకియా",
+    "name_eng": "Antioch (Syria)",
+    "coords": [36.156, 36.164],
+    "description": "Starting point. Paul and Silas begin the second missionary journey. Timothy joins them.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_02",
+    "name_tel": "గాలటియ",
+    "name_eng": "Galatia",
+    "coords": [38.0, 32.0],
+    "description": "Paul visits churches established on first journey. Strengthens disciples in the faith.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_03",
+    "name_tel": "ట్రోయాస్‌",
+    "name_eng": "Troas",
+    "coords": [39.480, 26.237],
+    "description": "Paul has a vision of a Macedonian man calling for help. Takes the gospel to Europe.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_04",
+    "name_tel": "నియాపోలిస్‌",
+    "name_eng": "Neapolis",
+    "coords": [40.720, 24.461],
+    "description": "Port city. Gateway to Macedonia. Paul's first stop in Europe.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_05",
+    "name_tel": "ఫిలిప్పీ",
+    "name_eng": "Philippi",
+    "coords": [41.040, 24.287],
+    "description": "First European city where Paul preaches. Lydia and Philippian jailer both convert to Christ.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_06",
+    "name_tel": "థెస్‌సలోనికా",
+    "name_eng": "Thessalonica",
+    "coords": [40.637, 22.950],
+    "description": "Paul preaches in synagogue. Mob violence forces him to leave after three weeks.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_07",
+    "name_tel": "బెరోయా",
+    "name_eng": "Berea",
+    "coords": [40.613, 22.195],
+    "description": "Jews here more receptive. They search Scriptures daily to verify Paul's teachings.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_08",
+    "name_tel": "ఆథెన్‌లు",
+    "name_eng": "Athens",
+    "coords": [37.973, 23.726],
+    "description": "Paul addresses philosophers at Mars Hill. Discusses the unknown god and resurrection.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_09",
+    "name_tel": "కరింతు",
+    "name_eng": "Corinth",
+    "coords": [37.898, 23.095],
+    "description": "Paul stays 18 months. Preaches, works as tentmaker, plants strong church.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_10",
+    "name_tel": "ఎఫెసుస్‌",
+    "name_eng": "Ephesus",
+    "coords": [37.939, 27.345],
+    "description": "Brief stop. Paul promises to return. Preaches in synagogue, initial establishment of church.",
+    "isMajorStop": true
+  },
+  {
+    "id": "paul2_11",
+    "name_tel": "అంతియోకియా (తిరిగి)",
+    "name_eng": "Antioch (Return)",
+    "coords": [36.156, 36.164],
+    "description": "Paul returns home after second journey, reporting on the churches planted in Europe and Asia.",
+    "isMajorStop": true
+  }
+]

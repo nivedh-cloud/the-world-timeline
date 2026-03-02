@@ -1,0 +1,167 @@
+[
+	{
+		"year": "2000",
+		"name_en": "Christianity in Digital Age",
+		"name_te": "డిజిటల్ యుగంలో క్రీస్టియానిటీ",
+		"location": {},
+		"desc_en": "Internet transforms Christian practice. Online churches and digital faith communities emerge.",
+		"desc_te": "ఇంటర్నెట్ క్రీస్టియన్ అభ్యాస రూపాంతరం చేసిన విషయం. ఆన్‌లైన్ చర్చలు, డిజిటల్ విశ్వాస సమూహాలు ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "2005",
+		"name_en": "Interfaith Dialogue Grows",
+		"name_te": "సంప్రదాయాలకు సంవాద చెలరేగిన విషయం",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "Interfaith dialogue and cooperation increase. Religious pluralism more accepted.",
+		"desc_te": "సంప్రదాయాలకు సంవాద, సహకారం చెలరేగిన విషయం. ధార్మిక బహుత్వం మరింత అంగీకృతం."
+	},
+	{
+		"year": "2001",
+		"name_en": "Religion and Terrorism",
+		"name_te": "ధర్మం, ఉగ్రవాదం",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "September 11 attacks link religion to terrorism. Christian faith blamed and defended.",
+		"desc_te": "సెప్టెంబర్ 11 దాడులు ధర్మం ఉగ్రవాదానికి సంబంధం చేసిన విషయం. క్రీస్టియన్ విశ్వాస నిందితం, రక్షితం."
+	},
+	{
+		"year": "2010",
+		"name_en": "Pope Francis Reforms",
+		"name_te": "పోప్ ఫ్రాన్సిస్ సంస్కరణలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Francis advocates for the poor and social justice. Progressive Catholicism.",
+		"desc_te": "పోప్ ఫ్రాన్సిస్ పేదలు, సామాజిక న్యాయం సమర్థన చేసిన విషయం. ప్రగతిశీల కాథలిసిజం."
+	},
+	{
+		"year": "2008",
+		"name_en": "Global Financial Crisis and Faith",
+		"name_te": "ప్రపంచ ఆర్థిక సంకట, విశ్వాస",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "2008 financial crisis raises questions about Christianity and capitalism.",
+		"desc_te": "2008 ఆర్థిక సంకట క్రీస్టియానిటీ, పూంజీవాదం ప్రశ్నలు నిలువెత్తిన విషయం."
+	},
+	{
+		"year": "2015",
+		"name_en": "Religious Persecution Rise",
+		"name_te": "ధార్మిక నిర్బంధం ఆరోహణ",
+		"location": {},
+		"desc_en": "Christian persecution increases in Middle East and Africa. Refugee crises.",
+		"desc_te": "మధ్యప్రాచ్య, ఆఫ్రికాలో క్రీస్టియన్ నిర్బంధం చెలరేగిన విషయం. శరణార్థి సంకటాలు."
+	},
+	{
+		"year": "2010",
+		"name_en": "Secularization in West",
+		"name_te": "పశ్చిమంలో ధర్మనిరపేక్షీకరణ",
+		"location": {
+			"lat": 51.5
+		},
+		"desc_en": "Church attendance declines in Europe and North America. Post-Christian societies.",
+		"desc_te": "ఐరోపా, ఉత్తర అమెరికాలో చర్చ హాజరు క్షీణిస్తుంది. క్రీస్టియానతర సమాజాలు."
+	},
+	{
+		"year": "2015",
+		"name_en": "Christianity in Global South",
+		"name_te": "ప్రపంచ దక్షిణంలో క్రీస్టియానిటీ",
+		"location": {
+			"lat": -15,
+			"lng": -60
+		},
+		"desc_en": "Christianity rapidly grows in Africa, Asia, Latin America. Global shift southward.",
+		"desc_te": "ఆఫ్రికా, ఆసియా, లాటిన్ అమెరికాలో క్రీస్టియానిటీ వేగంగా చెలరేగిన విషయం. ప్రపంచ దక్షిణ స్థానభ్రంశం."
+	},
+	{
+		"year": "2018",
+		"name_en": "COVID-19 Pandemic",
+		"name_te": "కోవిడ్-19 మహమ్మారి",
+		"location": {
+			"lat": 30,
+			"lng": 115
+		},
+		"desc_en": "COVID-19 forces churches online. Questions faith practices and community.",
+		"desc_te": "కోవిడ్-19 చర్చలను ఆన్‌లైన్ బలవంతం చేసిన విషయం. విశ్వాస అభ్యాసాలు, సమూహం ప్రశ్నలు."
+	},
+	{
+		"year": "2020",
+		"name_en": "Racial Justice and Churches",
+		"name_te": "జాతిగత న్యాయం, చర్చలు",
+		"location": {
+			"lat": 32.8,
+			"lng": -87.3
+		},
+		"desc_en": "Black Lives Matter and churches. Racial reconciliation becoming prominent.",
+		"desc_te": "బ్లాక్ లైవ్‌స్ మ్యాటర్, చర్చలు. జాతిగత సమన్వయం ప్రముఖమైన విషయం."
+	},
+	{
+		"year": "2015",
+		"name_en": "LGBTQ and Christian Faith",
+		"name_te": "LGBTQ, క్రీస్టియన్ విశ్వాస",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "LGBTQ inclusion divides churches. Denominations split over acceptance.",
+		"desc_te": "LGBTQ చేరిక చర్చలు విభజిత చేసిన విషయం. పంథాలు గ్రహణ కంటే విభజిత విషయం."
+	},
+	{
+		"year": "2020",
+		"name_en": "Climate Crisis and Faith",
+		"name_te": "వాతావరణ సంకట, విశ్వాస",
+		"location": {},
+		"desc_en": "Climate change becomes Christian issue. Creation care and environmental theology.",
+		"desc_te": "వాతావరణ నిర్మాణ క్రీస్టియన్ సమస్య కాబడిన విషయం. సృష్టి సంరక్షణ, పరిసర దేవతాత్త్వం."
+	},
+	{
+		"year": "2022",
+		"name_en": "Christian Unity Movements",
+		"name_te": "క్రీస్టియన్ ఐక్య చలనాలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Ecumenical movements seek Christian unity. Catholic-Protestant dialogue continues.",
+		"desc_te": "ఎకుమానికల్ చలనాలు క్రీస్టియన్ ఐక్య చేసిన విషయం. కాథలిక్-ప్రొటెస్టాంట్ సంవాదం కొనసాగిన విషయం."
+	},
+	{
+		"year": "2023",
+		"name_en": "End Times and Prophecy",
+		"name_te": "చివర కాలాలు, ప్రవచనం",
+		"location": {},
+		"desc_en": "Apocalyptic movements and end-times theology popular among evangelicals.",
+		"desc_te": "అపోకలిప్టిక్ చలనాలు, చివర-కాల దేవతాత్త్వం సువర్ణ జనాలలో ప్రసిద్ధ."
+	},
+	{
+		"year": "2020",
+		"name_en": "Christian Denominations Evolving",
+		"name_te": "క్రీస్టియన్ పంథాలు పరిణామం చేసిన విషయం",
+		"location": {},
+		"desc_en": "Traditional denominations decline. Non-denominational and house churches grow.",
+		"desc_te": "సాంప్రదాయక పంధాలు క్షీణిస్తుంది. అ-పంధీయ, ఇంటి చర్చలు చెలరేగిన విషయం."
+	},
+	{
+		"year": "2024",
+		"name_en": "AI and Faith Questions",
+		"name_te": "AI, విశ్వాస ప్రశ్నలు",
+		"location": {},
+		"desc_en": "Artificial intelligence raises theological questions. Soul, consciousness and faith.",
+		"desc_te": "కృత్రిమ బుద్ధిమత్త దేవతాత్త్వ ప్రశ్నలు నిలువెత్తిన విషయం. ఆత్మ, చేతన, విశ్వాస."
+	},
+	{
+		"year": "2025",
+		"name_en": "Christianity 2025-2035",
+		"name_te": "క్రీస్టియానిటీ 2025-2035",
+		"location": {},
+		"desc_en": "Global Christian witness continues amid cultural upheaval and spiritual seeking.",
+		"desc_te": "సాంస్కృతిక విధ్వంసం, ఆధ్యాత్మిక చేసుకుంటే ప్రపంచ క్రీస్టియన్ సాక్ష్యం కొనసాగిన విషయం."
+	}
+]

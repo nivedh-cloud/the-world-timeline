@@ -1,0 +1,563 @@
+[
+	{
+		"year": "0",
+		"name_en": "Birth of Jesus Christ (Continued from -100To0)",
+		"name_te": "యేసు క్రీస్తు జన్మ (కొనసాగింపు)",
+		"location": {
+			"lat": 32.73,
+			"lng": 35.29
+		},
+		"desc_en": "Jesus grows into early childhood in Nazareth, beginning his earthly life. Teachers recognize his wisdom at age 12 in the Temple.",
+		"desc_te": "యేసు నజరేతులో ప్రారంభ శిశువయస్సులో పెరిగాడు, ఆలయంలో 12 ఏటలో ఉపాధ్యాయులను ఆశ్చర్యపరిచాడు."
+	},
+	{
+		"year": "5",
+		"name_en": "Jesus's Hidden Years in Nazareth",
+		"name_te": "నజరేతులో యేసు లుకానీయ సంవత్సరాలు",
+		"location": {
+			"lat": 32.6996,
+			"lng": 35.3035
+		},
+		"desc_en": "Jesus grows to manhood in Nazareth working as a carpenter, preparing for his public ministry and spiritual mission.",
+		"desc_te": "యేసు నజరేతులో కర్పెంటర్‌గా పరిపక్వతకు ఆసిన్నమై, తన ప్రజా సేవకు సిద్ధమవుతాడు."
+	},
+	{
+		"year": "20",
+		"name_en": "John the Baptist's Ministry Begins",
+		"name_te": "బాప్తిస్మా యోహాను సేవ ప్రారంభం",
+		"location": {
+			"lat": 31.9,
+			"lng": 35.5
+		},
+		"desc_en": "John the Baptist begins preaching repentance in the wilderness near the Jordan River, attracting crowds from across Judea.",
+		"desc_te": "బాప్తిస్మా యోహాను యోర్డన్ నదికి సమీపంలో అరణ్యంలో తపస్య ప్రసంగించడం ప్రారంభించాడు, పెద్ద సమాహారాలను ఆకర్షించాడు."
+	},
+	{
+		"year": "27",
+		"name_en": "Jesus's Baptism by John the Baptist",
+		"name_te": "బాప్తిస్మా యోహాను చేతిలో యేసు బాప్తిస్మం",
+		"location": {
+			"lat": 31.9,
+			"lng": 35.5
+		},
+		"desc_en": "Jesus is baptized by John in the Jordan River, marking the beginning of his public ministry. Divine affirmation received.",
+		"desc_te": "యేసు యోర్డన్ నదిలో బాప్తిస్మా యోహాను చేతిలో బాప్తిస్మం పొందాడు, ఆధ్యాత్మిక సేవ ప్రారంభం గుర్తించిన విషయం."
+	},
+	{
+		"year": "27",
+		"name_en": "Jesus's Temptation in the Wilderness",
+		"name_te": "అరణ్యంలో యేసు పరీక్ష",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.3
+		},
+		"desc_en": "After baptism, Jesus is tempted in the desert wilderness for 40 days, resisting Satan's temptations and emerging victorious.",
+		"desc_te": "బాప్తిస్మం తర్వాత, యేసు ఎడారి అరణ్యంలో 40 రోజుల పరీక్ష పడాడు, సాతాను పరీక్షలను ఎదుర్కుని గెలిచాడు."
+	},
+	{
+		"year": "29",
+		"name_en": "Jesus's Early Ministry in Galilee",
+		"name_te": "గలిలీలో యేసు ప్రారంభ సేవ",
+		"location": {
+			"lat": 32.8,
+			"lng": 35.5
+		},
+		"desc_en": "Jesus begins teaching and performing miracles in Galilee. Calls his first disciples: Peter, Andrew, James, and John by the sea.",
+		"desc_te": "యేసు గలిలీలో ప్రసంగించడం, ఎద్దులు చేయడం ప్రారంభించాడు. సముద్ర తీరలో మొదటి శిష్యులను పిలిచాడు."
+	},
+	{
+		"year": "29",
+		"name_en": "Calling of the Twelve Apostles",
+		"name_te": "పన్నెండు అపోస్టలుల పిలుపు",
+		"location": {
+			"lat": 32.8,
+			"lng": 35.5
+		},
+		"desc_en": "Jesus selects twelve apostles including Peter, John, James, Matthew, and others to be his closest followers and future church leaders.",
+		"desc_te": "యేసు పీటర్, జాన్, జేమ్స్, మాథ్యూ వంటి పన్నెండు అపోస్టలుల్ను ఎంచుకుని, ఆలయం సంస్థాపన చేయాలని యోచన చేశాడు."
+	},
+	{
+		"year": "29",
+		"name_en": "Jesus Teaches the Sermon on the Mount",
+		"name_te": "పర్వత ప్రసంగం",
+		"location": {
+			"lat": 32.84,
+			"lng": 35.55
+		},
+		"desc_en": "Jesus delivers the Sermon on the Mount, outlining the Beatitudes and foundational ethical teachings of his kingdom.",
+		"desc_te": "యేసు పర్వతపై ప్రసంగం చేసాడు, ధన్యవాద వాక్యాలు, తన సామ్రాజ్యానికి ఆధారమైన నైతిక సూత్రాలను వివరించాడు."
+	},
+	{
+		"year": "29",
+		"name_en": "First Miracle: Water Turned to Wine at Cana",
+		"name_te": "మొదటి ఎద్దు: కానాలో నీరు ద్రాక్ష రసమని మార్చిన విషయం",
+		"location": {
+			"lat": 32.82,
+			"lng": 35.59
+		},
+		"desc_en": "At a wedding in Cana, Jesus performs his first public miracle, transforming water into wine at his mother Mary's request.",
+		"desc_te": "కానాలో ఉన్న వివాహ వేడుకలో, యేసు తన తల్లి మరియ విన్నపతి మీద నీరును ద్రాక్ష రసమని మార్చాడు."
+	},
+	{
+		"year": "30",
+		"name_en": "Jesus Performs Healing Miracles",
+		"name_te": "యేసు చికిత్స ఎద్దులు",
+		"location": {
+			"lat": 32.8,
+			"lng": 35.5
+		},
+		"desc_en": "Jesus heals the sick, performs exorcisms, and demonstrates divine power. News spreads throughout Judea and Galilee regions.",
+		"desc_te": "యేసు రోగులను సుఖపరచాడు, దుష్ట శక్తిలను తీసివేసాడు, దేవ శక్తిని ప్రదర్శించాడు. యూదేయ, గలిలీ అంతటా వార్త వ్యాపించిందు."
+	},
+	{
+		"year": "30",
+		"name_en": "Jesus Challenges the Pharisees",
+		"name_te": "ఫారిసీలకు యేసు సవాల్",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Jesus confronts Pharisees and Jewish leaders about their interpretation of the Law, claiming to be the Son of God.",
+		"desc_te": "యేసు ఫారిసీలు, యూదా నాయకుల చట్టం విశ్లేషణ గురించి ఎదుర్కున్నాడు, తనను దేవ కుమారుడని పేర్కొన్నాడు."
+	},
+	{
+		"year": "30",
+		"name_en": "Jesus Teaches Parables to the Masses",
+		"name_te": "జనానికి యేసు ఉపమానాలు బోధన",
+		"location": {
+			"lat": 32.8,
+			"lng": 35.5
+		},
+		"desc_en": "Jesus teaches crowds using parables about the Kingdom of Heaven: the sower, the mustard seed, the prodigal son, and the good Samaritan.",
+		"desc_te": "యేసు స్వర్గ రాజ్యం గురించి ఉపమానాలను సాధారణ జనానికి బోధించాడు: విత్తకుడు, ఆవాలోని విత్తనం, భ్రష్ట కుమారుడు."
+	},
+	{
+		"year": "31",
+		"name_en": "Feeding of the Five Thousand",
+		"name_te": "ఐదు వేల మందికి యేసు భోజనం ఇచ్చిన విషయం",
+		"location": {
+			"lat": 32.88,
+			"lng": 35.6
+		},
+		"desc_en": "Jesus miraculously feeds five thousand people with only five loaves and two fish, demonstrating God's provision and compassion.",
+		"desc_te": "యేసు ఐదు వేల మందిని ఐదు రొట్టెలు, రెండు చేపలతో సంతృప్తి చేసాడు, దేవ సంపదను ప్రదర్శించాడు."
+	},
+	{
+		"year": "31",
+		"name_en": "Jesus Walks on Water",
+		"name_te": "సముద్ర జలపై యేసు నడచిన విషయం",
+		"location": {
+			"lat": 32.88,
+			"lng": 35.6
+		},
+		"desc_en": "Jesus walks on the Sea of Galilee during a storm, demonstrating divine power over nature and calming the fearful disciples.",
+		"desc_te": "యేసు గలిలీ సముద్ర ఝడ సమయంలో జలపై నడచిన విషయం, శిష్యులకు భయం తీసివేసాడు."
+	},
+	{
+		"year": "32",
+		"name_en": "Raising of Lazarus",
+		"name_te": "లాజరస్ పునరుత్థానం",
+		"location": {
+			"lat": 31.92,
+			"lng": 35.2
+		},
+		"desc_en": "Jesus raises Lazarus from the dead in Bethany after four days, demonstrating power over death and increasing hostility from Jewish leaders.",
+		"desc_te": "యేసు బెతనీలో నాలుగు రోజుల తర్వాత లాజరస్ కు జీవితం ఇచ్చాడు, ఫారిసీల ద్వేషం పెరిగింది."
+	},
+	{
+		"year": "32",
+		"name_en": "The Transfiguration of Jesus",
+		"name_te": "యేసు రూపాంతరం",
+		"location": {
+			"lat": 32.75,
+			"lng": 35.45
+		},
+		"desc_en": "Jesus is transfigured on a high mountain before Peter, James, and John. His face shines like the sun and his clothes become white as snow.",
+		"desc_te": "యేసు పర్వతపై పీటర్, జేమ్స్, జాన్ ముందు రూపాంతరం పొందాడు, వారు దేవ దృష్టిని గెలిపించారు."
+	},
+	{
+		"year": "33",
+		"name_en": "Jesus's Final Entry into Jerusalem",
+		"name_te": "యెరూషలేముకు యేసు చివరి ప్రవేశం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Jesus enters Jerusalem on a donkey on Palm Sunday, hailed as the Messiah by crowds, but rejected by religious leaders.",
+		"desc_te": "యేసు గారిపై ఆరోహణ చేసి యెరూషలేముకు ప్రవేశించాడు, జనం మషీహానిగా గ్రహించారు, ధార్మిక నాయకులు తిరస్కరించారు."
+	},
+	{
+		"year": "33",
+		"name_en": "Cleansing of the Temple",
+		"name_te": "ఆలయ శుద్ధీకరణ",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "Jesus angrily drives out merchants and money changers from the Temple, declaring it should be a house of prayer, not commerce.",
+		"desc_te": "యేసు ఆలయం నుండి వ్యాపారులను, నిధి మార్పిడి వారిని తరిమివేసాడు, ఆలయం ప్రార్థన సదనమని ప్రకటించాడు."
+	},
+	{
+		"year": "33",
+		"name_en": "Jesus's Last Supper",
+		"name_te": "యేసు చివరి భోజనం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Jesus shares final meal with his apostles, instituting the Eucharist (Communion) as a memorial of his coming sacrifice.",
+		"desc_te": "యేసు తన శిష్యులతో చివరి భోజనం చేసాడు, ఆత్మ బలిదానం యొక్క చిహ్న యూఖరిస్ట్‌ను స్థాపించాడు."
+	},
+	{
+		"year": "33",
+		"name_en": "Jesus's Betrayal and Arrest",
+		"name_te": "యేసు ద్రోహం, బందీ చేయడం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Judas Iscariot betrays Jesus for thirty pieces of silver. Jesus is arrested in Gethsemane and taken before the Sanhedrin.",
+		"desc_te": "యూదాస్ ఈస్కారియట్ యేసును 30 వెండి నాణ్యాలకు ద్రోహం చేసాడు, గెతస్మనీ వాటికలో బందీ చేయబడ్డాడు."
+	},
+	{
+		"year": "33",
+		"name_en": "Jesus Tried Before Pilate",
+		"name_te": "పిలాతు ముందు యేసు న్యాయం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Jesus is brought before Pontius Pilate, Roman procurator. After questioning, Pilate condemns him to crucifixion.",
+		"desc_te": "యేసు రోమన్ గవర్నర్ పిలాతు ముందు తీసుకువెళ్లారు, ఆ జన్న్యాయం చేసి 십్పకరణకు ఆదేశించాడు."
+	},
+	{
+		"year": "33",
+		"name_en": "Crucifixion of Jesus Christ",
+		"name_te": "యేసు క్రీస్తు ష్టీకరణ",
+		"location": {
+			"lat": 31.7791,
+			"lng": 35.2264
+		},
+		"desc_en": "Jesus is crucified on Golgotha, Mount of Skulls, between two criminals. He dies and is buried in Joseph's tomb in Jerusalem.",
+		"desc_te": "యేసు గోల్గతా పర్వతపై, ఇద్దరు నిందితుల మధ్య ష్టీకరణ చేయబడ్డాడు, జోసేపు సమాధిలో ప్రవేశపెట్టారు."
+	},
+	{
+		"year": "33",
+		"name_en": "Resurrection of Jesus Christ",
+		"name_te": "యేసు ప్రేమ ఉత్థానం",
+		"location": {
+			"lat": 31.7791,
+			"lng": 35.2264
+		},
+		"desc_en": "On the third day, Jesus rises from the dead, fulfilling Old Testament prophecies. Appearances to disciples and followers over 40 days.",
+		"desc_te": "మూడవ రోజున, యేసు చనిపోయిన నుండి పునరుత్థానం పొందాడు, ప్రాచీన ప్రవచనాలను నెరవేర్చాడు, శిష్యులకు కనిపించాడు."
+	},
+	{
+		"year": "33",
+		"name_en": "Appearances of the Risen Jesus",
+		"name_te": "పునరుత్థాన యేసు కనిపించుకొని",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Jesus appears to Mary Magdalene, the disciples, and over 500 followers. He proves his resurrection through various signs and teachings.",
+		"desc_te": "యేసు మరియ, శిష్యులకు, 500 మందికి కనిపించిన విషయం, పునరుత్థానం నిరూపించాడు, బోధన అందించాడు."
+	},
+	{
+		"year": "34",
+		"name_en": "Ascension of Jesus into Heaven",
+		"name_te": "ఆకాశానికి యేసు ఆరోహణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.3
+		},
+		"desc_en": "Jesus ascends to heaven after 40 days of resurrection appearances, promising the Holy Spirit to his followers in Jerusalem.",
+		"desc_te": "పునరుత్థానం తర్వాత 40 రోజుల్లో యేసు ఆకాశానికి ఆరోహణ చేసాడు, పవిత్ర ఆత్మ నిశ్చయం ఇచ్చాడు."
+	},
+	{
+		"year": "34",
+		"name_en": "Pentecost and Birth of the Church",
+		"name_te": "పెంటెకోస్ట్, చర్చి జన్మ",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "The Holy Spirit is given to Jesus's followers at Pentecost in Jerusalem. Three thousand are baptized and the Church is established.",
+		"desc_te": "యెరూషలేములో పెంటెకోస్ట్‌లో పవిత్ర ఆత్మ వారికి లభించిన విషయం, 3000 మందిని బాప్తిస్మం చేయబడ్డారు, చర్చి సంస్థాపన."
+	},
+	{
+		"year": "34",
+		"name_en": "Peter and John Perform Miracles",
+		"name_te": "పీటర్, జాన్ ఎద్దులు చేసిన విషయం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Peter and John perform miraculous healing of a lame beggar at the Temple gate, attracting more believers to the early Church.",
+		"desc_te": "ఆలయ గేటు వద్ద పీటర్, జాన్ తో లంగవాడిని సుఖపరచిన విషయం, చర్చికి మరిన్ని విశ్వాసులను ఆకర్షించాడు."
+	},
+	{
+		"year": "35",
+		"name_en": "Stephen the First Martyr",
+		"name_te": "స్టీఫన్ మొదటి రక్త సాక్ష్య",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Stephen, a deacon, is stoned to death by the Sanhedrin for blasphemy. He becomes the Church's first martyr, witnessed by young Saul.",
+		"desc_te": "డీకన్ స్టీఫన్ నిందితులచే రాళ్ల కొట్టి చంపబడ్డాడు, చర్చి మొదటి రక్త సాక్ష్యవాని కాబడ్డాడు, యువ సౌల్ సాక్షి."
+	},
+	{
+		"year": "35",
+		"name_en": "Conversion of Saul (Apostle Paul)",
+		"name_te": "సౌల్ మతాంతరణ (అపోస్టల్ పాల్)",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.2
+		},
+		"desc_en": "Saul, persecutor of Christians, encounters the risen Jesus on the Damascus Road. He is converted and renamed Paul, becoming Christianity's greatest missionary.",
+		"desc_te": "క్రిస్టియన్ల నిందకుడైన సౌల్ డమాస్కస్ దారిలో ఆరోహణ యేసును ఎదుర్కున్నాడు, మతాంతరం పొంది పాల్ గా పరిచయం కాబడ్డాడు."
+	},
+	{
+		"year": "39",
+		"name_en": "Peter's Vision and Acceptance of Gentiles",
+		"name_te": "పీటర్ దృష్టి, సాధారణ జాతుల గ్రహణం",
+		"location": {
+			"lat": 31.92,
+			"lng": 35.2
+		},
+		"desc_en": "Peter has a vision from God regarding clean and unclean animals, leading to the acceptance of Gentile converts into the Church.",
+		"desc_te": "పీటర్‌కు శుద్ధ, అశుద్ధ జంతువుల గురించి దేవ దృష్టి ఉందని తెలిసి, సాధారణ జాతుల ధార్మిక జీవితం చర్చిలో అంగీకారం చేయబడింది."
+	},
+	{
+		"year": "40",
+		"name_en": "Herod Agrippa I Persecutes the Church",
+		"name_te": "హెరోద అగ్రిప్ప I చర్చిని వేధించిన విషయం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "King Herod Agrippa I executes James, son of Zebedee. He arrests Peter but Peter escapes miraculously from prison.",
+		"desc_te": "రాజు హెరోద అగ్రిప్ప జెబిడీ కుమారుడైన జేమ్స్‌ను చంపించాడు, పీటర్‌ను గ్రహించాడు కానీ చెక్కుపై ఏటవాలున్నాడు."
+	},
+	{
+		"year": "44",
+		"name_en": "Paul's First Missionary Journey",
+		"name_te": "పాల్ మొదటి మిషనరీ ప్రయాణం",
+		"location": {
+			"lat": 35,
+			"lng": 33
+		},
+		"desc_en": "Paul and Barnabas travel to Cyprus and Galatia, preaching Christ and establishing churches among Jews and Gentiles.",
+		"desc_te": "పాల్, బర్నబాస్ సిప్రస్, గలతీయకు ప్రయాణం చేసి, క్రీస్తువు ప్రసంగించి, యూదులు, సాధారణ జాతుల యొక్క చర్చిలు సంస్థాపన చేసారు."
+	},
+	{
+		"year": "48",
+		"name_en": "Council of Jerusalem",
+		"name_te": "యెరూషలేము సమావేశం",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "The apostles and elders convene to decide whether Gentile converts must follow Jewish law. They conclude circumcision is not required.",
+		"desc_te": "అపోస్టలులు, పెద్దలు సాధారణ జాతుల ఆధ్యాత్మిక నియమాల గురించి నిర్ణయం తీసుకుని, చర్మ్మక్షణ అవసరం లేదని నిర్ణయించారు."
+	},
+	{
+		"year": "49",
+		"name_en": "Paul's Second Missionary Journey Begins",
+		"name_te": "పాల్ రెండవ మిషనరీ ప్రయాణం ప్రారంభం",
+		"location": {
+			"lat": 38,
+			"lng": 28
+		},
+		"desc_en": "Paul and Silas travel to Asia Minor, Macedonia, and Greece, establishing churches in Philippi, Thessalonica, and Corinth.",
+		"desc_te": "పాల్, సిలాస్ ఆసియా మైనర్, మేసెడోనియా, గ్రీసు ప్రయాణం చేసి, ఫిలిప్పీ, థెస్సలోనికా, కోరింథులో చర్చిలు సంస్థాపన చేసారు."
+	},
+	{
+		"year": "50",
+		"name_en": "Paul's Writings Begin",
+		"name_te": "పాల్ రచనలు ప్రారంభం",
+		"location": {
+			"lat": 40.6,
+			"lng": 22.9
+		},
+		"desc_en": "Paul writes First Thessalonians from Corinth, one of the earliest New Testament epistles, addressing church matters and faith.",
+		"desc_te": "పాల్ కోరింథు నుండి థెస్సలోనికీ వారికి రాత్రిపత్రం రాశాడు, ఇది ప్రథమ సంచయ పత్రాలలో ఒకటి."
+	},
+	{
+		"year": "52",
+		"name_en": "Paul's Third Missionary Journey",
+		"name_te": "పాల్ మూడవ మిషనరీ ప్రయాణం",
+		"location": {
+			"lat": 37.9,
+			"lng": 27.3
+		},
+		"desc_en": "Paul travels to Ephesus and remains there for three years, writing to various churches and continuing to spread Christianity.",
+		"desc_te": "పాల్ ఎఫేసస్‌కు ప్రయాణం చేసి, మూడు సంవత్సరాలు గడిపిన విషయం, వివిధ చర్చికి రాస్తూ, క్రీస్టియానిటీ ఛాయను విస్తరిస్తూ."
+	},
+	{
+		"year": "53",
+		"name_en": "Paul Writes to the Corinthians",
+		"name_te": "పాల్ కోరింథీయులకు రాత్రిపత్రం",
+		"location": {
+			"lat": 38.7,
+			"lng": 23.6
+		},
+		"desc_en": "Paul writes First Corinthians to address divisions, sexual immorality, and spiritual gifts. Later writes Second Corinthians from Macedonia.",
+		"desc_te": "పాల్ కోరింథీయులకు మొదటి రాత్రిపత్రం రాసిన విషయం, విభజనలు, నైతిక సమస్యలు, ఆధ్యాత్మిక శక్తుల గురించి చెప్పాడు."
+	},
+	{
+		"year": "55",
+		"name_en": "Paul Writes to the Romans",
+		"name_te": "పాల్ రోమానులకు రాత్రిపత్రం",
+		"location": {
+			"lat": 37.9,
+			"lng": 27.3
+		},
+		"desc_en": "Paul writes Romans, a theological masterpiece outlining justification by faith, God's sovereignty, and Christian ethics and practice.",
+		"desc_te": "పాల్ రోమానులకు రాత్రిపత్రం రాసిన విషయం, విశ్వాసం ద్వారా న్యాయ, దేవ సర్వభరత్వం, క్రీస్టియన్ నైతికతను వివరించాడు."
+	},
+	{
+		"year": "57",
+		"name_en": "Paul Arrested in Jerusalem",
+		"name_te": "పాల్ యెరూషలేములో గ్రహించబడ్డాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Paul is arrested by Jewish authorities in Jerusalem after a Temple dispute. He appeals to Roman citizenship and is sent to Caesarea.",
+		"desc_te": "ఆలయ సంఘర్షణ తర్వాత పాల్ యెరూషలేములో గ్రహించబడ్డాడు, రోమన్ నాగరికతను పిలిచాడు, కేసేరియకు పంపించారు."
+	},
+	{
+		"year": "58",
+		"name_en": "Paul's Imprisonment and Trials",
+		"name_te": "పాల్ కారాగృహం, న్యాయ విచారణ",
+		"location": {
+			"lat": 32.5,
+			"lng": 34.9
+		},
+		"desc_en": "Paul remains imprisoned in Caesarea for two years, appearing before Governor Felix and his successor Festus, declaring his innocence.",
+		"desc_te": "పాల్ కేసేరియలో రెండు సంవత్సరాలు బందీగా ఉన్నాడు, గవర్నర్‌ల ముందు, తన నిరపరాధత ప్రకటించాడు."
+	},
+	{
+		"year": "60",
+		"name_en": "Paul's Journey to Rome as Prisoner",
+		"name_te": "బందీగా పాల్ రోమకు ప్రయాణం",
+		"location": {
+			"lat": 37.5,
+			"lng": 23
+		},
+		"desc_en": "Paul is transported to Rome by ship to stand trial before Caesar. A storm occurs, but Paul and the ship's company are rescued.",
+		"desc_te": "పాల్ కైసర్ ముందు న్యాయం చేయుటకు ఓడ ద్వారా రోమకు తీసుకువెళ్లారు, తుఫాన్ ఆ సమయంలో దూరం నుండి రక్ష దీ చేయబడ్డారు."
+	},
+	{
+		"year": "61",
+		"name_en": "Paul Under House Arrest in Rome",
+		"name_te": "రోమలో పాల్ గృహ నిర్బంధనం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Paul resides under house arrest in Rome for two years, writing his prison epistles including Philippians, Colossians, Ephesians, and Philemon.",
+		"desc_te": "రోమలో పాల్ రెండు సంవత్సరాలు గృహ నిర్బంధనం కింద, ఫిలిప్పిన్‌లు, కొలోస్సీ, ఎఫేసీ, ఫిలేమోన్ గ్రంధాలు రాసుకొని."
+	},
+	{
+		"year": "64",
+		"name_en": "Great Fire of Rome and Christian Persecution",
+		"name_te": "రోమ గొప్ప అగ్ని, క్రీస్టియన్ల నిర్భయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "A massive fire devastates Rome. Emperor Nero blames Christians and initiates severe persecution, martyring many believers including Peter.",
+		"desc_te": "రోమ నగరం భయంకర కాటిన్న సమయంలో, చక్రవర్తి నీరో క్రీస్టియన్‌లను నిందితులుగా చేసి, పీటర్ సహా అనేక నిర్భయం చేయించాడు."
+	},
+	{
+		"year": "65",
+		"name_en": "Paul's Final Ministry and Martyrdom",
+		"name_te": "పాల్ చివరి సేవ, రక్త సాక్ష్యం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Paul is released and continues ministry, writing First Timothy and Titus. He is arrested again, tried, and executed during Nero's persecution.",
+		"desc_te": "పాల్ విడిపించుకొని, ప్రసంగం కొనసాగించాడు, తిమోతీ, టితస్‌కు రాత్రిపత్రాలు రాసుకొని, ఆ తర్వాత నీరో వేధన నుండి చంపబడ్డాడు."
+	},
+	{
+		"year": "66",
+		"name_en": "First Jewish-Roman War",
+		"name_te": "మొదటి యూదా-రోమన్ యుద్ధం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rebellion in Judea against Rome leads to war. Jerusalem is besieged and destroyed by Roman legions. The Temple is razed in 70 CE.",
+		"desc_te": "యూదేయలో రోమకు వ్యతిరేక విద్రోహం, యెరూషలేము ముట్టడి, ఆలయ విధ్వంసం 70 సా.శ.లో సంభవించిన విషయం."
+	},
+	{
+		"year": "68",
+		"name_en": "Destruction of the Temple",
+		"name_te": "ఆలయ విధ్వంసం",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "The Second Temple built by Herod is completely destroyed by Roman general Titus. Only the Western Wall remains standing.",
+		"desc_te": "హెరోదు ఆలయం రోమన్ సేనాధిపతి టైటస్ చేతిలో పూర్తిగా విధ్వంసం చేయబడిన విషయం, పశ్చిమ గోడ మాత్రమే ఆస్తిత్వంలో ఉన్నది."
+	},
+	{
+		"year": "70",
+		"name_en": "Jewish Diaspora Begins",
+		"name_te": "యూదా విస్తరణ ప్రారంభం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Following Jerusalem's destruction, Jews scatter throughout the Roman Empire and beyond, maintaining religious practices in synagogues.",
+		"desc_te": "యెరూషలేము విధ్వంసం తర్వాత, యూదులు రోమ సామ్రాజ్యంలో చ散్లుకుని, సమావేశ గృహాలలో ఆధ్యాత్మిక ఆచారాలు చేపట్టారు."
+	},
+	{
+		"year": "80",
+		"name_en": "Gospel of John Written",
+		"name_te": "జాన్ సువార్త రచన",
+		"location": {
+			"lat": 37.1,
+			"lng": 27.4
+		},
+		"desc_en": "Apostle John writes his gospel in Ephesus, emphasizing Jesus as the divine Word and Son of God, providing theological depth.",
+		"desc_te": "అపోస్టల్ జాన్ ఎఫేసస్‌లో సువార్త రాసుకొని, యేసుని దేవ వాక్య, దేవ కుమారుడిగా సూచించాడు, నిగూఢ సూత్రాల చలన."
+	},
+	{
+		"year": "85",
+		"name_en": "Other New Testament Epistles Written",
+		"name_te": "ఇతర సంచయ సూచించిన గ్రంధాలు రచన",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "James, 1 Peter, 2 Peter, 1-3 John, Jude, and Hebrews are written by various apostles and early church leaders addressing congregations.",
+		"desc_te": "జేమ్స్, 1 పీటర్, 2 పీటర్, 1-3 జాన్, జూడ్, హీబ్రూలు చర్చ నాయకులచేతి విభిన్న చర్చికి చేసిన వారణ గ్రంధాలు."
+	},
+	{
+		"year": "90",
+		"name_en": "Early Christian Communities Established",
+		"name_te": "ఆరంభ క్రీస్టియన్ సమూహాలు సంస్థాపన",
+		"location": {
+			"lat": 38,
+			"lng": 28
+		},
+		"desc_en": "Christian churches are firmly established throughout the Mediterranean world, despite Roman opposition. Bishops and deacons organize congregations.",
+		"desc_te": "రోమన్ వ్యతిరేకత ఉన్నప్పటికీ, మధ్యసాగర అంతటా క్రీస్టియన్ చర్చిలు సంస్థాపన చేయబడ్డాయి, బిషప్‌లు చర్చిలను నిర్వహించారు."
+	},
+	{
+		"year": "95",
+		"name_en": "Book of Revelation Written",
+		"name_te": "ప్రకటన గ్రంథ రచన",
+		"location": {
+			"lat": 37.1,
+			"lng": 27.4
+		},
+		"desc_en": "John writes Revelation on Patmos island, providing prophetic visions of future events and ultimate victory of Christ over evil.",
+		"desc_te": "జాన్ పాట్మోస్ ద్వీపంపై ప్రకటన గ్రంథం రాసుకొని, భవిష్యత్ సంచయం, క్రీస్తువు చెడుపై గెలుపు చూపించాడు."
+	}
+]

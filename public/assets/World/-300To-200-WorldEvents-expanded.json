@@ -1,0 +1,321 @@
+[
+	{
+		"year": "-264",
+		"name_en": "First Punic War (Rome vs Carthage)",
+		"name_te": "మొదటి ప్యూనిక్ యుద్ధం (రోమ్ vs కార్తేజ్)",
+		"location": {
+			"lat": 37,
+			"lng": 14
+		},
+		"desc_en": "Rome and Carthage fight for control of Sicily.",
+		"desc_te": "రోమ్ మరియు కార్తేజ్ సిసిలీపై ఆధిపత్యం కోసం యుద్ధం చేశారు."
+	},
+	{
+		"year": "-273",
+		"name_en": "Reign of Ashoka the Great (India)",
+		"name_te": "అశోకుడు మహారాజు పాలన (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Ashoka, Mauryan emperor, rules most of the Indian subcontinent and promotes Buddhism.",
+		"desc_te": "మౌర్య చక్రవర్తి అశోకుడు భారత ఉపఖండాన్ని పాలించి, బౌద్ధమతాన్ని ప్రోత్సహించాడు."
+	},
+	{
+		"year": "-300",
+		"name_en": "Egypt Ptolemy I Founds Dynasty",
+		"name_te": "ఈజిప్టు టాలెమీ I రాజవంశ స్థాపన",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Ptolemy I establishes Ptolemaic Dynasty in Egypt, creating major Hellenistic power in Mediterranean.",
+		"desc_te": "టాలెమీ I ఈజిప్టులో టాలెమీ రాజవంశ స్థాపన చేస్తూ, మధ్యసాగర్‌లో ప్రధాన హెలెనిస్టిక్ శక్తి సృష్టిస్తాడు."
+	},
+	{
+		"year": "-290",
+		"name_en": "China Qin Dynasty Great Wall Construction",
+		"name_te": "చైనా చిన్ రాజవంశ గ్రేట్ వాల్ నిర్మాణం",
+		"location": {
+			"lat": 40,
+			"lng": 104
+		},
+		"desc_en": "Qin Shi Huang orders construction of defensive walls; precursor to Great Wall of China.",
+		"desc_te": "చిన్ షిహువాంగ్ రక్షణ గోడ నిర్మాణ ఆదేశ; చైనా గ్రేట్ వాల్‌కు పూర్వీకుడు."
+	},
+	{
+		"year": "-280",
+		"name_en": "India Mauryan Navy Dominates",
+		"name_te": "భారత మౌర్య నౌకసైన్య ఆధిపత్యం",
+		"location": {
+			"lat": 15,
+			"lng": 75
+		},
+		"desc_en": "Mauryan Empire develops powerful naval fleet; dominates Indian Ocean trade routes.",
+		"desc_te": "మౌర్య సామ్రాజ్యం శక్తివంతమైన నౌక సైన్యం అభివృద్ధి చేస్తూ భారత మహాసాగర్ వాణిజ్య మార్గాలను ఆధిపత్యం చేస్తుంది."
+	},
+	{
+		"year": "-270",
+		"name_en": "Rome Pyrrhus Invasion Begins",
+		"name_te": "రోమ్ పిర్రస్ ఆక్రమణ ప్రారంభం",
+		"location": {
+			"lat": 41,
+			"lng": 15
+		},
+		"desc_en": "King Pyrrhus of Epirus invades southern Italy; first major conflict between Rome and Hellenistic power.",
+		"desc_te": "ఎపిరస్ రాజు పిర్రస్ దక్షిణ ఇటలీ ఆక్రమిస్తూ రోమ్, హెలెనిస్టిక్ శక్తి మధ్య మొదటి ప్రధాన సంఘర్షణ."
+	},
+	{
+		"year": "-265",
+		"name_en": "India Kalinga War Ashoka Transforms",
+		"name_te": "భారత కలింగ యుద్ధం అశోక రూపాంతరణ",
+		"location": {
+			"lat": 20.5,
+			"lng": 86.5
+		},
+		"desc_en": "Ashoka's conquest of Kalinga; horrified by bloodshed, converts to Buddhism and reshapes governance.",
+		"desc_te": "అశోక కలింగ జయం; రక్తపాతం చూసి బౌద్ధమతకు మారుతూ పరిపాలన పున్నర్నిర్మిస్తాడు."
+	},
+	{
+		"year": "-260",
+		"name_en": "Egypt Ptolemy II Expands Alexandria",
+		"name_te": "ఈజిప్టు టాలెమీ II అలెక్సాండ్రియా విస్తరణ",
+		"location": {
+			"lat": 31.2001,
+			"lng": 29.9187
+		},
+		"desc_en": "Ptolemy II expands Library and Museum of Alexandria; becomes world's premier learning center.",
+		"desc_te": "టాలెమీ II అలెక్సాండ్రియా లైబ్రరీ, మ్యూజియం విస్తరిస్తూ ప్రపంచ ప్రధాన జ్ఞానకేంద్రంగా మారుతుంది."
+	},
+	{
+		"year": "-255",
+		"name_en": "India Ashoka Sends Buddhist Missions",
+		"name_te": "భారత అశోక బౌద్ధ మిషన్‌లు పంపుతాడు",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Emperor Ashoka sends Buddhist missionaries across Asia; spreads Buddhism to distant lands.",
+		"desc_te": "చక్రవర్తి అశోక ఆసియా అంతటా బౌద్ధ మిషనరీలను పంపిస్తూ బౌద్ధమతం దూరవర్తిక ప్రదేశాలకు వ్యాపిస్తుంది."
+	},
+	{
+		"year": "-250",
+		"name_en": "China Han Dynasty Establishes",
+		"name_te": "చైనా హాన్ రాజవంశ స్థాపన",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "After Qin collapse, Han Dynasty establishes centralized government; begins period of stability and prosperity.",
+		"desc_te": "చిన్ పతనం తర్వాత హాన్ రాజవంశం కేంద్రీకృత ప్రభుత్వం స్థాపన చేస్తూ స్థిరత్వం, సమృద్ధి కాలం ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "-245",
+		"name_en": "Rome Expands Southern Italy Control",
+		"name_te": "రోమ్ దక్షిణ ఇటలీ నియంత్రణ విస్తరణ",
+		"location": {
+			"lat": 40,
+			"lng": 15
+		},
+		"desc_en": "Rome defeats Pyrrhus and consolidates control over southern Italy; becomes dominant peninsula power.",
+		"desc_te": "రోమ్ పిర్రస్‌ను ఓడిస్తూ దక్షిణ ఇటలీ నియంత్రణ దృఢీకరిస్తుంది; ద్వీపకల్ప ఆధిపత్య శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-240",
+		"name_en": "Japan Yayoi Period Begins",
+		"name_te": "జపాన్ xlsx పీరియడ్ ప్రారంభం",
+		"location": {
+			"lat": 35,
+			"lng": 137
+		},
+		"desc_en": "Yayoi period begins in Japan; introduction of rice cultivation and metalworking from Asia.",
+		"desc_te": "జపాన్‌లో xlsx పీరియడ్ ప్రారంభమవుతూ ఆసియా నుండి వరి సాగు, లోహ నిర్మాణం ప్రవేశిస్తుంది."
+	},
+	{
+		"year": "-235",
+		"name_en": "Greece Hellenistic League Forms",
+		"name_te": "గ్రీస్ హెలెనిస్టిక్ లీగ్ ఏర్పడుతుంది",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Greek city-states form protective leagues; respond to Macedonian and Hellenistic threats.",
+		"desc_te": "గ్రీక్ నగర-రాష్ట్రాలు రక్షణ లీగ్‌లు ఏర్పరుచుకుంటూ మేసిడోనియన్, హెలెనిస్టిక్ ముప్పులకు ప్రతిస్పందిస్తాయి."
+	},
+	{
+		"year": "-230",
+		"name_en": "India Shunga Dynasty Replaces Maurya",
+		"name_te": "భారత శుంగ రాజవంశ మౌర్యను భర్తీ",
+		"location": {
+			"lat": 23.5,
+			"lng": 80
+		},
+		"desc_en": "Shunga Dynasty replaces Maurya in central India; patronizes Hindu and Buddhist traditions equally.",
+		"desc_te": "శుంగ రాజవంశం కేంద్ర భారతలో మౌర్యలను భర్తీ చేస్తూ హిందూ, బౌద్ధ సంప్రదాయాలను సమానంగా ప్రోత్సహిస్తుంది."
+	},
+	{
+		"year": "-225",
+		"name_en": "Egypt-Nubia Trade Flourishes",
+		"name_te": "ఈజిప్టు-నూబియా వాణిజ్య సమృద్ధి",
+		"location": {
+			"lat": 27.1767,
+			"lng": 34.5597
+		},
+		"desc_en": "Trade between Egypt and Nubia flourishes; exchange of gold, ivory, and luxurious goods.",
+		"desc_te": "ఈజిప్టు, నూబియా మధ్య వాణిజ్యం సమృద్ధిస్తూ బంగారం, దంతాలు, విలాసవంతమైన వస్తువుల వినిమయం జరుగుతుంది."
+	},
+	{
+		"year": "-220",
+		"name_en": "China Great Wall Continues",
+		"name_te": "చైనా గ్రేట్ వాల్ నిరంతరం",
+		"location": {
+			"lat": 40,
+			"lng": 104
+		},
+		"desc_en": "Qin continues building defensive barriers; consolidates wall construction across northern frontier.",
+		"desc_te": "చిన్ రక్షణ ఆచ్ఛాదనాలు నిర్మాణం కొనసాగిస్తూ ఉత్తర సరిహద్దువుగా గోడ నిర్మాణ దృఢీకరిస్తుంది."
+	},
+	{
+		"year": "-215",
+		"name_en": "Rome First Punic War Intensifies",
+		"name_te": "రోమ్ మొదటి ప్యూనిక్ యుద్ధం తీవ్రమవుతుంది",
+		"location": {
+			"lat": 37,
+			"lng": 14
+		},
+		"desc_en": "Rome and Carthage escalate naval conflicts; First Punic War dominates Mediterranean.",
+		"desc_te": "రోమ్, కార్తేజ్ సముద్ర సంఘర్షణ తీవ్రం చేస్తూ మొదటి ప్యూనిక్ యుద్ధం మధ్యసాగర్ ఆధిపత్యం చేస్తుంది."
+	},
+	{
+		"year": "-210",
+		"name_en": "China Terracotta Army Built",
+		"name_te": "చైనా టెరకోటా సైన్యం నిర్మితం",
+		"location": {
+			"lat": 34.3843,
+			"lng": 109.2773
+		},
+		"desc_en": "Qin Shi Huang orders construction of Terracotta Army; thousands of life-sized warriors created for afterlife.",
+		"desc_te": "చిన్ షిహువాంగ్ టెరకోటా సైన్యం నిర్మాణ ఆదేశ; పరలోక సంरक్షణ కోసం వేల సజీవ సైనికులు సృష్టిస్తారు."
+	},
+	{
+		"year": "-205",
+		"name_en": "India Chola Dynasty Expands Trade",
+		"name_te": "భారత చోల రాజవంశ వాణిజ్య విస్తరణ",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "Chola Dynasty expands maritime trade networks; establishes routes to Southeast Asia and beyond.",
+		"desc_te": "చోల రాజవంశం సముద్ర వాణిజ్య నెట్‌వర్క్‌లు విస్తరిస్తూ తూర్పు-దక్షిణ ఆసియా, అంతకు అతీతమైన మార్గాలు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-200",
+		"name_en": "Rome Carthage War Concludes",
+		"name_te": "రోమ్ కార్తేజ్ యుద్ధం సమాప్తమవుతుంది",
+		"location": {
+			"lat": 37,
+			"lng": 14
+		},
+		"desc_en": "First Punic War concludes with Rome's victory; Rome becomes Mediterranean naval power.",
+		"desc_te": "మొదటి ప్యూనిక్ యుద్ధం రోమ్ విజయంతో సమాప్తమవుతూ రోమ్ మధ్యసాగర్ సముద్ర శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-195",
+		"name_en": "Greece Democratic Reforms",
+		"name_te": "గ్రీస్ ప్రజాస్వామ్య సంస్కరణలు",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Greek city-states implement democratic reforms; strengthen citizen participation in governance.",
+		"desc_te": "గ్రీక్ నగర-రాష్ట్రాలు ప్రజాస్వామ్య సంస్కరణలు అమలుచేస్తూ పౌర భాగస్వామ్య పరిపాలనను దృఢీకరిస్తాయి."
+	},
+	{
+		"year": "-190",
+		"name_en": "Egypt Ptolemaic Science Advances",
+		"name_te": "ఈజిప్టు టాలెమీ విజ్ఞానం అభివృద్ధి",
+		"location": {
+			"lat": 31.2001,
+			"lng": 29.9187
+		},
+		"desc_en": "Ptolemaic Egypt becomes center of scientific advancement; mathematics, astronomy flourish in Alexandria.",
+		"desc_te": "టాలెమీ ఈజిప్టు విజ్ఞానాభివృద్ధి కేంద్రంగా మారుతూ అలెక్సాండ్రియాలో గణితం, ఖగోళ శాస్త్రం సమృద్ధిస్తాయి."
+	},
+	{
+		"year": "-185",
+		"name_en": "India Indo-Greek Contact Intensifies",
+		"name_te": "భారత ఇండో-గ్రీక్ సంపర్కం తీవ్రమవుతుంది",
+		"location": {
+			"lat": 32,
+			"lng": 72
+		},
+		"desc_en": "Greek traders establish settlements in northwest India; cultural and commercial integration increases.",
+		"desc_te": "గ్రీక్ వర్తకులు ఉత్తర-పశ్చిమ భారతలో నిబంధనలు స్థాపన చేస్తూ సాంస్కృతిక, వాణిజ్య సమీకరణ పెరిగిపోతుంది."
+	},
+	{
+		"year": "-180",
+		"name_en": "China Han Dynasty Consolidates",
+		"name_te": "చైనా హాన్ రాజవంశ సమీకరణ",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "Han Dynasty consolidates power; expands imperial bureaucracy and establishes governance system.",
+		"desc_te": "హాన్ రాజవంశం శక్తి సమీకరిస్తూ సామ్రాజ్య బ్యూరోక్రసీ విస్తరిస్తూ పరిపాలన వ్యవస్థ స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-175",
+		"name_en": "Japan Yayoi Agricultural Development",
+		"name_te": "జపాన్ xlsx వ్యవసాయ అభివృద్ధి",
+		"location": {
+			"lat": 35,
+			"lng": 137
+		},
+		"desc_en": "Yayoi period sees advancement in rice cultivation and agricultural practices; population grows.",
+		"desc_te": "జపాన్ xlsx కాలంలో వరి సాగు, వ్యవసాయ ఆచరణ అభివృద్ధి; జనసంఖ్య పెరిగిపోతుంది."
+	},
+	{
+		"year": "-170",
+		"name_en": "Rome Expands Greek Territories",
+		"name_te": "రోమ్ గ్రీక్ భూభాగాలను విస్తరిస్తుంది",
+		"location": {
+			"lat": 39,
+			"lng": 22
+		},
+		"desc_en": "Rome gradually expands influence in Greece; threatens Macedonian independence.",
+		"desc_te": "రోమ్ గ్రీస్‌లో ప్రభావం క్రమంగా విస్తరిస్తూ మేసిడోనియన్ స్వాధీనత ముప్పుకు గురిపరుస్తుంది."
+	},
+	{
+		"year": "-165",
+		"name_en": "America Mesoamerica Kingdoms Rise",
+		"name_te": "అమెరికా మెసోअమెరికా రాజ్యాలు ఉద్భవం",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Mayan and other Mesoamerican kingdoms expand; develop complex ceremonial centers.",
+		"desc_te": "మాయా, ఇతర మెసోअమెరికన్ రాజ్యాలు విస్తరిస్తూ సంక్లిష్ట ఆచార కేంద్రాలు అభివృద్ధి చేస్తాయి."
+	},
+	{
+		"year": "-160",
+		"name_en": "India Pandy Kingdom Ascends",
+		"name_te": "భారత పాండియ రాజ్యం ఆరోహణ",
+		"location": {
+			"lat": 8.7,
+			"lng": 77.7
+		},
+		"desc_en": "Pandy Kingdom rises as major maritime power in southern India; rivals Chola dominance.",
+		"desc_te": "పాండియ రాజ్యం దక్షిణ భారతలో ప్రధాన సముద్ర శక్తిగా ఉద్భవిస్తూ చోల ఆధిపత్యానికి ప్రతిష్ఠిస్తుంది."
+	},
+	{
+		"year": "-155",
+		"name_en": "Egypt-Mediterranean Trade Network",
+		"name_te": "ఈజిప్టు-మధ్యసాగర్ వాణిజ్య నెట్‌వర్క్",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Ptolemaic Egypt develops extensive trade networks across Mediterranean; becomes economic powerhouse.",
+		"desc_te": "టాలెమీ ఈజిప్టు మధ్యసాగర్ అంతటా విస్తృత వాణిజ్య నెట్‌వర్క్‌లు అభివృద్ధి చేస్తూ ఆర్థిక శక్తిగా మారుతుంది."
+	}
+]

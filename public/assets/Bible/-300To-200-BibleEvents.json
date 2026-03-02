@@ -1,0 +1,255 @@
+[
+	{
+		"year": "-332",
+		"name_en": "Alexander the Great Conquers Judea",
+		"name_te": "యూదేయా పై అలెగ్జాండర్ విజయం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Alexander the Great conquers Judea, beginning Hellenistic influence",
+		"desc_te": "అలెగ్జాండర్ యూదేయాను జయించి, హెలెనిస్టిక్ ప్రభావాన్ని ప్రారంభించాడు"
+	},
+	{
+		"year": "-323",
+		"name_en": "Wars of the Diadochi Affect Judea",
+		"name_te": "డయాడోచి యుద్ధాలు యూదేయాను ప్రభావితం చేశాయి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Successor wars after Alexander's death bring instability to Judea",
+		"desc_te": "అలెగ్జాండర్ మరణం తర్వాత వారసుల యుద్ధాలు యూదేయాలో అస్థిరతను తెచ్చాయి"
+	},
+	{
+		"year": "-301",
+		"name_en": "Ptolemaic Rule over Judea",
+		"name_te": "యూదేయాపై టోలెమైక్ పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ptolemaic dynasty of Egypt controls Judea for much of the 3rd century BC",
+		"desc_te": "ఈజిప్టు టోలెమైక్ వంశం 3వ శతాబ్దంలో యూదేయాను పాలించింది"
+	},
+	{
+		"year": "-285",
+		"name_en": "Septuagint Translation Begins (Alexandria)",
+		"name_te": "సెప్ట్యుయింట్ అనువాదం ప్రారంభం (అలెగ్జాండ్రియా)",
+		"location": {
+			"lat": 31.2,
+			"lng": 29.9
+		},
+		"desc_en": "Greek translation of the Torah (Septuagint) begins in Alexandria, Egypt",
+		"desc_te": "హెబ్రూ తోరా యొక్క గ్రీకు అనువాదం (సెప్ట్యుయింట్) అలెగ్జాండ్రియాలో ప్రారంభమైంది"
+	},
+	{
+		"year": "-310",
+		"name_en": "High Priesthood of Simon the Just",
+		"name_te": "సైమన్ ది జస్ట్ ప్రధాన యాజకత్వం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Simon the Just serves as High Priest in Jerusalem, known for piety and reforms",
+		"desc_te": "సైమన్ ది జస్ట్ యెరూషలేములో ప్రధాన యాజకుడిగా, భక్తి, సంస్కరణలకు ప్రసిద్ధి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Communities in Alexandria and Babylon",
+		"name_te": "అలెగ్జాండ్రియా, బాబిలోన్‌లో యూదా సముదాయాలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities thrive in Alexandria and Babylon",
+		"desc_te": "అలెగ్జాండ్రియా, బాబిలోన్‌లో యూదా సముదాయాలు అభివృద్ధి చెందాయి"
+	},
+	{
+		"year": "-290",
+		"name_en": "Onias II as High Priest",
+		"name_te": "ఓనియాస్ II ప్రధాన యాజకుడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Onias II serves as High Priest in Jerusalem, continuing the Zadokite line.",
+		"desc_te": "ఓనియాస్ II యెరూషలేములో ప్రధాన యాజకుడిగా, జడోక్ వంశాన్ని కొనసాగించాడు."
+	},
+	{
+		"year": "-246",
+		"name_en": "Ptolemy III Euergetes' Reign",
+		"name_te": "టోలెమీ III యూదేయాపై పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ptolemy III rules Egypt and Judea, maintaining relative peace for Jews.",
+		"desc_te": "టోలెమీ III ఈజిప్టు మరియు యూదేయాపై పాలన కొనసాగించి, యూదులకు కొంత శాంతిని కలిగించాడు."
+	},
+	{
+		"year": "-250",
+		"name_en": "Emergence of the Pharisees and Sadducees",
+		"name_te": "ఫరిసేయులు, సద్దూకేయుల ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Pharisee and Sadducee sects begin to emerge as influential groups in Jewish society.",
+		"desc_te": "ఫరిసేయులు, సద్దూకేయులు యూదా సమాజంలో ప్రాముఖ్యత పొందడం ప్రారంభించారు."
+	},
+	{
+		"year": "-270",
+		"name_en": "Jewish Settlement in Cyrene (Libya)",
+		"name_te": "సైరేన్ (లిబియా)లో యూదా వలసలు",
+		"location": {
+			"lat": 32.7,
+			"lng": 21.8
+		},
+		"desc_en": "Jewish communities are established in Cyrene, North Africa.",
+		"desc_te": "ఉత్తర ఆఫ్రికాలోని సైరేన్‌లో యూదా సముదాయాలు స్థాపించబడ్డాయి."
+	},
+	{
+		"year": "-240",
+		"name_en": "Jewish Scholarship in Alexandria",
+		"name_te": "అలెగ్జాండ్రియాలో యూదా పండితులు",
+		"location": {
+			"lat": 31.2,
+			"lng": 29.9
+		},
+		"desc_en": "Jewish scholars in Alexandria contribute to Hellenistic and Jewish thought.",
+		"desc_te": "అలెగ్జాండ్రియాలో యూదా పండితులు హెలెనిస్టిక్ మరియు యూదా ఆలోచనలకు సహకరించారు."
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Wisdom Literature Composed",
+		"name_te": "యూదా జ్ఞాన సాహిత్యం రచన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Books like Ecclesiasticus and Wisdom of Solomon are written",
+		"desc_te": "ఎక్ళీసియాస్టికస్, విజ్డమ్ ఆఫ్ సొలొమన్ వంటి గ్రంథాలు రచించబడ్డాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Religious Life in the Second Temple Period",
+		"name_te": "రెండవ ఆలయ కాలంలో యూదా మత జీవితం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish worship, festivals, and priestly service continue at the Second Temple",
+		"desc_te": "రెండవ ఆలయంలో యూదా పూజ, పండుగలు, యాజక సేవ కొనసాగాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Pilgrimage Festivals Observed",
+		"name_te": "యూదా యాత్ర పండుగలు నిర్వహణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Passover, Shavuot, and Sukkot celebrated at the Second Temple in Jerusalem",
+		"desc_te": "యెరూషలేములో రెండవ ఆలయంలో పస్కా, షావుయోట్, సుక్కోత్ పండుగలు నిర్వహించబడ్డాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Legal Debates (Halakha)",
+		"name_te": "యూదా చట్ట చర్చలు (హలాఖా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars debate and develop Jewish law (Halakha)",
+		"desc_te": "రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Life in the Diaspora",
+		"name_te": "ప్రవాసంలో యూదా జీవితం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish communities in Alexandria, Babylon, and elsewhere maintain traditions",
+		"desc_te": "అలెగ్జాండ్రియా, బాబిలోన్, ఇతర ప్రాంతాల్లో యూదా సముదాయాలు సంప్రదాయాలను కొనసాగించాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Development of Synagogues",
+		"name_te": "సినగోగ్‌ల అభివృద్ధి",
+		"location": {
+			"lat": 32,
+			"lng": 34.8
+		},
+		"desc_en": "Jewish communities establish synagogues for worship and study outside Jerusalem",
+		"desc_te": "యెరూషలేము వెలుపల యూదా సముదాయాలు పూజ, అధ్యయనం కోసం సినగోగ్‌లను స్థాపించాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Burial Customs Evolve",
+		"name_te": "యూదా సమాధి సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish burial practices and tomb architecture develop in Judea",
+		"desc_te": "యూదేయాలో సమాధి సంప్రదాయాలు, సమాధి నిర్మాణం అభివృద్ధి చెందాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Priestly Families in Jerusalem",
+		"name_te": "యెరూషలేములో యాజక కుటుంబాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Prominent priestly families serve in the Second Temple and influence society",
+		"desc_te": "యెరూషలేములో ప్రముఖ యాజక కుటుంబాలు రెండవ ఆలయంలో సేవ చేసి, సమాజంపై ప్రభావం చూపాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Dietary Laws Observed",
+		"name_te": "యూదా ఆహార నియమాలు పాటింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities strictly observe kosher dietary laws (kashrut)",
+		"desc_te": "యూదా సముదాయాలు కశ్రుత్ ఆహార నియమాలను కఠినంగా పాటించాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Marriage and Family Traditions",
+		"name_te": "యూదా వివాహ, కుటుంబ సంప్రదాయాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Marriage, betrothal, and family customs are practiced and recorded in Jewish texts",
+		"desc_te": "యూదా గ్రంథాల్లో వివాహ, నిశ్చితార్థం, కుటుంబ సంప్రదాయాలు పాటించబడ్డాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Festivals in the Diaspora",
+		"name_te": "ప్రవాసంలో యూదా పండుగలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities celebrate Passover, Purim, and other festivals",
+		"desc_te": "ప్రవాస యూదా సముదాయాలు పస్కా, పూరిమ్, ఇతర పండుగలు జరుపుకుంటాయి"
+	},
+	{
+		"year": "-300",
+		"name_en": "Jewish Trade and Commerce",
+		"name_te": "యూదా వాణిజ్యం, వ్యాపారం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish merchants participate in regional trade across the Mediterranean and Near East",
+		"desc_te": "యూదా వ్యాపారులు మెడిటరేనియన్, సమీప తూర్పు ప్రాంతాల్లో వాణిజ్యంలో పాల్గొన్నారు"
+	}
+]

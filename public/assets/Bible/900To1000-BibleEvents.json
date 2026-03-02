@@ -1,0 +1,211 @@
+[
+	{
+		"year": "900",
+		"name_en": "Eastern Orthodox Christianity Solidifies",
+		"name_te": "తూర్పు ఆర్థోడాక్స్ క్రీస్టియానిటీ దృఢమవుతుంది",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Byzantine Orthodox Christianity becomes institutionalized across Eastern Europe and Mediterranean.",
+		"desc_te": "బైజాంటైన్ ఆర్థోడాక్స్ క్రీస్టియానిటీ తూర్పు ఐరోపా, మధ్యసాగర వ్యాపకంగా సంస్థాపిత కాబడిన విషయం."
+	},
+	{
+		"year": "905",
+		"name_en": "Simeon of Bulgaria's Glory",
+		"name_te": "బల్గేరియ సిమియన్ గొప్పత",
+		"location": {
+			"lat": 43,
+			"lng": 25
+		},
+		"desc_en": "Bulgarian Tsar Simeon expands Orthodox Christianity's influence in Balkans and challenges Byzantium.",
+		"desc_te": "బల్గేరియన్ జార్ సిమియన్ బాల్కన్‌లలో ఆర్థోడాక్స్ క్రీస్టియానిటీ ప్రభావ విస్తరణ, బైజాంటియంకు సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "910",
+		"name_en": "Monastic Reform at Cluny",
+		"name_te": "క్లూనీలో సన్న్యాస సంస్కరణ",
+		"location": {
+			"lat": 46.4,
+			"lng": 4.6
+		},
+		"desc_en": "Cluny monastery becomes engine of monastic reform. Spreads standards across Western Christian world.",
+		"desc_te": "క్లూనీ సన్న్యాస సమాజం సన్న్యాస సంస్కరణ యంత్రం కాబడిన విషయం. పశ్చిమ క్రీస్టియన్ ప్రపంచం వ్యాపకంగా ప్రమాణాలు వ్యాపించిన విషయం."
+	},
+	{
+		"year": "915",
+		"name_en": "Pope John X's Political Power",
+		"name_te": "పోప్ జాన్ X రాజకీయ శక్తి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope John X becomes powerful political figure. Papacy becomes major player in Italian politics.",
+		"desc_te": "పోప్ జాన్ X శక్తిశాలీ రాజకీయ వ్యక్తి కాబడిన విషయం. పాపసిం ఇటాలియన్ రాజకీయాలలో ప్రధాన ఆటగాడు కాబడిన విషయం."
+	},
+	{
+		"year": "920",
+		"name_en": "Conversion of Iceland",
+		"name_te": "ఐస్‌లాండ్ మతాంతరం",
+		"location": {
+			"lat": 64.9,
+			"lng": -19
+		},
+		"desc_en": "Iceland adopts Christianity through peaceful conversion, ending pagan worship in Norse lands.",
+		"desc_te": "ఐస్‌లాండ్ శాంతియుతమైన మతాంతరణ ద్వారా క్రీస్టియానిటీ గ్రహించిన విషయం, నోర్స్ భూమిలో నిందితదేవత ఆరాధన ముగించిన విషయం."
+	},
+	{
+		"year": "925",
+		"name_en": "Otto I and Church Authority",
+		"name_te": "ఓట్టో I, చర్చ అధికారం",
+		"location": {
+			"lat": 52.5,
+			"lng": 13.4
+		},
+		"desc_en": "Otto I of Germany asserts control over German churches, establishing Ottonian dynasty's church authority.",
+		"desc_te": "జర్మానీ ఓట్టో I జర్మన్ చర్చిలపై నియంత్రణ నొక్కిన విషయం, ఓటోనియన్ సంవంశ చర్చ అధికారం ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "930",
+		"name_en": "Dunstan and English Church",
+		"name_te": "డన్‌స్టన్, ఇంగ్లీష్ చర్చ",
+		"location": {
+			"lat": 51,
+			"lng": -1
+		},
+		"desc_en": "Dunstan reforms English church and monasteries. Establishes strict monastic discipline.",
+		"desc_te": "డన్‌స్టన్ ఇంగ్లీష్ చర్చ, సన్న్యాస సమాజాలు సంస్కరణ చేసిన విషయం. కఠోర సన్న్యాస సంఘం ఏర్పాటు చేసిన విషయం."
+	},
+	{
+		"year": "935",
+		"name_en": "Otto Defeats Hungarians at Lechfeld",
+		"name_te": "లెచ్‌ఫీల్డ్‌లో ఓట్టో హంగేరియన్‌లను ఓడించాడు",
+		"location": {
+			"lat": 48.5,
+			"lng": 10.8
+		},
+		"desc_en": "Otto I defeats Hungarian invasions, Christian Europe gains security. Otto becomes Christian champion.",
+		"desc_te": "ఓట్టో I హంగేరియన్ ఆక్రమణ ఓడించిన విషయం, క్రీస్టియన్ ఐరోపా భద్రత లభించిన విషయం. ఓట్టో క్రీస్టియన్ చాంపియన్ కాబడిన విషయం."
+	},
+	{
+		"year": "940",
+		"name_en": "Monastic Learning Preservation",
+		"name_te": "సన్న్యాస జ్ఞానం సంరక్షణ",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Monasteries preserve Greek and Latin classical texts. Dark Ages learning survives through monastic efforts.",
+		"desc_te": "సన్న్యాస సమాజాలు గ్రీక్, లాటిన్ ప్రాచీన గ్రంధాలు సంరక్షించిన విషయం. చీకట్ యుగ జ్ఞానం సన్న్యాస ప్రయత్నాల ద్వారా సుస్థితమైన విషయం."
+	},
+	{
+		"year": "945",
+		"name_en": "Otto's Coronation as Emperor",
+		"name_te": "చక్రవర్తిగా ఓట్టో రాజ్యాభిషేకం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope John XII crowns Otto I as emperor. Revives idea of Holy Roman Empire under German rule.",
+		"desc_te": "పోప్ జాన్ XII ఓట్టో I చక్రవర్తిగా రాజ్యాభిషేకం చేసిన విషయం. జర్మన్ పాలన కింద పవిత్ర రోమన్ సామ్రాజ్య ఆలోచన పున:ప్రారంభం చేసిన విషయం."
+	},
+	{
+		"year": "950",
+		"name_en": "Byzantine Icon Theology",
+		"name_te": "బైజాంటైన్ చిత్ర దేవతాత్త్వం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Byzantine theologians develop sophisticated theology of icons. Icons become central to Orthodox worship.",
+		"desc_te": "బైజాంటైన్ దేవతాత్త్వవేత్తలు చిత్రాల అధిక్రమ దేవతాత్త్వం అభివృద్ధి చేసిన విషయం. చిత్రాలు ఆర్థోడాక్స్ ఆరాధనకు కేంద్రీయం కాబడిన విషయం."
+	},
+	{
+		"year": "955",
+		"name_en": "Otto's Papal Authority",
+		"name_te": "ఓట్టో పాపల్ అధికారం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Otto I exercises control over papal elections. Church-state relations become deeply intertwined.",
+		"desc_te": "ఓట్టో I పాపల్ ఎన్నికలపై నియంత్రణ అనువర్తన చేసిన విషయం. చర్చ-రాష్ట్ర సంబంధాలు లోతుగా సమ్మిళితమైన విషయం."
+	},
+	{
+		"year": "960",
+		"name_en": "Liudprand's Religious Writings",
+		"name_te": "లియుడ్‌ప్రాండ్ ధార్మిక రచనలు",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Liudprand documents church-state conflicts and Byzantine politics in his religious histories.",
+		"desc_te": "లియుడ్‌ప్రాండ్ చర్చ-రాష్ట్ర ఘర్షణలు, బైజాంటైన్ రాజకీయాలు ధార్మిక చరిత్రలలో గ్రధానం చేసిన విషయం."
+	},
+	{
+		"year": "965",
+		"name_en": "Conversion of Kiev to Christianity",
+		"name_te": "కీవ్ క్రీస్టియానిటీకి మతాంతరం",
+		"location": {
+			"lat": 50.45,
+			"lng": 30.52
+		},
+		"desc_en": "Grand Prince Vladimir converts Kiev to Orthodox Christianity, Christianizing Kievan Rus.",
+		"desc_te": "గ్రాండ్ ప్రిన్స్ vladimir కీవ్‌ను ఆర్థోడాక్స్ క్రీస్టియానిటీకి మతాంతరం చేసిన విషయం, కీవన్ రస్‌ను క్రీస్టియానీయం చేసిన విషయం."
+	},
+	{
+		"year": "970",
+		"name_en": "Mount Athos Monastic Communities",
+		"name_te": "మౌంట్ అథోస్ సన్న్యాస సమూహాలు",
+		"location": {
+			"lat": 40.2,
+			"lng": 24.3
+		},
+		"desc_en": "Mount Athos becomes center of Orthodox monastic spirituality. Byzantine monasticism reaches peak.",
+		"desc_te": "మౌంట్ అథోస్ ఆర్థోడాక్స్ సన్న్యాస ఆధ్యాత్మికత కేంద్రం కాబడిన విషయం. బైజాంటైన్ సన్న్యాసజీవనం పీఠస్థానం చేరిన విషయం."
+	},
+	{
+		"year": "975",
+		"name_en": "Gerbert and Scholarly Revival",
+		"name_te": "జెర్బర్ట్, విద్వత్ పునరుజ్జీవనం",
+		"location": {
+			"lat": 44,
+			"lng": 1.5
+		},
+		"desc_en": "Gerbert of Aurillac brings Eastern learning to West. Becomes Pope Sylvester II, advocates reform.",
+		"desc_te": "ఔరిల్లాక్ జెర్బర్ట్ తూర్పు జ్ఞానం పశ్చిమకు తీసుకువచ్చిన విషయం. పోప్ సిల్వెస్టర్ II కాబడిన విషయం, సంస్కరణ advocate చేసిన విషయం."
+	},
+	{
+		"year": "980",
+		"name_en": "Byzantine-Kievan Relations",
+		"name_te": "బైజాంటైన్-కీవన్ సంబంధాలు",
+		"location": {
+			"lat": 50.45,
+			"lng": 30.52
+		},
+		"desc_en": "Byzantine empire influences Kievan Rus through Christianity. Cultural and political ties strengthen.",
+		"desc_te": "బైజాంటైన్ సామ్రాజ్యం క్రీస్టియానిటి ద్వారా కీవన్ రస్‌ను ప్రభావితం చేసిన విషయం. సాంస్కృతిక, రాజకీయ బంధాలు దృఢమైన విషయం."
+	},
+	{
+		"year": "985",
+		"name_en": "Aethelred the Unready and Church",
+		"name_te": "ఆథెల్రెడ్ తయారుకాని, చర్చ",
+		"location": {
+			"lat": 51.5,
+			"lng": -1
+		},
+		"desc_en": "English king Aethelred relies on church for stability against Viking threats and internal conflicts.",
+		"desc_te": "ఇంగ్లీష్ రాజు ఆథెల్రెడ్ వైకింగ్ ప్రమాదాలు, అంతర్గత సంఘర్షణలకు వ్యతిరేకంగా చర్చపై ఆధారపడిన విషయం."
+	},
+	{
+		"year": "990",
+		"name_en": "Millennium Celebrations and Expectations",
+		"name_te": "సహస్రాబ్ది వేడుకలు, అంచనాలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Year 1000 approaches. Expectations of end times or divine judgment shape medieval Christianity.",
+		"desc_te": "1000 సంవత్సరం సమీపించిన విషయం. చరిత్ర చేసిన కాల ఆశలు, దేవుని న్యాయం మధ్యయుగ క్రీస్టియానిటీ ఆకారం ఇస్తుంది."
+	}
+]

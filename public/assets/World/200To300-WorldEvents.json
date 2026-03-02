@@ -1,0 +1,772 @@
+[
+	{
+		"year": "200",
+		"name_en": "Septimius Severus Reforms Roman Army (Europe)",
+		"name_te": "సెప్టిమియస్ సెవెరస్ రోమన్ సైన్యం సంస్కరణలు (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Septimius Severus strengthens the Roman military and increases pay, consolidating power during civil wars.",
+		"desc_te": "చక్రవర్తి సెప్టిమియస్ సెవెరస్ రోమన్ సైన్యాన్ని బలోపేతం చేస్తూ, సైనికుల జీతం పెంచుతూ, నాగరిక యుద్ధాల కాలంలో శక్తిని సమీకరిస్తాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "Three Kingdoms Period Peak (China)",
+		"name_te": "మూడు రాజ్యాల కాలం శిఖరం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Three Kingdoms (Wei, Shu, Wu) establish regional powers in China with distinct cultures and philosophies.",
+		"desc_te": "మూడు రాజ్యాలు (వెయ్, శు, వు) చైనాలో ప్రాంతీయ శక్తులుగా స్థాపిస్తూ, విభిన్న సంస్కృతులు, ఫిలాసఫీలు అభివృద్ధి చేస్తాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Gupta Dynasty Begins (India)",
+		"name_te": "గుప్త రాజవంశం ప్రారంభం (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Chandragupta I founds the Gupta Dynasty, initiating northern India's golden age of art, science, and philosophy.",
+		"desc_te": "చంద్రగుప్తుడు I గుప్త రాజవంశాన్ని స్థాపిస్తూ, ఉత్తర భారతదేశం కళ, శాస్త్రం, తత్వశాస్త్రం యొక్క స్వర్ణయుగాన్ని ప్రారంభిస్తాడు."
+	},
+	{
+		"year": "210",
+		"name_en": "Caracalla Grants Citizenship (Roman Empire)",
+		"name_te": "కరాకల్లా నాగరికత ఆమోదం (రోమన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Caracalla grants Roman citizenship to all male inhabitants of the empire, revolutionizing provincial status.",
+		"desc_te": "చక్రవర్తి కరాకల్లా సామ్రాజ్య సర్వ పురుష జనకు రోమన్ నాగరికత ఆమోదిస్తూ, ప్రావిన్సీయ స్థితిలో విప్లవం కలిగిస్తాడు."
+	},
+	{
+		"year": "220",
+		"name_en": "Sassanian Shapur I Military Victories (Persia)",
+		"name_te": "సస్సానియన్ షాపూర్ I సైనిక విజయాలు (పర్షియా)",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Shapur I of Sassanian Persia defeats Roman Emperor Valerian, capturing vast territories and establishing Persian dominance.",
+		"desc_te": "సస్సానియన్ పర్షియాకు చెందిన షాపూర్ I రోమన్ చక్రవర్తి వాలేరియన్‌ను ఓడించి, విశాల ప్రాంతాలను స్వాధీనం చేసుకుంటూ పర్షియన్ ఆధిపత్యం స్థాపిస్తాడు."
+	},
+	{
+		"year": "230",
+		"name_en": "Gupta Empire Expands (India)",
+		"name_te": "గుప్త సామ్రాజ్యం విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Samudragupta begins military campaigns, expanding the Gupta Empire across northern India through conquest and alliance.",
+		"desc_te": "సముద్రగుప్తుడు సైనిక ప్రచారం ప్రారంభించుతూ, జయం, సంధి ద్వారా గుప్త సామ్రాజ్యాన్ని ఉత్తర భారతదేశంలో విస్తరిస్తాడు."
+	},
+	{
+		"year": "240",
+		"name_en": "Roman Crisis Worsens - Multiple Emperors (Europe)",
+		"name_te": "రోమన్ సంక్షోభం గchurchill్లుతుంది - బహుళ చక్రవర్తులు (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Roman Empire experiences severe instability with rapid succession of emperors, military defeats, and economic collapse.",
+		"desc_te": "రోమన్ సామ్రాజ్యం చక్రవర్తుల వేగ వరుస వారసత్వం, సైనిక పరాజయాలు, ఆర్థిక పతనాలతో తీవ్ర అస్థిరతను ఆస్వాదిస్తుంది."
+	},
+	{
+		"year": "250",
+		"name_en": "Goths Invade Roman Empire (Europe)",
+		"name_te": "గోతులు రోమన్ సామ్రాజ్యానికి ఆక్రమణ (యూరోప్)",
+		"location": {
+			"lat": 43.7,
+			"lng": 25.5
+		},
+		"desc_en": "The Goths cross the Danube and invade the Roman Empire, causing widespread devastation and forcing Roman military responses.",
+		"desc_te": "గోతులు డానూబ్ పడకను దాటి రోమన్ సామ్రాజ్యానికి ఆక్రమణ చేస్తూ, విస్తృత నాశనం కలిగిస్తూ, రోమన్ సైనిక ప్రతిస్పందనలను బలవంతం చేస్తాయి."
+	},
+	{
+		"year": "260",
+		"name_en": "Emperor Gallienus' Reign (Roman Empire)",
+		"name_te": "చక్రవర్తి గల్లియేనస్ పాలన (రోమన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Gallienus faces simultaneous threats from Goths, Franks, Sassanians, and internal usurpers, fragmenting Roman authority.",
+		"desc_te": "గల్లియేనస్ గోతులు, ఫ్రాంక్‌లు, సస్సానియన్‌లు, అంతర్గత ద్రోహుల నుండి ఏక కాలపు ముప్పులను ఎదుర్కుంటూ, రోమన్ అధికారాన్ని విభజిస్తాడు."
+	},
+	{
+		"year": "270",
+		"name_en": "Emperor Aurelian Restores Rome (Europe)",
+		"name_te": "చక్రవర్తి ఆరెలియన్ రోమ్‌ను పునరుద్ధరిస్తాడు (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Aurelian reunites the fragmented Roman Empire, defeats Zenobia of Palmyra, and restores order; builds Aurelian Walls around Rome.",
+		"desc_te": "ఆరెలియన్ విభజిత రోమన్ సామ్రాజ్యాన్ని ఐక్యం చేస్తూ, పల్మిరా జెనోబియాను ఓడించిన్‌తూ, సాధారణం పునరుద్ధరిస్తూ; రోమ చుట్టూ ఆరెలియన్ గోడలు నిర్మిస్తాడు."
+	},
+	{
+		"year": "280",
+		"name_en": "Emperor Diocletian Reforms Roman Empire (Europe)",
+		"name_te": "చక్రవర్తి డియోక్లీషియన్ రోమన్ సామ్రాజ్యాన్ని సంస్కరిస్తాడు (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Diocletian divides the Roman Empire into four administrative regions (Tetrarchy), reorganizes the military, and establishes new capitals.",
+		"desc_te": "డియోక్లీషియన్ రోమన్ సామ్రాజ్యాన్ని నాలుగు పరిపాలక ప్రాంతాలుగా విభజిస్తూ (టెట్రార్కీ), సైన్యాన్ని పునర్సంస్థాపిస్తూ, నవీన రాజధానులు స్థాపిస్తాడు."
+	},
+	{
+		"year": "290",
+		"name_en": "Gupta Cultural Zenith (India)",
+		"name_te": "గుప్త సాంస్కృతిక శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "During Gupta Empire's golden age, Indian mathematics, astronomy, medicine, and literature reach unprecedented heights; Kalidasa's works flourish.",
+		"desc_te": "గుప్త సామ్రాజ్య స్వర్ణయుగంలో, భారతీయ గణితం, ఖగోళ శాస్త్రం, వైద్యకం, సాహిత్యం అభూతపూర్వ శిఖరాలకు చేరుకుంటాయి; కళిదాస సృష్టులు వికసిస్తాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Satavahana Dynasty Declines (India)",
+		"name_te": "సాతవాహన రాజవంశం పతనం (భారతదేశం)",
+		"location": {
+			"lat": 17.4,
+			"lng": 78.5
+		},
+		"desc_en": "The Satavahana dynasty gradually weakens as regional kingdoms emerge in the Deccan region of southern India.",
+		"desc_te": "సాతవాహన రాజవంశం క్రమంగా బలహీనమవుతూ, దక్షిణ భారతదేశం డెక్కన్ ప్రాంతంలో ప్రాంతీయ రాజ్యాలు ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "210",
+		"name_en": "Wei Dynasty Rises (Three Kingdoms, China)",
+		"name_te": "వెయ్ రాజవంశం ఆరోహణ (మూడు రాజ్యాలు, చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Wei kingdom becomes the dominant northern power among the Three Kingdoms, consolidating strength under military leadership.",
+		"desc_te": "వెయ్ రాజ్యం మూడు రాజ్యాల మధ్య ఉత్తర ప్రధాన శక్తిగా ఆరోహణ చేస్తూ, సైనిక నేతృత్వ కింద శక్తిని సమీకరిస్తుంది."
+	},
+	{
+		"year": "220",
+		"name_en": "Sassanian Persia Consolidates (Persia)",
+		"name_te": "సస్సానియన్ పర్షియా సమీకరణ (పర్షియా)",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "The Sassanian Persian Empire establishes firm control over Mesopotamia and neighboring territories, challenging Roman power in the Middle East.",
+		"desc_te": "సస్సానియన్ పర్షియన్ సామ్రాజ్యం మెసోపొటేమియ, పరిసర ప్రాంతాలపై దృఢ నియంత్రణ స్థాపిస్తూ, మధ్య తూర్పులో రోమన్ శక్తిని సవాలు చేస్తుంది."
+	},
+	{
+		"year": "230",
+		"name_en": "Chola Maritime Empire (South India)",
+		"name_te": "చోల సముద్ర సామ్రాజ్యం (దక్షిణ భారత)",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "The Chola Empire establishes maritime dominance across the Indian Ocean, controlling trade with Southeast Asia, Lanka, and Arabia.",
+		"desc_te": "చోల సామ్రాజ్యం భారత మహాసాగర్‌లో సముద్ర ఆధిపత్యం స్థాపిస్తూ, తూర్పు-దక్షిణ ఆసియా, లంక, అరేబియాతో వాణిజ్యాన్ని నియంత్రిస్తుంది."
+	},
+	{
+		"year": "240",
+		"name_en": "Teotihuacan Declines (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ క్షీణత (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan begins to decline as political conflicts and environmental factors weaken the city's stability and influence.",
+		"desc_te": "రాజకీయ సంఘర్షణలు, పరిసర కారణాలు నగరం యొక్క స్థిరత, ప్రభావాన్ని బలహీనం చేస్తూ టియోటిహుయాకాన్ క్షీణత ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "250",
+		"name_en": "Aksum Expands (Ethiopia/East Africa)",
+		"name_te": "అక్సుమ్ విస్తరణ (ఇథియోపియా/తూర్పు ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Aksum expands its power across East Africa, controlling Red Sea trade routes and challenging Arabian influence.",
+		"desc_te": "అక్సుమ్ రాజ్యం తూర్పు ఆఫ్రికా చుట్టూ అధికారాన్ని విస్తరిస్తూ, ఎర్ర సముద్ర వాణిజ్య మార్గాలను నియంత్రిస్తూ, అరేబియన్ ప్రభావానికి సవాల్ చేస్తుంది."
+	},
+	{
+		"year": "260",
+		"name_en": "Yamato Continues Expansion (Japan)",
+		"name_te": "యమాటో సాగు విస్తరణ (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Yamato state continues consolidating power through diplomatic alliances and military campaigns in the Japanese islands.",
+		"desc_te": "యమాటో రాష్ట్రం రాజకీయ సంధులు, సైనిక ప్రచారాల ద్వారా జపాన్ ద్వీపాలలో అధికారాన్ని సమీకరించడం కొనసాగిస్తుంది."
+	},
+	{
+		"year": "270",
+		"name_en": "Moche Culture Apex (Peru)",
+		"name_te": "మోచే సంస్కృతి శిఖరం (పెరూ)",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "The Moche civilization reaches its cultural and political height with sophisticated pottery, irrigation systems, and hierarchical governance.",
+		"desc_te": "మోచే నాగరికత అధునాతన కుండ, సిఎం వ్యవస్థ, సోపాన్న పరిపాలనతో సాంస్కృతిక, రాజకీయ శిఖరానికి చేరుకుంటుంది."
+	},
+	{
+		"year": "280",
+		"name_en": "Wei Dynasty Prosperity (China)",
+		"name_te": "వెయ్ రాజవంశ సమృద్ధి (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Wei kingdom enjoys prosperity with administrative reforms, cultural development, and technological innovations during this period.",
+		"desc_te": "వెయ్ రాజ్యం పరిపాలక సంస్కరణలు, సాంస్కృతిక అభివృద్ధి, సాంకేతిక ఆవిష్కారాలతో సమృద్ధిని ఆస్వాదిస్తుంది."
+	},
+	{
+		"year": "290",
+		"name_en": "Moche Decline Begins (Peru)",
+		"name_te": "మోచే క్షీణత ప్రారంభం (పెరూ)",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "Environmental changes and internal conflicts begin to weaken the Moche civilization, marking the beginning of its gradual decline.",
+		"desc_te": "పరిసర మార్పులు, అంతర్గత సంఘర్షణలు మోచే నాగరికతను బలహీనం చేస్తూ, దాని క్రమ క్షీణత ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Sassanian Empire Founds (Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం స్థాపన (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Ardashir I founds the Sassanian Empire, replacing the Parthian Empire and establishing a powerful new Persian state.",
+		"desc_te": "అర్దషీర్ I సస్సానియన్ సామ్రాజ్యాన్ని స్థాపిస్తూ, పార్థియన్ సామ్రాజ్యాన్ని భర్తీ చేసుకుంటూ, శక్తివంతమైన నవీన పర్షియన్ రాష్ట్రాన్ని ఏర్పాటు చేస్తాడు."
+	},
+	{
+		"year": "210",
+		"name_en": "Shu Kingdom Established (Three Kingdoms, China)",
+		"name_te": "శు రాజ్యం స్థాపన (మూడు రాజ్యాలు, చైనా)",
+		"location": {
+			"lat": 30.6,
+			"lng": 104.1
+		},
+		"desc_en": "Liu Bei establishes the Shu kingdom in southern China, promoting benevolent governance and attracting talented officials and generals.",
+		"desc_te": "లియు బీ దక్షిణ చైనాలో శు రాజ్యాన్ని స్థాపిస్తూ, దయాళువైన పరిపాలన ప్రోత్సహిస్తూ, ప్రతిభావంతమైన అధికారులు, జనరల్‌లను ఆకర్షిస్తాడు."
+	},
+	{
+		"year": "220",
+		"name_en": "Wu Kingdom Expansion (Three Kingdoms, China)",
+		"name_te": "వు రాజ్యం విస్తరణ (మూడు రాజ్యాలు, చైనా)",
+		"location": {
+			"lat": 30.3,
+			"lng": 114.3
+		},
+		"desc_en": "Sun Ce and Sun Quan establish the Wu kingdom in southern China, developing naval power and controlling Yangtze River trade.",
+		"desc_te": "సన్ సీ, సన్ క్వాన్ దక్షిణ చైనాలో వు రాజ్యాన్ని స్థాపిస్తూ, నౌకా శక్తిని అభివృద్ధి చేస్తూ, యాంగ్జీ నది వాణిజ్యాన్ని నియంత్రిస్తారు."
+	},
+	{
+		"year": "230",
+		"name_en": "Frankish Confederation Grows (Northern Europe)",
+		"name_te": "ఫ్రాంక్‌ల సంఘం వృద్ధి (ఉత్తర యూరోప్)",
+		"location": {
+			"lat": 50,
+			"lng": 5
+		},
+		"desc_en": "The Frankish confederation strengthens in northern Gaul and the Rhine region, challenging Roman frontier security.",
+		"desc_te": "ఉత్తర గాల్, రైన్ ప్రాంతంలో ఫ్రాంక్‌ల సంఘం బలోపేతమవుతూ, రోమన్ సరిహద్దు సంరక్షణకు సవాల్ చేస్తుంది."
+	},
+	{
+		"year": "240",
+		"name_en": "Hindu Kush Kingdoms Emerge (Central Asia)",
+		"name_te": "హిందూ కుష్ రాజ్యాలు ఆవిర్భవం (మధ్య ఆసియా)",
+		"location": {
+			"lat": 36,
+			"lng": 69
+		},
+		"desc_en": "Various kingdoms emerge in the Hindu Kush region, controlling important trade routes between India, Persia, and China.",
+		"desc_te": "హిందూ కుష్ ప్రాంతంలో విభిన్న రాజ్యాలు ఆవిర్భవిస్తూ, భారతదేశం, పర్షియా, చైనా మధ్య ముఖ్యమైన వాణిజ్య మార్గాలను నియంత్రిస్తాయి."
+	},
+	{
+		"year": "250",
+		"name_en": "Cyprian Plague Devastates Roman Empire (Europe)",
+		"name_te": "సిప్రియన్ ప్లేగ్ రోమన్ సామ్రాజ్యాన్ని ధ్వంసం చేస్తుంది (యూరోప్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Plague of Cyprian spreads throughout the Roman Empire, killing millions and weakening military strength during crisis period.",
+		"desc_te": "సిప్రియన్ ప్లేగ్ రోమన్ సామ్రాజ్య చుట్టూ వ్యాప్తి చెంది, లక్ష లక్ష మరణాలను కలిగిస్తూ, సంక్షోభ కాలంలో సైనిక శక్తిని బలహీనం చేస్తుంది."
+	},
+	{
+		"year": "260",
+		"name_en": "Valerian Captured by Shapur I (Roman-Sassanian Wars)",
+		"name_te": "వాలేరియన్ షాపూర్ I చేత ఆక్రమిత (రోమన్-సస్సానియన్ యుద్ధాలు)",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Roman Emperor Valerian is captured by Sassanian King Shapur I at the Battle of Edessa, marking a historic Roman defeat.",
+		"desc_te": "రోమన్ చక్రవర్తి వాలేరియన్ ఎడెస్సా యుద్ధంలో సస్సానియన్ రాజు షాపూర్ I చేత ఆక్రమిత, ఇది ఐతిహాసిక రోమన్ పరాజయాన్ని సూచిస్తుంది."
+	},
+	{
+		"year": "270",
+		"name_en": "Palmyra Zenobia Challenge (Middle East)",
+		"name_te": "పల్మిరా జెనోబియా సవాలు (మధ్య తూర్పు)",
+		"location": {
+			"lat": 34.6,
+			"lng": 38.3
+		},
+		"desc_en": "Queen Zenobia of Palmyra leads an independent state, controlling wealthy caravan trade routes and rivaling Roman authority in the East.",
+		"desc_te": "పల్మిరా రాణి జెనోబియా స్వతంత్ర రాష్ట్రానికి నేతృత్వం ఇస్తూ, సంపన్న కారవాన్ వాణిజ్య మార్గాలను నియంత్రిస్తూ, తూర్పులో రోమన్ అధికారానికి సమానంగా ఉంటుంది."
+	},
+	{
+		"year": "280",
+		"name_en": "Eastern Han-Wei Transition (China)",
+		"name_te": "తూర్పు హాన్-వెయ్ పరిణామం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Wei kingdom begins formal assumption of power from the weakened Eastern Han lineage, marking dynastic transition in northern China.",
+		"desc_te": "వెయ్ రాజ్యం బలహీనమైన తూర్పు హాన్ వంశ నుండి అధికారం అధికారికంగా బట్టుకోవడం ప్రారంభిస్తూ, ఉత్తర చైనాలో రాజవంశ పరిణామాన్ని సూచిస్తుంది."
+	},
+	{
+		"year": "290",
+		"name_en": "Constantine's Military Reforms (Roman Empire)",
+		"name_te": "కాన్‌స్టాంటిన్ సైనిక సంస్కరణలు (రోమన్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Constantine I prepares military reforms that will shape the late Roman Empire's defense strategy and governance structure.",
+		"desc_te": "చక్రవర్తి కాన్‌స్టాంటిన్ I సైనిక సంస్కరణలను సిద్ధం చేస్తూ, దీర్ఘ రోమన్ సామ్రాజ్య రక్షణ వ్యూహ, పరిపాలన నిర్మాణాన్ని ఆకారాన్ని ఇస్తాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "Moche Kingdom Dominates Peru",
+		"name_te": "మోచే రాజ్యం పెరూ ఆధిపత్యం",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "Moche civilization establishes widespread urban centers, irrigation networks, and artistic traditions along northern Peru's coast.",
+		"desc_te": "మోచే నాగరికత ఉత్తర పెరూ తీరంలో విస్తృత నగర కేంద్రాలు, సిఎం నెట్‌వర్క్‌లు, కళ సంప్రదాయాలను స్థాపిస్తుంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Kingdom of Himyar Thrives (Arabia)",
+		"name_te": "హిమ్యార్ రాజ్యం సమృద్ధి (అరేబియా)",
+		"location": {
+			"lat": 15.4,
+			"lng": 44.2
+		},
+		"desc_en": "The Himyarite Kingdom flourishes in southern Arabia, controlling frankincense and myrrh trade routes with Mediterranean and Indian Ocean.",
+		"desc_te": "హిమ్యార్ రాజ్యం దక్షిణ అరేబియాలో వికసిస్తూ, సుగంధ, మిర్ర వాణిజ్య మార్గాలను మధ్యసాగర్, భారత మహాసాగర్‌తో నియంత్రిస్తుంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Maya Classic Period Flourishes (Mesoamerica)",
+		"name_te": "మాయా క్లాసిక్ కాలం వికసిస్తుంది (మెసోఅమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "The Maya Classic period reaches its apex with developments in astronomy, mathematics, writing, and monumental architecture.",
+		"desc_te": "మాయా క్లాసిక్ కాలం ఖగోళ శాస్త్రం, గణితం, లిపిభేదం, గుండె నిర్మాణ అభివృద్ధిలో శిఖరానికి చేరుకుంటుంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Funan Kingdom Maritime Trade (Southeast Asia)",
+		"name_te": "ఫునాన్ రాజ్యం సముద్ర వాణిజ్యం (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": 11.5,
+			"lng": 104.9
+		},
+		"desc_en": "The Funan Kingdom dominates maritime trade in Southeast Asia, establishing merchant networks across the Indian Ocean and connecting to China.",
+		"desc_te": "ఫునాన్ రాజ్యం ఆగ్నేయ ఆసియా సముద్ర వాణిజ్యాన్ని ఆధిపత్యం చేస్తూ, భారత మహాసాగర్‌లో వ్యాపారి నెట్‌వర్క్‌లను స్థాపిస్తూ చైనాకు అనుసంధానం చేస్తుంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Three Kingdoms Period Begins (China)",
+		"name_te": "మూడు రాజ్యాల కాలం ప్రారంభం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "The Han Dynasty collapses and the Three Kingdoms period begins in China.",
+		"desc_te": "హాన్ రాజవంశం పతనమై, చైనాలో మూడు రాజ్యాల కాలం ప్రారంభమైంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Roman Empire Crisis of the Third Century",
+		"name_te": "రోమన్ సామ్రాజ్యం మూడవ శతాబ్దపు సంక్షోభం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "The Roman Empire faces political instability, invasions, and economic crisis.",
+		"desc_te": "రోమన్ సామ్రాజ్యం రాజకీయ అస్థిరత, దాడులు, ఆర్థిక సంక్షోభాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "200",
+		"name_en": "Kingdom of Aksum Expands (Ethiopia)",
+		"name_te": "అక్సుమ్ రాజ్యం విస్తరణ (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Aksum expands as a major trading power in East Africa.",
+		"desc_te": "అక్సుమ్ రాజ్యం తూర్పు ఆఫ్రికాలో ప్రధాన వాణిజ్య శక్తిగా విస్తరించింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Yamato State Develops (Japan)",
+		"name_te": "యమాటో రాష్ట్రం అభివృద్ధి (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "The Yamato state continues to develop in Japan, laying the foundation for future imperial rule.",
+		"desc_te": "జపాన్‌లో యమాటో రాష్ట్రం అభివృద్ధి చెందుతూ, భవిష్యత్ చక్రవర్తి పాలనకు పునాది వేశాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Moche Culture Expands (Peru)",
+		"name_te": "మోచే సంస్కృతి విస్తరణ (పెరూ)",
+		"location": {
+			"lat": -8.1,
+			"lng": -78
+		},
+		"desc_en": "Moche culture expands along the northern coast of Peru.",
+		"desc_te": "ఉత్తర పెరూ తీరంలో మోచే సంస్కృతి విస్తరించింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Teotihuacan at its Height (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ శిఖరస్థాయిలో (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan reaches its peak as a major urban center in central Mexico.",
+		"desc_te": "మెక్సికోలో టియోటిహుయాకాన్ ప్రధాన పట్టణంగా శిఖరస్థాయికి చేరింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Aboriginal Songlines Maintained (Australia)",
+		"name_te": "ఆబారిజినల్ సాంగ్‌లైన్స్ కొనసాగింపు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australians maintain ancient songlines, oral maps connecting land and culture.",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు ప్రాచీన సాంగ్‌లైన్స్‌ను, భూమి మరియు సంస్కృతిని కలిపే నోటివెంట మ్యాపులను కొనసాగించారు."
+	},
+	{
+		"year": "200",
+		"name_en": "Sassanian Empire Founded (Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం స్థాపన (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "The Sassanian Empire is founded by Ardashir I, replacing the Parthian Empire in Persia.",
+		"desc_te": "అర్దషీర్ I సస్సానియన్ సామ్రాజ్యాన్ని స్థాపించి, పార్థియన్ సామ్రాజ్యాన్ని భర్తీ చేశాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "Kingdom of Himyar (Arabia)",
+		"name_te": "హిమ్యార్ రాజ్యం (అరేబియా)",
+		"location": {
+			"lat": 15.4,
+			"lng": 44.2
+		},
+		"desc_en": "The Himyarite Kingdom flourishes in southern Arabia, controlling trade routes.",
+		"desc_te": "హిమ్యార్ రాజ్యం దక్షిణ అరేబియాలో వికసించి, వాణిజ్య మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Cheras, Cholas, and Pandyas (South India)",
+		"name_te": "చేర, చోళ, పాండ్య రాజ్యాలు (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 10.8,
+			"lng": 78.7
+		},
+		"desc_en": "The Chera, Chola, and Pandya kingdoms thrive in South India, engaging in trade and cultural exchange.",
+		"desc_te": "దక్షిణ భారతదేశంలో చేర, చోళ, పాండ్య రాజ్యాలు వాణిజ్యం, సాంస్కృతిక మార్పిడిలో పాల్గొన్నాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Roman Baths and Urbanization Expand",
+		"name_te": "రోమన్ స్నానాల విస్తరణ, పట్టణీకరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Public baths and urban infrastructure expand across the Roman Empire.",
+		"desc_te": "రోమన్ సామ్రాజ్యంలో ప్రజా స్నానాలు, పట్టణ మౌలిక సదుపాయాలు విస్తరించాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Rock Art at Kakadu (Australia)",
+		"name_te": "కాకాడు వద్ద రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.5,
+			"lng": 132.5
+		},
+		"desc_en": "Aboriginal Australians create and maintain rock art galleries in Kakadu region.",
+		"desc_te": "కాకాడు ప్రాంతంలో ఆబారిజినల్ ఆస్ట్రేలియన్లు రాక్ ఆర్ట్ గ్యాలరీలను సృష్టించి, సంరక్షించారు."
+	},
+	{
+		"year": "200",
+		"name_en": "Spread of Christianity in Roman Empire",
+		"name_te": "రోమన్ సామ్రాజ్యంలో క్రైస్తవ మతం వ్యాప్తి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Christianity spreads throughout the Roman Empire, gaining followers in major cities.",
+		"desc_te": "రోమన్ సామ్రాజ్యంలో క్రైస్తవ మతం వ్యాప్తి చెందింది, ప్రధాన నగరాల్లో అనుచరులు పెరిగారు."
+	},
+	{
+		"year": "200",
+		"name_en": "Early Classic Maya Civilization (America)",
+		"name_te": "ప్రారంభ క్లాసిక్ మాయా నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Early Classic period of Maya civilization continues, with major city-states emerging.",
+		"desc_te": "మాయా నాగరికత ప్రారంభ క్లాసిక్ కాలం కొనసాగి, ప్రధాన నగర-రాజ్యాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "King Chandragupta I (Gupta Empire, India)",
+		"name_te": "చంద్రగుప్తుడు I (గుప్త సామ్రాజ్యం, భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Chandragupta I, founder of the Gupta Empire, begins consolidating power in northern India.",
+		"desc_te": "చంద్రగుప్తుడు I గుప్త సామ్రాజ్యాన్ని స్థాపించి, ఉత్తర భారతదేశంలో అధికారాన్ని సమీకరించడం ప్రారంభించాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "King Oda of Yamato (Japan)",
+		"name_te": "యమాటో రాజు ఓడా (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "King Oda is a legendary early ruler of the Yamato state in Japan.",
+		"desc_te": "ఓడా, జపాన్‌లోని యమాటో రాష్ట్రం యొక్క ప్రాచీన రాజుగా పరిగణించబడతాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "King Shapur I of Sassanian Empire (Persia)",
+		"name_te": "సస్సానియన్ సామ్రాజ్యం షాపూర్ I (పర్షియా)",
+		"location": {
+			"lat": 29.6,
+			"lng": 52.5
+		},
+		"desc_en": "Shapur I, a prominent Sassanian king, expands the empire and defeats Roman armies.",
+		"desc_te": "షాపూర్ I, ప్రముఖ సస్సానియన్ రాజు, సామ్రాజ్యాన్ని విస్తరించి, రోమన్ సైన్యాలను ఓడించాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "Roman-Persian Wars Continue",
+		"name_te": "రోమన్-పర్షియన్ యుద్ధాలు కొనసాగుతాయి",
+		"location": {
+			"lat": 36.3,
+			"lng": 43.1
+		},
+		"desc_en": "Conflicts between the Roman and Sassanian Empires continue for control of Mesopotamia and Armenia.",
+		"desc_te": "మెసొపొటేమియా, అర్మేనియా నియంత్రణ కోసం రోమన్, సస్సానియన్ సామ్రాజ్యాల మధ్య యుద్ధాలు కొనసాగాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Expansion of Zapotec Civilization (Mexico)",
+		"name_te": "జపోటెక్ నాగరికత విస్తరణ (మెక్సికో)",
+		"location": {
+			"lat": 17.1,
+			"lng": -96.7
+		},
+		"desc_en": "Zapotec civilization expands in Oaxaca Valley, Mexico, developing writing and urban centers.",
+		"desc_te": "మెక్సికోలో ఒక్సాకా లోయలో జపోటెక్ నాగరికత విస్తరించి, లిపి, పట్టణ కేంద్రాలను అభివృద్ధి చేసింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Germanic Goths Migrate (Europe)",
+		"name_te": "యూరోప్‌లో గోతిక్ వలసలు",
+		"location": {
+			"lat": 54,
+			"lng": 18
+		},
+		"desc_en": "The Goths, a Germanic people, migrate from Scandinavia to the Black Sea region.",
+		"desc_te": "గోత్స్ అనే జర్మానిక్ ప్రజలు స్కాండినేవియా నుండి నల్ల సముద్ర ప్రాంతానికి వలస వెళ్ళారు."
+	},
+	{
+		"year": "200",
+		"name_en": "King Samudragupta (Gupta Empire, India)",
+		"name_te": "గుప్త సామ్రాజ్యం సముద్రగుప్తుడు (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Samudragupta, one of the greatest rulers of the Gupta Empire, begins his reign and expands the empire.",
+		"desc_te": "సముద్రగుప్తుడు, గుప్త సామ్రాజ్యంలోని గొప్ప రాజుల్లో ఒకడు, తన పాలన ప్రారంభించి సామ్రాజ్యాన్ని విస్తరించాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "King Tiridates II of Armenia",
+		"name_te": "అర్మేనియా రాజు తిరిడేట్స్ II",
+		"location": {
+			"lat": 40.2,
+			"lng": 44.5
+		},
+		"desc_en": "Tiridates II rules Armenia, navigating between Roman and Persian influence.",
+		"desc_te": "తిరిడేట్స్ II అర్మేనియాను పాలించాడు, రోమన్ మరియు పర్షియన్ ప్రభావాల మధ్య సమతుల్యత సాధించాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "Kingdom of Funan Expands (Southeast Asia)",
+		"name_te": "ఫునాన్ రాజ్యం విస్తరణ (ఆగ్నేయ ఆసియా)",
+		"location": {
+			"lat": 11.5,
+			"lng": 104.9
+		},
+		"desc_en": "Funan Kingdom expands in the Mekong Delta, becoming a major trading center in Southeast Asia.",
+		"desc_te": "ఫునాన్ రాజ్యం మెకాంగ్ డెల్టాలో విస్తరించి, ఆగ్నేయ ఆసియాలో ప్రధాన వాణిజ్య కేంద్రంగా మారింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Early Classic Zapotec Civilization (Mexico)",
+		"name_te": "ప్రారంభ క్లాసిక్ జపోటెక్ నాగరికత (మెక్సికో)",
+		"location": {
+			"lat": 17.1,
+			"lng": -96.7
+		},
+		"desc_en": "Early Classic period of Zapotec civilization in Oaxaca Valley, Mexico.",
+		"desc_te": "మెక్సికోలో ఒక్సాకా లోయలో ప్రారంభ క్లాసిక్ జపోటెక్ నాగరికత."
+	},
+	{
+		"year": "200",
+		"name_en": "Spread of Mahayana Buddhism (Asia)",
+		"name_te": "మహాయాన బౌద్ధమతం వ్యాప్తి (ఆసియా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Mahayana Buddhism spreads across Central and East Asia, influencing art and philosophy.",
+		"desc_te": "మహాయాన బౌద్ధమతం మధ్య, తూర్పు ఆసియాలో వ్యాప్తి చెంది, కళ, తత్వశాస్త్రాన్ని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Rock Art at Ubirr (Australia)",
+		"name_te": "ఉబిర్ర్ వద్ద రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.415,
+			"lng": 132.995
+		},
+		"desc_en": "Indigenous people create and maintain rock art galleries in Arnhem Land.",
+		"desc_te": "ఆర్నెమ్ ల్యాండ్‌లో ఆదివాసీలు రాక్ ఆర్ట్ గ్యాలరీలను సృష్టించి, సంరక్షించారు."
+	},
+	{
+		"year": "200",
+		"name_en": "Roman Law and Citizenship Expanded",
+		"name_te": "రోమన్ చట్టం, పౌరసత్వ విస్తరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman law and citizenship are extended to more provinces, integrating diverse peoples.",
+		"desc_te": "రోమన్ చట్టం, పౌరసత్వం మరిన్ని ప్రావిన్సులకు విస్తరించి, విభిన్న ప్రజలను ఏకీకృతం చేసింది."
+	},
+	{
+		"year": "200",
+		"name_en": "King Rudrasena I (Western Satraps, India)",
+		"name_te": "వెస్ట్రన్ శత్రప్స్ రాజు రుద్రసేన I (భారతదేశం)",
+		"location": {
+			"lat": 21.2,
+			"lng": 72.8
+		},
+		"desc_en": "Rudrasena I, a ruler of the Western Satraps, consolidates power in western India.",
+		"desc_te": "రుద్రసేన I, వెస్ట్రన్ శత్రప్స్ పాలకుడు, పశ్చిమ భారతదేశంలో అధికారాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "200",
+		"name_en": "King Cormac mac Airt (Ireland)",
+		"name_te": "ఐర్లాండ్ రాజు కోర్మాక్ మాక్ ఆర్ట్",
+		"location": {
+			"lat": 53.3,
+			"lng": -8.2
+		},
+		"desc_en": "Cormac mac Airt, a legendary High King of Ireland, is said to have ruled at Tara.",
+		"desc_te": "కోర్మాక్ మాక్ ఆర్ట్, ఐర్లాండ్‌లోని ప్రసిద్ధ హై కింగ్, తారా వద్ద పాలించాడని చెబుతారు."
+	},
+	{
+		"year": "200",
+		"name_en": "Kingdom of Axum Adopts Coinage (Ethiopia)",
+		"name_te": "అక్సుమ్ రాజ్యం నాణేలు ప్రవేశపెట్టింది (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "The Kingdom of Axum begins minting coins, facilitating trade across Africa and Arabia.",
+		"desc_te": "అక్సుమ్ రాజ్యం నాణేలు ముద్రించడం ప్రారంభించి, ఆఫ్రికా, అరేబియాలో వాణిజ్యాన్ని సులభతరం చేసింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Roman Baths at Bath (Britain)",
+		"name_te": "బాత్‌లో రోమన్ స్నానాల నిర్మాణం (బ్రిటన్)",
+		"location": {
+			"lat": 51.3811,
+			"lng": -2.359
+		},
+		"desc_en": "The Romans construct elaborate public baths at Bath, England, which become a major social and cultural center.",
+		"desc_te": "ఇంగ్లాండ్‌లోని బాత్ వద్ద రోమన్ ప్రజా స్నానాలు నిర్మించబడ్డాయి, ఇవి ముఖ్యమైన సామాజిక, సాంస్కృతిక కేంద్రంగా మారాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Mound Builders of North America",
+		"name_te": "ఉత్తర అమెరికా మౌండ్ బిల్డర్స్",
+		"location": {
+			"lat": 39.3,
+			"lng": -82.9
+		},
+		"desc_en": "Mound-building cultures such as the Hopewell continue to construct ceremonial earthworks in North America.",
+		"desc_te": "హోప్‌వెల్ వంటి మౌండ్ బిల్డింగ్ సంస్కృతులు ఉత్తర అమెరికాలో వేడుకల భూమి నిర్మాణాలను కొనసాగించాయి."
+	},
+	{
+		"year": "200",
+		"name_en": "Expansion of Germanic Vandals (Europe)",
+		"name_te": "యూరోప్‌లో వాండల్స్ విస్తరణ",
+		"location": {
+			"lat": 52,
+			"lng": 10
+		},
+		"desc_en": "The Vandals, a Germanic tribe, expand their territory in Europe.",
+		"desc_te": "వాండల్స్ అనే జర్మానిక్ గోత్రం యూరోప్‌లో తమ ప్రాంతాన్ని విస్తరించింది."
+	},
+	{
+		"year": "200",
+		"name_en": "Rock Art at Murujuga (Australia)",
+		"name_te": "మురుజుగాలో రాక్ ఆర్ట్ (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -20.6,
+			"lng": 116.8
+		},
+		"desc_en": "Aboriginal Australians create extensive petroglyphs at Murujuga (Burrup Peninsula).",
+		"desc_te": "ఆబారిజినల్ ఆస్ట్రేలియన్లు మురుజుగాలో (బుర్రప్ ద్వీపకల్పం) విస్తృతమైన రాక్ ఆర్ట్ సృష్టించారు."
+	}
+]

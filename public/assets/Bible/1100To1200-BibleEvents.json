@@ -1,0 +1,211 @@
+[
+	{
+		"year": "1100",
+		"name_en": "First Crusade Captures Jerusalem",
+		"name_te": "మొదటి సలీబీయ చలనం జెరూసలెం స్వాధీనం చేసుకుంది",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.24
+		},
+		"desc_en": "Crusaders capture Jerusalem after siege. Christian kingdom established in Holy Land.",
+		"desc_te": "సలీబీయులు ముట్టడిమీద జెరూసలెం స్వాధీనం చేసుకున్నారు. పవిత్ర భూమిలో క్రీస్టియన్ రాజ్యం స్థాపన చేయబడిన విషయం."
+	},
+	{
+		"year": "1105",
+		"name_en": "Crusader States Established",
+		"name_te": "సలీబీయ రాష్ట్రాలు స్థాపన చేయబడ్డాయి",
+		"location": {
+			"lat": 33,
+			"lng": 35
+		},
+		"desc_en": "Multiple Crusader kingdoms formed in Levant. Church extends authority over conquered territories.",
+		"desc_te": "లెవాంట్‌లో బహుళ సలీబీయ రాజ్యాలు రూపుదిద్దుకుంటాయి. జయిన్న ప్రాంతాలపై చర్చ అధికారం విస్తరించిన విషయం."
+	},
+	{
+		"year": "1110",
+		"name_en": "Anselm's Theological Works",
+		"name_te": "ఆన్‍సెల్‌మ్ సిద్ధాంత రచనలు",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Anselm's writings on atonement become foundational for medieval theology. Scholasticism matures.",
+		"desc_te": "ఆన్‍సెల్‌మ్ పరిహారం గురించిన రచనలు మధ్యయుగ దేవతాత్త్వానికి ఆధార కాబడిన విషయం. స్కూలస్టిసిజం పరిణతి చేరిన విషయం."
+	},
+	{
+		"year": "1115",
+		"name_en": "Bernard of Clairvaux's Influence",
+		"name_te": "క్లెర్‌వాక్స్ బెర్నార్డ్ ప్రభావం",
+		"location": {
+			"lat": 48.3,
+			"lng": 2.8
+		},
+		"desc_en": "Bernard becomes influential spiritual leader. Promotes Cistercian monasticism and mystical theology.",
+		"desc_te": "బెర్నార్డ్ ప్రభావశాలీ ఆధ్యాత్మిక నాయకుడు కాబడిన విషయం. సిస్టర్సియన్ సన్న్యాసజీవనం, రహస్య దేవతాత్త్వం ప్రోత్సహిస్తూ నిలిచిన విషయం."
+	},
+	{
+		"year": "1120",
+		"name_en": "Crusading Orders Founded",
+		"name_te": "సలీబీయ క్రమం స్థాపన చేయబడిన విషయం",
+		"location": {
+			"lat": 31.78,
+			"lng": 35.24
+		},
+		"desc_en": "Military-monastic orders like Templars founded. Combine warfare with religious discipline.",
+		"desc_te": "టెంపలర్ల నుండి సైన్య-సన్న్యాస క్రమం స్థాపన చేయబడిన విషయం. సంగ్రామం, ధార్మిక శిక్షణను సమన్వయం చేసిన విషయం."
+	},
+	{
+		"year": "1125",
+		"name_en": "Second Crusade Preparations",
+		"name_te": "రెండవ సలీబీయ చలన సన్నద్ధతలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Church prepares Second Crusade to recapture lost territories. Bernard preaches crusade.",
+		"desc_te": "చర్చ కోల్పోయిన ప్రాంతాలను పున:స్వాధీనం చేసుకోవటానికి రెండవ సలీబీయ చలన సన్నద్ధ చేసిన విషయం. బెర్నార్డ్ సలీబీయ చలన ప్రాచారం చేసిన విషయం."
+	},
+	{
+		"year": "1130",
+		"name_en": "Abelard and Heloise Controversy",
+		"name_te": "అబెలార్డ్, హెలోయిస్ వివాదం",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Abelard's theological works create controversy. Church debates rational theology versus faith.",
+		"desc_te": "అబెలార్డ్ సిద్ధాంత రచనలు వివాదం సృష్టించిన విషయం. చర్చ హేతువస్థానం దేవతాత్త్వం వర్సెస్ విశ్వాస చర్చ చేసిన విషయం."
+	},
+	{
+		"year": "1135",
+		"name_en": "Lombard's Sentences and Scholasticism",
+		"name_te": "లాంబర్డ్ సంతానాలు, స్కూలస్టిసిజం",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Peter Lombard systematizes theology through Sentences. Becomes standard theological text.",
+		"desc_te": "పీటర్ లాంబర్డ్ సంతానాల ద్వారా దేవతాత్త్వం వ్యవస్థితం చేసిన విషయం. ప్రమాణ దేవతాత్త్వ గ్రంధం కాబడిన విషయం."
+	},
+	{
+		"year": "1140",
+		"name_en": "Second Crusade Launched",
+		"name_te": "రెండవ సలీబీయ చలనం ప్రారంభించిన విషయం",
+		"location": {
+			"lat": 35,
+			"lng": 35
+		},
+		"desc_en": "Second Crusade marches toward Levant. Church continues military efforts to control Holy Land.",
+		"desc_te": "రెండవ సలీబీయ చలనం లెవాంట్‌కు కవాతు చేసిన విషయం. చర్చ పవిత్ర భూమిని నియంత్రించటానికి సైన్య ప్రయత్నాలు కొనసాగించిన విషయం."
+	},
+	{
+		"year": "1145",
+		"name_en": "Saladin Rises in Islamic World",
+		"name_te": "సలాదిన్ ఇస్లామిక్ ప్రపంచంలో ఉదయమైన విషయం",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Saladin unites Islamic territories. Christian position in Levant becomes threatened.",
+		"desc_te": "సలాదిన్ ఇస్లామిక్ భూభాగాలను ఏకీకృతం చేసిన విషయం. లెవాంట్‌లో క్రీస్టియన్ స్థానం ప్రమాదానికి గురిచేయబడిన విషయం."
+	},
+	{
+		"year": "1150",
+		"name_en": "Gratian's Decretals and Church Law",
+		"name_te": "గ్రేషియన్ డిక్రీటల్‌లు, చర్చ చట్టం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Gratian systematizes church law into Decretum. Canon law becomes foundational discipline.",
+		"desc_te": "గ్రేషియన్ చర్చ చట్టం డిక్రీటమ్‌లో వ్యవస్థితం చేసిన విషయం. కానన్ చట్టం ఆధార విశేషత్వ కాబడిన విషయం."
+	},
+	{
+		"year": "1155",
+		"name_en": "Becket and Henry II Conflict",
+		"name_te": "బెకెట్, హెన్రీ II సంఘర్షణ",
+		"location": {
+			"lat": 51.28,
+			"lng": 1.09
+		},
+		"desc_en": "Thomas Becket as Archbishop of Canterbury clashes with King Henry II over church authority.",
+		"desc_te": "కాంటర్‌బరీ ఆర్చ్‌బిషప్ థామస్ బెకెట్ రాజు హెన్రీ II తో చర్చ అధికారం గురించి ఘర్షణ చేసిన విషయం."
+	},
+	{
+		"year": "1160",
+		"name_en": "Murder of Becket",
+		"name_te": "బెకెట్ హత్య",
+		"location": {
+			"lat": 51.28,
+			"lng": 1.09
+		},
+		"desc_en": "Becket murdered in Canterbury Cathedral. King Henry does penance. Church gains martyr.",
+		"desc_te": "బెకెట్ కాంటర్‌బరీ ఆలయంలో హతం చేయబడిన విషయం. రాజు హెన్రీ తపస్య చేసిన విషయం. చర్చ శిరోమణిని లభించిన విషయం."
+	},
+	{
+		"year": "1165",
+		"name_en": "Third Crusade Called",
+		"name_te": "మూడవ సలీబీయ చలనం పిలిచిన విషయం",
+		"location": {
+			"lat": 35,
+			"lng": 35
+		},
+		"desc_en": "Church calls for Third Crusade after Saladin's victories. Kings prepare military response.",
+		"desc_te": "సలాదిన్ విజయాల తర్వాత చర్చ మూడవ సలీబీయ చలనం పిలిచిన విషయం. రాజులు సైన్య ప్రతిస్పందన సన్నద్ధ చేసిన విషయం."
+	},
+	{
+		"year": "1170",
+		"name_en": "Waldensian Movement",
+		"name_te": "వాల్డెన్సియన్ చలనం",
+		"location": {
+			"lat": 45.2,
+			"lng": 7.3
+		},
+		"desc_en": "Waldensian reform movement challenges church authority. Church condemns movement as heretical.",
+		"desc_te": "వాల్డెన్సియన్ సంస్కరణ చలనం చర్చ అధికారానికి సవాలు విసిరిన విషయం. చర్చ చలనం నిందితత్వ నిందన చేసిన విషయం."
+	},
+	{
+		"year": "1175",
+		"name_en": "Saladin Defeats Crusaders",
+		"name_te": "సలాదిన్ సలీబీయులను ఓడించాడు",
+		"location": {
+			"lat": 32.7,
+			"lng": 35.2
+		},
+		"desc_en": "Saladin crushes Crusader armies at Hattin. Jerusalem falls to Islamic forces. Church alarmed.",
+		"desc_te": "సలాదిన్ హట్టిన్ వద్ద సలీబీయ సైన్యాలను ఇష్టం చేసిన విషయం. జెరూసలెం ఇస్లామిక్ బలానికి రాజుకాబడిన విషయం. చర్చ ఆందోళన చెందిన విషయం."
+	},
+	{
+		"year": "1180",
+		"name_en": "Third Crusade of Kings",
+		"name_te": "రాజుల మూడవ సలీబీయ చలనం",
+		"location": {
+			"lat": 35,
+			"lng": 35
+		},
+		"desc_en": "Major European kings lead Third Crusade. Massive military expedition sent to Holy Land.",
+		"desc_te": "ఐరోపా ప్రధాన రాజులు మూడవ సలీబీయ చలన నాయకత్వం ఇచ్చిన విషయం. పవిత్ర భూముకు భారీ సైన్య ఎక్స్‌పీడిషన్ పంపిన విషయం."
+	},
+	{
+		"year": "1185",
+		"name_en": "Peace Treaty and Ransom",
+		"name_te": "శాంతి ఒప్పందం, విమోచన",
+		"location": {
+			"lat": 35,
+			"lng": 35
+		},
+		"desc_en": "Third Crusade ends with truce. Richard the Lionheart negotiates peace. Church maintains influence.",
+		"desc_te": "మూడవ సలీబీయ చలనం శాంతిస్ఠితితో ముగిసిన విషయం. సింహహృదయ రిచర్డ్ శాంతి చర్చ చేసిన విషయం. చర్చ ప్రభావం నిలిచిన విషయం."
+	},
+	{
+		"year": "1190",
+		"name_en": "Innocent III and Medieval Papal Power",
+		"name_te": "ఇన్నోసెంట్ III, మధ్యయుగ పాపల్ శక్తి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Innocent III becomes pope, represents height of medieval papal authority and influence.",
+		"desc_te": "ఇన్నోసెంట్ III పోప్‌గా నిలిచిన విషయం, మధ్యయుగ పాపల్ అధికారం, ప్రభావ శిఖరాన్ని సూచిస్తుంది."
+	}
+]

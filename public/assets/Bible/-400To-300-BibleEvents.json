@@ -1,0 +1,299 @@
+[
+	{
+		"year": "-400",
+		"name_en": "Persian Rule over Judea",
+		"name_te": "యూదేయాపై పర్షియన్ పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Judea is governed as a province of the Persian Empire, with local high priests as leaders",
+		"desc_te": "యూదేయా పర్షియన్ సామ్రాజ్యంలోని ఒక ప్రావిన్స్‌గా, స్థానిక ప్రధాన యాజకుల నేతృత్వంలో పాలించబడింది"
+	},
+	{
+		"year": "-400",
+		"name_en": "Completion and Use of the Second Temple",
+		"name_te": "రెండవ ఆలయ నిర్మాణం, వినియోగం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Second Temple in Jerusalem is completed and becomes the center of Jewish worship",
+		"desc_te": "యెరూషలేములో రెండవ ఆలయం పూర్తై, యూదా పూజకు కేంద్రంగా మారింది"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Life under Persian and Early Hellenistic Rule",
+		"name_te": "పర్షియన్, ప్రారంభ హెలెనిస్టిక్ పాలనలో యూదా జీవితం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities maintain traditions and religious practices under foreign rule",
+		"desc_te": "విదేశీ పాలనలో యూదా సముదాయాలు సంప్రదాయాలు, మతాచరణ కొనసాగించాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "High Priests Lead Judea",
+		"name_te": "ప్రధాన యాజకులు యూదేయాను నడిపించారు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "High priests serve as both religious and political leaders in Judea",
+		"desc_te": "యూదేయాలో ప్రధాన యాజకులు మత, రాజకీయ నాయకులుగా వ్యవహరించారు"
+	},
+	{
+		"year": "-400",
+		"name_en": "Development of Jewish Scriptures and Traditions",
+		"name_te": "యూదా గ్రంథాలు, సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Compilation and study of Torah and other Jewish texts continues",
+		"desc_te": "తోరా, ఇతర యూదా గ్రంథాల సంకలన, అధ్యయనం కొనసాగింది"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Festivals and Pilgrimage",
+		"name_te": "యూదా పండుగలు, యాత్రలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Passover, Shavuot, and Sukkot celebrated at the Second Temple",
+		"desc_te": "రెండవ ఆలయంలో పస్కా, షావుయోట్, సుక్కోత్ పండుగలు జరుపుకున్నారు"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Communities in Babylon and Egypt",
+		"name_te": "బాబిలోన్, ఈజిప్ట్‌లో యూదా సముదాయాలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jewish diaspora communities thrive in Babylon and Egypt, maintaining ties to Jerusalem",
+		"desc_te": "బాబిలోన్, ఈజిప్ట్‌లో యూదా సముదాయాలు అభివృద్ధి చెందాయి, యెరూషలేముతో సంబంధాలు కొనసాగించాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Priestly Courses and Temple Service Organized",
+		"name_te": "యాజక వర్గాలు, ఆలయ సేవా వ్యవస్థ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Priestly families are organized into courses for regular service at the Second Temple",
+		"desc_te": "రెండవ ఆలయంలో యాజక కుటుంబాలు సేవా వర్గాలుగా ఏర్పాటయ్యాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Ezra's Legal and Religious Reforms Influence Judea",
+		"name_te": "ఎజ్రా చట్ట, మత సంస్కరణలు ప్రభావం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ezra's reforms continue to shape Jewish law and community life",
+		"desc_te": "ఎజ్రా సంస్కరణలు యూదా ధర్మం, సమాజాన్ని ప్రభావితం చేశాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Marriage and Family Traditions",
+		"name_te": "యూదా వివాహ, కుటుంబ సంప్రదాయాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Marriage, betrothal, and family customs are practiced and recorded in Jewish texts",
+		"desc_te": "యూదా గ్రంథాల్లో వివాహ, నిశ్చితార్థం, కుటుంబ సంప్రదాయాలు పాటించబడ్డాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Dietary Laws Observed",
+		"name_te": "యూదా ఆహార నియమాలు పాటింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities strictly observe kosher dietary laws (kashrut)",
+		"desc_te": "యూదా సముదాయాలు కశ్రుత్ ఆహార నియమాలను కఠినంగా పాటించాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Development of Synagogues",
+		"name_te": "సినగోగ్‌ల అభివృద్ధి",
+		"location": {
+			"lat": 32,
+			"lng": 34.8
+		},
+		"desc_en": "Jewish communities establish synagogues for worship and study outside Jerusalem",
+		"desc_te": "యెరూషలేము వెలుపల యూదా సముదాయాలు పూజ, అధ్యయనం కోసం సినగోగ్‌లను స్థాపించాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Legal Debates (Halakha)",
+		"name_te": "యూదా చట్ట చర్చలు (హలాఖా)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars debate and develop Jewish law (Halakha)",
+		"desc_te": "రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Scribes and Scholars Active",
+		"name_te": "యూదా లేఖకులు, పండితులు చురుకుగా ఉన్నారు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Scribes and scholars copy, interpret, and teach Jewish scriptures in Judea and the diaspora",
+		"desc_te": "యూదేయా, ప్రవాసంలో లేఖకులు, పండితులు గ్రంథాలను నకలు చేసి, బోధించారు"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Education and Study Circles",
+		"name_te": "యూదా విద్య, అధ్యయన వర్గాలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Study circles and schools for Torah and Jewish law develop in Judea and diaspora",
+		"desc_te": "యూదేయా, ప్రవాసంలో తోరా, ధర్మం కోసం అధ్యయన వర్గాలు, పాఠశాలలు అభివృద్ధి చెందాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Women in Community Life",
+		"name_te": "యూదా మహిళలు సమాజంలో",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish women participate in family, religious, and community life, as recorded in biblical texts",
+		"desc_te": "యూదా మహిళలు కుటుంబ, మత, సమాజ జీవితంలో పాల్గొన్నారు, గ్రంథాల్లో పేర్కొనబడ్డారు"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Festivals in the Diaspora",
+		"name_te": "ప్రవాసంలో యూదా పండుగలు",
+		"location": {
+			"lat": 32.54,
+			"lng": 44.42
+		},
+		"desc_en": "Jewish diaspora communities celebrate Passover, Purim, and other festivals",
+		"desc_te": "ప్రవాస యూదా సముదాయాలు పస్కా, పూరిమ్, ఇతర పండుగలు జరుపుకుంటాయి"
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Trade and Commerce",
+		"name_te": "యూదా వాణిజ్యం, వ్యాపారం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish merchants participate in regional trade across the Mediterranean and Near East",
+		"desc_te": "యూదా వ్యాపారులు మెడిటరేనియన్, సమీప తూర్పు ప్రాంతాల్లో వాణిజ్యంలో పాల్గొన్నారు"
+	},
+	{
+		"year": "-397",
+		"name_en": "High Priesthood of Johanan",
+		"name_te": "యోహానాన్ ప్రధాన యాజకుడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Johanan serves as High Priest in Jerusalem, continuing the priestly line after the return from exile.",
+		"desc_te": "యోహానాన్ ప్రధాన యాజకుడిగా, ప్రవాసం తర్వాత యాజక వంశాన్ని కొనసాగించాడు."
+	},
+	{
+		"year": "-375",
+		"name_en": "Rise of the Great Assembly (Knesset Hagedolah)",
+		"name_te": "గ్రేట్ అసెంబ్లీ (క్నెసెట్ హగెడోలాహ) ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Great Assembly, a council of Jewish sages, guides religious and communal life in Judea.",
+		"desc_te": "యూదేయాలో మత, సమాజ జీవితాన్ని మార్గనిర్దేశం చేసిన యూదా మేధావుల మండలి (గ్రేట్ అసెంబ్లీ) ఏర్పడింది."
+	},
+	{
+		"year": "-365",
+		"name_en": "Spread of Aramaic Language",
+		"name_te": "అరమాయిక్ భాష వ్యాప్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Aramaic becomes the common spoken and written language among Jews in Judea and the diaspora.",
+		"desc_te": "అరమాయిక్ యూదేయా, ప్రవాస యూదులలో మాట్లాడే, వ్రాసే భాషగా మారింది."
+	},
+	{
+		"year": "-350",
+		"name_en": "Transition from Persian to Greek Rule",
+		"name_te": "పర్షియన్ నుండి గ్రీకు పాలనకు మార్పు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Judea transitions from Persian to Greek (Hellenistic) rule with the arrival of Alexander the Great.",
+		"desc_te": "అలెగ్జాండర్ ది గ్రేట్ రాకతో యూదేయా పర్షియన్ పాలన నుండి గ్రీకు పాలనకు మారింది."
+	},
+	{
+		"year": "-340",
+		"name_en": "Jewish Wisdom Literature Flourishes",
+		"name_te": "యూదా జ్ఞాన సాహిత్యం వికసనం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Books of wisdom and ethical teachings are composed and studied in Jewish communities.",
+		"desc_te": "యూదా సమాజాల్లో జ్ఞాన, నైతిక బోధనల గ్రంథాలు రచించబడ్డాయి, అధ్యయనం చేయబడ్డాయి."
+	},
+	{
+		"year": "-400",
+		"name_en": "Activity of the Prophets Haggai, Zechariah, and Malachi",
+		"name_te": "హగ్గయి, జెకర్యా, మలాకీ ప్రవక్తల కార్యాచరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The last of the biblical prophets, Haggai, Zechariah, and Malachi, deliver messages to the Jewish people.",
+		"desc_te": "హగ్గయి, జెకర్యా, మలాకీ ప్రవక్తలు యూదా ప్రజలకు సందేశాలు అందించారు."
+	},
+	{
+		"year": "-400",
+		"name_en": "Canonization of Some Prophetic Books",
+		"name_te": "కొన్ని ప్రవక్త గ్రంథాల ధ్రువీకరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Some prophetic books are recognized as part of the Jewish scriptures during this period.",
+		"desc_te": "ఈ కాలంలో కొన్ని ప్రవక్త గ్రంథాలు యూదా గ్రంథాలలో భాగంగా గుర్తించబడ్డాయి."
+	},
+	{
+		"year": "-350",
+		"name_en": "Rise of Jewish Scribes (Soferim)",
+		"name_te": "యూదా లేఖకుల (సోఫెరిమ్) ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish scribes (Soferim) become increasingly important in copying and interpreting the Torah.",
+		"desc_te": "యూదా లేఖకులు (సోఫెరిమ్) తోరాను నకలు చేయడంలో, వ్యాఖ్యానించడంలో ప్రాముఖ్యత పొందారు."
+	},
+	{
+		"year": "-332",
+		"name_en": "Alexander the Great's Entry into Jerusalem",
+		"name_te": "అలెగ్జాండర్ ది గ్రేట్ యెరూషలేములో ప్రవేశం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "According to tradition, Alexander the Great visits Jerusalem and is received by the High Priest.",
+		"desc_te": "సాంప్రదాయ ప్రకారం, అలెగ్జాండర్ ది గ్రేట్ యెరూషలేమును సందర్శించి, ప్రధాన యాజకుడు అతన్ని స్వాగతించాడు."
+	}
+]

@@ -1,0 +1,211 @@
+[
+	{
+		"year": "-1100",
+		"name_en": "Greek Dark Age Continues (Greece)",
+		"name_te": "గ్రీక్ చీకటి యుగం కొనసాగుతుంది (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Greek Dark Age deepens in Greece",
+		"desc_te": "గ్రీస్‌లో గ్రీక్ చీకటి యుగం లోతుతరుపుతుంది"
+	},
+	{
+		"year": "-1100",
+		"name_en": "Hebrew Kingdom Established (Levant)",
+		"name_te": "హెబ్రూ రాజ్యం ఏర్పాటు (లెవాంట్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "Hebrew kingdom established under King David",
+		"desc_te": "రాజు డేవిడ్ కింద హెబ్రూ రాజ్యం ఏర్పాటు"
+	},
+	{
+		"year": "-1100",
+		"name_en": "King David Unites Israel (Levant)",
+		"name_te": "రాజు డేవిడ్ ఇస్రాయెల్‌ను ఐక్యం (లెవాంట్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "King David unites Hebrew tribes into kingdom",
+		"desc_te": "రాజు డేవిడ్ హెబ్రూ వర్గాలను రాజ్యంలోకి ఐక్యం"
+	},
+	{
+		"year": "-1100",
+		"name_en": "Eastern Zhou Spring Autumn (China)",
+		"name_te": "తూర్పు జోవు వసంత శరదృతువు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Eastern Zhou Spring-Autumn period begins",
+		"desc_te": "తూర్పు జోవు వసంత-శరదృతువు కాలం ప్రారంభ"
+	},
+	{
+		"year": "-1100",
+		"name_en": "Assyrian Power Expands (Mesopotamia)",
+		"name_te": "అస్సిరియన్ శక్తి విస్తరిస్తుంది (మెసోపొటేమియా)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Assyrian empire expands under Ashurnasirpal II",
+		"desc_te": "అష్‌నర్నసిర్‌పల్ II కింద అస్సిరియన్ సామ్రాజ్యం విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1080",
+		"name_en": "King Solomon Builds Temple (Levant)",
+		"name_te": "రాజు సోలోమన్ దేవాలయ నిర్మాణం (లెవాంట్)",
+		"location": {
+			"lat": 31.77,
+			"lng": 35.24
+		},
+		"desc_en": "King Solomon builds Temple in Jerusalem",
+		"desc_te": "రాజు సోలోమన్ జెరూసలేమ్‌లో దేవాలయం నిర్మాణం"
+	},
+	{
+		"year": "-1080",
+		"name_en": "Assyrian Military Campaigns (Mesopotamia)",
+		"name_te": "అస్సిరియన్ సైనిక చర్యలు (మెసోపొటేమియా)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Assyrian military campaigns expand empire westward",
+		"desc_te": "అస్సిరియన్ సైనిక చర్యలు సామ్రాజ్యం పశ్చిమ దిశ విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1080",
+		"name_en": "Homer Composes Iliad (Greece)",
+		"name_te": "హోమర్ ఇలియడ్ సంపాదన (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Homer composes Iliad epic poem",
+		"desc_te": "హోమర్ ఇలియడ్ ఇతిహాస కవితను సంపాదన"
+	},
+	{
+		"year": "-1080",
+		"name_en": "Vedic Age Late Period (India)",
+		"name_te": "వేదిక యుగ చివరి కాలం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Late Vedic Age transitions toward classical Indian culture",
+		"desc_te": "చివరి వేదిక యుగం సాంప్రదాయిక భారతీయ సంస్కృతికి పరివర్తన"
+	},
+	{
+		"year": "-1080",
+		"name_en": "Egyptian Decline Continues (Egypt)",
+		"name_te": "ఈజిప్టియన్ క్షీణత కొనసాగుతుంది (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian empire continues gradual decline",
+		"desc_te": "ఈజిప్టియన్ సామ్రాజ్యం క్రమంగా క్షీణత కొనసాగుతుంది"
+	},
+	{
+		"year": "-1060",
+		"name_en": "Phoenician Expansion (Mediterranean)",
+		"name_te": "ఫోనిషియన్ విస్తరణ (భూమధ్య సాగర)",
+		"location": {
+			"lat": 34,
+			"lng": 35
+		},
+		"desc_en": "Phoenicians expand maritime trade network",
+		"desc_te": "ఫోనిషియన్‌లు సముద్ర వాణిజ్య నెట్‌వర్క్ విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1060",
+		"name_en": "Assyrian Empire Peaks (Mesopotamia)",
+		"name_te": "అస్సిరియన్ సామ్రాజ్యం శిఖరం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 36,
+			"lng": 43
+		},
+		"desc_en": "Assyrian empire reaches peak under Shalmaneser III",
+		"desc_te": "శల్‌మనేసర్ III కింద అస్సిరియన్ సామ్రాజ్యం శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1060",
+		"name_en": "Solomon's Kingdom Fragments (Levant)",
+		"name_te": "సోలోమన్ రాజ్యం శకలీకరణ (లెవాంట్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "Solomon's kingdom fragments after his death",
+		"desc_te": "సోలోమన్ మరణం తర్వాత రాజ్యం శకలీకరణ"
+	},
+	{
+		"year": "-1060",
+		"name_en": "Israel Judah Divide (Levant)",
+		"name_te": "ఇస్రాయెల్ జూదా విభజన (లెవాంట్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "Kingdom divides into Israel and Judah",
+		"desc_te": "రాజ్యం ఇస్రాయెల్, జూదాలో విభజన"
+	},
+	{
+		"year": "-1040",
+		"name_en": "Spring-Autumn Conflicts (China)",
+		"name_te": "వసంత-శరదృతువు సంఘర్షణలు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Spring-Autumn period marked by local conflicts",
+		"desc_te": "వసంత-శరదృతువు కాలం స్థానిక సంఘర్షణలతో సూచితం"
+	},
+	{
+		"year": "-1040",
+		"name_en": "Hebrew Prophets Era (Levant)",
+		"name_te": "హెబ్రూ ప్రవక్త యుగం (లెవాంట్)",
+		"location": {
+			"lat": 31.95,
+			"lng": 35.23
+		},
+		"desc_en": "Hebrew prophets begin major religious teachings",
+		"desc_te": "హెబ్రూ ప్రవక్తలు ప్రధాన ధార్మిక పోవలను ప్రారంభ"
+	},
+	{
+		"year": "-1020",
+		"name_en": "Upanishads Finalized (India)",
+		"name_te": "ఉపనిషదులు చేసిన (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Major Upanishads philosophy texts finalized",
+		"desc_te": "ప్రధాన ఉపనిషద్ తత్వశాస్త్ర గ్రంథాలు చేసిన"
+	},
+	{
+		"year": "-1020",
+		"name_en": "Chinese Philosophy Emerges (China)",
+		"name_te": "చైనీస్ తత్వశాస్త్రం ఉద్భవం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Early Chinese philosophical thought emerges",
+		"desc_te": "ప్రారంభ చైనీస్ తత్వశాస్త్ర ఆలోచన ఉద్భవం"
+	},
+	{
+		"year": "-1020",
+		"name_en": "Etruscan Power Grows (Italy)",
+		"name_te": "ఎట్రుస్కన్ శక్తి పెరుగుతుంది (ఇటలీ)",
+		"location": {
+			"lat": 42.88,
+			"lng": 11.62
+		},
+		"desc_en": "Etruscan civilization grows in power and influence",
+		"desc_te": "ఎట్రుస్కన్ నాగరికత శక్తి, ప్రభావంలో పెరుగుతుంది"
+	}
+]

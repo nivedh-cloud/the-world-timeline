@@ -1,0 +1,354 @@
+[
+	{
+		"year": "-100",
+		"name_en": "Hasmonean Dynasty Consolidation",
+		"name_te": "హస్మోనియన్ వంశ సమీకరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Hasmonean Jewish kingdom consolidates power under the Maccabees, establishing Jewish independence.",
+		"desc_te": "హస్మోనియన్ యూదా రాజ్యం మక్కాబీల పాలనలో శక్తిని సమీకరణ చేసుకుంటుంది, యూదా స్వాతంత్ర్యం స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-100",
+		"name_en": "Han Expansion into the Western Regions",
+		"name_te": "హాన్ సామ్రాజ్య వలయాల వైపు విస్తరణ",
+		"location": {
+			"lat": 36,
+			"lng": 103
+		},
+		"desc_en": "Emperor Wu strengthens the Han dynasty's control of the Hexi Corridor and sends envoys toward Central Asia, opening the Silk Road.",
+		"desc_te": "హాన్ చక్రవర్తి వూ హెక్సీ మైదానాన్ని నియంత్రిస్తాడు, మధ్య ఆసియాకు రాయబారులను పంపి సిల్ రోడ్ ప్రారంభిస్తాడు."
+	},
+	{
+		"year": "-100",
+		"name_en": "Indo-Scythian Consolidation in Northwest India",
+		"name_te": "ఉత్తర-పశ్చిమ భారతదేశంలో ఇండో-స్కైథియన్ స్థిరీకరణ",
+		"location": {
+			"lat": 32,
+			"lng": 74
+		},
+		"desc_en": "Indo-Scythian rulers (Sakas) forge alliances in the Punjab and Sindh, bringing new Central Asian cultural influences to the subcontinent.",
+		"desc_te": "ఇండో-స్కైథియన్ పాలకులు పంజాబ్, సిన్ ప్రాంతాల్లో కూటములు ఏర్పరుస్తూ మధ్య ఆసియా సంస్కృతులను భారత ఉపఖండానికి చేర్చుకుంటారు."
+	},
+	{
+		"year": "-90",
+		"name_en": "Rise of the Satavahana Dynasty",
+		"name_te": "సతవాహన వంశోదయం",
+		"location": {
+			"lat": 19.5,
+			"lng": 78
+		},
+		"desc_en": "The Satavahana rulers consolidate the Deccan plateau, encouraging trade along the eastern coast and patronizing Buddhist monasteries.",
+		"desc_te": "సతవాహనుల పాలకులు డెక్కన్ మైదానాన్ని సమీకరిస్తారు, తూర్పు తీరంలో వాణిజ్యాన్ని ప్రోత్సహించి బౌద్ధ మఠాలకు కిరీటాన్ని అందిస్తారు."
+	},
+	{
+		"year": "-90",
+		"name_en": "Antikythera Shipwreck Sparks Greek Technological Curiosity",
+		"name_te": "అంటికోతేరా నౌక విపత్తు గ్రీక్ సాంకేతిక ఆసక్తికి దారితీసింది",
+		"location": {
+			"lat": 35.3,
+			"lng": 23.3
+		},
+		"desc_en": "A Greek merchant ship carrying astronomical instruments sinks near Antikythera, later inspiring the Antikythera Mechanism, a testament to Hellenistic engineering.",
+		"desc_te": "అస్ట్రో సంబంధమైన పరికరాలతో ఒక గ్రీక్ నౌక అంటికోతేరా సమీపంలో మునిగి పోగా, ఆ తర్వాత అంటికోతేరా యంత్రం రూపుదిద్దుకోంది, హెలెనిస్టిక్ ఇంజనీర్ ಶక్తిని చూపుతుంది."
+	},
+	{
+		"year": "-80",
+		"name_en": "Maurya Dynasty Decline in India",
+		"name_te": "భారతదేశంలో మౌర్య వంశ పతనం",
+		"location": {
+			"lat": 25,
+			"lng": 78
+		},
+		"desc_en": "The Maurya Empire fragments as Ashoka's successors lose control over distant provinces; Indo-Greek kingdoms establish themselves in Northwest India.",
+		"desc_te": "అశోక సారధిల నియంత్రణ కోల్పోతూ మౌర్య సామ్రాజ్యం విభజనకు గురుగా చేస్తుంది, ఉత్తర-పశ్చిమ భారతదేశంలో ఇండో-గ్రీకు సామ్రాజ్యాలు స్థాపన చేస్తాయి."
+	},
+	{
+		"year": "-75",
+		"name_en": "Chola Naval Expansion in South India",
+		"name_te": "దక్షిణ భారతదేశంలో చోల నౌక విస్తరణ",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "The Chola Empire strengthens its maritime trade routes and establishes control over the Coromandel coast, engaging in commerce with Southeast Asia and beyond.",
+		"desc_te": "చోల సామ్రాజ్యం సముద్ర వాణిజ్య మార్గాలను శక్తిపరుస్తుంది, కోరోమండల్ తీరంపై నియంత్రణ స్థాపన చేస్తుంది, ఆగ్నేయ ఆసియా, ఇతర ప్రదేశాలలో వాణిజ్యం చేస్తుంది."
+	},
+	{
+		"year": "-70",
+		"name_en": "Shunga Dynasty Rules Central India",
+		"name_te": "శూంగ వంశ మధ్య భారతదేశాన్ని పాలిస్తుంది",
+		"location": {
+			"lat": 23,
+			"lng": 80
+		},
+		"desc_en": "The Shunga dynasty consolidates power in central India, patronizing Hindu traditions and sponsoring the construction of Buddhist stupas despite supporting Brahminical culture.",
+		"desc_te": "శూంగ వంశం మధ్య భారతదేశంలో అధికారాన్ని సమీకరిస్తుంది, హిందూ సంప్రదాయాలను విస్తరిస్తూ బౌద్ధ స్తూపాల నిర్మాణానికి కిరీటాన్ని అందిస్తుంది."
+	},
+	{
+		"year": "-60",
+		"name_en": "Civil War in Judea",
+		"name_te": "యూదేయాలో ఆంతర సంయుద్ధం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Internal conflict between Hasmonean rulers Aristobulus II and Hyrcanus II weakens the Jewish kingdom.",
+		"desc_te": "హస్మోనియన్ రాజులు అరిస్టోబూలస్ II, హిర్కానస్ II మధ్య అంతర్గత సంఘర్షణ యూదా రాజ్యాన్ని బలహీనం చేస్తుంది."
+	},
+	{
+		"year": "-63",
+		"name_en": "Roman General Pompey Captures Jerusalem",
+		"name_te": "రోమన్ జనరల్ పోంపే యెరూషలేమును ఆక్రమించాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Pompey the Great captures Jerusalem, ending Hasmonean independence and bringing Roman control to Judea.",
+		"desc_te": "పోంపే ఎరుక్ కోటిలో యెరూషలేమును ఆక్రమించి, హస్మోనియన్ స్వాతంత్ర్యాన్ని ముగించి, యూదేయాకు రోమన్ నియంత్రణ తెస్తాడు."
+	},
+	{
+		"year": "-63",
+		"name_en": "Roman Rule and Political Turmoil in Judea",
+		"name_te": "యూదేయాలో రోమన్ పాలన, రాజకీయ ఉద్రేకం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "After Pompey's conquest, Judea becomes a client state of Rome with ongoing religious and political tensions.",
+		"desc_te": "పోంపే ఆక్రమణ తర్వాత, యూదేయా రోమన్ సేవ రాష్ట్రంగా మారి, ఆధ్యాత్మిక, రాజకీయ ఉద్రేకాలు కొనసాగాయి."
+	},
+	{
+		"year": "-76",
+		"name_en": "Reign of Queen Salome Alexandra",
+		"name_te": "రాణి సలోమ్ అలెగ్జాండ్రా పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Salome Alexandra rules Judea, one of few female rulers, bringing relative peace and empowering the Pharisees.",
+		"desc_te": "సలోమ్ అలెగ్జాండ్రా యూదేయాను పాలిస్తుంది, విరళమైన మహిళా పాలకురాలు, శాంతి, ఫారిసీల అధికారం తెస్తుంది."
+	},
+	{
+		"year": "-88",
+		"name_en": "Reign of Alexander Jannaeus",
+		"name_te": "అలెగ్జాండర్ జనాయస్ పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Alexander Jannaeus, Hasmonean king and high priest, rules through military campaigns and suppresses internal dissent.",
+		"desc_te": "హస్మోనియన్ రాజు, ప్రధాన పూజారి అలెగ్జాండర్ జనాయస్ సైన్య ప్రచారాల ద్వారా పాలిస్తాడు, అంతర్గత అసంతృప్తిని నిరోధిస్తాడు."
+	},
+	{
+		"year": "-104",
+		"name_en": "Rise of the Pharisees and Sadducees",
+		"name_te": "ఫారిసీలు, సద్దూకీయుల ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Pharisee and Sadducee sects become prominent, representing different approaches to Jewish law and theology.",
+		"desc_te": "ఫారిసీలు, సద్దూకీయులు ప్రాముఖ్యత పొందారు, యూదా చట్టం, దేవతాత్త్వానికి విభిన్న విధానాలను సూచిస్తారు."
+	},
+	{
+		"year": "-57",
+		"name_en": "Roman Proconsul Gabinius Reorganizes Judea",
+		"name_te": "రోమన్ గవర్నర్ గబినియస్ యూదేయాను పునర్సంఘటితం చేసాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Gabinius, Roman proconsul of Syria, divides Judea into five districts, reducing central authority.",
+		"desc_te": "సిరియా రోమన్ ప్రోకన్సుల్ గబినియస్ యూదేయాను ఐదు జిల్లాలుగా విభజించి, కేంద్ర అధికారాన్ని తగ్గిస్తాడు."
+	},
+	{
+		"year": "-63",
+		"name_en": "Antipater the Idumaean's Rise to Power",
+		"name_te": "ఇడుమేయన్ యాంటిపేటర్ అధికారానికి ఆరోహణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Antipater, father of Herod the Great, gains power as Roman procurator, establishing the foundation for Herodian rule.",
+		"desc_te": "హెరోదు మహా తండ్రి, ఇడుమేయన్ యాంటిపేటర్ రోమన్ ప్రోక్యూరేటర్‌గా అధికారాన్ని సంపాదించి, హెరోడియన్ పాలనకు సంబంధమేర్పరుస్తాడు."
+	},
+	{
+		"year": "-53",
+		"name_en": "Crassus Plunders the Temple in Jerusalem",
+		"name_te": "క్రాసస్ యెరూషలేము ఆలయాన్ని దోచుకున్నాడు",
+		"location": {
+			"lat": 31.778,
+			"lng": 35.235
+		},
+		"desc_en": "Roman general Crassus plunders the Temple treasury in Jerusalem, seizing precious vessels and gold.",
+		"desc_te": "రోమన్ సేనాధిపతి క్రాసస్ యెరూషలేము ఆలయ నిధిని దోచుకుంటాడు, ఆలయం నుండి బంగారం, పవిత్ర వస్తువులు తీసుకుంటాడు."
+	},
+	{
+		"year": "-40",
+		"name_en": "Herod the Great Appointed King of Judea",
+		"name_te": "హెరోదు మహా యూదేయా రాజుగా నియమించబడ్డాడు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Herod the Great is appointed King of Judea by the Roman Senate, beginning the Herodian dynasty.",
+		"desc_te": "రోమన్ సెనేట్ హెరోదు మహాను యూదేయా రాజుగా నియమించింది, హెరోడియన్ వంశం ప్రారంభమైంది."
+	},
+	{
+		"year": "-37",
+		"name_en": "Reign of Herod the Great",
+		"name_te": "హెరోదు మహా యూదేయా పాలన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Herod the Great rules as King of Judea for 33 years, establishing stability, building great structures, and maintaining Roman alliance.",
+		"desc_te": "హెరోదు మహా 33 సంవత్సరాలు యూదేయా రాజుగా పాలిస్తాడు, సంస్కృతిని, అద్భుత నిర్మాణాలను, రోమన్ సమాఖ్యను సంస్థాపన చేస్తాడు."
+	},
+	{
+		"year": "-37",
+		"name_en": "Herodian Building Projects Transform Judea",
+		"name_te": "హెరోడియన్ నిర్మాణ ప్రాజెక్టులు యూదేయాను రూపాంతరం చేస్తాయి",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "Herod initiates massive building projects including ports, cities, fortresses, fundamentally transforming Judea's landscape.",
+		"desc_te": "హెరోదు ఓడ రంగులు, నగరాలు, దుర్గాలు నిర్మణ చేస్తాడు, యూదేయ ఆకృతిని ఆధారభూతంగా రూపాంతరం చేస్తాడు."
+	},
+	{
+		"year": "-30",
+		"name_en": "Masada Fortress Construction",
+		"name_te": "మసాద దుర్గం నిర్మాణం",
+		"location": {
+			"lat": 31.33,
+			"lng": 35.35
+		},
+		"desc_en": "Herod constructs the fortress of Masada on a desert plateau, serving as a royal refuge and military stronghold.",
+		"desc_te": "హెరోదు ఎడారి పీఠభూమిపై మసాద దుర్గం నిర్మిస్తాడు, రాజకీయ శరణార్థ, సైన్య గడ్డిగా పనిచేస్తుంది."
+	},
+	{
+		"year": "-20",
+		"name_en": "Expansion of the Second Temple (Herod's Temple)",
+		"name_te": "రెండవ ఆలయ విస్తరణ (హెరోదు ఆలయం)",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "Herod begins massive expansion of the Second Temple, transforming it into one of antiquity's greatest religious structures.",
+		"desc_te": "హెరోదు రెండవ ఆలయ విస్తరణ ప్రారంభిస్తాడు, ఆదిప్రాచీన కాలానికి గొప్ప ఆధ్యాత్మిక నిర్మాణమైనదిగా మారుస్తాడు."
+	},
+	{
+		"year": "-20",
+		"name_en": "Second Temple Reconstruction Continues",
+		"name_te": "రెండవ ఆలయ పునర్నిర్మాణం కొనసాగుతుంది",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "Temple reconstruction spans decades, becoming Judea's most magnificent achievement in architecture and religious significance.",
+		"desc_te": "ఆలయ నిర్మాణం దశాబ్దాలు కొనసాగుతుంది, యూదేయ నిర్మాణ, ఆధ్యాత్మిక మహత్త్వంలో గొప్ప సాఫల్యమవుతుంది."
+	},
+	{
+		"year": "-15",
+		"name_en": "Caesarea Maritima Founded",
+		"name_te": "కేసేరియా మరిటిమా స్థాపన",
+		"location": {
+			"lat": 32.5,
+			"lng": 34.9
+		},
+		"desc_en": "Herod founds Caesarea Maritima, a magnificent port city with advanced harbor technology, becoming Judea's chief city.",
+		"desc_te": "హెరోదు కేసేరియా మరిటిమా స్థాపన చేస్తాడు, అత్యాధునిక ఓడరంగు సాంకేతికత సహ గొప్ప రంగు నగరం, యూదేయ ప్రధాన నగరం."
+	},
+	{
+		"year": "-10",
+		"name_en": "Jewish Sects Flourish and Develop",
+		"name_te": "యూదా సంప్రదాయాలు సమృద్ధిస్తాయి, అభివృద్ధి చెందాయి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Pharisees, Sadducees, Essenes, and other Jewish sects develop distinct theological positions and practices, shaping Jewish identity.",
+		"desc_te": "ఫారిసీలు, సద్దూకీయులు, ఎస్సేన్‌లు, ఇతర యూదా సంప్రదాయాలు విభిన్న దేవతాత్త్వ స్థానాలు, ఆచారాలను అభివృద్ధిస్తారు."
+	},
+	{
+		"year": "-7",
+		"name_en": "Birth of John the Baptist",
+		"name_te": "బాప్తిస్మా యోహాను జననం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "John the Baptist, the forerunner of Jesus, is born to aged priest Zechariah and Elizabeth in Judea.",
+		"desc_te": "యేసు కు మార్గం సిద్ధం చేసిన బాప్తిస్మా యోహాను, వయస్సైన పూజారి జెకర్యా, ఎలిజబెత్‌కు యూదేయాలో జన్మించాడు."
+	},
+	{
+		"year": "-6",
+		"name_en": "Birth of Jesus Christ and Massacre of Innocents",
+		"name_te": "యేసు క్రీస్తు జన్మ, శిశు హత్యలు",
+		"location": {
+			"lat": 31.7054,
+			"lng": 35.2024
+		},
+		"desc_en": "Jesus of Nazareth is born in Bethlehem; Herod orders execution of male infants attempting to eliminate the prophesied Messiah.",
+		"desc_te": "నజరేతు యేసు బెత్లెహెంలో జన్మించాడు, హెరోదు ప్రవచించిన మషీహాను చంపేందుకు పిల్లల హత్య చేయించాడు."
+	},
+	{
+		"year": "-6",
+		"name_en": "Flight to Egypt",
+		"name_te": "ఈజిప్టుకు పారిపోవడం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Joseph, Mary, and the infant Jesus flee to Egypt to escape King Herod's massacre of male newborns.",
+		"desc_te": "హెరోదు జన్మితల హత్యల నుండి తప్పించుకోవడానికి యోసేపు, మరియ, శిశు యేసు ఈజిప్టుకు పారిపోయారు."
+	},
+	{
+		"year": "-4",
+		"name_en": "Death of Herod the Great",
+		"name_te": "హెరోదు మహా మరణం",
+		"location": {
+			"lat": 31.934,
+			"lng": 35.339
+		},
+		"desc_en": "Herod the Great dies in Jericho; his kingdom is divided among his sons Archelaus, Antipas, and Philip.",
+		"desc_te": "హెరోదు మహా జెరికో నుండి మరణించాడు, అతని సామ్రాజ్యం కుమారుల అర్చెలావు, అంటిపాస్, ఫిలిప్‌ల మధ్య విభజించబడింది."
+	},
+	{
+		"year": "-4",
+		"name_en": "Return from Egypt and Settlement in Nazareth",
+		"name_te": "ఈజిప్టు నుండి తిరిగి రావడం, నజరేతులో నిపటన",
+		"location": {
+			"lat": 32.6996,
+			"lng": 35.3035
+		},
+		"desc_en": "After Herod's death, the Holy Family returns from Egypt and settles in Nazareth under Archelaus's rule.",
+		"desc_te": "హెరోదు మరణ తర్వాత, పరిశుద్ధ కుటుంబం ఈజిప్టు నుండి తిరిగి వచ్చి, అర్చెలావు పాలనలో నజరేతులో నిపటించుకుంది."
+	},
+	{
+		"year": "-4",
+		"name_en": "Childhood of Jesus in Nazareth",
+		"name_te": "నజరేతులో యేసు బాల్యం",
+		"location": {
+			"lat": 32.6996,
+			"lng": 35.3035
+		},
+		"desc_en": "Jesus grows up in Nazareth, learning Torah, carpentry, and Jewish traditions from his earthly father Joseph.",
+		"desc_te": "యేసు నజరేతులో పెరిగాడు, తోరా, కర్పెంటరీ, యూదా సంప్రదాయాలను యోసేపు నుండి నేర్చుకున్నాడు."
+	},
+	{
+		"year": "0",
+		"name_en": "Early Years of Jesus - Preparation for Ministry",
+		"name_te": "యేసు ప్రారంభ సంవత్సరాలు - సేవకు సిద్ధతలు",
+		"location": {
+			"lat": 32.73,
+			"lng": 35.29
+		},
+		"desc_en": "Jesus enters adulthood in Nazareth, preparing for his future ministry and spiritual mission in Judea.",
+		"desc_te": "యేసు నజరేతులో పరిపక్వతకు ఎక్కువ్‌డు, తన సేవ మరియు ఆధ్యాత్మిక సంకల్పానికి సిద్ధమవుతాడు."
+	}
+]

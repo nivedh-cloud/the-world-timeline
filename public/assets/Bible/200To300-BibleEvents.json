@@ -1,0 +1,123 @@
+[
+	{
+		"year": "200",
+		"name_en": "Origen's Biblical Commentary and Theology",
+		"name_te": "ఓరిజెన్ బైబిల్ వ్యాఖ్యకు, దేవతాత్త్వం",
+		"location": {
+			"lat": 31.2,
+			"lng": 30.3
+		},
+		"desc_en": "Origen produces extensive theological works, biblical commentaries, and defends Christianity through philosophical arguments.",
+		"desc_te": "ఓరిజెన్ విస్తృత దేవతాత్త్వ నిర్వచన, బైబిల్ వ్యాఖ్యలు సృష్టిస్తూ, తత్త్వవేత్త వాదల ద్వారా క్రీస్టియానిటీ రక్షించాడు."
+	},
+	{
+		"year": "205",
+		"name_en": "Persecution of Christians Intensifies",
+		"name_te": "క్రీస్టియన్ నిర్భయం తీవ్రమవుతుంది",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Persecution under emperors Caracalla and Elagabalus. Many Christians are martyred, church property confiscated.",
+		"desc_te": "చక్రవర్తులు కారకల్లా, ఎలాగాబాలస్ పాలనలో నిర్భయం. అనేక క్రీస్టియన్‌లు చంపబడ్డారు, చర్చ సంపత్తి జప్తు చేయబడిన విషయం."
+	},
+	{
+		"year": "210",
+		"name_en": "Development of Monastic Life",
+		"name_te": "సన్న్యాస జీవితం అభివృద్ధి",
+		"location": {
+			"lat": 31.2,
+			"lng": 30.3
+		},
+		"desc_en": "Christian ascetics increasingly withdraw to deserts and monasteries, establishing monastic communities and spiritual disciplines.",
+		"desc_te": "క్రీస్టియన్ తపస్సులు ఎడారులకు, సన్న్యాస కేంద్రాలకు వెళ్లి, సన్న్యాస సమూహాలు, ఆధ్యాత్మిక శిక్షణ నిర్ధారణ చేసారు."
+	},
+	{
+		"year": "215",
+		"name_en": "Severan Dynasty Christian Sympathy",
+		"name_te": "సెవెరన్ వంశ క్రీస్టియన్ సానుభూతి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Some members of the Severan imperial family show sympathy to Christianity. Church experiences partial relief from persecution.",
+		"desc_te": "సెవెరన్ సామ్రాజ్య సభ్యులు కొందరు క్రీస్టియానిటీకి సానుభూతి చూపిన విషయం. చర్చ నిర్భయం నుండి కొంత నిత్యం పొందిన విషయం."
+	},
+	{
+		"year": "220",
+		"name_en": "Hippolytus and Schism at Rome",
+		"name_te": "హిప్పోలిటస్ మరియు రోమ విభజనం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Hippolytus challenges papal authority and creates schism in Roman church, reflecting internal disputes.",
+		"desc_te": "హిప్పోలిటస్ పోప్ అధికారానికి సవాల్ చేసి, రోమ చర్చిలో విభజనం సృష్టిచేసాడు, అంతర్గత వివాదాలను ప్రతిబింబిస్తూ."
+	},
+	{
+		"year": "225",
+		"name_en": "Eusebius of Caesarea's Writings",
+		"name_te": "కేసేరియా యూసేబియస్ రచనలు",
+		"location": {
+			"lat": 32.5,
+			"lng": 34.9
+		},
+		"desc_en": "Eusebius begins his theological and historical writings, which will become foundational for Christian history.",
+		"desc_te": "యూసేబియస్ దేవతాత్త్వ, చారిత్రక రచనలు ప్రారంభిస్తాడు, ఇవి క్రీస్టియన్ చరిత్రకు ఆధారమవుతాయి."
+	},
+	{
+		"year": "230",
+		"name_en": "Gordian Dynasty Brief Christian Favor",
+		"name_te": "గార్డియన్ వంశ క్రీస్టియన్ ఆనుకూల్యం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Gordian III's reign provides temporary peace for Christians. Church expands missionary activities.",
+		"desc_te": "చక్రవర్తి గార్డియన్ III పాలనలో క్రీస్టియన్‌లకు స్థిరమైన శాంతి లభిస్తుంది. చర్చ మిషనరీ కార్యక్రమాలను విస్తరిస్తుంది."
+	},
+	{
+		"year": "235",
+		"name_en": "Persecution Under Maximinus the Thracian",
+		"name_te": "థ్రేసియన్ మాక్సిమినస్ నిర్భయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Maximinus targets bishops and church leaders for execution. Severe persecution resumes.",
+		"desc_te": "చక్రవర్తి మాక్సిమినస్ బిషప్‌లు, చర్చ నాయకులను చంపటికి లక్ష్య చేసాడు. తీవ్ర నిర్భయం మరలా ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "240",
+		"name_en": "Cyprian Elected Bishop of Carthage",
+		"name_te": "కార్థేజ్ బిషప్‌గా సిప్రియన్ ఎంపిక",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "Cyprian becomes bishop of Carthage and provides theological guidance during turbulent times.",
+		"desc_te": "సిప్రియన్ కార్థేజ్ బిషప్‌గా ఆసిన్నమైన విషయం, కలహ సమయంలో దేవతాత్త్వ నిర్దేశన ఇస్తూ."
+	},
+	{
+		"year": "245",
+		"name_en": "Persecution Under Decius",
+		"name_te": "డెకియస్ నిర్భయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Decius orders universal sacrifice to pagan gods. Many Christians apostacize; persecution becomes systematic.",
+		"desc_te": "చక్రవర్తి డెకియస్ సర్వ నిందితదేవతలకు అర్చన చేయమని ఆదేశించాడు. అనేక క్రీస్టియన్‌లు తమ విశ్వాసం విడిచిపెట్టారు, నిర్భయం సంస్థాపితమైన విషయం."
+	},
+	{
+		"year": "250",
+		"name_en": "Novatian Schism and Donatist Controversy",
+		"name_te": "నోవేటియన్ విభజనం, డోనాటిస్ట్ వివాదం",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "Controversy over readmission of lapsed Christians creates schism between rigorist and accommodationist factions.",
+		"desc_te": "కూలిపోయిన క్రీస్టియన్‌లను పున:ఆమోదన గురించిన వివాదం, కఠోర, సమ్మితి సంప్రదాయాల మధ్య విభజనం సృష్టిచేసిన విషయం."
+	}
+]

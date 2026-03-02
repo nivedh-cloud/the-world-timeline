@@ -1,0 +1,409 @@
+[
+	{
+		"year": "1100",
+		"name_en": "Chola Dynasty at its Height (India)",
+		"name_te": "చోళ వంశం శిఖరస్థాయిలో (భారతదేశం)",
+		"location": {
+			"lat": 10.7905,
+			"lng": 78.7047
+		},
+		"desc_en": "The Chola Dynasty dominates South India and Southeast Asia, expanding trade and culture.",
+		"desc_te": "దక్షిణ భారతదేశం, ఆగ్నేయాసియాలో చోళ వంశం శక్తివంతంగా వ్యాపించి, వాణిజ్యం, సంస్కృతిని విస్తరించింది."
+	},
+	{
+		"year": "1113",
+		"name_en": "Rise of the Hoysala Empire (India)",
+		"name_te": "హోయ్సల సామ్రాజ్యం ఉద్భవం (భారతదేశం)",
+		"location": {
+			"lat": 13.3187,
+			"lng": 75.7721
+		},
+		"desc_en": "The Hoysala Empire emerges as a major power in southern India, known for its temple architecture.",
+		"desc_te": "హోయ్సల సామ్రాజ్యం దక్షిణ భారతదేశంలో ప్రధాన శక్తిగా ఎదిగి, ఆలయ నిర్మాణ కళకు ప్రసిద్ధి చెందింది."
+	},
+	{
+		"year": "1127",
+		"name_en": "Ghurid Conquests in North India",
+		"name_te": "ఉత్తర భారతదేశంలో ఘురిద్ విజయం",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "The Ghurid dynasty invades and establishes rule in parts of North India, paving the way for the Delhi Sultanate.",
+		"desc_te": "ఘురిద్ వంశం ఉత్తర భారతదేశంలో దాడి చేసి, ఢిల్లీ సుల్తానేట్‌కు మార్గం సుగమం చేసింది."
+	},
+	{
+		"year": "1185",
+		"name_en": "Minamoto no Yoritomo and the Kamakura Shogunate (Japan)",
+		"name_te": "మినమోటో నో యోరిటోమో మరియు కామాకురా షోగునేట్ (జపాన్)",
+		"location": {
+			"lat": 35.3193,
+			"lng": 139.5468
+		},
+		"desc_en": "Minamoto no Yoritomo establishes the Kamakura Shogunate, marking the start of feudal Japan.",
+		"desc_te": "మినమోటో నో యోరిటోమో కామాకురా షోగునేట్‌ను స్థాపించి, జపాన్‌లో ఫ్యూడల్ యుగాన్ని ప్రారంభించాడు."
+	},
+	{
+		"year": "1147",
+		"name_en": "Second Crusade: Siege of Lisbon (Europe)",
+		"name_te": "రెండవ క్రూసేడ్: లిస్బన్ ముట్టడి (యూరోప్)",
+		"location": {
+			"lat": 38.7223,
+			"lng": -9.1393
+		},
+		"desc_en": "The Siege of Lisbon is a major event in the Second Crusade, resulting in the Christian reconquest of the city from the Moors.",
+		"desc_te": "రెండవ క్రూసేడ్‌లో లిస్బన్ ముట్టడి, మూర్స్ నుండి క్రైస్తవులు నగరాన్ని తిరిగి పొందిన ముఖ్యమైన సంఘటన."
+	},
+	{
+		"year": "1176",
+		"name_en": "Battle of Myriokephalon (Byzantine Empire vs. Seljuks)",
+		"name_te": "మిరియోకెఫాలాన్ యుద్ధం (బిజాంటైన్ సామ్రాజ్యం vs సెల్జుక్స్)",
+		"location": {
+			"lat": 38.68,
+			"lng": 29.405
+		},
+		"desc_en": "The Seljuk Turks defeat the Byzantine Empire, marking the decline of Byzantine power in Anatolia.",
+		"desc_te": "సెల్జుక్ టర్క్స్ బిజాంటైన్ సామ్రాజ్యాన్ని ఓడించి, అనాటోలియాలో బిజాంటైన్ శక్తి తగ్గుదలకు సంకేతం."
+	},
+	{
+		"year": "1156",
+		"name_en": "Heian Period Ends, Genpei War (Japan)",
+		"name_te": "హేయాన్ కాలం ముగింపు, గెంపెయ్ యుద్ధం (జపాన్)",
+		"location": {
+			"lat": 35.0116,
+			"lng": 135.7681
+		},
+		"desc_en": "The Genpei War leads to the end of the Heian period and the rise of the samurai class in Japan.",
+		"desc_te": "గెంపెయ్ యుద్ధం హేయాన్ కాలాన్ని ముగించి, జపాన్‌లో సమురాయ్ వర్గాన్ని ఎదిగించింది."
+	},
+	{
+		"year": "1130",
+		"name_en": "Norman Kingdom of Sicily (Europe)",
+		"name_te": "నార్మన్ సిసిలీ రాజ్యం (యూరోప్)",
+		"location": {
+			"lat": 37.5999,
+			"lng": 14.0154
+		},
+		"desc_en": "The Norman Kingdom of Sicily flourishes as a center of culture and trade in the Mediterranean.",
+		"desc_te": "నార్మన్ సిసిలీ రాజ్యం మెడిటరేనియన్‌లో సంస్కృతి, వాణిజ్య కేంద్రంగా అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "1107",
+		"name_en": "First Council of the Lateran (Christianity)",
+		"name_te": "ఫస్ట్ లాటెరన్ కౌన్సిల్ (క్రైస్తవ మతం)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "The First Lateran Council is convened by Pope Callixtus II, addressing church reforms and investiture controversy.",
+		"desc_te": "పోప్ కాలిక్టస్ II ఆధ్వర్యంలో ఫస్ట్ లాటెరన్ కౌన్సిల్ నిర్వహించబడింది, చర్చ్ సంస్కరణలు, ఇన్వెస్టిచర్ వివాదాన్ని పరిష్కరించింది."
+	},
+	{
+		"year": "1150",
+		"name_en": "Mali Empire Expansion (Africa)",
+		"name_te": "మాలి సామ్రాజ్యం విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 12.6392,
+			"lng": -8.0029
+		},
+		"desc_en": "The Mali Empire expands in West Africa, becoming a center of trade and Islamic culture.",
+		"desc_te": "మాలి సామ్రాజ్యం పశ్చిమ ఆఫ్రికాలో విస్తరించి, వాణిజ్యం, ఇస్లామిక్ సంస్కృతి కేంద్రంగా మారింది."
+	},
+	{
+		"year": "1100",
+		"name_en": "Ancestral Puebloans (Anasazi) Flourish (America)",
+		"name_te": "అన్సెస్ట్రల్ ప్యూబ్లోవాన్స్ (అనాసాజీ) అభివృద్ధి (అమెరికా)",
+		"location": {
+			"lat": 36.998,
+			"lng": -109.0452
+		},
+		"desc_en": "The Ancestral Puebloans build cliff dwellings and develop complex societies in the American Southwest.",
+		"desc_te": "అన్సెస్ట్రల్ ప్యూబ్లోవాన్స్ అమెరికా సౌత్‌వెస్ట్‌లో క్లిఫ్ నివాసాలు నిర్మించి, సంక్లిష్ట సమాజాలను అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Abel Tasman and Early Polynesian Settlement (Australia/Oceania)",
+		"name_te": "అబెల్ టాస్మాన్ మరియు ప్రాథమిక పాలినీషియన్ నివాసం (ఆస్ట్రేలియా/ఓషేనియా)",
+		"location": {
+			"lat": -42.8821,
+			"lng": 147.3272
+		},
+		"desc_en": "Early Polynesian navigators reach and settle parts of the Pacific, including areas near Australia.",
+		"desc_te": "ప్రాథమిక పాలినీషియన్ నావిగేటర్లు పసిఫిక్‌లోని దీవులను, ఆస్ట్రేలియా సమీప ప్రాంతాలను చేరుకుని నివసించారు."
+	},
+	{
+		"year": "1167",
+		"name_en": "Frederick Barbarossa and the Lombard League (Europe)",
+		"name_te": "ఫ్రెడరిక్ బార్బరోస్సా మరియు లాంబార్డ్ లీగ్ (యూరోప్)",
+		"location": {
+			"lat": 45.4642,
+			"lng": 9.19
+		},
+		"desc_en": "Holy Roman Emperor Frederick Barbarossa campaigns in Italy, facing resistance from the Lombard League.",
+		"desc_te": "హోలీ రోమన్ఎంపెరర్ ఫ్రెడరిక్ బార్బరోస్సా ఇటలీలో యుద్ధాలు చేసి, లాంబార్డ్ లీగ్ నుండి ప్రతిఘటన ఎదుర్కొన్నారు."
+	},
+	{
+		"year": "1171",
+		"name_en": "Ayyubid Dynasty Founded by Saladin (Middle East)",
+		"name_te": "అయ్యుబిద్ వంశం స్థాపన (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Saladin establishes the Ayyubid dynasty, recaptures Jerusalem, and becomes a key figure in the Crusades.",
+		"desc_te": "సలాహుద్దీన్ అయ్యుబిద్ వంశాన్ని స్థాపించి, జెరూసలేం తిరిగి స్వాధీనం చేసుకుని, క్రూసేడ్‌లలో ప్రముఖ పాత్ర పోషించారు."
+	},
+	{
+		"year": "1187",
+		"name_en": "Battle of Hattin (Crusades)",
+		"name_te": "హాటిన్ యుద్ధం (క్రూసేడ్‌లు)",
+		"location": {
+			"lat": 32.799,
+			"lng": 35.5309
+		},
+		"desc_en": "Saladin defeats the Crusader states at the Battle of Hattin, leading to the Muslim recapture of Jerusalem.",
+		"desc_te": "హాటిన్ యుద్ధంలో సలాహుద్దీన్ క్రూసేడర్ రాష్ట్రాలను ఓడించి, ముస్లింలు జెరూసలేం తిరిగి స్వాధీనం చేసుకున్నారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Second Crusade and Third Crusade (Europe/Asia)",
+		"name_te": "రెండవ మరియు మూడవ క్రూసేడ్‌లు (యూరోప్/ఆసియా)",
+		"location": {
+			"lat": 31.7683,
+			"lng": 35.2137
+		},
+		"desc_en": "The Second and Third Crusades are launched to reclaim Jerusalem and the Holy Land from Muslim rule.",
+		"desc_te": "జెరూసలేం, పవిత్ర భూమిని ముస్లిం పాలన నుండి తిరిగి పొందేందుకు రెండవ, మూడవ క్రూసేడ్‌లు ప్రారంభించబడ్డాయి."
+	},
+	{
+		"year": "1100",
+		"name_en": "Song Dynasty in China (Asia)",
+		"name_te": "చైనాలో సాంగ్ వంశం (ఆసియా)",
+		"location": {
+			"lat": 31.2304,
+			"lng": 121.4737
+		},
+		"desc_en": "The Song Dynasty rules China, advancing technology, economy, and culture.",
+		"desc_te": "సాంగ్ వంశం చైనాను పాలించి, సాంకేతికత, ఆర్థిక వ్యవస్థ, సంస్కృతిని అభివృద్ధి చేసింది."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of England: Henry I and II (Europe)",
+		"name_te": "ఇంగ్లాండ్ రాజ్యం: హెన్రీ I మరియు II (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Henry I and II rule England, strengthening royal authority and legal reforms.",
+		"desc_te": "హెన్రీ I మరియు II ఇంగ్లాండ్‌ను పాలించి, రాజశక్తిని బలోపేతం చేసి, చట్ట సంస్కరణలు చేశారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of France: Louis VI and VII (Europe)",
+		"name_te": "ఫ్రాన్స్ రాజ్యం: లూయిస్ VI మరియు VII (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Louis VI and VII rule France, consolidating royal power and participating in the Crusades.",
+		"desc_te": "లూయిస్ VI మరియు VII ఫ్రాన్స్‌ను పాలించి, రాజశక్తిని ఏకీకృతం చేసి, క్రూసేడ్‌లలో పాల్గొన్నారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of Hungary: Béla II and Géza II (Europe)",
+		"name_te": "హంగేరీ రాజ్యం: బెలా II మరియు గెజా II (యూరోప్)",
+		"location": {
+			"lat": 47.4979,
+			"lng": 19.0402
+		},
+		"desc_en": "Béla II and Géza II rule Hungary, strengthening the kingdom and expanding territory.",
+		"desc_te": "బెలా II మరియు గెజా II హంగేరీని పాలించి, రాజ్యాన్ని బలోపేతం చేసి, భూభాగాన్ని విస్తరించారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of Norway: Sigurd the Crusader (Europe)",
+		"name_te": "నార్వే రాజ్యం: సిగుర్డ్ ది క్రూసేడర్ (యూరోప్)",
+		"location": {
+			"lat": 59.9139,
+			"lng": 10.7522
+		},
+		"desc_en": "Sigurd I of Norway leads a crusade to the Holy Land and strengthens the Norwegian monarchy.",
+		"desc_te": "సిగుర్డ్ I నార్వేను పాలించి, పవిత్ర భూమికి క్రూసేడ్‌కు నాయకత్వం వహించి, రాజ్యాన్ని బలోపేతం చేశారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of Scotland: David I (Europe)",
+		"name_te": "స్కాట్లాండ్ రాజ్యం: డేవిడ్ I (యూరోప్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "David I rules Scotland, introducing feudalism and reforming the church.",
+		"desc_te": "డేవిడ్ I స్కాట్లాండ్‌ను పాలించి, ఫ్యూడలిజాన్ని ప్రవేశపెట్టి, చర్చ్‌ను సంస్కరించారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of Sicily: Roger II (Europe)",
+		"name_te": "సిసిలీ రాజ్యం: రోగర్ II (యూరోప్)",
+		"location": {
+			"lat": 37.5999,
+			"lng": 14.0154
+		},
+		"desc_en": "Roger II rules Sicily, creating a multicultural kingdom and promoting trade.",
+		"desc_te": "రోగర్ II సిసిలీని పాలించి, బహుళ సంస్కృతుల రాజ్యాన్ని నిర్మించి, వాణిజ్యాన్ని ప్రోత్సహించారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of Georgia: David IV the Builder (Asia/Europe)",
+		"name_te": "జార్జియా రాజ్యం: డేవిడ్ IV ది బిల్డర్ (ఆసియా/యూరోప్)",
+		"location": {
+			"lat": 41.7151,
+			"lng": 44.8271
+		},
+		"desc_en": "David IV leads Georgia to a golden age, expanding territory and promoting Christianity.",
+		"desc_te": "డేవిడ్ IV జార్జియాను స్వర్ణయుగానికి నడిపించి, భూభాగాన్ని విస్తరించి, క్రైస్తవ మతాన్ని ప్రోత్సహించారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Kingdom of Khmer: Suryavarman II (Asia/Cambodia)",
+		"name_te": "ఖ్మేర్ రాజ్యం: సూర్యవర్మన్ II (ఆసియా/కంబోడియా)",
+		"location": {
+			"lat": 13.4125,
+			"lng": 103.8667
+		},
+		"desc_en": "Suryavarman II builds Angkor Wat, one of the world's largest religious monuments.",
+		"desc_te": "సూర్యవర్మన్ II అంకోర్ వాట్‌ను నిర్మించి, ప్రపంచంలో అతిపెద్ద మతపరమైన స్మారక చిహ్నాల్లో ఒకటిగా నిలిపారు."
+	},
+	{
+		"year": "1100",
+		"name_en": "Toltec Civilization in Mexico (America)",
+		"name_te": "మెక్సికోలో టోల్టెక్ నాగరికత (అమెరికా)",
+		"location": {
+			"lat": 20.6597,
+			"lng": -100.3288
+		},
+		"desc_en": "The Toltec civilization flourishes in central Mexico, influencing later Aztec culture.",
+		"desc_te": "టోల్టెక్ నాగరికత మధ్య మెక్సికోలో అభివృద్ధి చెంది, తరువాత అజ్టెక్ సంస్కృతిని ప్రభావితం చేసింది."
+	},
+	{
+		"year": "1100",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	},
+	{
+		"year": "1118",
+		"name_en": "Reign of King Jayavarman VII (Khmer Empire, Cambodia)",
+		"name_te": "రాజు జయవర్మన్ VII పాలన (ఖ్మేర్ సామ్రాజ్యం, కంబోడియా)",
+		"location": {
+			"lat": 13.4125,
+			"lng": 103.8667
+		},
+		"desc_en": "Jayavarman VII, one of the greatest Khmer kings, expands the empire and builds Angkor Thom.",
+		"desc_te": "జయవర్మన్ VII ఖ్మేర్ సామ్రాజ్యాన్ని విస్తరించి, అంకోర్ థామ్‌ను నిర్మించాడు."
+	},
+	{
+		"year": "1126",
+		"name_en": "Jin-Song Wars (China)",
+		"name_te": "జిన్-సాంగ్ యుద్ధాలు (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "The Jin dynasty invades northern China, leading to decades of warfare with the Southern Song dynasty.",
+		"desc_te": "జిన్ వంశం ఉత్తర చైనాను ఆక్రమించి, దక్షిణ సాంగ్ వంశంతో దశాబ్దాలపాటు యుద్ధాలు జరిగాయి."
+	},
+	{
+		"year": "1135",
+		"name_en": "The Anarchy in England (Europe)",
+		"name_te": "ఇంగ్లాండ్‌లో అనార్కీ (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "A civil war for the English crown between Stephen and Empress Matilda, causing widespread disorder.",
+		"desc_te": "ఇంగ్లాండ్‌లో స్టీఫెన్ మరియు ఎంప్రెస్ మటిల్డా మధ్య సివిల్ వార్, దేశవ్యాప్తంగా అశాంతి."
+	},
+	{
+		"year": "1174",
+		"name_en": "Reign of William I the Lion (Scotland)",
+		"name_te": "విలియం I ది లయన్ పాలన (స్కాట్లాండ్)",
+		"location": {
+			"lat": 56.4907,
+			"lng": -4.2026
+		},
+		"desc_en": "William I, known as 'the Lion', rules Scotland and resists English domination.",
+		"desc_te": "విలియం I (ది లయన్) స్కాట్లాండ్‌ను పాలించి, ఇంగ్లాండ్ ఆధిపత్యానికి వ్యతిరేకంగా పోరాడాడు."
+	},
+	{
+		"year": "1154",
+		"name_en": "Reign of Henry II (England)",
+		"name_te": "హెన్రీ II పాలన (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Henry II strengthens the English monarchy and legal system, and faces conflict with Thomas Becket.",
+		"desc_te": "హెన్రీ II ఇంగ్లాండ్ రాజ్యాన్ని బలోపేతం చేసి, చట్ట వ్యవస్థను అభివృద్ధి చేశాడు; థామస్ బెకెట్‌తో ఘర్షణ."
+	},
+	{
+		"year": "1171",
+		"name_en": "Norman Invasion of Ireland (Europe)",
+		"name_te": "నార్మన్ ఆక్రమణ (ఐర్లాండ్)",
+		"location": {
+			"lat": 53.3498,
+			"lng": -6.2603
+		},
+		"desc_en": "The Normans invade Ireland, beginning centuries of English involvement.",
+		"desc_te": "నార్మన్‌లు ఐర్లాండ్‌ను ఆక్రమించి, ఇంగ్లాండ్ ప్రభావానికి నాంది పలికారు."
+	},
+	{
+		"year": "1122",
+		"name_en": "Concordat of Worms (Holy Roman Empire)",
+		"name_te": "వోర్మ్స్ ఒప్పందం (హోలీ రోమన్ఎంపైర్)",
+		"location": {
+			"lat": 49.6326,
+			"lng": 8.3621
+		},
+		"desc_en": "The Concordat of Worms ends the Investiture Controversy between the Pope and the Holy Roman Emperor.",
+		"desc_te": "పోప్ మరియు హోలీ రోమన్ఎంపెరర్ మధ్య ఇన్వెస్టిచర్ వివాదాన్ని వోర్మ్స్ ఒప్పందం ముగించింది."
+	},
+	{
+		"year": "1163",
+		"name_en": "Construction of Notre-Dame de Paris (France)",
+		"name_te": "నోట్రె-డామ్ డి పారిస్ నిర్మాణం (ఫ్రాన్స్)",
+		"location": {
+			"lat": 48.853,
+			"lng": 2.3499
+		},
+		"desc_en": "The construction of the iconic Notre-Dame Cathedral in Paris begins.",
+		"desc_te": "పారిస్‌లో ప్రసిద్ధ నోట్రె-డామ్ కేథడ్రల్ నిర్మాణం ప్రారంభమైంది."
+	},
+	{
+		"year": "1100",
+		"name_en": "Spread of Christianity in Scandinavia (Europe)",
+		"name_te": "స్కాండినేవియాలో క్రైస్తవ మతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Christianity continues to spread and become established in Norway, Sweden, and Denmark.",
+		"desc_te": "నార్వే, స్వీడన్, డెన్మార్క్‌లలో క్రైస్తవ మతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "1100",
+		"name_en": "Rise of the Mapuche Civilization (South America)",
+		"name_te": "మాపుచే నాగరికత ఉద్భవం (దక్షిణ అమెరికా)",
+		"location": {
+			"lat": -38.9516,
+			"lng": -72.4359
+		},
+		"desc_en": "The Mapuche people develop a distinct culture and society in south-central Chile.",
+		"desc_te": "మాపుచే ప్రజలు దక్షిణ-మధ్య చిలీలో ప్రత్యేక నాగరికతను అభివృద్ధి చేశారు."
+	}
+]

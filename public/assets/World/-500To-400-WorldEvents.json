@@ -1,0 +1,1069 @@
+[
+	{
+		"year": "-499",
+		"name_en": "Greco-Persian Wars",
+		"name_te": "గ్రీకు-పర్షియన్ యుద్ధాలు",
+		"location": {
+			"lat": 38,
+			"lng": 23.7
+		},
+		"desc_en": "Series of wars between Greek city-states and the Persian Empire.",
+		"desc_te": "గ్రీకు నగర-రాజ్యాలు మరియు పర్షియన్ సామ్రాజ్యం మధ్య యుద్ధాలు."
+	},
+	{
+		"year": "-483",
+		"name_en": "Mahajanapadas Flourish (India)",
+		"name_te": "మహాజనపదాలు అభివృద్ధి (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Sixteen Mahajanapadas (great kingdoms) thrive in northern India, setting the stage for later empires.",
+		"desc_te": "భారతదేశం ఉత్తర భాగంలో పదహారు మహాజనపదాలు అభివృద్ధి చెందాయి, తరువాతి సామ్రాజ్యాలకు పునాది వేశాయి."
+	},
+	{
+		"year": "-475",
+		"name_en": "Warring States Period (China)",
+		"name_te": "వారింగ్ స్టేట్స్ కాలం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Period of intense warfare and political intrigue among Chinese states.",
+		"desc_te": "చైనా రాష్ట్రాల మధ్య తీవ్రమైన యుద్ధాలు, రాజకీయ కుట్రలు."
+	},
+	{
+		"year": "-509",
+		"name_en": "Roman Republic Established and Expands",
+		"name_te": "రోమన్ గణతంత్రం స్థాపన మరియు విస్తరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Roman Republic is established and begins expanding across Italy and the Mediterranean.",
+		"desc_te": "రోమన్ గణతంత్రం స్థాపించబడింది, ఇటలీ మరియు మెడిటరేనియన్‌లో విస్తరించసాగింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Olmec Civilization Declines (Mesoamerica)",
+		"name_te": "ఒల్మెక్ నాగరికత పతనం (మెసోఅమెరికా)",
+		"location": {
+			"lat": 18,
+			"lng": -94
+		},
+		"desc_en": "Olmec civilization declines, influencing later Mesoamerican cultures.",
+		"desc_te": "ఒల్మెక్ నాగరికత పతనమై, తరువాతి మెసోఅమెరికా సంస్కృతులపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Maya Civilization Expands (America)",
+		"name_te": "మాయా నాగరికత విస్తరణ (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya cities and culture expand in Mesoamerica.",
+		"desc_te": "మెసోఅమెరికాలో మాయా నగరాలు, సంస్కృతి విస్తరించాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Hopewell Culture (North America)",
+		"name_te": "హోప్‌వెల్ సంస్కృతి (ఉత్తర అమెరికా)",
+		"location": {
+			"lat": 39.96,
+			"lng": -83
+		},
+		"desc_en": "Hopewell tradition flourishes in Ohio River Valley.",
+		"desc_te": "ఓహియో నది లోయలో హోప్‌వెల్ సంస్కృతి అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Aboriginal Cultures Flourish (Australia)",
+		"name_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultures thrive across Australia, developing unique traditions.",
+		"desc_te": "ఆస్ట్రేలియాలో ఆదివాసీ సంస్కృతులు అభివృద్ధి చెందాయి, ప్రత్యేక సంప్రదాయాలు ఏర్పడ్డాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Celtic Tribes in Europe",
+		"name_te": "యూరోప్‌లో సెల్టిక్ గోత్రాలు",
+		"location": {
+			"lat": 48,
+			"lng": 2
+		},
+		"desc_en": "Celtic tribes dominate much of Western and Central Europe.",
+		"desc_te": "పశ్చిమ మరియు మధ్య యూరోప్‌లో సెల్టిక్ గోత్రాలు ఆధిపత్యం చెలాయించాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Kingdom of Meroë (Nubia)",
+		"name_te": "మెరోయే రాజ్యం (న్యూబియా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Meroë becomes a powerful kingdom in Nubia (modern Sudan).",
+		"desc_te": "మెరోయే న్యూబియాలో (ఈరోజు సూడాన్) శక్తివంతమైన రాజ్యంగా మారింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Scythian Dominance in Central Asia",
+		"name_te": "మధ్య ఆసియాలో స్కిథియన్ ఆధిపత్యం",
+		"location": {
+			"lat": 48,
+			"lng": 67
+		},
+		"desc_en": "Scythian tribes control large parts of the Eurasian steppe.",
+		"desc_te": "స్కిథియన్ గోత్రాలు యూరేషియన్ స్టెప్పులో విస్తృతంగా ఆధిపత్యం చెలాయించాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Darius I of Persia (Achaemenid Empire)",
+		"name_te": "పర్షియా రాజు దారియస్ I (అఖేమెనిడ్ సామ్రాజ్యం)",
+		"location": {
+			"lat": 32,
+			"lng": 53
+		},
+		"desc_en": "Darius I rules the Persian Empire at its territorial peak, overseeing vast infrastructure and administrative reforms.",
+		"desc_te": "దారియస్ I పర్షియన్ సామ్రాజ్యాన్ని అత్యధిక విస్తీర్ణంలో పాలించాడు, మౌలిక సదుపాయాలు, పరిపాలనా సంస్కరణలు చేపట్టాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Siddhartha Gautama (Buddha) Teaches in India",
+		"name_te": "సిద్ధార్థుడు (బుద్ధుడు) భారతదేశంలో బోధనలు",
+		"location": {
+			"lat": 26.7,
+			"lng": 83
+		},
+		"desc_en": "Buddha spreads his teachings across northern India, founding Buddhism.",
+		"desc_te": "బుద్ధుడు ఉత్తర భారతదేశంలో తన బోధనలు వ్యాప్తి చేశాడు, బౌద్ధమతాన్ని స్థాపించాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Confucius' Influence in China",
+		"name_te": "చైనాలో కన్‌ఫ్యూషియస్ ప్రభావం",
+		"location": {
+			"lat": 35,
+			"lng": 118
+		},
+		"desc_en": "Teachings of Confucius shape Chinese society and government.",
+		"desc_te": "కన్‌ఫ్యూషియస్ బోధనలు చైనా సమాజాన్ని, పరిపాలనను ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Pythagoras and Greek Philosophy",
+		"name_te": "పైథాగరస్ మరియు గ్రీకు తత్వశాస్త్రం",
+		"location": {
+			"lat": 37.1,
+			"lng": 27.3
+		},
+		"desc_en": "Pythagoras and his followers advance mathematics and philosophy in Greece.",
+		"desc_te": "పైథాగరస్ మరియు అతని అనుచరులు గ్రీసులో గణితం, తత్వశాస్త్రాన్ని అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Croesus of Lydia (Legacy)",
+		"name_te": "లిడియా రాజు క్రోయిసస్ (వారసత్వం)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Croesus, famed for his wealth, influences Greek and Persian affairs.",
+		"desc_te": "క్రోయిసస్ తన సంపదకు ప్రసిద్ధి చెందాడు, గ్రీకు మరియు పర్షియన్ వ్యవహారాలను ప్రభావితం చేశాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Achaemenid Satrapies Established",
+		"name_te": "అఖేమెనిడ్ సత్రాపీలు స్థాపించబడ్డాయి",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Persian Empire divides its territory into satrapies (provinces) for efficient governance.",
+		"desc_te": "పర్షియన్ సామ్రాజ్యం పరిపాలన కోసం తన ప్రాంతాన్ని సత్రాపీలుగా (ప్రావిన్సులు) విభజించింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Phoenician Trade Networks Peak",
+		"name_te": "ఫోనీషియన్ వాణిజ్య నెట్‌వర్క్‌లు",
+		"location": {
+			"lat": 34,
+			"lng": 35.7
+		},
+		"desc_en": "Phoenician cities dominate Mediterranean trade routes.",
+		"desc_te": "ఫోనీషియన్ నగరాలు మెడిటరేనియన్ వాణిజ్య మార్గాల్లో ఆధిపత్యం చెలాయించాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Rise of Carthage (North Africa)",
+		"name_te": "కార్తేజ్ అభివృద్ధి (ఉత్తర ఆఫ్రికా)",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "Carthage emerges as a major power in the western Mediterranean.",
+		"desc_te": "కార్తేజ్ పశ్చిమ మెడిటరేనియన్‌లో ప్రధాన శక్తిగా అవతరించింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Tarquin the Proud Exiled (Rome)",
+		"name_te": "రోమ్ రాజు టార్క్విన్ నిర్బంధం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Last king of Rome is exiled, leading to the Roman Republic.",
+		"desc_te": "రోమ్ చివరి రాజు టార్క్విన్ నిర్బంధించబడ్డాడు, రోమన్ గణతంత్రం ఏర్పడింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Nabonidus of Babylon (Legacy)",
+		"name_te": "బాబెలోను రాజు నబోనిడస్ (వారసత్వం)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nabonidus, last king of Babylon, remembered for his religious reforms.",
+		"desc_te": "నబోనిడస్, బాబెలోను చివరి రాజు, అతని మత సంస్కరణలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Wu of Chu (China)",
+		"name_te": "చైనా చూ రాజు వు",
+		"location": {
+			"lat": 30.5,
+			"lng": 112.2
+		},
+		"desc_en": "King Wu rules the powerful state of Chu during the Warring States period.",
+		"desc_te": "వారింగ్ స్టేట్స్ కాలంలో చూ శక్తివంతమైన రాష్ట్రాన్ని రాజు వు పాలించాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Jomon Culture (Japan)",
+		"name_te": "జోమోన్ సంస్కృతి (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Jomon people continue to develop pottery and hunter-gatherer culture in Japan.",
+		"desc_te": "జపాన్‌లో జోమోన్ ప్రజలు కుండలు, వేటగాళ్ల సంస్కృతిని అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Bantu Migrations Continue (Africa)",
+		"name_te": "బాంటు వలసలు కొనసాగుతున్నాయి (ఆఫ్రికా)",
+		"location": {
+			"lat": -2,
+			"lng": 23
+		},
+		"desc_en": "Bantu-speaking peoples continue migrating across sub-Saharan Africa.",
+		"desc_te": "బాంటు మాట్లాడే ప్రజలు ఉప-సహారా ఆఫ్రికాలో వలసలు కొనసాగించారు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Janapadas Political Consolidation (India)",
+		"name_te": "జనపదాల రాజకీయ సమీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 82
+		},
+		"desc_en": "Early Janapada kingdoms consolidate tribal governance structures into organized kingdoms; establish formal administrations and tribute systems.",
+		"desc_te": "ప్రారంభ జనపద రాజ్యాలు తెగ పాలన నిర్మాణాలను సంస్థాపిత రాజ్యాలుగా సమీకరిస్తూ ఔపచారిక పరిపాలన, కప్పకట్టిన వ్యవస్థలు స్థాపన చేస్తాయి."
+	},
+	{
+		"year": "-490",
+		"name_en": "Kosala Kingdom Dominance (India)",
+		"name_te": "కోసల రాజ్యం ఆధిపత్యం (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 82.2
+		},
+		"desc_en": "Kosala emerges as leading Mahajanapada kingdom with Ayodhya as capital; expands territorial control throughout northern plains.",
+		"desc_te": "కోసల ఐతిహ్యవంతమైన రాజ్యంగా ఎదుగుతూ అయోధ్య రాజధానిగా; ఉత్తర సమతలాలు చుట్టూ ప్రాంతీయ నియంత్రణ విస్తరిస్తుంది."
+	},
+	{
+		"year": "-480",
+		"name_en": "Magadha Kingdom Rise Bimbisara Power (India)",
+		"name_te": "మగధ రాజ్యం ఆరోహణ బింబిసార శక్తి (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "King Bimbisara strengthens Magadha through military campaigns and strategic alliances; begins challenging Kosala's dominance.",
+		"desc_te": "రాజు బింబిసారుడు సైనిక ప్రచారం, రణనీతిక సంబంధాల ద్వారా మగధాన్ని దృఢీకరిస్తూ కోసల ఆధిపత్యానికి సవాళ్ల విసరటం ప్రారంభిస్తాడు."
+	},
+	{
+		"year": "-470",
+		"name_en": "Vriji Confederacy Mahajanapada (India)",
+		"name_te": "వృజి సమవాయ మహాజనపదం (భారతదేశం)",
+		"location": {
+			"lat": 26.5,
+			"lng": 85
+		},
+		"desc_en": "Vriji tribal confederacy organizes as republican Mahajanapada with collective governance; rivals kingdoms with democratic structure.",
+		"desc_te": "వృజి గిరిజన సమవాయ సమిష్టి పాలనతో జనపద సంస్థగా సంస్థాపన; రాజ్యాలకు ప్రజాస్వామ్య నిర్మాణంతో పోటీపడుతుంది."
+	},
+	{
+		"year": "-460",
+		"name_en": "Kashi Kingdom Cultural Center (India)",
+		"name_te": "కాశీ రాజ్యం సాంస్కృతిక కేంద్రం (భారతదేశం)",
+		"location": {
+			"lat": 25.3,
+			"lng": 83
+		},
+		"desc_en": "Kashi kingdom establishes Varanasi as spiritual and intellectual center; attracts scholars, priests, and traders from across India.",
+		"desc_te": "కాశీ రాజ్యం వారణాసిని ఆధ్యాత్మిక, జ్ఞానసంబంధమైన కేంద్రంగా స్థాపిస్తూ భారతం అంతటా వేదవిద్వాంసులు, పూజారులు, వర్తకులను ఆకర్షిస్తుంది."
+	},
+	{
+		"year": "-450",
+		"name_en": "Videha Kingdom Intellectual Florescence (India)",
+		"name_te": "విదేహ రాజ్యం జ్ఞానానికర పరిపూర్ణతా (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 85.8
+		},
+		"desc_en": "Videha kingdom becomes center of philosophical learning; Mithila court famous for Upanishadic discussions and debates.",
+		"desc_te": "విదేహ రాజ్యం తత్వవేత్త జ్ఞానకేంద్రంగా; మిథిల కోర్టు ఉపనిషద్ చర్చలు, వాదాభిప్రాయాలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-440",
+		"name_en": "Pancala Kingdom Federation (India)",
+		"name_te": "పంచాల రాజ్యం సమీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 78
+		},
+		"desc_en": "Pancala kingdom comprised of northern and southern territories; operates as federated state with shared governance principles.",
+		"desc_te": "పంచాల రాజ్యం ఉత్తర, దక్షిణ ప్రాంతాలతో; సమిష్టి పాలన సూత్రాలతో సమీకృత రాష్ట్రంగా కార్యనిర్వహిస్తుంది."
+	},
+	{
+		"year": "-430",
+		"name_en": "Kosala-Magadha Rivalry Intensifies (India)",
+		"name_te": "కోసల-మగధ రంజిశ తీవ్రమవుతుంది (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 83.5
+		},
+		"desc_en": "Intensifying border conflicts between Kosala and Magadha kingdoms; territorial disputes over Gangetic plains dominance.",
+		"desc_te": "కోసల, మగధ రాజ్యాల మధ్య సరిహద్దు సంఘర్షణ తీవ్రమవుతూ గంగా సమతల ఆధిపత్యం కోసం ప్రాంతీయ వివాదాలు జరుగుతాయి."
+	},
+	{
+		"year": "-420",
+		"name_en": "Avanti Kingdom Power (India)",
+		"name_te": "అవంతీ రాజ్యం శక్తి (భారతదేశం)",
+		"location": {
+			"lat": 23,
+			"lng": 76.5
+		},
+		"desc_en": "Avanti kingdom in western Mahajanapadas rises as major power; controls crucial trade routes between regions.",
+		"desc_te": "పశ్చిమ మహాజనపదాలలో అవంతీ రాజ్యం ప్రధాన శక్తిగా ఉద్భవిస్తూ ప్రాంతీయ వాణిజ్య మార్గాలను నియంత్రిస్తుంది."
+	},
+	{
+		"year": "-410",
+		"name_en": "Assaka Kingdom Southern Mahajanapada (India)",
+		"name_te": "అస్సక రాజ్యం దక్షిణ మహాజనపదం (భారతదేశం)",
+		"location": {
+			"lat": 18.5,
+			"lng": 74
+		},
+		"desc_en": "Assaka (Assam) emerges as significant southern Mahajanapada with distinct administrative and cultural traditions.",
+		"desc_te": "అస్సక (అస్సాం) ప్రత్యేక పరిపాలన, సాంస్కృతిక సంప్రదాయాలతో గుర్వంతమైన దక్షిణ మహాజనపదంగా ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Ajatashatru of Magadha (India)",
+		"name_te": "మగధ రాజు అజాతశత్రు (భారతదేశం)",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Ajatashatru, ruler of Magadha, expands the kingdom through wars and diplomacy, strengthening its dominance in northern India.",
+		"desc_te": "మగధను పాలించిన అజాతశత్రు యుద్ధాలు, దౌత్యంతో రాజ్యాన్ని విస్తరించాడు, ఉత్తర భారతదేశంలో ఆధిపత్యాన్ని బలోపేతం చేశాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Battle of Marathon (Greece)",
+		"name_te": "మారథాన్ యుద్ధం (గ్రీస్)",
+		"location": {
+			"lat": 38.15,
+			"lng": 23.97
+		},
+		"desc_en": "The Greeks defeat the Persians at the Battle of Marathon, a pivotal moment in the Greco-Persian Wars.",
+		"desc_te": "గ్రీసులో మారథాన్ యుద్ధంలో గ్రీకులు పర్షియన్లను ఓడించారు, ఇది గ్రీకు-పర్షియన్ యుద్ధాల్లో కీలక ఘట్టం."
+	},
+	{
+		"year": "-500",
+		"name_en": "Herodotus (Greek Historian)",
+		"name_te": "హెరోడోటస్ (గ్రీకు చరిత్రకారుడు)",
+		"location": {
+			"lat": 37,
+			"lng": 27.2
+		},
+		"desc_en": "Herodotus, the 'Father of History,' travels and writes about the Greco-Persian world.",
+		"desc_te": "హెరోడోటస్, 'చరిత్ర తండ్రి', గ్రీకు-పర్షియన్ ప్రపంచాన్ని గురించి ప్రయాణించి వ్రాశాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Croesus of Lydia (Legacy Continues)",
+		"name_te": "లిడియా రాజు క్రోయిసస్ (వారసత్వం కొనసాగుతుంది)",
+		"location": {
+			"lat": 38.5,
+			"lng": 28
+		},
+		"desc_en": "Croesus' legacy continues to influence Greek and Persian affairs after his defeat.",
+		"desc_te": "క్రోయిసస్ వారసత్వం అతని పరాజయం తర్వాత కూడా గ్రీకు, పర్షియన్ వ్యవహారాలను ప్రభావితం చేస్తుంది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Kingdom of Colchis (Georgia)",
+		"name_te": "కొల్చిస్ రాజ్యం (జార్జియా)",
+		"location": {
+			"lat": 42.5,
+			"lng": 42.2
+		},
+		"desc_en": "The Kingdom of Colchis, known from Greek mythology, flourishes on the eastern Black Sea coast.",
+		"desc_te": "గ్రీకు పురాణాలలో ప్రస్తావించబడిన కొల్చిస్ రాజ్యం నల్ల సముద్ర తూర్పు తీరంలో అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Nazca Culture Develops (Peru)",
+		"name_te": "నాజ్కా సంస్కృతి అభివృద్ధి (పెరూ)",
+		"location": {
+			"lat": -14.8,
+			"lng": -74.9
+		},
+		"desc_en": "Nazca culture develops in southern Peru, known for its geoglyphs.",
+		"desc_te": "దక్షిణ పెరూలో నాజ్కా సంస్కృతి అభివృద్ధి చెందింది, ఇది భూమిపై గీసిన చిత్రాలకు ప్రసిద్ధి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Hallstatt Culture (Central Europe)",
+		"name_te": "హాల్స్టాట్ సంస్కృతి (మధ్య యూరోప్)",
+		"location": {
+			"lat": 47.6,
+			"lng": 13.6
+		},
+		"desc_en": "The Hallstatt culture, an early Iron Age culture, dominates Central Europe.",
+		"desc_te": "హాల్స్టాట్ సంస్కృతి, ప్రాథమిక ఇనుప యుగ సంస్కృతి, మధ్య యూరోప్‌లో ఆధిపత్యం చెలాయించింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Kingdom of D'mt (Eritrea/Ethiopia)",
+		"name_te": "డి'ఎమ్'టి రాజ్యం (ఎరిట్రియా/ఇథియోపియా)",
+		"location": {
+			"lat": 15.3,
+			"lng": 38.9
+		},
+		"desc_en": "The Kingdom of D'mt flourishes in the Horn of Africa, precursor to later Ethiopian civilizations.",
+		"desc_te": "హార్న్ ఆఫ్ ఆఫ్రికాలో డి'ఎమ్'టి రాజ్యం అభివృద్ధి చెందింది, ఇది తరువాతి ఇథియోపియన్ నాగరికతలకు పునాది."
+	},
+	{
+		"year": "-500",
+		"name_en": "King Nabonidus of Babylon (Legacy Continues)",
+		"name_te": "బాబెలోను రాజు నబోనిడస్ (వారసత్వం కొనసాగుతుంది)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nabonidus' religious reforms and legacy continue to influence Mesopotamia after his reign.",
+		"desc_te": "నబోనిడస్ మత సంస్కరణలు, వారసత్వం అతని పాలన తర్వాత కూడా మెసొపొటేమియాను ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Battle of Salamis (Greece)",
+		"name_te": "సలామిస్ యుద్ధం (గ్రీస్)",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.57
+		},
+		"desc_en": "Naval victory of Greece over Persian Empire at Salamis",
+		"desc_te": "సలామిస్‌లో పర్షియన్ సామ్రాజ్యం మీద గ్రీస్ నౌకా విజయం"
+	},
+	{
+		"year": "-480",
+		"name_en": "Peloponnesian Wars Begin (Greece)",
+		"name_te": "పెలోపోన్నేసియన్ యుద్ధాలు ప్రారంభ (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Conflicts between Athenian and Spartan alliances",
+		"desc_te": "ఏథెన్ మరియు స్పార్టన్ సంబంధాల మధ్య సంఘర్షణలు"
+	},
+	{
+		"year": "-460",
+		"name_en": "Pericles' Golden Age (Greece)",
+		"name_te": "పెరిక్లీస్ సువర్ణకాలం (గ్రీస్)",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.73
+		},
+		"desc_en": "Athens flourishes under Pericles with democratic reforms",
+		"desc_te": "పెరిక్లీస్ కింద ఏథెన్‌లు ప్రజాస్వామ్య సంస్కరణలతో వికసిస్తుంది"
+	},
+	{
+		"year": "-440",
+		"name_en": "Parthenon Completion (Greece)",
+		"name_te": "పార్థనాన్ పూర్తి (గ్రీస్)",
+		"location": {
+			"lat": 37.971,
+			"lng": 23.727
+		},
+		"desc_en": "Parthenon temple completed in Athens",
+		"desc_te": "ఏథెన్‌లో పార్థనాన్ దేవాలయం పూర్తి"
+	},
+	{
+		"year": "-420",
+		"name_en": "Socratic Philosophy Peak (Greece)",
+		"name_te": "సోక్రటిక్ తత్వశాస్త్రం శిఖరం (గ్రీస్)",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.73
+		},
+		"desc_en": "Socrates teaches and influences Greek thought",
+		"desc_te": "సోక్రటీస్ చెప్పుకుంటారు, గ్రీక్ ఆలోచనను ప్రభావితం"
+	},
+	{
+		"year": "-500",
+		"name_en": "Ashoka's Empire Begins (India)",
+		"name_te": "అశోక రాజ్యం ప్రారంభ (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Ashoka becomes ruler of Mauryan Empire",
+		"desc_te": "అశోక మౌర్య సామ్రాజ్యం పాలకుడిగా గా"
+	},
+	{
+		"year": "-480",
+		"name_en": "Ashoka's Expansion (India)",
+		"name_te": "అశోక విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Ashoka expands empire through military campaigns",
+		"desc_te": "అశోక సైనిక చర్యల ద్వారా సామ్రాజ్యం విస్తరిస్తుంది"
+	},
+	{
+		"year": "-460",
+		"name_en": "Ashoka's Conversion to Buddhism (India)",
+		"name_te": "అశోక బౌద్ధమతానికి మార్పు (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Ashoka converts to Buddhism, spreads dharma across empire",
+		"desc_te": "అశోక బౌద్ధమతానికి మారి సామ్రాజ్యం అంతటా ధర్మ ప్రసారం"
+	},
+	{
+		"year": "-440",
+		"name_en": "Ashoka's Edicts (India)",
+		"name_te": "అశోక సంegnాసనాలు (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Ashoka inscribes rock and pillar edicts across empire",
+		"desc_te": "అశోక సామ్రాజ్యం అంతటా రాయి, స్తంభ సంegnాసనాలు క్రోడీకరణ"
+	},
+	{
+		"year": "-420",
+		"name_en": "Mauryan Empire Zenith (India)",
+		"name_te": "మౌర్య సామ్రాజ్యం శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 85
+		},
+		"desc_en": "Mauryan Empire reaches greatest territorial extent",
+		"desc_te": "మౌర్య సామ్రాజ్యం గరిష్ఠ భూభాగ విస్తీర్ణంకు చేరుకుంటుంది"
+	},
+	{
+		"year": "-500",
+		"name_en": "Eastern Zhou Conflict (China)",
+		"name_te": "తూర్పు జోవు సంఘర్షణ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Warring states period intensifies in China",
+		"desc_te": "చైనాలో యుద్ధ రాష్ట్రాల కాలం తీవ్రతరం"
+	},
+	{
+		"year": "-480",
+		"name_en": "Sun Tzu Military Strategy (China)",
+		"name_te": "సన్ జు సైనిక వ్యూహం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Sun Tzu writes Art of War during Warring States",
+		"desc_te": "యుద్ధ రాష్ట్రాల కాలంలో సన్ జు యుద్ధ కళ వ్రాయుతారు"
+	},
+	{
+		"year": "-460",
+		"name_en": "Legalist Philosophy Emerges (China)",
+		"name_te": "లీగలిస్ట్ తత్వశాస్త్రం ఉద్భవం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Legalism philosophy develops in Warring States",
+		"desc_te": "యుద్ధ రాష్ట్రాలలో చట్టవాద తత్వశాస్త్రం అభివృద్ధి"
+	},
+	{
+		"year": "-440",
+		"name_en": "Qin State Rises (China)",
+		"name_te": "కిన్ రాష్ట్రం లేవుతుంది (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.8
+		},
+		"desc_en": "State of Qin grows powerful during Warring States",
+		"desc_te": "యుద్ధ రాష్ట్రాల కాలంలో కిన్ రాష్ట్రం శక్తివంతంగా వృద్ధి"
+	},
+	{
+		"year": "-420",
+		"name_en": "Daoism Develops (China)",
+		"name_te": "దైవిక తత్వశాస్త్రం అభివృద్ధి (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Daoist philosophy texts composed and circulated",
+		"desc_te": "దైవిక తత్వశాస్త్ర గ్రంథాలు సంపాదించి ప్రసారం"
+	},
+	{
+		"year": "-500",
+		"name_en": "Roman Republic Early Conflicts (Rome)",
+		"name_te": "రోమన్ గణతంత్ర ప్రారంభ సంఘర్షణలు (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Early Roman Republic faces conflicts with neighboring peoples",
+		"desc_te": "ప్రారంభ రోమన్ గణతంత్రం పొరుగు ప్రజలతో సంఘర్షణలు ఎదుర్కుంటుంది"
+	},
+	{
+		"year": "-480",
+		"name_en": "Roman-Latin Wars (Rome)",
+		"name_te": "రోమన్-లాటిన్ యుద్ధాలు (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Conflicts between Rome and Latin cities",
+		"desc_te": "రోమ్ మరియు లాటిన్ నగరాల మధ్య సంఘర్షణలు"
+	},
+	{
+		"year": "-460",
+		"name_en": "Roman Expansion Accelerates (Rome)",
+		"name_te": "రోమన్ విస్తరణ త్వరితం (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Rome expands control over Italian peninsula",
+		"desc_te": "రోమ్ ఇటాలియన్ ద్వీపకల్పంపై నియంత్రణ విస్తరిస్తుంది"
+	},
+	{
+		"year": "-440",
+		"name_en": "Roman Conquest of Gaul Begins (Rome)",
+		"name_te": "గాలియన్ జయ ప్రారంభ (రోమ్)",
+		"location": {
+			"lat": 46.5,
+			"lng": 2.2
+		},
+		"desc_en": "Roman forces begin campaigns in Gaul",
+		"desc_te": "రోమన్ బలగాలు గాలియంలో చర్యలు ప్రారంభ"
+	},
+	{
+		"year": "-420",
+		"name_en": "Roman Military Reforms (Rome)",
+		"name_te": "రోమన్ సైనిక సంస్కరణలు (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Rome develops professional military legions",
+		"desc_te": "రోమ్ వృత్తిపరమైన సైనిక లెజియన్‌లు అభివృద్ధి"
+	},
+	{
+		"year": "-500",
+		"name_en": "Yayoi Period Begins (Japan)",
+		"name_te": "యాయోయీ కాలం ప్రారంభ (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Yayoi culture begins, replacing Jomon traditions",
+		"desc_te": "జోమోన్ సంప్రదాయాలను భర్తీ చేసి యాయోయీ సంస్కృతి ప్రారంభ"
+	},
+	{
+		"year": "-480",
+		"name_en": "Yayoi Agriculture Develops (Japan)",
+		"name_te": "యాయోయీ వ్యవసాయం అభివృద్ధి (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Rice agriculture spreads throughout Japan",
+		"desc_te": "జపాన్ అంతటా వరి వ్యవసాయ విస్తరణ"
+	},
+	{
+		"year": "-460",
+		"name_en": "Yayoi Pottery Technology (Japan)",
+		"name_te": "యాయోయీ కుండల సాంకేతికత (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Advanced pottery techniques develop in Japan",
+		"desc_te": "జపాన్‌లో అత్యాధునిక కుండల సాంకేతికత అభివృద్ధి"
+	},
+	{
+		"year": "-440",
+		"name_en": "Yayoi Social Structure Emerges (Japan)",
+		"name_te": "యాయోయీ సామాజిక నిర్మాణ ఉద్భవం (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Hierarchical societies form in Yayoi Japan",
+		"desc_te": "యాయోయీ జపాన్‌లో సోపానక్రమ సమాజాలు ఏర్పడుతాయి"
+	},
+	{
+		"year": "-420",
+		"name_en": "Yayoi Bronze Bells (Japan)",
+		"name_te": "యాయోయీ కాంస్య గంటలు (జపాన్)",
+		"location": {
+			"lat": 38,
+			"lng": 137
+		},
+		"desc_en": "Bronze bells (dotaku) used in Yayoi rituals",
+		"desc_te": "యాయోయీ ఆచారాలలో కాంస్య గంటలు (దొటాకు) ఉపయోగం"
+	},
+	{
+		"year": "-490",
+		"name_en": "Marathon Victory Greek Independence",
+		"name_te": "మారథాన్ విజయం గ్రీక్ స్వాతంత్ర్యం",
+		"location": {
+			"lat": 38.15,
+			"lng": 23.97
+		},
+		"desc_en": "Greeks decisively defeat Persian invasion at Marathon; Greek independence secured.",
+		"desc_te": "గ్రీకులు మారథాన్‌లో పర్షియన్ ఆక్రమణను సిద్ధాంతంగా ఓడిస్తూ గ్రీక్ స్వాతంత్ర్యం సంరక్షితం."
+	},
+	{
+		"year": "-480",
+		"name_en": "Salamis Naval Victory Greece Dominance",
+		"name_te": "సలామిస్ సముద్ర విజయం గ్రీక్ ఆధిపత్యం",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.57
+		},
+		"desc_en": "Greek navy defeats Persian fleet at Salamis; ends Persian invasion threat.",
+		"desc_te": "గ్రీక్ నౌకసైన్యం సలామిస్‌లో పర్షియన్ ఫ్లీట్‌ను ఓడిస్తూ పర్షియన్ ఆక్రమణ ముప్పు సమాప్తమవుతుంది."
+	},
+	{
+		"year": "-470",
+		"name_en": "Plataea Victory Persian Wars Conclude",
+		"name_te": "ప్లాటియా విజయం పర్షియన్ యుద్ధ సమాప్తం",
+		"location": {
+			"lat": 38.28,
+			"lng": 23.25
+		},
+		"desc_en": "Greeks defeat Persians decisively at Plataea; Greco-Persian Wars conclude.",
+		"desc_te": "గ్రీకులు ప్లాటియాలో పర్షియన్‌లను నిర్ణయాత్మకంగా ఓడిస్తూ గ్రీకు-పర్షియన్ యుద్ధాలు సమాప్తమవుతాయి."
+	},
+	{
+		"year": "-460",
+		"name_en": "Delian League Formation Greek Alliance",
+		"name_te": "డెలియన్ లీగ్ ఏర్పడుదల గ్రీక్ సమాఘం",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.73
+		},
+		"desc_en": "Delian League formed; Athens leads Greek city-states against Persian threats.",
+		"desc_te": "డెలియన్ లీగ్ ఏర్పడుతూ ఏథెన్‌లు పర్షియన్ ముప్పుల నుండి గ్రీక్ నగర-రాష్ట్రాలను నేతృత్వం."
+	},
+	{
+		"year": "-450",
+		"name_en": "Pericles Age Democracy Athens Golden",
+		"name_te": "పెరిక్లీస్ కాలం ఏథెన్‌లు ప్రజాస్వామ్య సువర్ణ",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.73
+		},
+		"desc_en": "Pericles' democratic reforms flourish in Athens; golden age of Greek democracy.",
+		"desc_te": "పెరిక్లీస్ ప్రజాస్వామ్య సంస్కరణలు ఏథెన్‌లో సమృద్ధిస్తూ గ్రీక్ ప్రజాస్వామ్య సువర్ణకాలం."
+	},
+	{
+		"year": "-440",
+		"name_en": "Parthenon Temple Construction Athens",
+		"name_te": "పార్థనాన్ దేవాలయ నిర్మాణ ఏథెన్‌లు",
+		"location": {
+			"lat": 37.971,
+			"lng": 23.727
+		},
+		"desc_en": "Parthenon temple constructed in Athens; monument to Greek architectural achievement.",
+		"desc_te": "ఏథెన్‌లో పార్థనాన్ దేవాలయ నిర్మాణం; గ్రీక్ నిర్మాణ సాఫల్యానికి స్మారకం."
+	},
+	{
+		"year": "-430",
+		"name_en": "Sophocles Theatrical Peak Greek Drama",
+		"name_te": "సోఫోక్లీస్ నాటక శిఖరం గ్రీక్ నాటకం",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.73
+		},
+		"desc_en": "Sophocles writes greatest tragedies; Greek drama at its peak.",
+		"desc_te": "సోఫోక్లీస్ గొప్ప విషాదాలు రచన; గ్రీక్ నాటకం శిఖరస్థాయిలో."
+	},
+	{
+		"year": "-420",
+		"name_en": "Peloponnesian Wars Athens Sparta",
+		"name_te": "పెలోపోన్నేసియన్ యుద్ధం ఏథెన్‌లు, స్పార్టా",
+		"location": {
+			"lat": 38,
+			"lng": 23
+		},
+		"desc_en": "Peloponnesian Wars begin between Athens and Sparta; rival city-states clash.",
+		"desc_te": "ఏథెన్‌లు, స్పార్టా మధ్య పెలోపోన్నేసియన్ యుద్ధాలు ప్రారంభమవుతూ ప్రత్యర్థి నగర-రాష్ట్రాలు ఘర్షణ చేస్తాయి."
+	},
+	{
+		"year": "-410",
+		"name_en": "Peloponnesian Wars Athens Decline",
+		"name_te": "పెలోపోన్నేసియన్ యుద్ధం ఏథెన్‌లు పతనం",
+		"location": {
+			"lat": 37.97,
+			"lng": 23.73
+		},
+		"desc_en": "Peloponnesian Wars intensify; Athens' power begins to decline.",
+		"desc_te": "పెలోపోన్నేసియన్ యుద్ధాలు తీవ్రతరం; ఏథెన్‌ల శక్తి పతనం ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Vedic Age Transition Upanishads India",
+		"name_te": "వేద కాలం మార్పు ఉపనిషదులు భారత",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Vedic period transitions; Upanishads philosophical texts flourish in India.",
+		"desc_te": "వేద కాలం మార్పు చెందుతూ ఉపనిషద్ థత్వవేత్త గ్రంథాలు భారతలో సమృద్ధిస్తాయి."
+	},
+	{
+		"year": "-490",
+		"name_en": "Magadha Kingdom Powerful India",
+		"name_te": "మగధ రాజ్యం శక్తివంతం భారత",
+		"location": {
+			"lat": 25.6,
+			"lng": 85.1
+		},
+		"desc_en": "Kingdom of Magadha becomes powerful in northern India; expands territory.",
+		"desc_te": "ఉత్తర భారతలో మగధ రాజ్యం శక్తివంతమవుతూ ప్రాంతాలు విస్తరిస్తుంది."
+	},
+	{
+		"year": "-480",
+		"name_en": "Confucian Philosophy Spreads China",
+		"name_te": "కన్‌ఫ్యూషియన్ తత్వశాస్త్రం చైనా వ్యాపన",
+		"location": {
+			"lat": 35,
+			"lng": 118
+		},
+		"desc_en": "Confucian teachings spread throughout China; influence governance and society.",
+		"desc_te": "కన్‌ఫ్యూషియన్ బోధనలు చైనా అంతటా వ్యాపిస్తూ పరిపాలన, సమాజాన్ని ప్రభావితం చేస్తాయి."
+	},
+	{
+		"year": "-470",
+		"name_en": "Daoism Taoism Emerges China Philosophy",
+		"name_te": "ధర్మమార్గం తాయిజం చైనా తత్వశాస్త్రం ఉద్భవం",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Daoism (Taoism) philosophy emerges in China; offers alternative to Confucianism.",
+		"desc_te": "చైనాలో దావీయ (తాయీ) తత్వశాస్త్రం ఉద్భవిస్తూ కన్‌ఫ్యూషియనిజానికి ప్రత్యామ్నాయం అందిస్తుంది."
+	},
+	{
+		"year": "-460",
+		"name_en": "Warring States Qin Expansion China",
+		"name_te": "యుద్ధరత చిన్ విస్తరణ చైనా",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.8
+		},
+		"desc_en": "State of Qin expands aggressively; becomes dominant force in Warring States.",
+		"desc_te": "చిన్ రాష్ట్రం ఆక్రమణాత్మకంగా విస్తరిస్తూ యుద్ధరత స్టేట్స్‌లో ఆధిపత్య శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-450",
+		"name_en": "Sun Tzu Art of War China Military",
+		"name_te": "సన్ జు యుద్ధ కళ చైనా సైనిక",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Sun Tzu writes Art of War; revolutionary military strategy in China.",
+		"desc_te": "సన్ జు యుద్ధ కళ రచన; చైనాలో విప్లవాత్మక సైనిక వ్యూహం."
+	},
+	{
+		"year": "-440",
+		"name_en": "Babylon Mesopotamian Trade Zenith",
+		"name_te": "బాబెలోను మెసొపొటేమియా వాణిజ్య శిఖరం",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Babylon reaches height of trade prosperity; dominates Mesopotamian commerce.",
+		"desc_te": "బాబెలోను వాణిజ్య సమృద్ధి శిఖరం చేరుకుంటూ మెసొపొటేమియన్ వాణిజ్యాన్ని ఆధిపత్యం చేస్తుంది."
+	},
+	{
+		"year": "-430",
+		"name_en": "Tyre Phoenician Trading Port Peak",
+		"name_te": "టైర్ ఫోనీషియన్ వాణిజ్య నిలయ శిఖరం",
+		"location": {
+			"lat": 33.27,
+			"lng": 35.19
+		},
+		"desc_en": "Tyre becomes greatest Phoenician city; dominates Mediterranean trade.",
+		"desc_te": "టైర్ గ్రెట్ ఫోనీషియన్ నగరంగా మారుతూ మధ్యసాగర్ వాణిజ్యాన్ని ఆధిపత్యం చేస్తుంది."
+	},
+	{
+		"year": "-420",
+		"name_en": "Carthage West Mediterranean Dominance",
+		"name_te": "కార్తేజ్ పశ్చిమ మధ్యసాగర్ ఆధిపత్యం",
+		"location": {
+			"lat": 36.8,
+			"lng": 10.2
+		},
+		"desc_en": "Carthage expands power; becomes dominant western Mediterranean force.",
+		"desc_te": "కార్తేజ్ శక్తి విస్తరిస్తూ పశ్చిమ మధ్యసాగర్ ఆధిపత్య శక్తిగా మారుతుంది."
+	},
+	{
+		"year": "-410",
+		"name_en": "Rome Italy Military Consolidation",
+		"name_te": "రోమ్ ఇటలీ సైనిక సమీకరణ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Rome consolidates military control over Italian peninsula.",
+		"desc_te": "రోమ్ ఇటాలియన్ ద్వీపకలపపై సైనిక నియంత్రణ సమీకరిస్తుంది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Nubian Kingdom Meroe Independence",
+		"name_te": "నూబియా మెరోయే రాజ్య స్వాతంత్ర్యం",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Meroe gains independence from Egypt; becomes autonomous Nubian kingdom.",
+		"desc_te": "మెరోయే ఈజిప్టు నుండి స్వాతంత్ర్యం పొంది స్వతంత్ర నూబియా రాజ్యంగా మారుతుంది."
+	},
+	{
+		"year": "-490",
+		"name_en": "Aksumite Kingdom Emergence Africa",
+		"name_te": "అక్సుమ్ రాజ్య ఉద్భవం ఆఫ్రికా",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "Aksumite kingdom begins to emerge in Horn of Africa.",
+		"desc_te": "ఆఫ్రికా హార్న్‌లో అక్సుమ్ రాజ్యం ఉద్భవం ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "-480",
+		"name_en": "Celtic Tribes Gaul Expansion Europe",
+		"name_te": "సెల్టిక్ గోత్రాలు గాలియా విస్తరణ యూరోప్",
+		"location": {
+			"lat": 46.5,
+			"lng": 2.2
+		},
+		"desc_en": "Celtic tribes expand throughout Gaul; dominate region.",
+		"desc_te": "సెల్టిక్ గోత్రాలు గాలియా అంతటా విస్తరిస్తూ ప్రాంతాన్ని ఆధిపత్యం చేస్తాయి."
+	},
+	{
+		"year": "-470",
+		"name_en": "Germanic Tribes Northern Europe Expansion",
+		"name_te": "జర్మానిక్ గోత్రాలు ఉత్తర యూరోప్ విస్తరణ",
+		"location": {
+			"lat": 51,
+			"lng": 10
+		},
+		"desc_en": "Germanic tribes expand into Northern Europe; develop settlements.",
+		"desc_te": "జర్మానిక్ గోత్రాలు ఉత్తర యూరోపకు విస్తరిస్తూ నిబంధనలు అభివృద్ధి చేస్తాయి."
+	},
+	{
+		"year": "-460",
+		"name_en": "Galatian Celtic Culture Anatolia",
+		"name_te": "గలాటియన్ సెల్టిక్ సంస్కృతి అనాటోలియా",
+		"location": {
+			"lat": 39.5,
+			"lng": 32.5
+		},
+		"desc_en": "Celtic Galatians settle in Anatolia; establish Galatian kingdom.",
+		"desc_te": "సెల్టిక్ గలాటియన్లు అనాటోలియాలో స్థిరపడుతూ గలాటియన్ రాజ్యం స్థాపన చేస్తారు."
+	},
+	{
+		"year": "-450",
+		"name_en": "Scythian Dominance Central Asian Steppes",
+		"name_te": "స్కిథియన్ మధ్య ఆసియా స్టెప్పుల ఆధిపత్యం",
+		"location": {
+			"lat": 48,
+			"lng": 67
+		},
+		"desc_en": "Scythian tribes dominate Central Asian steppes; establish trading networks.",
+		"desc_te": "స్కిథియన్ గోత్రాలు మధ్య ఆసియా స్టెప్పుల ఆధిపత్యం; వాణిజ్య నెట్‌వర్క్‌లు స్థాపన చేస్తాయి."
+	},
+	{
+		"year": "-440",
+		"name_en": "Mayan City-States Growth America",
+		"name_te": "మాయా నగర-రాష్ట్రాల వృద్ధి అమెరికా",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Mayan city-states grow; establish regional dominance.",
+		"desc_te": "మాయా నగర-రాష్ట్రాలు వృద్ధిస్తూ ప్రాంతీయ ఆధిపత్యం స్థాపన చేస్తాయి."
+	},
+	{
+		"year": "-430",
+		"name_en": "Nazca Lines Geoglyph Development Peru",
+		"name_te": "నాజ్కా లైన్‌లు భూ చిత్రం అభివృద్ధి పెరూ",
+		"location": {
+			"lat": -14.8,
+			"lng": -74.9
+		},
+		"desc_en": "Nazca culture creates massive geoglyphs in Peru.",
+		"desc_te": "నాజ్కా సంస్కృతి పెరూలో విశాల భూ చిత్రాలు సృష్టిస్తుంది."
+	},
+	{
+		"year": "-420",
+		"name_en": "Hopewell Mound Expansion North America",
+		"name_te": "హోప్‌వెల్ గుండె విస్తరణ ఉత్తర అమెరికా",
+		"location": {
+			"lat": 39.96,
+			"lng": -83
+		},
+		"desc_en": "Hopewell culture expands mound-building; elaborate ceremonial complexes.",
+		"desc_te": "హోప్‌వెల్ సంస్కృతి గుండె నిర్మాణ విస్తరిస్తూ విస్తృత ఆచార సంక్లిష్టతలు సృష్టిస్తుంది."
+	},
+	{
+		"year": "-410",
+		"name_en": "Polynesian Navigation Pacific Expansion",
+		"name_te": "పాలినీషియన్ నావిగేషన్ పసిఫిక్ విస్తరణ",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian peoples expand navigation; settle distant Pacific islands.",
+		"desc_te": "పాలినీషియన్ ప్రజలు నావిగేషన్ విస్తరిస్తూ దూర పసిఫిక్ దీవులలో స్థిరపడుతారు."
+	}
+]

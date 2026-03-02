@@ -1,0 +1,211 @@
+[
+	{
+		"year": "-2300",
+		"name_en": "Descendants of Noah: Shem, Ham, Japheth",
+		"name_te": "నోవాకు సంతానం: శేము, హాము, యాఫెతు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The sons of Noah and their descendants begin to spread across the earth after the flood (Genesis 10:1-32)",
+		"desc_te": "ప్రళయానంతరం నోవాకు జన్మించిన శేము, హాము, యాఫెతు వారి సంతానం భూమి మీద వ్యాపించటం ప్రారంభించారు (ఆదికాండము 10:1-32)"
+	},
+	{
+		"year": "-2290",
+		"name_en": "Nations and Kingdoms Formed after the Flood",
+		"name_te": "ప్రళయానంతరం ఏర్పడిన జనములు, రాజ్యాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Nations and kingdoms begin to form from the descendants of Noah (Genesis 10:5, 10:20, 10:31)",
+		"desc_te": "నోవా సంతానం నుండి అనేక జనములు, రాజ్యాలు ఏర్పడినవి (ఆదికాండము 10:5, 10:20, 10:31)"
+	},
+	{
+		"year": "-2285",
+		"name_en": "Nimrod, First King and Mighty Hunter",
+		"name_te": "నిమ్రోదు: మొట్టమొదటి రాజు, గొప్ప వేటగాడు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Nimrod, a descendant of Ham, becomes a mighty king and hunter (Genesis 10:8-12)",
+		"desc_te": "హాము సంతతికి చెందిన నిమ్రోదు గొప్ప వేటగాడిగా, రాజుగా ఎదిగాడు (ఆదికాండము 10:8-12)"
+	},
+	{
+		"year": "-2270",
+		"name_en": "Kingdom of Babel, Erech, Akkad, and Calneh",
+		"name_te": "బాబేలు, ఎరెక్, అక్కదు, కల్నె రాజ్యాలు",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Nimrod establishes the kingdoms of Babel, Erech, Akkad, and Calneh in Shinar (Genesis 10:10)",
+		"desc_te": "నిమ్రోదు షినార్ దేశంలో బాబేలు, ఎరెక్, అక్కదు, కల్నె రాజ్యాలను స్థాపించాడు (ఆదికాండము 10:10)"
+	},
+	{
+		"year": "-2250",
+		"name_en": "Spread of Peoples and Languages",
+		"name_te": "జనముల, భాషల వ్యాప్తి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The peoples and languages spread out over the earth (Genesis 10:32)",
+		"desc_te": "భూమి మీద జనములు, భాషలు వ్యాపించాయి (ఆదికాండము 10:32)"
+	},
+	{
+		"year": "-2240",
+		"name_en": "Generations of Shem",
+		"name_te": "శేము సంతతి తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The genealogy of Shem, son of Noah, is recorded (Genesis 11:10-11)",
+		"desc_te": "నోవాకు కుమారుడైన శేము సంతతి తరాలు వివరించబడ్డాయి (ఆదికాండము 11:10-11)"
+	},
+	{
+		"year": "-2230",
+		"name_en": "Generations of Arphaxad, Shelah, Eber",
+		"name_te": "అర్పక్సదు, షేలా, ఏబేరు తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The descendants of Arphaxad, Shelah, and Eber (Genesis 11:12-17)",
+		"desc_te": "అర్పక్సదు, షేలా, ఏబేరు వారి తరాలు (ఆదికాండము 11:12-17)"
+	},
+	{
+		"year": "-2220",
+		"name_en": "Generations of Peleg, Reu, Serug",
+		"name_te": "పేలెగు, రేఉ, సెరూగు తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The descendants of Peleg, Reu, and Serug (Genesis 11:18-23)",
+		"desc_te": "పేలెగు, రేఉ, సెరూగు వారి తరాలు (ఆదికాండము 11:18-23)"
+	},
+	{
+		"year": "-2210",
+		"name_en": "Generations of Nahor, Terah",
+		"name_te": "నహోరు, తెరహు తరాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "The descendants of Nahor and Terah, ancestors of Abraham (Genesis 11:24-26)",
+		"desc_te": "నహోరు, తెరహు తరాలు, ఇవే అబ్రాహాము పూర్వీకులు (ఆదికాండము 11:24-26)"
+	},
+	{
+		"year": "-2205",
+		"name_en": "Terah's Family in Ur of the Chaldeans",
+		"name_te": "కల్దీయుల ఊరులో తెరహు కుటుంబం",
+		"location": {
+			"lat": 31,
+			"lng": 46
+		},
+		"desc_en": "Terah's family, including Abram, Sarai, and Lot, live in Ur of the Chaldeans (Genesis 11:27-28)",
+		"desc_te": "తెరహు కుటుంబం (అబ్రాము, సారాయి, లోతు) కల్దీయుల ఊరులో నివసించారు (ఆదికాండము 11:27-28)"
+	},
+	{
+		"year": "-2202",
+		"name_en": "Death of Haran, Father of Lot",
+		"name_te": "లోతు తండ్రి హారాను మరణం",
+		"location": {
+			"lat": 31,
+			"lng": 46
+		},
+		"desc_en": "Haran, the father of Lot, dies in Ur of the Chaldeans (Genesis 11:28)",
+		"desc_te": "లోతు తండ్రి హారాను కల్దీయుల ఊరులో మరణించాడు (ఆదికాండము 11:28)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Abram, Sarai, and Lot Prepare to Leave Ur",
+		"name_te": "అబ్రాము, సారాయి, లోతు ఊరును విడిచిపోవడానికి సిద్ధమవుతున్నారు",
+		"location": {
+			"lat": 31,
+			"lng": 46
+		},
+		"desc_en": "Abram, Sarai, and Lot prepare to leave Ur of the Chaldeans (Genesis 11:31)",
+		"desc_te": "అబ్రాము, సారాయి, లోతు కల్దీయుల ఊరును విడిచిపోవడానికి సిద్ధమయ్యారు (ఆదికాండము 11:31)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Terah Leads Family Toward Canaan",
+		"name_te": "తెరహు కుటుంబాన్ని కనాను వైపు నడిపించాడు",
+		"location": {
+			"lat": 33,
+			"lng": 44
+		},
+		"desc_en": "Terah leads his family from Ur toward the land of Canaan (Genesis 11:31)",
+		"desc_te": "తెరహు తన కుటుంబాన్ని ఊరునుండి కనాను దేశం వైపు నడిపించాడు (ఆదికాండము 11:31)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Arrival at Haran",
+		"name_te": "హారానులో చేరిక",
+		"location": {
+			"lat": 36.9,
+			"lng": 39
+		},
+		"desc_en": "Terah's family arrives and settles in Haran (Genesis 11:31-32)",
+		"desc_te": "తెరహు కుటుంబం హారానులో చేరి అక్కడ నివసించింది (ఆదికాండము 11:31-32)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Death of Terah in Haran",
+		"name_te": "హారానులో తెరహు మరణం",
+		"location": {
+			"lat": 36.9,
+			"lng": 39
+		},
+		"desc_en": "Terah dies in Haran at the age of 205 (Genesis 11:32)",
+		"desc_te": "హారానులో తెరహు 205 ఏళ్ల వయస్సులో మరణించాడు (ఆదికాండము 11:32)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Early Worship and Altars after the Flood",
+		"name_te": "ప్రళయానంతరం ఆరాధన, బలిపీఠాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early worship practices and altars established by Noah's descendants (Genesis 8:20-22)",
+		"desc_te": "నోవా సంతానం ప్రళయానంతరం ఆరాధన, బలిపీఠాలు ఏర్పాటు చేశారు (ఆదికాండము 8:20-22)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Early Prophets and Patriarchs",
+		"name_te": "ప్రారంభ కాల ప్రవక్తలు, పితృపురుషులు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Patriarchs and early prophets among Noah's descendants (Genesis 9:1-7)",
+		"desc_te": "నోవా సంతానంలో పితృపురుషులు, ప్రారంభ ప్రవక్తలు (ఆదికాండము 9:1-7)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Early City-States and Clans",
+		"name_te": "ప్రారంభ నగర-రాజ్యాలు, వంశాలు",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Formation of early city-states and clans among the descendants of Noah (Genesis 10:8-12)",
+		"desc_te": "నోవా సంతానంలో ప్రారంభ నగర-రాజ్యాలు, వంశాలు ఏర్పడ్డాయి (ఆదికాండము 10:8-12)"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Early Conflicts and Dispersal",
+		"name_te": "ప్రారంభ ఘర్షణలు, వ్యాప్తి",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Early conflicts and dispersal of peoples after the flood (Genesis 11:1-9)",
+		"desc_te": "ప్రళయానంతరం ప్రారంభ ఘర్షణలు, జనముల వ్యాప్తి (ఆదికాండము 11:1-9)"
+	}
+]

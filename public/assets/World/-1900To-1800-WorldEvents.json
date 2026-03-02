@@ -1,0 +1,860 @@
+[
+	{
+		"year": "-1900",
+		"name_en": "Early Babylonian City-States (Mesopotamia)",
+		"name_te": "ప్రారంభ బాబిలోనియన్ నగర-రాజ్యాలు (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Multiple Babylonian city-states compete for power in Mesopotamia",
+		"desc_te": "మెసోపొటేమియాలో బహుళ బాబిలోనియన్ నగర-రాజ్యాలు శక్తి కోసం పోరాడుతున్నాయి"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Middle Kingdom Egypt Flourishes (Egypt)",
+		"name_te": "మధ్య రాజ్య ఈజిప్ట్ వికసిస్తుంది (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Middle Kingdom Egypt at height of culture and stability",
+		"desc_te": "మధ్య రాజ్య ఈజిప్ట్ సంస్కృతి, స్థిరత శిఖరాలో"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Shang Dynasty Emerges (China)",
+		"name_te": "షాంగ్ రాజవంశం ఉదయం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty begins, establishes first Chinese kingdom with writing",
+		"desc_te": "షాంగ్ రాజవంశం ప్రారంభమైంది, రచనతో తొలి చైనీస్ రాజ్యం స్థాపిస్తుంది"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Early Vedic Period (India)",
+		"name_te": "ప్రారంభ వేదిక కాలం (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Early Vedic period begins with Rigveda compositions",
+		"desc_te": "ప్రారంభ వేదిక కాలం ఋగ్వేద సంపాదనతో ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Indus Valley Civilization Develops (India)",
+		"name_te": "సిందువు లోయ నాగరికత అభివృద్ధి (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Harappa and Mohenjo-daro cities develop with planned layouts",
+		"desc_te": "హరప్ప, మోహెంజోదారో నగరాలు పథకిత నిర్మాణంతో అభివృద్ధి చెందుతాయి"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Mycenaean Period Begins (Greece)",
+		"name_te": "మైసెనియన్ కాలం ప్రారంభం (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean civilization begins in Greece with palace complexes",
+		"desc_te": "గ్రీస్‌లో మైసెనియన్ నాగరికత రాజభవన సముదాయాలతో ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Minoan Civilization Peak (Crete)",
+		"name_te": "మినోయన్ నాగరికత శిఖరం (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan culture flourishes with advanced art and architecture",
+		"desc_te": "మినోయన్ సంస్కృతి ఉన్నతమైన కళ, నిర్మాణంతో వికసిస్తుంది"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Hittite Kingdom Rises (Anatolia)",
+		"name_te": "హిట్టైట్ రాజ్యం ఎదుగుతుంది (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite kingdom emerges as major power in Anatolia",
+		"desc_te": "అనాటోలియాలో హిట్టైట్ రాజ్యం ప్రధాన శక్తిగా ఉదయం"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Egyptian Pyramid Building (Egypt)",
+		"name_te": "ఈజిప్టియన్ పిరమిడ్ నిర్మాణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptians construct grand pyramids and temples",
+		"desc_te": "ఈజిప్టియన్‌లు గొప్ప పిరమిడ్‌లు, ఆలయాలను నిర్మిస్తారు"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Bronze Working Innovation (Mesopotamia)",
+		"name_te": "కాంస్య పని ఆవిష్కరణ (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Bronze working techniques advanced in Mesopotamian civilizations",
+		"desc_te": "మెసోపొటేమియన్ నాగరికతలో కాంస్య పని విధానాలు ఉన్నతమవుతాయి"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Nubian Kingdom Growth (Africa)",
+		"name_te": "న్యూబియన్ రాజ్యం వృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": 16,
+			"lng": 33
+		},
+		"desc_en": "Nubian kingdoms expand along Nile with increasing wealth",
+		"desc_te": "నైల్ నది వెంబడి న్యూబియన్ రాజ్యాలు సంపద పెరుగుతూ విస్తరిస్తాయి"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Celtic Tribes in Central Europe (Europe)",
+		"name_te": "మధ్య యూరోప్‌లో సెల్టిక్ గోత్రాలు (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 2
+		},
+		"desc_en": "Celtic tribes establish settlements across Central Europe",
+		"desc_te": "మధ్య యూరోప్‌లో సెల్టిక్ గోత్రాలు నిబుద్ధిస్తారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Hammurabi's Reign Begins (Babylon)",
+		"name_te": "హమ్మురాబీ పాలన ప్రారంభం (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi begins reign as King of Babylon",
+		"desc_te": "హమ్మురాబీ బాబిలోన్ రాజుగా పాలన ప్రారంభిస్తారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Amenemhat III Rules Egypt (Egypt)",
+		"name_te": "అమెనెమ్‌హట్ III ఈజిప్ట్ పాలన (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Amenemhat III brings prosperity to Middle Kingdom Egypt",
+		"desc_te": "అమెనెమ్‌హట్ III మధ్య రాజ్య ఈజిప్ట్‌కు సమృద్ధిని తీసుకువస్తారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Shang Dynasty Consolidates (China)",
+		"name_te": "షాంగ్ రాజవంశం సంపీడనం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty consolidates power and develops early Chinese civilization",
+		"desc_te": "షాంగ్ రాజవంశం శక్తిని సంపీడనం, తొలి చైనీస్ నాగరికత అభివృద్ధి"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Vedic Kingdoms Form (India)",
+		"name_te": "వేదిక రాజ్యాలు ఏర్పడుతాయి (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Vedic kingdoms and republics form in northern India",
+		"desc_te": "ఉత్తర భారతదేశంలో వేదిక రాజ్యాలు, సంప్రభువుల సమితులు ఏర్పడుతాయి"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Harappan Seals Develop (India)",
+		"name_te": "హరప్పన్ ముద్రలు అభివృద్ధి (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan civilization develops distinctive seals with script",
+		"desc_te": "హరప్పన్ నాగరికత విలక్షణ ముద్రలను, లిపిని అభివృద్ధి చేస్తుంది"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Mycenaean Palace Culture (Greece)",
+		"name_te": "మైసెనియన్ రాజభవన సంస్కృతి (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean palaces and citadels flourish with warrior culture",
+		"desc_te": "మైసెనియన్ రాజభవనాలు, యోధ సంస్కృతితో కోటలు వికసిస్తాయి"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Hittite Laws and Administration (Anatolia)",
+		"name_te": "హిట్టైట్ చట్టాలు, పరిపాలన (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittites develop legal codes and administrative systems",
+		"desc_te": "హిట్టైట్‌లు చట్టాల సంహితలు, పరిపాలన వ్యవస్థలను అభివృద్ధి చేస్తారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Knossos Palace Expansion (Crete)",
+		"name_te": "క్నోసోస్ రాజభవనం విస్తరణ (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Knossos palace expanded with elaborate courtyards and chambers",
+		"desc_te": "క్నోసోస్ రాజభవనం చక్కటి ప్రాంగణాలు, గదులతో విస్తరించారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Meroitic Kingdom Development (Africa)",
+		"name_te": "మెరోటిక్ రాజ్యం అభివృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Meroitic culture and civilization develop in Nubian region",
+		"desc_te": "న్యూబియన్ ప్రాంతంలో మెరోటిక్ సంస్కృతి, నాగరికత అభివృద్ధి చెందుతుంది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Hammurabi Conquests (Babylon)",
+		"name_te": "హమ్మురాబీ జయాలు (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi conquers neighboring territories expanding Babylon",
+		"desc_te": "హమ్మురాబీ పొరుగు భూభాగాలను జయించి బాబిలోన్‌ను విస్తరిస్తారు"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Egyptian Military Campaigns (Egypt)",
+		"name_te": "ఈజిప్టియన్ సైనిక చర్యలు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian pharaohs conduct military campaigns in Nubia and Levant",
+		"desc_te": "ఈజిప్టియన్ ఫారోలు నూబియా, లెవెంట్‌లో సైనిక చర్యలు నిర్వహిస్తారు"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Shang Bronze Vessels (China)",
+		"name_te": "షాంగ్ కాంస్య పాత్రలు (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang craftsmen produce intricate bronze ritual vessels",
+		"desc_te": "షాంగ్ కారిగరులు నిపుణ కాంస్య ఆచారణీయ పాత్రలు తయారు చేస్తారు"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Rigveda Composition Completes (India)",
+		"name_te": "ఋగ్వేద సంపాదన పూర్తి (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Rigveda, oldest Hindu scripture, completed in Sanskrit",
+		"desc_te": "ఋగ్వేద, పురాతన హిందూ గ్రంథం, సంస్కృతంలో పూర్తిఅయింది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Indus Valley Trade Expansion (India)",
+		"name_te": "సిందువు లోయ వాణిజ్య విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan civilization expands trade with Mesopotamia and Egypt",
+		"desc_te": "హరప్పన్ నాగరికత మెసోపొటేమియా, ఈజిప్ట్‌తో వాణిజ్యం విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Trojan Wars Period (Anatolia/Greece)",
+		"name_te": "ట్రోజన్ యుద్ధ కాలం (అనాటోలియా/గ్రీస్)",
+		"location": {
+			"lat": 39.96,
+			"lng": 26.24
+		},
+		"desc_en": "Troy and Mycenaean Greeks engage in conflicts",
+		"desc_te": "ట్రాయ్, మైసెనియన్ గ్రీకులు సంఘర్షణలలో పాల్గొంటారు"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Minoan Trade Networks (Crete)",
+		"name_te": "మినోయన్ వాణిజ్య నెట్‌వర్క్‌లు (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan traders establish maritime networks across Mediterranean",
+		"desc_te": "మినోయన్ వర్తకులు మధ్యధరా అంతటా సముద్ర వాణిజ్య నెట్‌వర్క్‌లు స్థాపిస్తారు"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Scythian Tribes Emerge (Central Asia)",
+		"name_te": "స్కిథియన్ గోత్రాలు ఉదయం (మధ్య ఆసియా)",
+		"location": {
+			"lat": 48,
+			"lng": 67
+		},
+		"desc_en": "Scythian nomadic tribes emerge in Central Asian steppes",
+		"desc_te": "మధ్య ఆసియా స్టెప్పులలో స్కిథియన్ ఖానాబర గోత్రాలు ఉదయం"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Hammurabi's Code Established (Babylon)",
+		"name_te": "హమ్మురాబీ సంహితా స్థాపన (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi establishes famous legal code governing Babylon",
+		"desc_te": "హమ్మురాబీ బాబిలోన్‌ను పాలించే ప్రసిద్ధ చట్టాల సంహితను స్థాపిస్తారు"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Ahmose Dynasty Begins (Egypt)",
+		"name_te": "అహ్మోస్ రాజవంశం ప్రారంభం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Ahmose Dynasty establishes New Kingdom after Hyksos expulsion",
+		"desc_te": "హిక్సోస్ నిష్కాసన తర్వాత అహ్మోస్ రాజవంశం కొత్త రాజ్యం స్థాపిస్తుంది"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Shang Oracle Bones Develop (China)",
+		"name_te": "షాంగ్ దీవిస్ఫటికలు అభివృద్ధి (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang kings develop oracle bone divination system",
+		"desc_te": "షాంగ్ రాజులు దీవిస్ఫటిక ఖగోళ శాస్త్ర వ్యవస్థను అభివృద్ధి చేస్తారు"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Vedic Sacrificial Rituals Peak (India)",
+		"name_te": "వేదిక త్యాగ ఆచారాలు శిఖరం (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Vedic sacrificial rituals reach peak complexity and importance",
+		"desc_te": "వేదిక త్యాగ ఆచారాలు గరిష్ట సంక్లిష్టత, ప్రాధాన్యతను చేరుకుంటాయి"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Harappan Urban Planning (India)",
+		"name_te": "హరప్పన్ నగర పథకీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan cities display advanced urban planning and drainage systems",
+		"desc_te": "హరప్పన్ నగరాలు ఉన్నత నగర పథకీకరణ, ప్రవాహ వ్యవస్థలను ప్రదర్శిస్తాయి"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Hittite Military Expansion (Anatolia)",
+		"name_te": "హిట్టైట్ సైనిక విస్తరణ (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite kingdom expands military power throughout Anatolia",
+		"desc_te": "హిట్టైట్ రాజ్యం అనాటోలియా అంతటా సైనిక శక్తిని విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Mycenaean Warfare Technology (Greece)",
+		"name_te": "మైసెనియన్ యుద్ధ సాంకేతికత (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean warriors develop advanced weapons and armor",
+		"desc_te": "మైసెనియన్ యోధులు ఉన్నత శస్త్రాలు, కవచాలను అభివృద్ధి చేస్తారు"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Nubian Kingdom Expansion (Africa)",
+		"name_te": "న్యూబియన్ రాజ్యం విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 16,
+			"lng": 33
+		},
+		"desc_en": "Nubian kingdoms expand along Nile acquiring wealth and power",
+		"desc_te": "నైల్ నది వెంబడి న్యూబియన్ రాజ్యాలు సంపద, శక్తిని సంపాదిస్తాయి"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Babylonian Empire at Peak (Babylon)",
+		"name_te": "బాబిలోనియన్ సామ్రాజ్యం శిఖరం (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Babylonian Empire reaches peak under Hammurabi's rule",
+		"desc_te": "హమ్మురాబీ పాలనలో బాబిలోనియన్ సామ్రాజ్యం శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1820",
+		"name_en": "New Kingdom Egypt Expansion (Egypt)",
+		"name_te": "కొత్త రాజ్య ఈజిప్ట్ విస్తరణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "New Kingdom Egypt expands territories and consolidates power",
+		"desc_te": "కొత్త రాజ్య ఈజిప్ట్ భూభాగాలు విస్తరించి శక్తిని సంపీడనం చేస్తుంది"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Shang Dynasty Peak (China)",
+		"name_te": "షాంగ్ రాజవంశం శిఖరం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty reaches cultural and political peak",
+		"desc_te": "షాంగ్ రాజవంశం సాంస్కృతిక, రాజకీయ శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Vedic Age Golden Period (India)",
+		"name_te": "వేదిక కాల స్వర్ణ కాలం (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Vedic Age reaches golden period with flourishing culture",
+		"desc_te": "వేదిక కాలం వికసిస్తున్న సంస్కృతితో స్వర్ణ కాలాన్ని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Indus Valley Seals Standardized (India)",
+		"name_te": "సిందువు లోయ ముద్రలు ప్రామాణీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan seals become standardized across trade regions",
+		"desc_te": "హరప్పన్ ముద్రలు వాణిజ్య ప్రాంతాల్లో ప్రామాణీకరణ చేయబడ్డాయి"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Kassite Dynasty Rules Babylon (Babylon)",
+		"name_te": "కస్సీ రాజవంశం బాబిలోన్ పాలన (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Kassite dynasty takes control after Hammurabi's fall",
+		"desc_te": "హమ్మురాబీ పతనం తర్వాత కస్సీ రాజవంశం నియంత్రణ స్వీకరిస్తుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Thutmose I Expands Egypt (Egypt)",
+		"name_te": "థుత్మోస్ I ఈజిప్ట్ విస్తరణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Thutmose I expands Egyptian empire into Nubia and Syria",
+		"desc_te": "థుత్మోస్ I ఈజిప్టియన్ సామ్రాజ్యాన్ని నూబియా, సిరియాకు విస్తరిస్తారు"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Late Shang Dynasty (China)",
+		"name_te": "చివరి షాంగ్ రాజవంశం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty continues with bronze perfection and oracle systems",
+		"desc_te": "షాంగ్ రాజవంశం కాంస్య పరిపూర్ణత, దీవిస్ఫటిక వ్యవస్థలతో కొనసాగుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Yajurveda Composition (India)",
+		"name_te": "యజ్ఞవేద సంపాదన (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Yajurveda ritual texts composed, expanding vedic literature",
+		"desc_te": "యజ్ఞవేద ఆచారణీయ గ్రంథాలు సంపాదించారు, వేదిక సాహిత్యం విస్తరిస్తుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Samaveda Musical Compositions (India)",
+		"name_te": "సామవేద సంగీత సంపాదన (భారతదేశం)",
+		"location": {
+			"lat": 25,
+			"lng": 70
+		},
+		"desc_en": "Samaveda melodies and musical notations developed for rituals",
+		"desc_te": "సామవేద సంగీతం, ఆచారణీయ సంగీత సంకేతాలు అభివృద్ధి చెందుతాయి"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Indus Valley Decline Begins (India)",
+		"name_te": "సిందువు లోయ క్షీణత ప్రారంభం (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Indus Valley civilization begins to decline around this period",
+		"desc_te": "సిందువు లోయ నాగరికత ఈ కాలంలో క్షీణత ప్రారంభిస్తుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Hittite New Kingdom Begins (Anatolia)",
+		"name_te": "హిట్టైట్ కొత్త రాజ్యం ప్రారంభం (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite New Kingdom begins with expanded territorial control",
+		"desc_te": "హిట్టైట్ కొత్త రాజ్యం విస్తరించిన ప్రాంత నియంత్రణతో ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Mycenaean Linear B Script (Greece)",
+		"name_te": "మైసెనియన్ లీనియర్ B లిపి (గ్రీస్)",
+		"location": {
+			"lat": 37.7,
+			"lng": 22.8
+		},
+		"desc_en": "Mycenaean Linear B writing system develops for record keeping",
+		"desc_te": "మైసెనియన్ లీనియర్ B రచన వ్యవస్థ రికార్డు ఖాతరుల కోసం అభివృద్ధి చెందుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Simyra City Flourishes (Levant)",
+		"name_te": "సిమిరా నగరం వికసిస్తుంది (లెవెంట్)",
+		"location": {
+			"lat": 34.7,
+			"lng": 35.8
+		},
+		"desc_en": "Simyra becomes important port city in Levant region",
+		"desc_te": "సిమిరా లెవెంట్ ప్రాంతంలో ముఖ్యమైన ఓడరేవు నగరంగా మారుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Akhmim Trade Center (Egypt)",
+		"name_te": "అఖ్‌మిమ్ వాణిజ్య కేంద్రం (ఈజిప్ట్)",
+		"location": {
+			"lat": 26.1,
+			"lng": 31.7
+		},
+		"desc_en": "Akhmim develops as important trade and textile center",
+		"desc_te": "అఖ్‌మిమ్ ముఖ్యమైన వాణిజ్య, కట్టెపని కేంద్రంగా అభివృద్ధి చెందుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Yayoi Period Begins (Japan)",
+		"name_te": "యయోయ్ కాలం ప్రారంభం (జపాన్)",
+		"location": {
+			"lat": 35,
+			"lng": 137
+		},
+		"desc_en": "Yayoi period begins in Japan with new agricultural techniques",
+		"desc_te": "జపాన్‌లో györgy కొత్త వ్యవసాయ విధానాలతో యయోయ్ కాలం ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Shang-Zhou Transition (China)",
+		"name_te": "షాంగ్-జోవు మార్పు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Transition period between Shang and Zhou dynasties begins",
+		"desc_te": "షాంగ్ మరియు జోవు రాజవంశాల మధ్య మార్పు కాలం ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Scythian Horse Warriors (Central Asia)",
+		"name_te": "స్కిథియన్ గుర్రపై ఎక్కిన యోధులు (మధ్య ఆసియా)",
+		"location": {
+			"lat": 48,
+			"lng": 67
+		},
+		"desc_en": "Scythian horse warrior culture reaches peak in Central Asia",
+		"desc_te": "మధ్య ఆసియాలో స్కిథియన్ గుర్రపై ఎక్కిన యోధుల సంస్కృతి శిఖరస్థాయికి చేరుకుంటుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Germanic Tribes Confederation (Europe)",
+		"name_te": "జర్మానిక్ గోత్రాల సమవాయం (యూరోప్)",
+		"location": {
+			"lat": 51,
+			"lng": 10
+		},
+		"desc_en": "Germanic tribes form confederations for mutual defense",
+		"desc_te": "జర్మానిక్ గోత్రాలు పరస్పర రక్షణ కోసం సమవాయాలు ఏర్పరుస్తాయి"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Olmec Civilization Begins (Mesoamerica)",
+		"name_te": "ఒల్మెక్ నాగరికత ప్రారంభం (మెసోఅమెరికా)",
+		"location": {
+			"lat": 18,
+			"lng": -94
+		},
+		"desc_en": "Olmec civilization begins in Mesoamerica, mother culture of Americas",
+		"desc_te": "మెసోఅమెరికాలో ఒల్మెక్ నాగరికత ప్రారంభమవుతుంది, అమెరికా యొక్క మాతృ సংస్కృతి"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Caral Civilization Peak (Peru)",
+		"name_te": "కారాల్ నాగరికత శిఖరం (పెరూ)",
+		"location": {
+			"lat": -13.1,
+			"lng": -76.5
+		},
+		"desc_en": "Caral civilization reaches peak in Peru, complex society develops",
+		"desc_te": "పెరూలో కారాల్ నాగరికత శిఖరస్థాయిని చేరుకుంటుంది, సంక్లిష్ట సమాజం అభివృద్ధి చెందుతుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Aboriginal Trade Routes (Australia)",
+		"name_te": "ఆదివాసీ వాణిజ్య మార్గాలు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal cultures develop extensive trade routes across Australia",
+		"desc_te": "ఆదివాసీ సంస్కృతులు ఆస్ట్రేలియా అంతటా విస్తృత వాణిజ్య మార్గాలను అభివృద్ధి చేస్తాయి"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Aksumite Kingdom Forms (Ethiopia)",
+		"name_te": "అక్సుమిట్ రాజ్యం ఏర్పడుతుంది (ఇథియోపియా)",
+		"location": {
+			"lat": 14.1,
+			"lng": 38.7
+		},
+		"desc_en": "Aksumite kingdom begins to form in Horn of Africa region",
+		"desc_te": "ఆఫ్రికా హార్న్ ప్రాంతంలో అక్సుమిట్ రాజ్యం ఏర్పడిందలను ప్రారంభిస్తుంది"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Nubian Pharaohs Rise (Nubia)",
+		"name_te": "న్యూబియన్ ఫారోలు ఎదుగుతారు (న్యూబియా)",
+		"location": {
+			"lat": 16,
+			"lng": 33
+		},
+		"desc_en": "Nubian kingdoms develop pharaonic traditions and pyramids",
+		"desc_te": "న్యూబియన్ రాజ్యాలు ఫారోనిక్ సంప్రదాయాలు, పిరమిడ్‌లను అభివృద్ధి చేస్తాయి"
+	},
+	{
+		"year": "-1800",
+		"name_en": "Cretan Minoan Navy (Crete)",
+		"name_te": "క్రీటన్ మినోయన్ నౌకాసైన్యం (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan naval power dominates Mediterranean trade routes",
+		"desc_te": "మినోయన్ నౌకా శక్తి మధ్యధరా వాణిజ్య మార్గాలపై ఆధిపత్యం చేస్తుంది"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Jomon Culture Continues (Japan)",
+		"name_te": "జోమన్ సంస్కృతి కొనసాగుతుంది (జపాన్)",
+		"location": {
+			"lat": 35,
+			"lng": 137
+		},
+		"desc_en": "Jomon hunter-gatherer culture flourishes in Japan",
+		"desc_te": "జపాన్‌లో జోమన్ వేటు-సంగ్రహణ సంస్కృతి వికసిస్తుంది"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Egyptian Temple Construction (Egypt)",
+		"name_te": "ఈజిప్టియన్ ఆలయ నిర్మాణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptians construct grand temples at Karnak and Luxor",
+		"desc_te": "ఈజిప్టియన్‌లు కార్నాక్, లక్సోర్‌లో గొప్ప ఆలయాలను నిర్మిస్తారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Babylon Unified (Babylon)",
+		"name_te": "బాబిలోన్ ఐక్యమైనది (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi unifies Babylon under single rule",
+		"desc_te": "హమ్మురాబీ బాబిలోన్‌ను ఒకే పాలనలో ఐక్యపరిచారు"
+	},
+	{
+		"year": "-1880",
+		"name_en": "Indus Seals Production (India)",
+		"name_te": "సిందువు ముద్రలు ఉత్పత్తి (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Indus Valley artisans produce thousands of distinctive seals",
+		"desc_te": "సిందువు లోయ కళాకారులు విలక్షణ ముద్రల వేల సంఖ్యలో ఉత్పత్తి"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Hammurabi's Code Peak (Babylon)",
+		"name_te": "హమ్మురాబీ నియమ సంహిత శిఖరం (బాబిలోన్)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Hammurabi establishes famous Code of Laws for justice",
+		"desc_te": "హమ్మురాబీ న్యాయం కోసం ప్రసిద్ధ నియమ సంహిత స్థాపన"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Thutmose Dynasty Builds (Egypt)",
+		"name_te": "థుత్మోస్ రాజవంశం నిర్మాణం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Thutmose dynasty begins, builds temples and monuments",
+		"desc_te": "థుత్మోస్ రాజవంశం ప్రారంభమైంది, ఆలయాలు, సంతర్భాలను నిర్మిస్తుంది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Shang Dynasty Bronze Peak (China)",
+		"name_te": "షాంగ్ రాజవంశం కాంస్య శిఖరం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty develops advanced bronze technology and vessels",
+		"desc_te": "షాంగ్ రాజవంశం ఉన్నత కాంస్య సాంకేతికత, ఓడ్లను అభివృద్ధి చేస్తుంది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Mahabharata Stories (India)",
+		"name_te": "మహాభారత కథలు (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 72
+		},
+		"desc_en": "Vedic stories and epics of Mahabharata begin composition",
+		"desc_te": "వేదిక కథలు, మహాభారత ఇతిహాసాల సంపాదన ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Minoan Linear A Script (Crete)",
+		"name_te": "మినోయన్ లీనియర్ A లిపి (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan Linear A writing system develops on Crete",
+		"desc_te": "క్రీట్‌లో మినోయన్ లీనియర్ A రచన వ్యవస్థ అభివృద్ధి చెందుతుంది"
+	},
+	{
+		"year": "-1860",
+		"name_en": "Hittite Diplomacy (Anatolia)",
+		"name_te": "హిట్టైట్ కూటనీతి (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittites establish diplomatic relations with neighboring kingdoms",
+		"desc_te": "హిట్టైట్‌లు పొరుగు రాజ్యాలతో రాజయ్య సంబంధాలను స్థాపిస్తారు"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Egyptian Middle Kingdom Peak (Egypt)",
+		"name_te": "ఈజిప్టియన్ మధ్య రాజ్యం శిఖరం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian Middle Kingdom reaches peak of cultural achievement",
+		"desc_te": "ఈజిప్టియన్ మధ్య రాజ్యం సాంస్కృతిక సాధన శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Wu Ding Oracle Bones (China)",
+		"name_te": "వూ డింగ్ దీవిస్ఫటికలు (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Wu Ding creates oracle bone inscriptions for divination",
+		"desc_te": "వూ డింగ్ విచక్షణతకు దీవిస్ఫటిక లిఖనాలు సృష్టిస్తారు"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Harappan City Infrastructure (India)",
+		"name_te": "హరప్పన్ నగర పరిధి (భారతదేశం)",
+		"location": {
+			"lat": 26.8,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan cities develop sophisticated water and sewage systems",
+		"desc_te": "హరప్పన్ నగరాలు అత్యాధునిక నీరు, జలనిర్వహణ వ్యవస్థలను అభివృద్ధి చేస్తాయి"
+	},
+	{
+		"year": "-1840",
+		"name_en": "Lapita Navigation (Pacific)",
+		"name_te": "లాపిటా నావిగేషన్ (పసిఫిక్)",
+		"location": {
+			"lat": -8,
+			"lng": 160
+		},
+		"desc_en": "Lapita culture develops ocean navigation in Pacific",
+		"desc_te": "పసిఫిక్‌లో లాపిటా సంస్కృతి సముద్ర నావిగేషన్ అభివృద్ధి చేస్తుంది"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Mesopotamian Irrigation (Mesopotamia)",
+		"name_te": "మెసోపొటేమియన్ సిచ్చన (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Advanced irrigation systems expand agriculture in Mesopotamia",
+		"desc_te": "మెసోపొటేమియాలో ఉన్నత సిచ్చన వ్యవస్థలు వ్యవసాయం విస్తరిస్తాయి"
+	},
+	{
+		"year": "-1820",
+		"name_en": "Nubian Kush Kingdom (Africa)",
+		"name_te": "న్యూబియన్ కుష్ రాజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 16,
+			"lng": 33
+		},
+		"desc_en": "Kingdom of Kush develops along Nile with Egyptian influences",
+		"desc_te": "నైల్ నది వెంబడి కుష్ రాజ్యం ఈజిప్టియన్ ప్రభావాలతో అభివృద్ధి చెందుతుంది"
+	}
+]

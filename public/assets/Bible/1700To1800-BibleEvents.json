@@ -1,0 +1,211 @@
+[
+	{
+		"year": "1700",
+		"name_en": "Enlightenment Deism Spreading",
+		"name_te": "జ్ఞానోదయ దేవవాదం వ్యాపకమైన విషయం",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Enlightenment thinkers promote deism - belief in God through reason, not revelation.",
+		"desc_te": "జ్ఞానోదయ ఆలోచకులు దేవవాదం - కారణం ద్వారా దేవతాత్త్వంలో విశ్వాస ప్రચారం చేసిన విషయం, ఆవిష్కరణ కాదు."
+	},
+	{
+		"year": "1705",
+		"name_en": "First Great Awakening Begins",
+		"name_te": "మొదటి గ్రేట్ అవేకనింగ్ ప్రారంభం",
+		"location": {
+			"lat": 42.3,
+			"lng": -71
+		},
+		"desc_en": "First Great Awakening sweeps American colonies. Evangelical revivalism transforms Christianity.",
+		"desc_te": "మొదటి గ్రేట్ అవేకనింగ్ అమెరికన్ కాలనీలను సుకుమారంగా కూడిన విషయం. సుసమాచార పున:ప్రారంభవాదం క్రీస్టియానిటీ రూపాంతరం చేసిన విషయం."
+	},
+	{
+		"year": "1710",
+		"name_en": "Jonathan Edwards and Revival",
+		"name_te": "జోనాథన్ ఎడ్వర్డ్‌స్, పున:ప్రారంభం",
+		"location": {
+			"lat": 42.3,
+			"lng": -72.6
+		},
+		"desc_en": "Jonathan Edwards preaches powerful revival sermons. Personal religious experience stressed.",
+		"desc_te": "జోనాథన్ ఎడ్వర్డ్‌స్ శక్తివంత పున:ప్రారంభ ప్రవచనాలు చేసిన విషయం. ఖచ్చిత ధార్మిక అనుభవ నొక్కిన విషయం."
+	},
+	{
+		"year": "1715",
+		"name_en": "Voltaire and Critique of Faith",
+		"name_te": "వోల్టేర్, విశ్వాస విమర్శ",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Voltaire critiques organized religion and promotes religious tolerance and skepticism.",
+		"desc_te": "వోల్టేర్ సంస్థాపన ధర్మం విమర్శన, ధార్మిక సహనీయత, సందేహవాదం ప్రచారం చేసిన విషయం."
+	},
+	{
+		"year": "1720",
+		"name_en": "Wesley and Methodism Emerges",
+		"name_te": "వెస్లీ, పద్ధతిశాస్త్రం ఉద్భవిస్తుంది",
+		"location": {
+			"lat": 52.5,
+			"lng": -1.9
+		},
+		"desc_en": "John Wesley starts Methodist movement emphasizing sanctification and Christian perfection.",
+		"desc_te": "జాన్ వెస్లీ పవిత్రీకరణ, క్రీస్టియన్ పరిపూర్ణత నొక్కిన పద్ధతిశాస్త్ర చలనం ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "1725",
+		"name_en": "Hume's Empirical Philosophy",
+		"name_te": "హ్యూమ్ ఆనుభవిక తత్వవేదం",
+		"location": {
+			"lat": 55.9,
+			"lng": -3.2
+		},
+		"desc_en": "David Hume's empiricism challenges religious certainty. Skepticism grows in Enlightenment.",
+		"desc_te": "డేవిడ్ హ్యూమ్ ఆనుభవిక విషయం ధార్మిక నిశ్చయతలను సవాలు చేసిన విషయం. జ్ఞానోదయంలో సందేహవాదం చెలరేగిన విషయం."
+	},
+	{
+		"year": "1730",
+		"name_en": "Moravian Pietist Influence",
+		"name_te": "మోరేవియన్ పియటిస్ట్ ప్రభావం",
+		"location": {
+			"lat": 50.2,
+			"lng": 15.4
+		},
+		"desc_en": "Moravian Brethren emphasize missions and spiritual experience. Influence Methodism.",
+		"desc_te": "మోరేవియన్ సోదరులు మిషన్‌లు, ఆధ్యాత్మిక అనుభవ నొక్కిన విషయం. పద్ధతిశాస్త్రంపై ప్రభావం చేసిన విషయం."
+	},
+	{
+		"year": "1735",
+		"name_en": "Second Great Awakening Begins",
+		"name_te": "రెండవ గ్రేట్ అవేకనింగ్ ప్రారంభం",
+		"location": {
+			"lat": 42.3,
+			"lng": -71
+		},
+		"desc_en": "Second Great Awakening sweeps America. Mass revivals transform American Christianity.",
+		"desc_te": "రెండవ గ్రేట్ అవేకనింగ్ అమెరికాను సుకుమారంగా చేసిన విషయం. భారీ పున:ప్రారంభాలు అమెరికన్ క్రీస్టియానిటీ రూపాంతరం చేసిన విషయం."
+	},
+	{
+		"year": "1740",
+		"name_en": "Rousseau and Romanticism",
+		"name_te": "రూసో, రోమాంటిసిజం",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Rousseau's romanticism emphasizes emotion and nature over cold rationalism.",
+		"desc_te": "రూసో రోమాంటిసిజం భావం, ప్రకృతి చల్లని హేతువస్థానం కంటే నొక్కిన విషยం."
+	},
+	{
+		"year": "1745",
+		"name_en": "Radical Enlightenment Atheism",
+		"name_te": "రాడికల్ జ్ఞానోదయ నాస్తిక్యం",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Radical Enlightenment promotes explicit atheism and materialism challenging Christianity.",
+		"desc_te": "రాడికల్ జ్ఞానోదయ ఆస్పష్ట నాస్తిక్యం, భౌతికవాదం ప్రచారం చేసిన విషయం, క్రీస్టియానిటీకు సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1750",
+		"name_en": "Diderot's Encyclopedia",
+		"name_te": "డిడెరాట్ ఎన్సైక్లోపీడియా",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Diderot's Encyclopedia presents rationalist worldview challenging religious authority.",
+		"desc_te": "డిడెరాట్ ఎన్సైక్లోపీడియా హేతువస్థానవాది ప్రపంచ దృష్టిభంగిం ధార్మిక అధికారం సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1755",
+		"name_en": "Lisbon Earthquake Theology",
+		"name_te": "లిస్బన్ భూకంపం దేవతాత్త్వం",
+		"location": {
+			"lat": 38.7,
+			"lng": -9.1
+		},
+		"desc_en": "Lisbon earthquake raises theological questions about divine justice and suffering.",
+		"desc_te": "లిస్బన్ భూకంపం దేవుని న్యాయం, ఈ కష్ట గురించి దేవతాత్త్వ ప్రశ్నలు నిలువెత్తిన విషయం."
+	},
+	{
+		"year": "1760",
+		"name_en": "American Revival and Great Awakening",
+		"name_te": "అమెరికన్ పున:ప్రారంభం, గ్రేట్ అవేకనింగ్",
+		"location": {
+			"lat": 42.3,
+			"lng": -71
+		},
+		"desc_en": "American revivals create evangelical Christianity distinct from European tradition.",
+		"desc_te": "అమెరికన్ పున:ప్రారంభాలు ఐరోపా సంప్రదాయం నుండి విభిన్న సువర్ణ క్రీస్టియానిటీ సృష్టించిన విషయం."
+	},
+	{
+		"year": "1765",
+		"name_en": "Kant's Critical Philosophy",
+		"name_te": "కాంట్ విమర్శన తత్వవేదం",
+		"location": {
+			"lat": 54.7,
+			"lng": 21.4
+		},
+		"desc_en": "Kant's philosophy limits reason's reach, protecting faith from rationalist critique.",
+		"desc_te": "కాంట్ తత్వవేదం కారణం సీమ కట్టిన విషయం, హేతువస్థానవాది విమర్శన నుండి విశ్వాస రక్షించిన విషయం."
+	},
+	{
+		"year": "1770",
+		"name_en": "American Revolution and Religion",
+		"name_te": "అమెరికన్ విప్లవం, ధర్మం",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "American Revolution separates church and state. Religious freedom becomes revolutionary principle.",
+		"desc_te": "అమెరికన్ విప్లవం చర్చ, రాష్ట్ర విభజన చేసిన విషయం. ధార్మిక స్వేచ్ఛ విప్లవ సూత్రం కాబడిన విషయం."
+	},
+	{
+		"year": "1775",
+		"name_en": "Thomas Jefferson and Establishment Clause",
+		"name_te": "థామస్ జెఫర్‌సన్, ఏర్పాటు ఉపవాక్య",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "Jefferson fights for religious establishment clause. Separation of church and state enshrined.",
+		"desc_te": "జెఫర్‌సన్ ధార్మిక ఏర్పాటు ఉపవాక్య కోసం పోరాడిన విషయం. చర్చ, రాష్ట్ర విభజన నిబద్ధ చేసిన విషయం."
+	},
+	{
+		"year": "1780",
+		"name_en": "French Revolution and Religion",
+		"name_te": "ఫ్రెంచ్ విప్లవం, ధర్మం",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "French Revolution attacks Catholic Church. Dechristianization attempted. Radical secularism.",
+		"desc_te": "ఫ్రెంచ్ విప్లవం కాథలిక్ చర్చ పై దాడి చేసిన విషయం. క్రీస్టియానిటీ నుండి విముక్తి ప్రయత్నించిన విషయం. రాడికల్ ధర్మనిరపేక్షవాదం."
+	},
+	{
+		"year": "1785",
+		"name_en": "Wesley's Late Leadership",
+		"name_te": "వెస్లీ ఆచర్య నేతృత్వం",
+		"location": {
+			"lat": 52.5,
+			"lng": -1.9
+		},
+		"desc_en": "Wesley maintains Methodist movement independent from Church of England.",
+		"desc_te": "వెస్లీ చర్చ ఆఫ్ ఇంగ్లాండ్ నుండి స్వతంత్ర పద్ధతిశాస్త్ర చలనం నిర్వహించిన విషయం."
+	},
+	{
+		"year": "1790",
+		"name_en": "Christianity at Century's End",
+		"name_te": "శతాబ్దం చివరిలో క్రీస్టియానిటీ",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "As 18th century ends, Christianity faces secularism, rationalism, revolutionary change.",
+		"desc_te": "18వ శతాబ్దం చివర సమీపిస్తున్నప్పుడు, క్రీస్టియానిటీ ధర్మనిరపేక్షవాదం, హేతువస్థానవాదం, విప్లవ నిర్మాణంతో ఎదుర్కొన్నాయి."
+	}
+]

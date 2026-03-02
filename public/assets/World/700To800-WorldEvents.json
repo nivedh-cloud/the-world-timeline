@@ -1,0 +1,761 @@
+[
+	{
+		"year": "700",
+		"name_en": "Umayyad Caliphate at its Height (Middle East)",
+		"name_te": "ఉమయ్యద్ ఖలీఫేట్ శిఖరస్థాయిలో (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.5138,
+			"lng": 36.2765
+		},
+		"desc_en": "The Umayyad Caliphate controls a vast empire from Spain to India, spreading Islam and Arabic culture.",
+		"desc_te": "ఉమయ్యద్ ఖలీఫేట్ స్పెయిన్ నుండి భారతదేశం వరకు విస్తరించి, ఇస్లాం మరియు అరబిక్ సంస్కృతిని వ్యాప్తి చేసింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Tang Dynasty Golden Age (China)",
+		"name_te": "టాంగ్ వంశం స్వర్ణయుగం (చైనా)",
+		"location": {
+			"lat": 34.3416,
+			"lng": 108.9398
+		},
+		"desc_en": "The Tang Dynasty in China reaches a golden age of culture, trade, and technology.",
+		"desc_te": "చైనాలో టాంగ్ వంశం సంస్కృతి, వాణిజ్యం, సాంకేతికతలో స్వర్ణయుగాన్ని అనుభవించింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Pala Empire Founded (India)",
+		"name_te": "పాల వంశం స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 24.5937,
+			"lng": 87.8493
+		},
+		"desc_en": "The Pala Empire is founded in Bengal, becoming a major center of Buddhism and learning.",
+		"desc_te": "బెంగాల్‌లో పాల వంశం స్థాపించబడింది, ఇది బౌద్ధమతం మరియు విద్యకు కేంద్రంగా మారింది."
+	},
+	{
+		"year": "710",
+		"name_en": "Nara Period (Japan)",
+		"name_te": "నారా కాలం (జపాన్)",
+		"location": {
+			"lat": 34.6851,
+			"lng": 135.8048
+		},
+		"desc_en": "The Nara period in Japan is marked by the establishment of a permanent capital and the spread of Buddhism.",
+		"desc_te": "జపాన్‌లో నారా కాలంలో శాశ్వత రాజధాని స్థాపించబడింది మరియు బౌద్ధమతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "711",
+		"name_en": "Umayyad Conquest of Hispania (Europe)",
+		"name_te": "హిస్పానియాలో ఉమయ్యద్ ఆక్రమణ (యూరోప్)",
+		"location": {
+			"lat": 40.4637,
+			"lng": -3.7492
+		},
+		"desc_en": "The Umayyad Caliphate conquers most of the Iberian Peninsula, establishing Al-Andalus.",
+		"desc_te": "ఉమయ్యద్ ఖలీఫేట్ ఐబీరియన్ ద్వీపకల్పాన్ని ఆక్రమించి, అల్-అండలస్‌ను స్థాపించింది."
+	},
+	{
+		"year": "732",
+		"name_en": "Battle of Tours (Europe)",
+		"name_te": "టూర్స్ యుద్ధం (యూరప్)",
+		"location": {
+			"lat": 47.3941,
+			"lng": 0.6848
+		},
+		"desc_en": "Frankish leader Charles Martel defeats the Umayyad Caliphate, halting Islamic expansion into Western Europe.",
+		"desc_te": "ఫ్రాంకిష్ నాయకుడు చార్లెస్ మార్టెల్ ఉమయ్యద్ ఖలీఫేట్‌ను ఓడించి, పశ్చిమ యూరోప్‌లో ఇస్లాం విస్తరణను ఆపాడు."
+	},
+	{
+		"year": "750",
+		"name_en": "Abbasid Revolution and Caliphate (Middle East)",
+		"name_te": "అబ్బాసిడ్ విప్లవం మరియు ఖలీఫేట్ (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.3128,
+			"lng": 44.3615
+		},
+		"desc_en": "The Abbasid Caliphate overthrows the Umayyads and establishes Baghdad as a center of learning.",
+		"desc_te": "అబ్బాసిడ్ ఖలీఫేట్ ఉమయ్యద్‌లను తొలగించి, బాగ్దాద్‌ను విద్యా కేంద్రంగా అభివృద్ధి చేసింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Ghana Empire (Africa)",
+		"name_te": "ఘానా సామ్రాజ్యం ఉద్భవం (ఆఫ్రికా)",
+		"location": {
+			"lat": 13.5317,
+			"lng": -2.4604
+		},
+		"desc_en": "The Ghana Empire emerges as a powerful trading state in West Africa, controlling gold and salt routes.",
+		"desc_te": "ఘానా సామ్రాజ్యం పశ్చిమ ఆఫ్రికాలో శక్తివంతమైన వాణిజ్య రాజ్యంగా ఎదిగి, బంగారం, ఉప్పు మార్గాలను నియంత్రించింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Maya Civilization: City of Tikal (America)",
+		"name_te": "మాయా నాగరికత: టికాల్ నగరం (అమెరికా)",
+		"location": {
+			"lat": 17.222,
+			"lng": -89.6237
+		},
+		"desc_en": "The Maya city of Tikal flourishes as a major center of culture and power in Mesoamerica.",
+		"desc_te": "మెసోఅమెరికాలో మాయా నాగరికత టికాల్ నగరాన్ని ప్రధాన కేంద్రంగా అభివృద్ధి చేసింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Aboriginal Australian Cultures (Australia)",
+		"name_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25.2744,
+			"lng": 133.7751
+		},
+		"desc_en": "Aboriginal Australian cultures continue to thrive with rich traditions and rock art.",
+		"desc_te": "ఆస్ట్రేలియన్ ఆదివాసీ సంస్కృతులు సంపన్న సంప్రదాయాలు, రాతి కళతో అభివృద్ధి చెందాయి."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Kingdom of Asturias (Europe)",
+		"name_te": "అస్టూరియాస్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 43.3619,
+			"lng": -5.8494
+		},
+		"desc_en": "The Kingdom of Asturias emerges as a Christian stronghold in northern Spain.",
+		"desc_te": "అస్టూరియాస్ రాజ్యం ఉత్తర స్పెయిన్‌లో క్రైస్తవ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Polynesian Navigation and Settlement (Oceania)",
+		"name_te": "పాలినీషియన్ నావిగేషన్ మరియు నివాసం (ఓషేనియా)",
+		"location": {
+			"lat": -17.7134,
+			"lng": 178.065
+		},
+		"desc_en": "Polynesian navigators continue to explore and settle islands across the Pacific Ocean.",
+		"desc_te": "పాలినీషియన్ నావిగేటర్లు పసిఫిక్ మహాసముద్రంలో దీవులను అన్వేషించి, నివసించారు."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Kingdom of the Lombards (Europe)",
+		"name_te": "లాంబార్డ్స్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 45.4642,
+			"lng": 9.19
+		},
+		"desc_en": "The Lombards consolidate power in northern Italy, influencing European politics.",
+		"desc_te": "లాంబార్డ్స్ ఉత్తర ఇటలీలో శక్తిని ఏకీకృతం చేసి, యూరోపియన్ రాజకీయాలను ప్రభావితం చేశారు."
+	},
+	{
+		"year": "700",
+		"name_en": "Spread of Christianity in England (Europe)",
+		"name_te": "ఇంగ్లాండ్‌లో క్రైస్తవ మతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 52.3555,
+			"lng": -1.1743
+		},
+		"desc_en": "Christianity continues to spread and become established in Anglo-Saxon England.",
+		"desc_te": "ఆంగ్లో-సాక్సన్ ఇంగ్లాండ్‌లో క్రైస్తవ మతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Vikings Begin Raids in Europe",
+		"name_te": "యూరోప్‌లో వైకింగ్ దాడులు ప్రారంభం",
+		"location": {
+			"lat": 60.472,
+			"lng": 8.4689
+		},
+		"desc_en": "Viking raids begin on the coasts of England, Ireland, and France, marking the start of the Viking Age.",
+		"desc_te": "ఇంగ్లాండ్, ఐర్లాండ్, ఫ్రాన్స్ తీరప్రాంతాల్లో వైకింగ్ దాడులు ప్రారంభమై, వైకింగ్ యుగానికి నాంది పలికాయి."
+	},
+	{
+		"year": "700",
+		"name_en": "Srivijaya Empire Expansion (Southeast Asia)",
+		"name_te": "శ్రీవిజయ సామ్రాజ్యం విస్తరణ (ఆగ్నేయాసియా)",
+		"location": {
+			"lat": -2.9909,
+			"lng": 104.7566
+		},
+		"desc_en": "The Srivijaya Empire expands its influence over maritime Southeast Asia, controlling trade routes.",
+		"desc_te": "శ్రీవిజయ సామ్రాజ్యం ఆగ్నేయాసియాలో సముద్ర మార్గాలను నియంత్రించి, ప్రభావాన్ని విస్తరించింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Kent (England)",
+		"name_te": "కెంట్ రాజ్యం (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 51.2787,
+			"lng": 0.5217
+		},
+		"desc_en": "The Kingdom of Kent is a prominent Anglo-Saxon kingdom in southern England.",
+		"desc_te": "కెంట్ రాజ్యం దక్షిణ ఇంగ్లాండ్‌లో ప్రముఖ ఆంగ్లో-సాక్సన్ రాజ్యంగా ఉంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Tibetan Empire (Asia)",
+		"name_te": "టిబెటన్ సామ్రాజ్యం ఉద్భవం (ఆసియా)",
+		"location": {
+			"lat": 29.652,
+			"lng": 91.1721
+		},
+		"desc_en": "The Tibetan Empire reaches its greatest territorial extent, influencing Central Asia and China.",
+		"desc_te": "టిబెటన్ సామ్రాజ్యం తన గరిష్ఠ విస్తీర్ణాన్ని సాధించి, మధ్య ఆసియా, చైనాపై ప్రభావం చూపింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Bavaria (Europe)",
+		"name_te": "బవేరియా రాజ్యం (యూరోప్)",
+		"location": {
+			"lat": 48.7904,
+			"lng": 11.4979
+		},
+		"desc_en": "The Kingdom of Bavaria is a significant duchy in the Holy Roman Empire.",
+		"desc_te": "బవేరియా రాజ్యం హోలీ రోమన్ఎంపైర్‌లో ముఖ్యమైన డచీగా ఉంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Chalukya Dynasty in Deccan (India)",
+		"name_te": "డెక్కన్‌లో చాళుక్య వంశం (భారతదేశం)",
+		"location": {
+			"lat": 16.5062,
+			"lng": 80.648
+		},
+		"desc_en": "The Chalukya dynasty rules large parts of the Deccan plateau, fostering temple architecture.",
+		"desc_te": "చాళుక్య వంశం డెక్కన్ ప్రాంతాన్ని పాలించి, ఆలయ నిర్మాణాన్ని ప్రోత్సహించింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of the Lombards Falls (Europe)",
+		"name_te": "లాంబార్డ్స్ రాజ్యం పతనం (యూరోప్)",
+		"location": {
+			"lat": 45.4642,
+			"lng": 9.19
+		},
+		"desc_en": "The Lombard Kingdom in Italy falls to the Franks under Charlemagne in 774.",
+		"desc_te": "ఇటలీలో లాంబార్డ్ రాజ్యం 774లో చార్లెమాగ్నే నేతృత్వంలోని ఫ్రాంక్స్ చేతిలో పడిపోయింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Kingdom of Mercia (England)",
+		"name_te": "మెర్సియా రాజ్యం ఉద్భవం (ఇంగ్లాండ్)",
+		"location": {
+			"lat": 52.6297,
+			"lng": -1.1398
+		},
+		"desc_en": "The Kingdom of Mercia becomes the dominant Anglo-Saxon kingdom in England.",
+		"desc_te": "మెర్సియా రాజ్యం ఇంగ్లాండ్‌లో ప్రధాన ఆంగ్లో-సాక్సన్ రాజ్యంగా ఎదిగింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Mayan City of Calakmul (America)",
+		"name_te": "కాలక్ముల్ మాయా నగరం (అమెరికా)",
+		"location": {
+			"lat": 18.1045,
+			"lng": -89.8167
+		},
+		"desc_en": "Calakmul is a major Mayan city-state, rival to Tikal, flourishing in Mesoamerica.",
+		"desc_te": "కాలక్ముల్ మాయా నగరం మెసోఅమెరికాలో టికాల్‌కు ప్రత్యర్థిగా అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Spread of Mahayana Buddhism in Central Asia",
+		"name_te": "మధ్య ఆసియాలో మహాయాన బౌద్ధమతం వ్యాప్తి",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "Mahayana Buddhism spreads along the Silk Road, influencing Central Asian cultures.",
+		"desc_te": "మహాయాన బౌద్ధమతం సిల్క్ రోడ్ ద్వారా మధ్య ఆసియా సంస్కృతులను ప్రభావితం చేసింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Nubia (Africa)",
+		"name_te": "న్యూబియా రాజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 19.0414,
+			"lng": 30.5889
+		},
+		"desc_en": "The Christian Kingdom of Nubia flourishes in the region of modern-day Sudan.",
+		"desc_te": "న్యూబియా క్రైస్తవ రాజ్యం ప్రస్తుత సూడాన్ ప్రాంతంలో అభివృద్ధి చెందింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Silla Unifies Korea (Asia)",
+		"name_te": "సిల్లా రాజ్యం కొరియా ఏకీకరణ (ఆసియా)",
+		"location": {
+			"lat": 35.5384,
+			"lng": 129.3114
+		},
+		"desc_en": "The Silla Kingdom completes the unification of the Korean Peninsula.",
+		"desc_te": "సిల్లా రాజ్యం కొరియా ద్వీపకల్పాన్ని పూర్తిగా ఏకీకృతం చేసింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Carolingian Dynasty (Europe)",
+		"name_te": "క్యారోలింజియన్ వంశం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "The Carolingian Dynasty rises to power in the Frankish Empire, leading to the reign of Charlemagne.",
+		"desc_te": "ఫ్రాంకిష్ సామ్రాజ్యంలో క్యారోలింజియన్ వంశం అధికారంలోకి వచ్చి, చార్లెమాగ్నే పాలనకు దారితీసింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Aksum Decline (Africa)",
+		"name_te": "అక్సుమ్ రాజ్యం పతనం (ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "The Kingdom of Aksum in East Africa enters a period of decline.",
+		"desc_te": "తూర్పు ఆఫ్రికాలో అక్సుమ్ రాజ్యం పతనాన్ని ఎదుర్కొంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Asturias Resists Umayyads (Europe)",
+		"name_te": "అస్టూరియాస్ రాజ్యం ఉమయ్యద్‌లను ఎదుర్కొంది (యూరోప్)",
+		"location": {
+			"lat": 43.3619,
+			"lng": -5.8494
+		},
+		"desc_en": "The Christian Kingdom of Asturias in northern Spain resists Umayyad expansion.",
+		"desc_te": "ఉత్తర స్పెయిన్‌లోని క్రైస్తవ అస్టూరియాస్ రాజ్యం ఉమయ్యద్ విస్తరణను ఎదుర్కొంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of Magadha (India)",
+		"name_te": "మగధ రాజ్యం (భారతదేశం)",
+		"location": {
+			"lat": 25.1449,
+			"lng": 85.4432
+		},
+		"desc_en": "The ancient kingdom of Magadha continues to be a center of power in eastern India.",
+		"desc_te": "ప్రాచీన మగధ రాజ్యం తూర్పు భారతదేశంలో శక్తికేంద్రంగా కొనసాగింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Rise of the Kingdom of Venice (Europe)",
+		"name_te": "వెనిస్ రాజ్యం ఉద్భవం (యూరోప్)",
+		"location": {
+			"lat": 45.4408,
+			"lng": 12.3155
+		},
+		"desc_en": "Venice begins to emerge as a powerful maritime republic in the Mediterranean.",
+		"desc_te": "వెనిస్ మెడిటరేనియన్‌లో శక్తివంతమైన సముద్ర రాజ్యంగా ఎదుగుతుంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Kingdom of the Frisians (Europe)",
+		"name_te": "ఫ్రిసియన్ రాజ్యం (యూరోప్)",
+		"location": {
+			"lat": 53.2194,
+			"lng": 6.5665
+		},
+		"desc_en": "The Frisian Kingdom is a significant power in the coastal regions of the North Sea.",
+		"desc_te": "ఫ్రిసియన్ రాజ్యం ఉత్తర సముద్ర తీరప్రాంతాల్లో ముఖ్యమైన శక్తిగా ఉంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Teotihuacan Collapse (America)",
+		"name_te": "టియోటిహుయాకాన్ పతనం (అమెరికా)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "The great city of Teotihuacan in Mesoamerica collapses, ending its dominance.",
+		"desc_te": "మెసోఅమెరికాలోని గొప్ప నగరం టియోటిహుయాకాన్ పతనమై, తన ఆధిపత్యాన్ని కోల్పోయింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Spread of Christianity in Ireland (Europe)",
+		"name_te": "ఐర్లాండ్‌లో క్రైస్తవ మతం వ్యాప్తి (యూరోప్)",
+		"location": {
+			"lat": 53.1424,
+			"lng": -7.6921
+		},
+		"desc_en": "Christianity continues to spread and become established in Ireland.",
+		"desc_te": "ఐర్లాండ్‌లో క్రైస్తవ మతం వ్యాప్తి చెందింది."
+	},
+	{
+		"year": "700",
+		"name_en": "Tang Dynasty Heights of Power (China)",
+		"name_te": "టాంగ్ వంశం శక్తి శిఖరం (చైనా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 108.9
+		},
+		"desc_en": "Tang Dynasty reaches the height of its territorial expansion and cultural influence.",
+		"desc_te": "టాంగ్ వంశం భూభాగ విస్తరణ, సాంస్కృతిక ప్రభావంలో శిఖరస్థాయికి చేరుతుంది."
+	},
+	{
+		"year": "720",
+		"name_en": "Umayyad Caliphate Peak (Middle East)",
+		"name_te": "ఉమయ్యద్ ఖలీఫేట్ శిఖరం (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.5,
+			"lng": 36.3
+		},
+		"desc_en": "Umayyad Caliphate reaches its greatest territorial extent across three continents.",
+		"desc_te": "ఉమయ్యద్ ఖలీఫేట్ మూడు ఖండాలలో వ్యాపించిన విస్తీర్ణానికి చేరుతుంది."
+	},
+	{
+		"year": "740",
+		"name_en": "Battle of Tours Aftermath (Europe)",
+		"name_te": "టూర్స్ యుద్ధం ఫలితం (యూరోప్)",
+		"location": {
+			"lat": 47.3,
+			"lng": 0.7
+		},
+		"desc_en": "After the Battle of Tours, Christian kingdoms strengthen in Western Europe.",
+		"desc_te": "టూర్స్ యుద్ధం తరువాత, పశ్చిమ యూరోప్‌లో క్రైస్తవ రాజ్యాలు బలోపేతమవుతాయి."
+	},
+	{
+		"year": "760",
+		"name_en": "Abbasid Caliphate Consolidation (Middle East)",
+		"name_te": "అబ్బాసిడ్ ఖలీఫేట్ సమీకరణ (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Abbasid Caliphate consolidates power after overthrowing Umayyads, establishing Baghdad.",
+		"desc_te": "ఉమయ్యద్‌లను ఓడించిన అబ్బాసిడ్ ఖలీఫేట్ బాగ్దాద్ స్థాపించి శక్తిని సమీకరించుకోవటం చేస్తుంది."
+	},
+	{
+		"year": "780",
+		"name_en": "Charlemagne's Reign Begins (Europe)",
+		"name_te": "చార్లెమాగ్నె శాసనం ప్రారంభం (యూరోప్)",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Charlemagne becomes king of the Franks, beginning his rise to establish the Carolingian Empire.",
+		"desc_te": "చార్లెమాగ్నె ఫ్రాంక్‌ల రాజుగా నియమితులై, క్యారోలింజియన్ సామ్రాజ్యం స్థాపనకు పూర్వభూమిక సిద్ధం చేస్తారు."
+	},
+	{
+		"year": "710",
+		"name_en": "Umayyad Conquest of Spain Complete (Europe)",
+		"name_te": "ఉమయ్యద్ స్పెయిన్ ఆక్రమణ సంపూర్ణ (యూరోప్)",
+		"location": {
+			"lat": 40.5,
+			"lng": -3.7
+		},
+		"desc_en": "Umayyad forces complete their conquest of most of the Iberian Peninsula.",
+		"desc_te": "ఉమయ్యద్ సైన్యాలు ఐబేరియన్ ద్వీపకల్పం చాలా భాగాన్ని జయించడం సంపూర్ణం చేస్తాయి."
+	},
+	{
+		"year": "730",
+		"name_en": "Iconoclastic Controversy (Byzantine)",
+		"name_te": "ఐకనోక్లాస్టిక్ వివాదం (బిజాంటైన్)",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Byzantine Empire experiences religious controversy over the use of religious images.",
+		"desc_te": "బిజాంటైన్ సామ్రాజ్యంలో ఆధ్యాత్మిక చిత్రాల ఉపయోగం కోసం మత వివాదం జరుగుతుంది."
+	},
+	{
+		"year": "750",
+		"name_en": "Pepin the Short's Frankish Reforms (Europe)",
+		"name_te": "పెపిన్ ది షార్ట్ ఫ్రాంకిష్ సంస్కరణలు (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 2
+		},
+		"desc_en": "Pepin the Short establishes the Carolingian dynasty and reforms the Frankish kingdom.",
+		"desc_te": "పెపిన్ ది షార్ట్ క్యారోలింజియన్ వంశం స్థాపించి, ఫ్రాంకిష్ రాజ్యం సంస్కారణలు చేస్తారు."
+	},
+	{
+		"year": "770",
+		"name_en": "Charlemagne's Saxon Wars (Europe)",
+		"name_te": "చార్లెమాగ్నె సాక్సన్ యుద్ధాలు (యూరోప్)",
+		"location": {
+			"lat": 52.5,
+			"lng": 10
+		},
+		"desc_en": "Charlemagne wages prolonged wars against the Saxons in northern Europe.",
+		"desc_te": "చార్లెమాగ్నె ఉత్తర యూరోప్‌లోని సాక్సన్‌ల వ్యతిరేకంగా సుదీర్ఘ యుద్ధాలు చేస్తారు."
+	},
+	{
+		"year": "790",
+		"name_en": "Charlemagne Crowned Emperor (Europe)",
+		"name_te": "చార్లెమాగ్నె చక్రవర్తిగా (యూరోప్)",
+		"location": {
+			"lat": 48.8,
+			"lng": 2.3
+		},
+		"desc_en": "Charlemagne is crowned emperor, establishing the Carolingian Empire in Western Europe.",
+		"desc_te": "చార్లెమాగ్నె చక్రవర్తిగా పట్టాభిషేకం చేయబడి, పశ్చిమ యూరోప్‌లో క్యారోలింజియన్ సామ్రాజ్యం స్థాపిస్తారు."
+	},
+	{
+		"year": "700",
+		"name_en": "Pala Empire Consolidation (India)",
+		"name_te": "పాల వంశ సమీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 24.6,
+			"lng": 87.8
+		},
+		"desc_en": "Pala Empire consolidates power in Bengal, becoming center of Buddhist learning.",
+		"desc_te": "పాల వంశం బెంగాల్‌లో శక్తిని సమీకరించుకుని, బౌద్ధ విద్య కేంద్రంగా మారుతుంది."
+	},
+	{
+		"year": "720",
+		"name_en": "Rashtrakuta Dynasty Rise (Deccan India)",
+		"name_te": "రాష్ట్రకూట వంశం ఉద్భవం (డెక్కన్ భారతదేశం)",
+		"location": {
+			"lat": 16.5,
+			"lng": 75.7
+		},
+		"desc_en": "Rashtrakuta Dynasty emerges as major power in Deccan region.",
+		"desc_te": "రాష్ట్రకూట వంశం డెక్కన్ ప్రాంతంలో ప్రధాన శక్తిగా ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "740",
+		"name_en": "Dharma Chakra Monastery (Tibet)",
+		"name_te": "ధర్మ చక్ర మఠం (టిబెట్)",
+		"location": {
+			"lat": 29.7,
+			"lng": 91.2
+		},
+		"desc_en": "Tibetan Buddhist monastery centers develop, establishing Buddhist learning traditions.",
+		"desc_te": "టిబెటన్ బౌద్ధ మఠ కేంద్రాలు అభివృద్ధి చెందుతూ, బౌద్ధ విద్య సంప్రదాయాలను స్థాపిస్తాయి."
+	},
+	{
+		"year": "760",
+		"name_en": "Pala Dynasty's Buddhist Patronage (India)",
+		"name_te": "పాల వంశ బౌద్ధ పోషణ (భారతదేశం)",
+		"location": {
+			"lat": 24.6,
+			"lng": 87.8
+		},
+		"desc_en": "Pala emperors extensively patronize Buddhism and Buddhist learning institutions.",
+		"desc_te": "పాల చక్రవర్తులు బౌద్ధమతం, బౌద్ధ విద్య సంస్థలకు విస్తృతమైన పోషణ చేస్తారు."
+	},
+	{
+		"year": "780",
+		"name_en": "Kailasanath Temple Construction (South India)",
+		"name_te": "కైలాసనాథ ఆలయ నిర్మాణం (దక్షిణ భారతదేశం)",
+		"location": {
+			"lat": 11.9,
+			"lng": 79.9
+		},
+		"desc_en": "Kailasanath Temple, a monolithic temple carved from rock, is constructed in South India.",
+		"desc_te": "సూక్ష్మమైన రాతిని చెక్కుకుని నిర్మించిన కైలాసనాథ ఆలయం దక్షిణ భారతదేశంలో నిర్మిస్తారు."
+	},
+	{
+		"year": "700",
+		"name_en": "Early Islamic Influence on Byzantine Empire",
+		"name_te": "బిజాంటైన్ సామ్రాజ్యంపై ఇస్లాం ప్రభావం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Islamic world and Byzantine Empire influence each other culturally and militarily.",
+		"desc_te": "ఇస్లాం ప్రపంచం, బిజాంటైన్ సామ్రాజ్యం సాంస్కృతికంగా, సైనికంగా ఒకరిని ఒకరు ప్రభావితం చేస్తాయి."
+	},
+	{
+		"year": "720",
+		"name_en": "Islamic Golden Age Begins (Middle East)",
+		"name_te": "ఇస్లాం వెల్లెడి యుగం ప్రారంభం (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Islamic Golden Age begins with advancements in science, mathematics, and philosophy.",
+		"desc_te": "శాస్త్రం, గణితం, తత్వశాస్త్రంలో పురోగతితో ఇస్లాం వెల్లెడి యుగం ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "740",
+		"name_en": "Battle of Talas (Central Asia)",
+		"name_te": "తాలస్ యుద్ధం (మధ్య ఆసియా)",
+		"location": {
+			"lat": 43.6,
+			"lng": 65.6
+		},
+		"desc_en": "Battle of Talas between Arab and Chinese forces determines control of Central Asia.",
+		"desc_te": "అరబ్, చైనా సైన్యాల మధ్య తాలస్ యుద్ధం మధ్య ఆసియా నియంత్రణ నిర్ణయిస్తుంది."
+	},
+	{
+		"year": "760",
+		"name_en": "Abbasid House of Wisdom Foundations (Middle East)",
+		"name_te": "అబ్బాసిడ్ జ్ఞానం గృహం పునాది (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Foundations laid for the House of Wisdom in Baghdad, becoming center of learning.",
+		"desc_te": "బాగ్దాద్‌లో జ్ఞానం గృహానికి పునాది వేశారు, ఇది విద్య కేంద్రంగా మారుతుంది."
+	},
+	{
+		"year": "780",
+		"name_en": "Islamic Scientific Advancements (Middle East)",
+		"name_te": "ఇస్లాం శాస్త్র పురోగతి (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.4
+		},
+		"desc_en": "Islamic scholars make significant advances in astronomy, mathematics, and medicine.",
+		"desc_te": "ఇస్లాం విద్వాంసులు ఖగోళ శాస్త్రం, గణితం, వైద్యంలో గణనీయ పురోగతి సాధిస్తారు."
+	},
+	{
+		"year": "700",
+		"name_en": "Heian Period Foundations (Japan)",
+		"name_te": "హెయిన్ కాలం పునాది (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Foundation laid for the Heian period with establishment of court culture.",
+		"desc_te": "న్యాయస్థాన సంస్కృతి స్థాపనతో హెయిన్ కాలం పunidos్నాది వేశారు."
+	},
+	{
+		"year": "720",
+		"name_en": "Syro-Palestinian Christianity (Middle East)",
+		"name_te": "సిరో-పాలస్టీనియన్ క్రైస్తవ మతం (మధ్యప్రాచ్యం)",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Syro-Palestinian Christian communities maintain their faith and traditions.",
+		"desc_te": "సిరో-పాలస్టీనియన్ క్రైస్తవ సమాజాలు తమ విశ్వాసం, సంప్రదాయాలను కొనసాగిస్తాయి."
+	},
+	{
+		"year": "740",
+		"name_en": "Rise of Tibetan Influence (Central Asia)",
+		"name_te": "టిబెటన్ ప్రభావం ఉద్భవం (మధ్య ఆసియా)",
+		"location": {
+			"lat": 29.7,
+			"lng": 91.2
+		},
+		"desc_en": "Tibetan Empire expands influence over Central Asian regions and trade routes.",
+		"desc_te": "టిబెటన్ సామ్రాజ్యం మధ్య ఆసియా ప్రాంతాలు, వాణిజ్య మార్గాలపై ప్రభావ విస్తరణ చేస్తుంది."
+	},
+	{
+		"year": "760",
+		"name_en": "Sino-Tibetan Relations Develop (East/Central Asia)",
+		"name_te": "చిన-టిబెటన్ సంబంధ అభివృద్ధి (తూర్పు/మధ్య ఆసియా)",
+		"location": {
+			"lat": 34.3,
+			"lng": 91
+		},
+		"desc_en": "Tang Dynasty and Tibetan Empire establish diplomatic and military relations.",
+		"desc_te": "టాంగ్ రాజవంశం, టిబెటన్ సామ్రాజ్యం రాజకీయ, సైనిక సంబంధాలు ఏర్పాటు చేస్తాయి."
+	},
+	{
+		"year": "780",
+		"name_en": "Tibetan Buddhism Flourishes (Central/East Asia)",
+		"name_te": "టిబెటన్ బౌద్ధమతం వికసం (మధ్య/తూర్పు ఆసియా)",
+		"location": {
+			"lat": 29.7,
+			"lng": 91.2
+		},
+		"desc_en": "Tibetan Buddhism expands and develops unique traditions distinct from other Buddhist schools.",
+		"desc_te": "టిబెటన్ బౌద్ధమతం విస్తరించి, ఇతర బౌద్ధ సంప్రదాయ నుండి భిన్నమైన సంప్రదాయాలను అభివృద్ధి చేస్తుంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Nara Period Height (Japan)",
+		"name_te": "నారా కాలం శిఖరం (జపాన్)",
+		"location": {
+			"lat": 34.6851,
+			"lng": 135.8048
+		},
+		"desc_en": "Nara period reaches its height with architectural and cultural achievements.",
+		"desc_te": "నారా కాలం నిర్మాణ, సాంస్కృతిక సాధనల శిఖరస్థాయికి చేరుతుంది."
+	},
+	{
+		"year": "720",
+		"name_en": "Rise of Provincial Kingdoms (Japan)",
+		"name_te": "ప్రాంతీయ రాజ్యాల ఉద్భవం (జపాన్)",
+		"location": {
+			"lat": 36,
+			"lng": 137
+		},
+		"desc_en": "Provincial kingdoms and regional powers gain influence in Japanese politics.",
+		"desc_te": "ప్రాంతీయ రాజ్యాలు, ప్రాంతీయ శక్తులు జపాన్ రాజకీయాలలో ప్రభావాన్ని పెంచుకోవటం చేస్తాయి."
+	},
+	{
+		"year": "740",
+		"name_en": "Heian Period Early (Japan)",
+		"name_te": "హెయిన్ కాలం ప్రారంభ (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Heian period begins with cultural and political developments in Japan.",
+		"desc_te": "హెయిన్ కాలం జపాన్‌లో సాంస్కృతిక, రాజకీయ అభివృద్ధితో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "760",
+		"name_en": "Konjaku Monogatari Compilation (Japan)",
+		"name_te": "కోంజాకు మోనోగటరీ సంకలనం (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Japanese literary traditions develop with compilation of Buddhist and secular tales.",
+		"desc_te": "జపాన్ సాహిత్య సంప్రదాయాలు బౌద్ధ, ప్రాపంచిక కథల సంకలనంతో అభివృద్ధి చెందుతాయి."
+	},
+	{
+		"year": "780",
+		"name_en": "Fujiwara Family's Rise (Japan)",
+		"name_te": "ఫుజివారా కుటుంబ ఉద్భవం (జపాన్)",
+		"location": {
+			"lat": 34.5,
+			"lng": 135.5
+		},
+		"desc_en": "Fujiwara family begins to rise to prominence in Japanese imperial court politics.",
+		"desc_te": "ఫుజివారా కుటుంబం జపాన్ చక్రవర్తి రాజస్థానం రాజకీయాలలో ప్రముఖత పెంచుకోవటం ప్రారంభిస్తుంది."
+	},
+	{
+		"year": "700",
+		"name_en": "Ghana Empire Trade Expansion (West Africa)",
+		"name_te": "ఘానా సామ్రాజ్య వాణిజ్య విస్తరణ (పశ్చిమ ఆఫ్రికా)",
+		"location": {
+			"lat": 13.5,
+			"lng": -2.5
+		},
+		"desc_en": "Ghana Empire expands its control over gold and salt trade routes in West Africa.",
+		"desc_te": "ఘానా సామ్రాజ్యం పశ్చిమ ఆఫ్రికాలో బంగారం, ఉప్పు వాణిజ్య మార్గల నియంత్రణ విస్తరిస్తుంది."
+	},
+	{
+		"year": "720",
+		"name_en": "Kanem-Bornu Kingdom Formation (West Africa)",
+		"name_te": "కానెమ్-బోర్నూ రాజ్యం ఏర్పాటు (పశ్చిమ ఆఫ్రికా)",
+		"location": {
+			"lat": 13.1,
+			"lng": 23
+		},
+		"desc_en": "Kanem-Bornu Kingdom emerges as major power in West Africa, controlling Saharan trade.",
+		"desc_te": "కానెమ్-బోర్నూ రాజ్యం పశ్చిమ ఆఫ్రికాలో ప్రధాన శక్తిగా ఎదిగి, సహారా వాణిజ్యం నియంత్రిస్తుంది."
+	},
+	{
+		"year": "740",
+		"name_en": "Gold Trade Routes Secure (West Africa)",
+		"name_te": "బంగారం వాణిజ్య మార్గాలు సురక్షితం (పశ్చిమ ఆఫ్రికా)",
+		"location": {
+			"lat": 13.5,
+			"lng": -2.5
+		},
+		"desc_en": "West African gold trade routes become more secure and profitable.",
+		"desc_te": "పశ్చిమ ఆఫ్రికా బంగారం వాణిజ్య మార్గాలు మరింత సురక్షితం, లాభదాయకంగా మారుతాయి."
+	},
+	{
+		"year": "760",
+		"name_en": "Tocharian Trade Activity (Central Asia)",
+		"name_te": "టోచారియన్ వాణిజ్య కార్యకలాపాలు (మధ్య ఆసియా)",
+		"location": {
+			"lat": 40,
+			"lng": 85
+		},
+		"desc_en": "Tocharian kingdoms engage in active Silk Road trade with China and beyond.",
+		"desc_te": "టోచారియన్ రాజ్యాలు చైనా, విదేశీ సిల్క్ రోడ్ వాణిజ్యంలో క్రియాశీలంగా ఉంటాయి."
+	},
+	{
+		"year": "780",
+		"name_en": "Trans-Saharan Trade Peak (West Africa)",
+		"name_te": "ట్రాన్స్-సహారా వాణిజ్య శిఖరం (పశ్చిమ ఆఫ్రికా)",
+		"location": {
+			"lat": 15,
+			"lng": -10
+		},
+		"desc_en": "Trans-Saharan trade routes reach peak activity with gold, salt, and slave trading.",
+		"desc_te": "ట్రాన్స్-సహారా వాణిజ్య మార్గాలు బంగారం, ఉప్పు, దాస్য వాణిజ్యంతో శిఖర కార్యకలాపానికి చేరుతాయి."
+	}
+]

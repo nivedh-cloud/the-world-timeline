@@ -1,0 +1,200 @@
+[
+	{
+		"year": "700",
+		"name_en": "Iconoclasm Intensifies",
+		"name_te": "చిత్రనిందన తీవ్రమవుతుంది",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Emperor Leo III enforces iconoclasm throughout Byzantine empire. Religious images destroyed systematically.",
+		"desc_te": "చక్రవర్తి లీओ III బైజాంటైన్ సామ్రాజ్యంలో చిత్రనిందనం ప్రవర్తించిన విషయం. ధార్మిక చిత్రాలు వ్యవస్థితంగా ధ్వంసం చేయబడిన విషయం."
+	},
+	{
+		"year": "705",
+		"name_en": "Umayyad Caliphate and Christians",
+		"name_te": "ఉమయ్యద్ ఖిలాఫత, క్రీస్టియన్‌లు",
+		"location": {
+			"lat": 33.3,
+			"lng": 36.3
+		},
+		"desc_en": "Umayyad rulers generally tolerate Christianity. Christians serve in administrative positions.",
+		"desc_te": "ఉమయ్యద్ పాలకులు సాధారణంగా క్రీస్టియానిటీకి సహనీయతా చూపిన విషయం. క్రీస్టియన్‌లు పరిపాలనా స్థానాలలో సేవ చేసిన విషయం."
+	},
+	{
+		"year": "710",
+		"name_en": "Islamic Conquest of Iberia",
+		"name_te": "ఐబేరియా ఇస్లామిక్ జయం",
+		"location": {
+			"lat": 40,
+			"lng": -3
+		},
+		"desc_en": "Islamic forces conquer Iberian Peninsula. Christian kingdoms pushed northward. Reconquista begins.",
+		"desc_te": "ఇస్లామిక్ బలాలు ఐబేరియన్ ద్వీపం జయించిన విషయం. క్రీస్టియన్ రాజ్యాలు ఉత్తరానికి బలవంతం చేయబడిన విషయం. పున:ప్రవేశ ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "715",
+		"name_en": "Boniface's Mission to Germanic Lands",
+		"name_te": "జర్మానిక్ భూమికి బోనిఫేస్ ఆయోగ",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Boniface evangelizes Germanic tribes, establishing Christian churches and monasteries in new territories.",
+		"desc_te": "బోనిఫేస్ జర్మానిక్ గిరిజన సమూహాలను సువార్త చెప్పిన విషయం, నవీన ప్రాంతాలలో క్రీస్టియన్ చర్చిలు, సన్న్యాస సమాజాలు స్థాపన చేసిన విషయం."
+	},
+	{
+		"year": "720",
+		"name_en": "Byzantine Icon Destruction",
+		"name_te": "బైజాంటైన్ చిత్ర ధ్వంసం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Systematic destruction of religious icons throughout Byzantine empire under Leo III.",
+		"desc_te": "లీओ III కింద బైజాంటైన్ సామ్రాజ్యంలో ధార్మిక చిత్రాల వ్యవస్థిత ధ్వంసం చేయబడిన విషయం."
+	},
+	{
+		"year": "725",
+		"name_en": "Carolingian Renaissance Begins",
+		"name_te": "కరోలింజియన్ పునరుజ్జీవనం ప్రారంభం",
+		"location": {
+			"lat": 48.5,
+			"lng": 7.5
+		},
+		"desc_en": "Pepin and early Carolingian rulers promote Christian learning and reform. Educational revival begins.",
+		"desc_te": "పెపిన్, ప్రారంభ కరోలింజియన్ పాలకులు క్రీస్టియన్ జ్ఞానం, సంస్కరణ ప్రోత్సహిస్తూ నిలిచిన విషయం. విద్యా పునరుజ్జీవనం ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "732",
+		"name_en": "Battle of Tours",
+		"name_te": "టూర్‌ల యుద్ధం",
+		"location": {
+			"lat": 47.4,
+			"lng": 0.7
+		},
+		"desc_en": "Charles Martel defeats Islamic forces at Tours, stopping Islamic expansion into Western Europe.",
+		"desc_te": "చార్లస్ మార్టెల్ టూర్‌ల వద్ద ఇస్లామిక్ బలాలను ఓడించిన విషయం, పశ్చిమ ఐరోపాలోకి ఇస్లామిక్ విస్తరణ ఆగిన విషయం."
+	},
+	{
+		"year": "740",
+		"name_en": "Pepin Founds Carolingian Dynasty",
+		"name_te": "పెపిన్ కరోలింజియన్ సంవంశం స్థాపన చేసిన విషయం",
+		"location": {
+			"lat": 48.5,
+			"lng": 7.5
+		},
+		"desc_en": "Pepin III founds Carolingian dynasty with papal blessing. Alliance between papacy and new dynasty.",
+		"desc_te": "పెపిన్ III పాపల్ ఆశీర్వాదంతో కరోలింజియన్ సంవంశం స్థాపన చేసిన విషయం. పాపసిం, నవీన సంవంశం మధ్య సంధి ఏర్పాటైన విషయం."
+	},
+	{
+		"year": "750",
+		"name_en": "Iconoclasm in Controversy",
+		"name_te": "చిత్రనిందన వివాదంలో",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Western churches reject Byzantine iconoclasm. Eastern and Western Christianity further divided.",
+		"desc_te": "పశ్చిమ చర్చిలు బైజాంటైన్ చిత్రనిందనం తిరస్కరించిన విషయం. తూర్పు, పశ్చిమ క్రీస్టియానిటీ మరింత విభజితమైన విషయం."
+	},
+	{
+		"year": "755",
+		"name_en": "Pepin's Donation to Papacy",
+		"name_te": "పోపసింకు పెపిన్ దానం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pepin donates lands to papacy, establishing Papal States. Temporal power of papacy begins.",
+		"desc_te": "పెపిన్ పోపసింకు భూములను దానం చేసిన విషయం, పాపల్ రాష్ట్రాలు స్థాపన చేసిన విషయం. పోపసిం తాత్కాలిక శక్తి ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "760",
+		"name_en": "Charlemagne's Military Campaigns",
+		"name_te": "చార్లేమాన్ సైన్య ప్రచారాలు",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Charlemagne begins campaigns to expand kingdom and spread Christianity throughout Germanic lands.",
+		"desc_te": "చార్లేమాన్ రాజ్యం విస్తరించటానికి, జర్మానిక్ భూమిలో క్రీస్టియానిటీ వ్యాపించటానికి ప్రచారాలు ప్రారంభించిన విషయం."
+	},
+	{
+		"year": "765",
+		"name_en": "Second Council of Nicaea",
+		"name_te": "రెండవ నికియా సమావేశం",
+		"location": {
+			"lat": 40.43,
+			"lng": 29.43
+		},
+		"desc_en": "Council condemns iconoclasm and allows veneration of images. Eastern Church reaffirms icon use.",
+		"desc_te": "సమావేశం చిత్రనిందనం నిందించిన విషయం, చిత్రాల ఆరాధనకు అనుమతి ఇచ్చిన విషయం. తూర్పు చర్చ చిత్ర ఉపయోగం పుन:సమర్థించిన విషయం."
+	},
+	{
+		"year": "770",
+		"name_en": "Charlemagne's Saxon Wars",
+		"name_te": "చార్లేమాన్ సాక్సన్ యుద్ధాలు",
+		"location": {
+			"lat": 52,
+			"lng": 10
+		},
+		"desc_en": "Charlemagne wages brutal campaigns against Saxons, combining military conquest with forceful Christianization.",
+		"desc_te": "చార్లేమాన్ సాక్సన్‌ల వ్యతిరేక కఠినమైన ప్రచారాలు నిర్వహించిన విషయం, సైన్య జయం, బలవంత క్రీస్టియానిటీ సమన్వయం చేసిన విషయం."
+	},
+	{
+		"year": "775",
+		"name_en": "Pope Hadrian and Charlemagne Alliance",
+		"name_te": "పోప్ హేడ్రియన్, చార్లేమాన్ సంధి",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope Hadrian strengthens alliance with Charlemagne. Papacy gains protector and military support.",
+		"desc_te": "పోప్ హేడ్రియన్ చార్లేమాన్తో సంధిని దృఢపరిచిన విషయం. పోపసిం రక్షకుడు, సైన్య సహాయం లభించిన విషయం."
+	},
+	{
+		"year": "780",
+		"name_en": "Charlemagne's Educational Reforms",
+		"name_te": "చార్లేమాన్ విద్యా సంస్కరణలు",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Charlemagne establishes palace school and promotes learning. Carolingian Renaissance intensifies.",
+		"desc_te": "చార్లేమాన్ రాజ-పాఠశాల స్థాపన చేసిన విషయం, జ్ఞానం ప్రోత్సహిస్తూ నిలిచిన విషయం. కరోలింజియన్ పునరుజ్జీవనం తీవ్రతరం చేయబడిన విషయం."
+	},
+	{
+		"year": "785",
+		"name_en": "Council of Frankfurt",
+		"name_te": "ఫ్రాంక్‌ఫర్ట్ సమావేశం",
+		"location": {
+			"lat": 50.1,
+			"lng": 8.7
+		},
+		"desc_en": "Council under Charlemagne's authority addresses religious and administrative matters for unified church.",
+		"desc_te": "చార్లేమాన్ అధికారం కింద సమావేశం ఏకీకృత చర్చకు ధార్మిక, పరిపాలన విషయాలను సంబోధించిన విషయం."
+	},
+	{
+		"year": "790",
+		"name_en": "Charlemagne's Coronation as Emperor",
+		"name_te": "చార్లేమాన్ చక్రవర్తిగా రాజ్యాభిషేకం",
+		"location": {
+			"lat": 50.8,
+			"lng": 6.3
+		},
+		"desc_en": "Pope Leo III crowns Charlemagne as Emperor of Romans. Revival of Western Roman Empire concept.",
+		"desc_te": "పోప్ లీओ III చార్లేమాన్‌ను రోమన్ చక్రవర్తిగా రాజ్యాభిషేకం చేసిన విషయం. పశ్చిమ రోమన్ సామ్రాజ్య భావన పున:ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "795",
+		"name_en": "Charlemagne's Capitularies",
+		"name_te": "చార్లేమాన్ కపిటులేరీలు",
+		"location": {
+			"lat": 50,
+			"lng": 8
+		},
+		"desc_en": "Charlemagne issues legal and religious codes (capitularies) regulating church and society.",
+		"desc_te": "చార్లేమాన్ చర్చ, సమాజం నియంత్రించే చట్ట, ధార్మిక సంకేతాలు (కపిటులేరీలు) జారీ చేసిన విషయం."
+	}
+]

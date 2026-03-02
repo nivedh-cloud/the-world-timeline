@@ -1,0 +1,508 @@
+[
+	{
+		"year": "1800",
+		"name_en": "Indian Rebellion of 1857 (India)",
+		"name_te": "1857 భారత తిరుగుబాటు (భారతదేశం)",
+		"location": {
+			"lat": 28.6139,
+			"lng": 77.209
+		},
+		"desc_en": "A major uprising against British rule, marking the beginning of the Indian independence movement.",
+		"desc_te": "బ్రిటిష్ పాలనపై భారతదేశంలో 1857లో జరిగిన ప్రధాన తిరుగుబాటు, స్వాతంత్ర్య ఉద్యమానికి నాంది పలికింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Queen Victoria's Reign (Britain)",
+		"name_te": "క్వీన్ విక్టోరియా పాలన (బ్రిటన్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Queen Victoria rules the British Empire, overseeing its expansion and the Victorian Era.",
+		"desc_te": "క్వీన్ విక్టోరియా బ్రిటిష్ సామ్రాజ్యాన్ని పాలించి, విక్టోరియన్ యుగాన్ని నడిపించారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Meiji Restoration (Japan)",
+		"name_te": "మెయిజి పునరుద్ధరణ (జపాన్)",
+		"location": {
+			"lat": 35.6895,
+			"lng": 139.6917
+		},
+		"desc_en": "The Meiji Restoration modernizes Japan, ending the Tokugawa Shogunate and beginning rapid industrialization.",
+		"desc_te": "మెయిజి పునరుద్ధరణతో జపాన్ ఆధునికీకరణ ప్రారంభమై, టోకుగావా షోగునేట్ ముగిసింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Taiping Rebellion (China)",
+		"name_te": "టైపింగ్ తిరుగుబాటు (చైనా)",
+		"location": {
+			"lat": 31.2304,
+			"lng": 121.4737
+		},
+		"desc_en": "A massive civil war in China led by the Taiping Heavenly Kingdom against the Qing Dynasty.",
+		"desc_te": "చింగ్ రాజవంశానికి వ్యతిరేకంగా టైపింగ్ స్వర్గ రాజ్యం నేతృత్వంలో చైనాలో భారీ గృహయుద్ధం జరిగింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Abolition of Slavery in the United States (America)",
+		"name_te": "అమెరికాలో బానిసత్వం రద్దు",
+		"location": {
+			"lat": 38.9072,
+			"lng": -77.0369
+		},
+		"desc_en": "The United States abolishes slavery in 1865 after the Civil War.",
+		"desc_te": "అమెరికా పౌరయుద్ధం అనంతరం 1865లో బానిసత్వాన్ని రద్దు చేశారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Unification of Germany (Europe)",
+		"name_te": "జర్మనీ ఏకీకరణ (యూరోప్)",
+		"location": {
+			"lat": 52.52,
+			"lng": 13.405
+		},
+		"desc_en": "Germany is unified under Prussian leadership in 1871, becoming a major European power.",
+		"desc_te": "1871లో ప్రషియా నాయకత్వంలో జర్మనీ ఏకీకృతమై, ప్రధాన యూరోపియన్ శక్తిగా ఎదిగింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Scramble for Africa (Africa)",
+		"name_te": "ఆఫ్రికా కోసం పోటీ (ఆఫ్రికా)",
+		"location": {
+			"lat": 6.5244,
+			"lng": 3.3792
+		},
+		"desc_en": "European powers colonize and divide Africa during the late 19th century.",
+		"desc_te": "19వ శతాబ్దం చివరలో యూరోపియన్ శక్తులు ఆఫ్రికాను వలసగా మార్చి, విభజించాయి."
+	},
+	{
+		"year": "1800",
+		"name_en": "Australian Gold Rush (Australia)",
+		"name_te": "ఆస్ట్రేలియన్ బంగారు పందెం (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -37.8136,
+			"lng": 144.9631
+		},
+		"desc_en": "The discovery of gold in Australia leads to mass migration and economic growth.",
+		"desc_te": "ఆస్ట్రేలియాలో బంగారం కనుగొనడంతో భారీ వలసలు, ఆర్థిక వృద్ధి చోటు చేసుకున్నాయి."
+	},
+	{
+		"year": "1800",
+		"name_en": "Opium Wars (China)",
+		"name_te": "అఫీమ్ యుద్ధాలు (చైనా)",
+		"location": {
+			"lat": 22.3193,
+			"lng": 114.1694
+		},
+		"desc_en": "The Opium Wars between China and Britain result in the Treaty of Nanking and foreign influence in China.",
+		"desc_te": "చైనా, బ్రిటన్ మధ్య జరిగిన అఫీమ్ యుద్ధాలు నాన్కింగ్ ఒప్పందానికి, విదేశీ ప్రభావానికి దారితీశాయి."
+	},
+	{
+		"year": "1800",
+		"name_en": "Spread of Christianity in Africa (Africa)",
+		"name_te": "ఆఫ్రికాలో క్రైస్తవ మత విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": -1.2921,
+			"lng": 36.8219
+		},
+		"desc_en": "Christian missionaries spread Christianity throughout Africa during the 19th century.",
+		"desc_te": "19వ శతాబ్దంలో క్రైస్తవ మిషనరీలు ఆఫ్రికా అంతటా క్రైస్తవ మతాన్ని విస్తరించారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Louis Pasteur Develops Germ Theory (France)",
+		"name_te": "లూయిస్ పాస్చర్ సూక్ష్మజీవి సిద్ధాంతం (ఫ్రాన్స్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "Louis Pasteur's discoveries in microbiology revolutionize medicine and public health.",
+		"desc_te": "లూయిస్ పాస్చర్ సూక్ష్మజీవి సిద్ధాంతం వైద్యం, ప్రజారోగ్యంలో విప్లవాత్మక మార్పులు తీసుకువచ్చింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Greek War of Independence (Europe)",
+		"name_te": "గ్రీక్ స్వాతంత్ర్య యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Greece fights for and gains independence from the Ottoman Empire in the 1820s.",
+		"desc_te": "1820లలో గ్రీస్ ఒట్టోమన్ సామ్రాజ్యానికి వ్యతిరేకంగా యుద్ధం చేసి స్వాతంత్ర్యం పొందింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Formation of the Indian National Congress (India)",
+		"name_te": "ఇండియన్ నేషనల్ కాంగ్రెస్ స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 18.9388,
+			"lng": 72.8354
+		},
+		"desc_en": "The Indian National Congress is founded in 1885, becoming a major force in the independence movement.",
+		"desc_te": "1885లో ఇండియన్ నేషనల్ కాంగ్రెస్ స్థాపించబడటంతో స్వాతంత్ర్య ఉద్యమంలో ప్రధాన శక్తిగా మారింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Unification of Italy (Europe)",
+		"name_te": "ఇటలీ ఏకీకరణ (యూరోప్)",
+		"location": {
+			"lat": 41.9028,
+			"lng": 12.4964
+		},
+		"desc_en": "Italy is unified in the 1860s, ending centuries of regional division.",
+		"desc_te": "1860లలో ఇటలీ ఏకీకృతమై, శతాబ్దాల ప్రాంతీయ విభజనకు ముగింపు పలికింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Mahatma Gandhi Born (India)",
+		"name_te": "మహాత్మా గాంధీ జననం (భారతదేశం)",
+		"location": {
+			"lat": 21.7645,
+			"lng": 72.1519
+		},
+		"desc_en": "Mahatma Gandhi, leader of the Indian independence movement, is born in 1869.",
+		"desc_te": "భారత స్వాతంత్ర్య ఉద్యమ నాయకుడు మహాత్మా గాంధీ 1869లో జన్మించారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Battle of Isandlwana (Africa)",
+		"name_te": "ఇసాండ్ల్వానా యుద్ధం (ఆఫ్రికా)",
+		"location": {
+			"lat": -28.3596,
+			"lng": 30.6417
+		},
+		"desc_en": "The Zulu Kingdom defeats British forces at the Battle of Isandlwana in 1879.",
+		"desc_te": "1879లో జులు రాజ్యం ఇసాండ్ల్వానా యుద్ధంలో బ్రిటిష్ దళాలను ఓడించింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Boxer Rebellion (China)",
+		"name_te": "బాక్సర్ తిరుగుబాటు (చైనా)",
+		"location": {
+			"lat": 39.9042,
+			"lng": 116.4074
+		},
+		"desc_en": "An anti-foreign, anti-Christian uprising in China between 1899 and 1901.",
+		"desc_te": "1899-1901 మధ్య చైనాలో విదేశీ, క్రైస్తవ వ్యతిరేక తిరుగుబాటు జరిగింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Emancipation of Serfs in Russia (Europe)",
+		"name_te": "రష్యాలో సర్ఫ్‌ల విముక్తి (యూరోప్)",
+		"location": {
+			"lat": 55.7558,
+			"lng": 37.6173
+		},
+		"desc_en": "Tsar Alexander II emancipates the serfs in Russia in 1861, ending centuries of feudalism.",
+		"desc_te": "1861లో జార్ అలెగ్జాండర్ II రష్యాలో సర్ఫ్‌లను విముక్తి చేసి, శతాబ్దాల ఫ్యూడలిజానికి ముగింపు పలికారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Suez Canal Opens (Egypt)",
+		"name_te": "సూయెజ్ కాలువ ప్రారంభం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30.5852,
+			"lng": 32.2654
+		},
+		"desc_en": "The Suez Canal opens in 1869, revolutionizing global trade routes between Europe and Asia.",
+		"desc_te": "1869లో సూయెజ్ కాలువ ప్రారంభమై, యూరోప్-ఆసియా మధ్య ప్రపంచ వాణిజ్య మార్గాల్లో విప్లవాత్మక మార్పులు తీసుకువచ్చింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "King Leopold II and the Congo Free State (Africa)",
+		"name_te": "కింగ్ లియోపోల్డ్ II మరియు కాంగో ఫ్రీ స్టేట్ (ఆఫ్రికా)",
+		"location": {
+			"lat": -4.4419,
+			"lng": 15.2663
+		},
+		"desc_en": "King Leopold II of Belgium establishes the Congo Free State, leading to exploitation and atrocities.",
+		"desc_te": "బెల్జియం కింగ్ లియోపోల్డ్ II కాంగో ఫ్రీ స్టేట్‌ను స్థాపించి, దోపిడీ, అఘాయిత్యాలకు కారణమయ్యాడు."
+	},
+	{
+		"year": "1800",
+		"name_en": "First Vatican Council (Europe)",
+		"name_te": "ఫస్ట్ వాటికన్ కౌన్సిల్ (యూరోప్)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "The First Vatican Council is held from 1869 to 1870, defining papal infallibility.",
+		"desc_te": "1869-1870లో ఫస్ట్ వాటికన్ కౌన్సిల్ నిర్వహించబడింది, ఇందులో పోప్ తప్పులేని వ్యక్తిగా నిర్వచించబడారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Edison Invents the Light Bulb (America)",
+		"name_te": "ఎడిసన్ విద్యుత్ దీపం ఆవిష్కరణ (అమెరికా)",
+		"location": {
+			"lat": 40.7357,
+			"lng": -74.1724
+		},
+		"desc_en": "Thomas Edison invents the practical electric light bulb in 1879, transforming daily life.",
+		"desc_te": "థామస్ ఎడిసన్ 1879లో విద్యుత్ దీపాన్ని ఆవిష్కరించి, రోజువారీ జీవితాన్ని మార్చేశాడు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Bismarck Becomes Chancellor of Germany (Europe)",
+		"name_te": "బిస్మార్క్ జర్మనీ ఛాన్సలర్ (యూరోప్)",
+		"location": {
+			"lat": 52.52,
+			"lng": 13.405
+		},
+		"desc_en": "Otto von Bismarck becomes the first Chancellor of the German Empire in 1871.",
+		"desc_te": "1871లో ఒట్టో వాన్ బిస్మార్క్ జర్మన్ సామ్రాజ్యానికి తొలి ఛాన్సలర్‌గా నియమితులయ్యారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Russo-Japanese War (Asia)",
+		"name_te": "రుసో-జపాన్ యుద్ధం (ఆసియా)",
+		"location": {
+			"lat": 43.0667,
+			"lng": 141.35
+		},
+		"desc_en": "The Russo-Japanese War (1904–1905) marks the first time an Asian power defeats a European power in modern history.",
+		"desc_te": "రుసో-జపాన్ యుద్ధం (1904–1905)లో ఆసియా దేశం యూరోపియన్ దేశాన్ని ఓడించిన తొలి సందర్భం."
+	},
+	{
+		"year": "1800",
+		"name_en": "Florence Nightingale and Modern Nursing (Europe)",
+		"name_te": "ఫ్లోరెన్స్ నైటింగేల్ మరియు ఆధునిక నర్సింగ్ (యూరోప్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "Florence Nightingale founds modern nursing during the Crimean War, revolutionizing healthcare.",
+		"desc_te": "క్రిమియన్ యుద్ధ సమయంలో ఫ్లోరెన్స్ నైటింగేల్ ఆధునిక నర్సింగ్‌ను స్థాపించి, ఆరోగ్య సంరక్షణలో విప్లవాత్మక మార్పులు తీసుకువచ్చారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Darwin Publishes 'On the Origin of Species' (Britain)",
+		"name_te": "డార్విన్ 'ఆన్ ది ఆరిజిన్ ఆఫ్ స్పీసీస్' ప్రచురణ (బ్రిటన్)",
+		"location": {
+			"lat": 51.4545,
+			"lng": -2.5879
+		},
+		"desc_en": "Charles Darwin publishes his theory of evolution by natural selection in 1859.",
+		"desc_te": "చార్లెస్ డార్విన్ 1859లో తన ప్రకృతి వర్ణన ద్వారా పరిణామ సిద్ధాంతాన్ని ప్రచురించారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Berlin Conference and Partition of Africa (Europe/Africa)",
+		"name_te": "బెర్లిన్ కాన్ఫరెన్స్ మరియు ఆఫ్రికా విభజన (యూరోప్/ఆఫ్రికా)",
+		"location": {
+			"lat": 52.52,
+			"lng": 13.405
+		},
+		"desc_en": "The Berlin Conference (1884–1885) formalizes the division of Africa among European powers.",
+		"desc_te": "బెర్లిన్ కాన్ఫరెన్స్ (1884–1885)లో యూరోపియన్ దేశాలు ఆఫ్రికాను అధికారికంగా విభజించుకున్నాయి."
+	},
+	{
+		"year": "1800",
+		"name_en": "Indian Universities Act (India)",
+		"name_te": "ఇండియన్ యూనివర్సిటీస్ చట్టం (భారతదేశం)",
+		"location": {
+			"lat": 19.076,
+			"lng": 72.8777
+		},
+		"desc_en": "The Indian Universities Act of 1904 reforms higher education in colonial India.",
+		"desc_te": "1904లో ఇండియన్ యూనివర్సిటీస్ చట్టం భారతదేశంలో ఉన్నత విద్యను సంస్కరించింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "The Salvation Army Founded (Britain)",
+		"name_te": "సాల్వేషన్ ఆర్మీ స్థాపన (బ్రిటన్)",
+		"location": {
+			"lat": 51.5074,
+			"lng": -0.1278
+		},
+		"desc_en": "The Salvation Army, a Christian charitable organization, is founded in London in 1865.",
+		"desc_te": "1865లో లండన్‌లో క్రైస్తవ సేవా సంస్థ సాల్వేషన్ ఆర్మీ స్థాపించబడింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Annexation of Hawaii by the United States (America)",
+		"name_te": "హవాయ్‌ను అమెరికా అనుబంధం (అమెరికా)",
+		"location": {
+			"lat": 21.3069,
+			"lng": -157.8583
+		},
+		"desc_en": "The United States annexes Hawaii in 1898, expanding its influence in the Pacific.",
+		"desc_te": "1898లో అమెరికా హవాయ్‌ను అనుబంధించుకుని, పసిఫిక్‌లో తన ప్రభావాన్ని పెంచుకుంది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Discovery of Gold in South Africa (Africa)",
+		"name_te": "దక్షిణ ఆఫ్రికాలో బంగారం కనుగొనడం (ఆఫ్రికా)",
+		"location": {
+			"lat": -26.2041,
+			"lng": 28.0473
+		},
+		"desc_en": "The discovery of gold in South Africa in 1886 leads to economic boom and conflict.",
+		"desc_te": "1886లో దక్షిణ ఆఫ్రికాలో బంగారం కనుగొనడంతో ఆర్థిక వృద్ధి, ఘర్షణలు చోటు చేసుకున్నాయి."
+	},
+	{
+		"year": "1800",
+		"name_en": "King Rama IV Reigns (Thailand)",
+		"name_te": "రామ IV రాజ్యం (థాయిలాండ్)",
+		"location": {
+			"lat": 13.7563,
+			"lng": 100.5018
+		},
+		"desc_en": "King Rama IV (Mongkut) modernizes Siam (Thailand) and opens it to Western influence.",
+		"desc_te": "రామ IV (మోంగ్కుట్) సియామ్ (థాయిలాండ్)ను ఆధునికీకరించి, పాశ్చాత్య ప్రభావానికి తలుపులు తెరిచారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "King Kamehameha I Unites Hawaii (Pacific)",
+		"name_te": "కింగ్ కామెహమేహా I హవాయ్ ఏకీకరణ (పసిఫిక్)",
+		"location": {
+			"lat": 19.8968,
+			"lng": -155.5828
+		},
+		"desc_en": "King Kamehameha I unites the Hawaiian Islands into a single kingdom in 1810.",
+		"desc_te": "1810లో కింగ్ కామెహమేహా I హవాయ్ దీవులను ఏకీకృత రాజ్యంగా మార్చారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Emperor Menelik II Expands Ethiopia (Africa)",
+		"name_te": "మెనెలిక్ II ఇథియోపియా విస్తరణ (ఆఫ్రికా)",
+		"location": {
+			"lat": 9.03,
+			"lng": 38.74
+		},
+		"desc_en": "Emperor Menelik II expands and modernizes Ethiopia, defeating Italy at the Battle of Adwa in 1896.",
+		"desc_te": "మెనెలిక్ II ఇథియోపియాను విస్తరించి, ఆధునికీకరించి, 1896లో అడ్వా యుద్ధంలో ఇటలీని ఓడించారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "First Transcontinental Railroad Completed (America)",
+		"name_te": "మొదటి ట్రాన్స్‌కాంటినెంటల్ రైల్వే పూర్తి (అమెరికా)",
+		"location": {
+			"lat": 41.1621,
+			"lng": -111.9388
+		},
+		"desc_en": "The United States completes the first transcontinental railroad in 1869, connecting the east and west coasts.",
+		"desc_te": "1869లో అమెరికా తొలి ట్రాన్స్‌కాంటినెంటల్ రైల్వేను పూర్తి చేసి, తూర్పు-పడమర తీరాలను కలిపింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Canadian Confederation (Canada)",
+		"name_te": "కెనడియన్ కాన్ఫెడరేషన్ (కెనడా)",
+		"location": {
+			"lat": 45.4215,
+			"lng": -75.6997
+		},
+		"desc_en": "Canada becomes a self-governing dominion within the British Empire in 1867.",
+		"desc_te": "1867లో కెనడా బ్రిటిష్ సామ్రాజ్యంలో స్వయంపాలిత డొమినియన్‌గా మారింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Kingdom of Italy Proclaimed (Europe)",
+		"name_te": "ఇటలీ రాజ్యం ప్రకటించబడింది (యూరోప్)",
+		"location": {
+			"lat": 41.8719,
+			"lng": 12.5674
+		},
+		"desc_en": "The Kingdom of Italy is officially proclaimed in 1861, uniting most of the Italian peninsula.",
+		"desc_te": "1861లో ఇటలీ రాజ్యం అధికారికంగా ప్రకటించబడింది, ఇటాలియన్ ద్వీపకల్పాన్ని ఏకీకృతం చేసింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Commodore Perry Opens Japan (Japan)",
+		"name_te": "కమోడోర్ పెర్రీ జపాన్ తలుపులు తెరిచారు (జపాన్)",
+		"location": {
+			"lat": 35.4437,
+			"lng": 139.638
+		},
+		"desc_en": "Commodore Matthew Perry of the U.S. Navy forces Japan to open to the West in 1854.",
+		"desc_te": "1854లో యుఎస్ నేవీకి చెందిన కమోడోర్ మాథ్యూ పెర్రీ జపాన్‌ను పాశ్చాత్య దేశాలకు తెరిచారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "The Great Famine in Ireland (Europe)",
+		"name_te": "ఐర్లాండ్‌లో మహా కరువు (యూరోప్)",
+		"location": {
+			"lat": 53.1424,
+			"lng": -7.6921
+		},
+		"desc_en": "The Great Famine (1845–1852) causes mass starvation and emigration from Ireland.",
+		"desc_te": "1845–1852లో ఐర్లాండ్‌లో మహా కరువు వల్ల భారీ ఆకలి, వలసలు చోటు చేసుకున్నాయి."
+	},
+	{
+		"year": "1800",
+		"name_en": "Battle of Gettysburg (America)",
+		"name_te": "గెట్స్‌బర్గ్ యుద్ధం (అమెరికా)",
+		"location": {
+			"lat": 39.8309,
+			"lng": -77.2311
+		},
+		"desc_en": "The Battle of Gettysburg (1863) is a turning point in the American Civil War.",
+		"desc_te": "1863లో గెట్స్‌బర్గ్ యుద్ధం అమెరికా పౌరయుద్ధంలో కీలక మలుపు."
+	},
+	{
+		"year": "1800",
+		"name_en": "Franco-Prussian War (Europe)",
+		"name_te": "ఫ్రాంకో-ప్రషియన్ యుద్ధం (యూరోప్)",
+		"location": {
+			"lat": 48.8566,
+			"lng": 2.3522
+		},
+		"desc_en": "The Franco-Prussian War (1870–1871) leads to the fall of the French Empire and the rise of Germany.",
+		"desc_te": "ఫ్రాంకో-ప్రషియన్ యుద్ధం (1870–1871) ఫ్రెంచ్ సామ్రాజ్య పతనానికి, జర్మనీ ఎదుగుదలకు దారితీసింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Abolition of Slavery in Brazil (South America)",
+		"name_te": "బ్రెజిల్‌లో బానిసత్వం రద్దు (దక్షిణ అమెరికా)",
+		"location": {
+			"lat": -15.7939,
+			"lng": -47.8828
+		},
+		"desc_en": "Brazil abolishes slavery in 1888, the last country in the Americas to do so.",
+		"desc_te": "1888లో బ్రెజిల్ బానిసత్వాన్ని రద్దు చేసిన అమెరికాలో చివరి దేశంగా నిలిచింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "Rani Lakshmibai of Jhansi (India)",
+		"name_te": "ఝాన్సీ లక్ష్మీబాయి (భారతదేశం)",
+		"location": {
+			"lat": 25.4484,
+			"lng": 78.5685
+		},
+		"desc_en": "Rani Lakshmibai, queen of Jhansi, becomes a symbol of resistance during the 1857 Rebellion.",
+		"desc_te": "ఝాన్సీ రాణి లక్ష్మీబాయి 1857 తిరుగుబాటులో ప్రతిఘటనకు చిహ్నంగా నిలిచారు."
+	},
+	{
+		"year": "1800",
+		"name_en": "The Mahdist War (Africa)",
+		"name_te": "మహదిస్ట్ యుద్ధం (ఆఫ్రికా)",
+		"location": {
+			"lat": 15.5007,
+			"lng": 32.5599
+		},
+		"desc_en": "The Mahdist War (1881–1899) in Sudan challenges Egyptian and British rule.",
+		"desc_te": "సూడాన్‌లో మహదిస్ట్ యుద్ధం (1881–1899) ఈజిప్టు, బ్రిటిష్ పాలనకు సవాలు చేసింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "First Vatican Council Defines Papal Infallibility (Europe)",
+		"name_te": "ఫస్ట్ వాటికన్ కౌన్సిల్ పోప్ తప్పులేని వ్యక్తిగా నిర్వచించబడింది (యూరోప్)",
+		"location": {
+			"lat": 41.9029,
+			"lng": 12.4534
+		},
+		"desc_en": "The First Vatican Council (1869–1870) defines the doctrine of papal infallibility in the Catholic Church.",
+		"desc_te": "1869–1870లో ఫస్ట్ వాటికన్ కౌన్సిల్ కాథలిక్ చర్చిలో పోప్ తప్పులేని వ్యక్తిగా నిర్వచించింది."
+	},
+	{
+		"year": "1800",
+		"name_en": "The Great Game (Asia)",
+		"name_te": "ది గ్రేట్ గేమ్ (ఆసియా)",
+		"location": {
+			"lat": 37.5665,
+			"lng": 126.978
+		},
+		"desc_en": "The Great Game describes the strategic rivalry between the British and Russian Empires in Central Asia.",
+		"desc_te": "ది గ్రేట్ గేమ్ అనేది మధ్య ఆసియాలో బ్రిటిష్, రష్యా సామ్రాజ్యాల మధ్య వ్యూహాత్మక పోటీకి సూచిక."
+	}
+]

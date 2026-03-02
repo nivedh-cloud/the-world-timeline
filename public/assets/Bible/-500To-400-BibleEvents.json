@@ -1,0 +1,1069 @@
+[
+	{
+		"year": "-500",
+		"name_en": "Ezra's Spiritual Leadership and Scribe Tradition",
+		"name_te": "ఎజ్రా ఆధ్యాత్మిక నాయకత్వం, లేఖన సంప్రదాయం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra establishes the tradition of scribes, emphasizing the study and copying of the Law (Ezra 7:6, 10)",
+		"desc_te": "ఎజ్రా లేఖన సంప్రదాయాన్ని స్థాపించి, ధర్మశాస్త్ర అధ్యయనం, ప్రతిలిపి చేయడాన్ని ప్రోత్సహించాడు (ఎజ్రా 7:6, 10)"
+	},
+	{
+		"year": "-538",
+		"name_en": "Return from Babylonian Exile and Rebuilding of the Temple",
+		"name_te": "బాబిలోన్ నిర్వాసన నుండి తిరిగి ఆలయ పునర్నిర్మాణం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jews return from Babylonian exile and rebuild the Second Temple in Jerusalem",
+		"desc_te": "యూదులు బాబిలోన్ నిర్వాసన నుండి తిరిగి, యెరూషలేములో రెండవ ఆలయాన్ని పునర్నిర్మించారు"
+	},
+	{
+		"year": "-515",
+		"name_en": "Second Temple Period Begins",
+		"name_te": "రెండవ ఆలయ కాలం ప్రారంభం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The Second Temple stands as the center of Jewish worship and life",
+		"desc_te": "రెండవ ఆలయం యూదా పూజ, జీవితానికి కేంద్రంగా నిలిచింది"
+	},
+	{
+		"year": "-500",
+		"name_en": "Ezra and Nehemiah's Reforms",
+		"name_te": "ఎజ్రా, నెహెమ్యా సంస్కరణలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ezra and Nehemiah lead religious and social reforms in Judea",
+		"desc_te": "ఎజ్రా, నెహెమ్యా యూదేయాలో మత, సామాజిక సంస్కరణలు చేపట్టారు"
+	},
+	{
+		"year": "-500",
+		"name_en": "Rebuilding of Jerusalem's Walls",
+		"name_te": "యెరూషలేము గోడల పునర్నిర్మాణం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Nehemiah oversees the rebuilding of Jerusalem's city walls",
+		"desc_te": "నెహెమ్యా యెరూషలేము నగర గోడల పునర్నిర్మాణాన్ని పర్యవేక్షించాడు"
+	},
+	{
+		"year": "-500",
+		"name_en": "Reading of the Torah to the People",
+		"name_te": "ప్రజలకు తోరా చదవడం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ezra reads the Torah publicly, renewing the covenant",
+		"desc_te": "ఎజ్రా ప్రజలకు తోరాను బహిరంగంగా చదివి, ఒడంబడికను పునరుద్ధరించాడు"
+	},
+	{
+		"year": "-500",
+		"name_en": "Jewish Life under Persian Rule",
+		"name_te": "పర్షియన్ పాలనలో యూదా జీవితం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities in Judea and diaspora live under Persian administration",
+		"desc_te": "యూదేయా, ప్రవాసంలో యూదా సముదాయాలు పర్షియన్ పాలనలో జీవించాయి"
+	},
+	{
+		"year": "-500",
+		"name_en": "Development of Jewish Law and Traditions",
+		"name_te": "యూదా ధర్మం, సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Compilation and teaching of Torah and Jewish law continues",
+		"desc_te": "తోరా, యూదా ధర్మం సంకలన, బోధన కొనసాగింది"
+	},
+	{
+		"year": "-500",
+		"name_en": "Jewish Festivals and Pilgrimage",
+		"name_te": "యూదా పండుగలు, యాత్రలు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Passover, Shavuot, and Sukkot celebrated at the rebuilt Temple",
+		"desc_te": "పునర్నిర్మిత ఆలయంలో పస్కా, షావుయోట్, సుక్కోత్ పండుగలు జరుపుకున్నారు"
+	},
+	{
+		"year": "-500",
+		"name_en": "Restoration of Levitical Priesthood and Temple Service",
+		"name_te": "లేవీయ పూజారి వర్గం, ఆలయ సేవ పునరుద్ధరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and Nehemiah restore the Levitical priesthood and organize temple service as prescribed in the Law (Ezra 7, Nehemiah 12)",
+		"desc_te": "ఎజ్రా, నెహెమ్యా లేవీయ పూజారి వర్గాన్ని పునరుద్ధరించి, ధర్మశాస్త్ర ప్రకారం ఆలయ సేవను ఏర్పాటు చేశారు (ఎజ్రా 7, నెహెమ్యా 12)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Appointment of Temple Singers and Gatekeepers",
+		"name_te": "ఆలయ గాయకులు, ద్వారపాలకుల నియామకం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Levites are appointed as singers and gatekeepers for temple worship (Nehemiah 12:27-47)",
+		"desc_te": "లేవీయులను ఆలయ గాయకులు, ద్వారపాలకులుగా నియమించారు (నెహెమ్యా 12:27-47)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Dedication of Firstfruits and Tithes to the Temple",
+		"name_te": "ఆలయానికి మొట్టమొదటి ఫలాలు, దశాంశ అంకితము",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The people dedicate firstfruits and tithes to support the priests and Levites (Nehemiah 10:35-39)",
+		"desc_te": "ప్రజలు పూజారులు, లేవీయులను పోషించేందుకు మొట్టమొదటి ఫలాలు, దశాంశాలను అంకితం చేశారు (నెహెమ్యా 10:35-39)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Public Confession and Worship Gatherings",
+		"name_te": "ప్రజా పాపోపసంహరణ, ఆరాధన సభలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Large public gatherings for confession, worship, and reading of the Law (Nehemiah 9)",
+		"desc_te": "పాపోపసంహరణ, ఆరాధన, ధర్మశాస్త్ర పఠనానికి పెద్ద ప్రజా సభలు (నెహెమ్యా 9)"
+	},
+	{
+		"year": "-458",
+		"name_en": "Ezra's Return to Jerusalem",
+		"name_te": "ఎజ్రా యెరూషలేముకు తిరిగి రావడం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra leads a group of exiles from Babylon to Jerusalem to teach the Law",
+		"desc_te": "ఎజ్రా బాబిలోన్ నుండి యెరూషలేముకు నిర్వాసితులను తీసుకువచ్చి ధర్మశాస్త్రాన్ని బోధించాడు"
+	},
+	{
+		"year": "-445",
+		"name_en": "Nehemiah Appointed Governor of Judah",
+		"name_te": "నెహెమ్యా యూదా పాలకుడిగా నియమించబడటం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nehemiah is appointed governor and begins rebuilding Jerusalem's walls",
+		"desc_te": "నెహెమ్యా యూదా పాలకుడిగా నియమితుడై, యెరూషలేము గోడలను పునర్నిర్మించటం ప్రారంభించాడు"
+	},
+	{
+		"year": "-445",
+		"name_en": "Completion and Dedication of Jerusalem's Walls",
+		"name_te": "యెరూషలేము గోడల పూర్తి, అంకురార్పణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jerusalem's walls are completed and dedicated under Nehemiah's leadership",
+		"desc_te": "నెహెమ్యా నాయకత్వంలో యెరూషలేము గోడలు పూర్తయ్యి, అంకురార్పణ జరిగింది"
+	},
+	{
+		"year": "-473",
+		"name_en": "Queen Esther Saves the Jews",
+		"name_te": "రాణి ఎస్తేరు యూదులను రక్షించడం",
+		"location": {
+			"lat": 32.08,
+			"lng": 34.78
+		},
+		"desc_en": "Queen Esther intervenes to save the Jewish people in Persia from destruction (Book of Esther)",
+		"desc_te": "రాణి ఎస్తేరు పర్షియాలో యూదులను నాశనం నుండి రక్షించడానికి జోక్యం చేసుకుంది (ఎస్తేరు గ్రంథం)"
+	},
+	{
+		"year": "-450",
+		"name_en": "Formation of the Great Assembly (Knesset Hagedolah)",
+		"name_te": "మహాసభ (క్నెసెట్ హగెడోలాహ్) ఏర్పాటవడం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jewish sages and leaders form the Great Assembly, shaping Jewish religious life",
+		"desc_te": "యూదా మేధావులు, నాయకులు మహాసభను ఏర్పాటు చేసి, మత జీవితాన్ని ఆకృతీకరించారు"
+	},
+	{
+		"year": "-444",
+		"name_en": "Covenant Renewal Ceremony in Jerusalem",
+		"name_te": "యెరూషలేములో ఒడంబడిక పునరుద్ధరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and Nehemiah lead the people in renewing their covenant with God, reading the Law and confessing sins (Nehemiah 8-10)",
+		"desc_te": "ఎజ్రా, నెహెమ్యా ప్రజలను దేవునితో ఒడంబడికను పునరుద్ధరించడంలో నాయకత్వం వహించారు, ధర్మశాస్త్రాన్ని చదివి, పాపాలను ఒప్పుకున్నారు (నెహెమ్యా 8-10)"
+	},
+	{
+		"year": "-432",
+		"name_en": "Nehemiah's Second Visit and Further Reforms",
+		"name_te": "నెహెమ్యా రెండవ సందర్శన మరియు మరిన్ని సంస్కరణలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nehemiah returns to Jerusalem, corrects abuses, and enforces Sabbath and tithing laws (Nehemiah 13)",
+		"desc_te": "నెహెమ్యా యెరూషలేముకు తిరిగి వచ్చి, దుర్వినియోగాలను సరిదిద్దాడు, శబ్దాబథ్, దశాంశ ధర్మాలను అమలు చేశాడు (నెహెమ్యా 13)"
+	},
+	{
+		"year": "-440",
+		"name_en": "Challenges of Intermarriage and Purity Laws",
+		"name_te": "అంతర్వివాహాలు, పవిత్రత ధర్మాల సవాళ్లు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and Nehemiah address the issue of intermarriage with foreign peoples and reinforce purity laws (Ezra 9-10, Nehemiah 13)",
+		"desc_te": "ఎజ్రా, నెహెమ్యా విదేశీయులతో అంతర్వివాహాల సమస్యను పరిష్కరించి, పవిత్రత ధర్మాలను బలపరిచారు (ఎజ్రా 9-10, నెహెమ్యా 13)"
+	},
+	{
+		"year": "-430",
+		"name_en": "Continued Teaching of the Law and Community Restoration",
+		"name_te": "ధర్మశాస్త్ర బోధన, సంఘ పునరుద్ధరణ కొనసాగింపు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ongoing teaching of the Law and restoration of the Jewish community in Jerusalem and Judea",
+		"desc_te": "యెరూషలేము, యూదేయాలో ధర్మశాస్త్ర బోధన, సంఘ పునరుద్ధరణ కొనసాగింది"
+	},
+	{
+		"year": "-500",
+		"name_en": "Public Reading and Translation of the Law",
+		"name_te": "ధర్మశాస్త్ర బహిరంగ పఠనం, అనువాదం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Levites read and explain the Law to the people in their own language (Nehemiah 8:7-8)",
+		"desc_te": "లేవీయులు ప్రజలకు వారి భాషలో ధర్మశాస్త్రాన్ని చదివి, వివరించారు (నెహెమ్యా 8:7-8)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Establishment of Synagogue Worship",
+		"name_te": "సినగాగ్ ఆరాధన స్థాపన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Emergence of local gatherings for prayer and study, laying the foundation for synagogue worship",
+		"desc_te": "ప్రార్థన, అధ్యయనం కోసం స్థానిక సమావేశాలు ప్రారంభమై, సినగాగ్ ఆరాధనకు పునాది వేసాయి"
+	},
+	{
+		"year": "-500",
+		"name_en": "Activity of the Prophet Malachi",
+		"name_te": "మలాకీ ప్రవక్త కార్యాచరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Malachi, considered the last of the biblical prophets, delivers messages of covenant faithfulness and future hope.",
+		"desc_te": "మలాకీ ప్రవక్త, చివరి ప్రవక్తగా, ఒడంబడిక విశ్వాసం, భవిష్యత్తు ఆశపై సందేశాలు అందించాడు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Spread of Aramaic as Common Language",
+		"name_te": "అరమాయిక్ సాధారణ భాషగా వ్యాప్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Aramaic becomes the spoken and written language for Jews in Judea and the diaspora.",
+		"desc_te": "అరమాయిక్ యూదేయా, ప్రవాస యూదులలో మాట్లాడే, వ్రాసే భాషగా మారింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Organization of Priestly Courses (Mishmarot)",
+		"name_te": "యాజక వర్గాల (మిష్మరోత్) వ్యవస్థీకరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Priestly families are organized into courses for regular service at the rebuilt Temple.",
+		"desc_te": "పునర్నిర్మిత ఆలయంలో యాజక కుటుంబాలు సేవా వర్గాలుగా ఏర్పాటయ్యాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Jewish Communities in Egypt and Babylon",
+		"name_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities thrive in Egypt and Babylon, maintaining ties to Jerusalem.",
+		"desc_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు అభివృద్ధి చెందాయి, యెరూషలేముతో సంబంధాలు కొనసాగించాయి."
+	},
+	{
+		"year": "-500",
+		"name_en": "Completion of the Book of Chronicles",
+		"name_te": "దినవృత్తాంత గ్రంథం పూర్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Book of Chronicles is compiled, summarizing Israel's history and temple worship.",
+		"desc_te": "ఇజ్రాయేలు చరిత్ర, ఆలయ ఆరాధనను సంగ్రహించిన దినవృత్తాంత గ్రంథం ఈ కాలంలో పూర్తయింది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Rise of the Scribe Class (Soferim)",
+		"name_te": "లేఖకుల వర్గం (సోఫెరిమ్) ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish scribes (Soferim) become increasingly important in copying, teaching, and interpreting the Torah.",
+		"desc_te": "యూదా లేఖకులు (సోఫెరిమ్) తోరాను నకలు చేయడంలో, బోధనలో, వ్యాఖ్యానంలో ప్రాముఖ్యత పొందారు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Establishment of Regular Torah Reading",
+		"name_te": "తోరా పఠనం నియమితంగా స్థాపన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Public Torah reading becomes a regular practice in synagogues and gatherings.",
+		"desc_te": "సినగాగ్‌లలో, సభల్లో తోరా పఠనం నియమితంగా చేయడం ప్రారంభమైంది."
+	},
+	{
+		"year": "-500",
+		"name_en": "Jewish Legal Debates and Halakhic Development",
+		"name_te": "యూదా చట్ట చర్చలు, హలాఖా అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars begin to debate and develop Jewish law (Halakha) in this period.",
+		"desc_te": "ఈ కాలంలో రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-500",
+		"name_en": "Darius I's Rule over Judea",
+		"name_te": "యూదేయాపై దరయావుష్ I పాలన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Darius I of Persia continues to rule over Judea, supporting the Jewish community and Temple (Ezra 6:1-15)",
+		"desc_te": "పర్షియా దరయావుష్ I యూదేయాపై పాలన కొనసాగించి, యూదా సముదాయాన్ని, దేవాలయాన్ని మద్దతు ఇచ్చాడు (ఎజ్రా 6:1-15)"
+	},
+	{
+		"year": "-490",
+		"name_en": "Reign of Xerxes I (Ahasuerus) in Persia",
+		"name_te": "పర్షియాలో క్షెర్షెస్ I (అహష్వేరు) పాలన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Xerxes I (Ahasuerus) becomes king of Persia, later known for the story of Esther (Esther 1:1)",
+		"desc_te": "క్షెర్షెస్ I (అహష్వేరు) పర్షియా రాజుగా అవతరించి, తరువాత ఎస్తేరు కథకు ప్రసిద్ధి చెందాడు (ఎస్తేరు 1:1)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Jewish Community Life in Judea and Diaspora",
+		"name_te": "యూదేయా, ప్రవాసంలో యూదా సముదాయ జీవితం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities in Judea and throughout the diaspora maintain religious and social traditions (Ezra 7:10)",
+		"desc_te": "యూదేయా, ప్రవాస యూదా సముదాయాలు మత, సామాజిక సంప్రదాయాలను కొనసాగించాయి (ఎజ్రా 7:10)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Emergence of Local Synagogues in Judea",
+		"name_te": "యూదేయాలో స్థానిక సినగాగ్‌ల ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Local synagogues begin to emerge in Judea as centers for prayer and study (Psalm 74:8)",
+		"desc_te": "యూదేయాలో ప్రార్థన, అధ్యయనం కోసం స్థానిక సినగాగ్‌లు ఏర్పడటం ప్రారంభమయ్యాయి (కీర్తనలు 74:8)"
+	},
+	{
+		"year": "-500",
+		"name_en": "Ongoing Compilation of Biblical Texts",
+		"name_te": "బైబిల్ గ్రంథాల సంకలన కొనసాగింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Biblical texts continue to be compiled, edited, and preserved by scribes and priests (Ezra 7:6; Nehemiah 8:8)",
+		"desc_te": "లేఖకులు, యాజకులు బైబిల్ గ్రంథాలను సంకలనం, సవరణ, పరిరక్షణ కొనసాగించారు (ఎజ్రా 7:6; నెహెమ్యా 8:8)"
+	},
+	{
+		"year": "-485",
+		"name_en": "Reign of Xerxes I (Ahasuerus) and the Story of Esther",
+		"name_te": "క్షెర్షెస్ I (అహష్వేరు) పాలన, ఎస్తేరు కథ",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Xerxes I (Ahasuerus) rules Persia; the events of the Book of Esther, including the salvation of the Jews, occur (Esther 1-10)",
+		"desc_te": "క్షెర్షెస్ I (అహష్వేరు) పర్షియా పాలనలో, ఎస్తేరు గ్రంథంలోని సంఘటనలు, యూదుల రక్షణ జరుగుతాయి (ఎస్తేరు 1-10)"
+	},
+	{
+		"year": "-480",
+		"name_en": "Persian-Greek Wars: Battle of Salamis",
+		"name_te": "పర్షియా-గ్రీకు యుద్ధాలు: సలామిస్ యుద్ధం",
+		"location": {
+			"lat": 37.95,
+			"lng": 23.5
+		},
+		"desc_en": "Persian forces under Xerxes I are defeated by the Greeks at the Battle of Salamis, impacting the empire (Herodotus; Esther context)",
+		"desc_te": "క్షెర్షెస్ I నేతృత్వంలోని పర్షియన్ సైన్యం సలామిస్ యుద్ధంలో గ్రీకుల చేతిలో ఓడింది, ఇది సామ్రాజ్యాన్ని ప్రభావితం చేసింది (హెరోడోటస్; ఎస్తేరు సందర్భం)"
+	},
+	{
+		"year": "-480",
+		"name_en": "Jewish Community Response to Persian Wars",
+		"name_te": "పర్షియన్ యుద్ధాలకు యూదా సముదాయం స్పందన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish communities in Persia and Judea respond to the instability caused by the Persian-Greek wars (Esther 9:20-22)",
+		"desc_te": "పర్షియా-గ్రీకు యుద్ధాల వల్ల ఏర్పడిన అస్థిరతకు పర్షియా, యూదేయాలోని యూదా సముదాయాలు స్పందించాయి (ఎస్తేరు 9:20-22)"
+	},
+	{
+		"year": "-485",
+		"name_en": "Rise of Mordecai as a Jewish Leader",
+		"name_te": "యూదా నాయకుడిగా మోర్దెకయి ఉద్భవం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Mordecai rises to prominence in the Persian court, playing a key role in the salvation of the Jews (Esther 2:19-23; 10:2-3)",
+		"desc_te": "మోర్దెకయి పర్షియన్ రాజదర్వారంలో ప్రముఖుడిగా ఎదిగి, యూదుల రక్షణలో కీలక పాత్ర పోషించాడు (ఎస్తేరు 2:19-23; 10:2-3)"
+	},
+	{
+		"year": "-480",
+		"name_en": "Establishment of the Festival of Purim",
+		"name_te": "పూరీం పండుగ స్థాపన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "The festival of Purim is established to commemorate the deliverance of the Jews in Persia (Esther 9:26-28)",
+		"desc_te": "పర్షియాలో యూదుల రక్షణ జ్ఞాపకార్థం పూరీం పండుగను స్థాపించారు (ఎస్తేరు 9:26-28)"
+	},
+	{
+		"year": "-479",
+		"name_en": "Reign of Artaxerxes I in Persia",
+		"name_te": "పర్షియాలో ఆర్టాక్సెర్క్సెస్ I పాలన",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Artaxerxes I becomes king of Persia, impacting Jewish affairs in the empire (Ezra 7:1)",
+		"desc_te": "ఆర్టాక్సెర్క్సెస్ I పర్షియా రాజుగా అవతరించి, సామ్రాజ్యంలో యూదా వ్యవహారాలను ప్రభావితం చేశాడు (ఎజ్రా 7:1)"
+	},
+	{
+		"year": "-470",
+		"name_en": "Ezra's Preparation for Leadership",
+		"name_te": "ఎజ్రా నాయకత్వానికి సిద్ధత",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra prepares for his journey to Jerusalem, studying and teaching the Law (Ezra 7:6, 10)",
+		"desc_te": "ఎజ్రా యెరూషలేముకు ప్రయాణానికి సిద్ధమవుతూ, ధర్మశాస్త్రాన్ని అధ్యయనం చేసి, బోధించాడు (ఎజ్రా 7:6, 10)"
+	},
+	{
+		"year": "-470",
+		"name_en": "Jewish Community Life in Persia and Judea",
+		"name_te": "పర్షియా, యూదేయాలో యూదా సముదాయ జీవితం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish communities in Persia and Judea maintain religious and social traditions under Persian rule (Ezra 7:25-26)",
+		"desc_te": "పర్షియా, యూదేయాలో యూదా సముదాయాలు పర్షియన్ పాలనలో మత, సామాజిక సంప్రదాయాలను కొనసాగించాయి (ఎజ్రా 7:25-26)"
+	},
+	{
+		"year": "-470",
+		"name_en": "Development of Jewish Legal and Scribal Traditions",
+		"name_te": "యూదా చట్ట, లేఖన సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish legal and scribal traditions continue to develop, laying the groundwork for later rabbinic Judaism (Ezra 7:11-12)",
+		"desc_te": "యూదా చట్ట, లేఖన సంప్రదాయాలు అభివృద్ధి చెందుతూ, తరువాతి రబ్బీ యూదాయిజానికి పునాది వేశాయి (ఎజ్రా 7:11-12)"
+	},
+	{
+		"year": "-470",
+		"name_en": "Ongoing Compilation of Biblical Texts and Laws",
+		"name_te": "బైబిల్ గ్రంథాలు, ధర్మాల సంకలన కొనసాగింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Scribes and priests continue to compile, edit, and preserve biblical texts and laws (Ezra 7:6; Nehemiah 8:8)",
+		"desc_te": "లేఖకులు, యాజకులు బైబిల్ గ్రంథాలు, ధర్మాలను సంకలనం, సవరణ, పరిరక్షణ కొనసాగించారు (ఎజ్రా 7:6; నెహెమ్యా 8:8)"
+	},
+	{
+		"year": "-465",
+		"name_en": "Artaxerxes I's Support for Jewish Reforms",
+		"name_te": "యూదా సంస్కరణలకు ఆర్టాక్సెర్క్సెస్ I మద్దతు",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Artaxerxes I of Persia issues decrees supporting Ezra's reforms and the Jewish community in Jerusalem (Ezra 7:11-26)",
+		"desc_te": "పర్షియా ఆర్టాక్సెర్క్సెస్ I యెరూషలేములో ఎజ్రా సంస్కరణలకు, యూదా సముదాయానికి మద్దతుగా ఆజ్ఞలు జారీ చేశాడు (ఎజ్రా 7:11-26)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Ezra's Journey from Babylon to Jerusalem",
+		"name_te": "ఎజ్రా బాబిలోన్ నుండి యెరూషలేముకు ప్రయాణం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra leads a group of exiles from Babylon to Jerusalem to teach and enforce the Law (Ezra 7:6-10)",
+		"desc_te": "ఎజ్రా బాబిలోన్ నుండి యెరూషలేముకు నిర్వాసితులను తీసుకువచ్చి, ధర్మశాస్త్రాన్ని బోధించాడు, అమలు చేశాడు (ఎజ్రా 7:6-10)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Renewal of Jewish Religious Practices in Jerusalem",
+		"name_te": "యెరూషలేములో యూదా మత ఆచారాల పునరుద్ధరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and the leaders renew religious practices and covenant observance in Jerusalem (Ezra 10:1-3)",
+		"desc_te": "ఎజ్రా, నాయకులు యెరూషలేములో మత ఆచారాలు, ఒడంబడిక ఆచరణను పునరుద్ధరించారు (ఎజ్రా 10:1-3)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Addressing Intermarriage among the Jews",
+		"name_te": "యూదుల్లో అంతర్వివాహ సమస్య పరిష్కారం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra addresses the issue of intermarriage with foreign women, calling for separation to maintain purity (Ezra 9-10)",
+		"desc_te": "ఎజ్రా విదేశీ మహిళలతో అంతర్వివాహ సమస్యను పరిష్కరించి, పవిత్రత కోసం వేర్పాటుకు పిలుపునిచ్చాడు (ఎజ్రా 9-10)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Strengthening of Jewish Law and Community Structure",
+		"name_te": "యూదా ధర్మం, సంఘ నిర్మాణ బలోపేతం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra strengthens the observance of Jewish law and organizes the community for religious and social life (Ezra 7:25-26)",
+		"desc_te": "ఎజ్రా యూదా ధర్మ ఆచరణను బలోపేతం చేసి, మత, సామాజిక జీవితానికి సంఘాన్ని ఏర్పాటు చేశాడు (ఎజ్రా 7:25-26)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Ezra's Arrival and Teaching in Jerusalem",
+		"name_te": "యెరూషలేములో ఎజ్రా రాక, బోధన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra arrives in Jerusalem and begins teaching the Law, strengthening Jewish identity (Ezra 7:8-10)",
+		"desc_te": "ఎజ్రా యెరూషలేముకు చేరుకుని, ధర్మశాస్త్రాన్ని బోధించడం ప్రారంభించి, యూదా గుర్తింపును బలోపేతం చేశాడు (ఎజ్రా 7:8-10)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Formation of Councils of Elders in Judea",
+		"name_te": "యూదేయాలో పెద్దల మండలి ఏర్పాట్లు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Councils of elders are formed in Judea to help govern and guide the Jewish community (Ezra 10:14)",
+		"desc_te": "యూదేయాలో పెద్దల మండలులు ఏర్పడి, యూదా సముదాయాన్ని పాలించడంలో, మార్గనిర్దేశం చేయడంలో సహాయపడ్డాయి (ఎజ్రా 10:14)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Renewal of Covenant and Public Confession",
+		"name_te": "ఒడంబడిక పునరుద్ధరణ, ప్రజా పాపోపసంహరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra leads the people in renewing their covenant with God and public confession of sins (Ezra 10:1-3)",
+		"desc_te": "ఎజ్రా ప్రజలను దేవునితో ఒడంబడికను పునరుద్ధరించడంలో, పాపాలను బహిరంగంగా ఒప్పుకోవడంలో నాయకత్వం వహించాడు (ఎజ్రా 10:1-3)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Reorganization of Temple Service and Levites",
+		"name_te": "ఆలయ సేవ, లేవీయుల పునఃవ్యవస్థీకరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and the leaders reorganize the Levites and temple service to align with the Law (Ezra 8:15-20)",
+		"desc_te": "ఎజ్రా, నాయకులు లేవీయులను, ఆలయ సేవను ధర్మశాస్త్రానికి అనుగుణంగా పునఃవ్యవస్థీకరించారు (ఎజ్రా 8:15-20)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Strengthening Sabbath and Tithing Observance",
+		"name_te": "శబ్దాబథ్, దశాంశ ఆచరణ బలోపేతం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and the elders emphasize the observance of the Sabbath and tithing among the people (Ezra 8:28; 10:32-33)",
+		"desc_te": "ఎజ్రా, పెద్దలు ప్రజల్లో శబ్దాబథ్, దశాంశ ఆచరణను బలోపేతం చేశారు (ఎజ్రా 8:28; 10:32-33)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Ezra's Leadership in Jerusalem Strengthened",
+		"name_te": "యెరూషలేములో ఎజ్రా నాయకత్వం బలోపేతం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra's leadership is further established as he organizes the community and enforces the Law (Ezra 7:25-26)",
+		"desc_te": "ఎజ్రా నాయకత్వం మరింత బలోపేతం చేయబడింది, సముదాయాన్ని నిర్వహించి, ధర్మశాస్త్రాన్ని అమలు చేశాడు (ఎజ్రా 7:25-26)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Appointment of Judges and Magistrates in Judea",
+		"name_te": "యూదేయాలో న్యాయమూర్తులు, మేజిస్ట్రేట్‌ల నియామకం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Ezra appoints judges and magistrates to administer justice according to the Law (Ezra 7:25)",
+		"desc_te": "ఎజ్రా ధర్మశాస్త్ర ప్రకారం న్యాయాన్ని నిర్వహించేందుకు న్యాయమూర్తులు, మేజిస్ట్రేట్‌లను నియమించాడు (ఎజ్రా 7:25)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Public Reading and Explanation of the Law",
+		"name_te": "ధర్మశాస్త్ర బహిరంగ పఠనం, వివరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and the Levites read and explain the Law to the people, increasing understanding (Ezra 8:2-8)",
+		"desc_te": "ఎజ్రా, లేవీయులు ప్రజలకు ధర్మశాస్త్రాన్ని చదివి, వివరించారు, అవగాహన పెరిగింది (ఎజ్రా 8:2-8)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Strengthening of Community Boundaries and Identity",
+		"name_te": "సముదాయ సరిహద్దులు, గుర్తింపు బలోపేతం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra enforces boundaries to maintain Jewish identity and separation from foreign influences (Ezra 10:11)",
+		"desc_te": "ఎజ్రా యూదా గుర్తింపును, విదేశీ ప్రభావాల నుండి వేర్పాటును బలోపేతం చేశాడు (ఎజ్రా 10:11)"
+	},
+	{
+		"year": "-460",
+		"name_en": "Promotion of Torah Study and Education",
+		"name_te": "తోరా అధ్యయనం, విద్యా ప్రోత్సాహం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra promotes the study of the Torah and education among the Jewish people (Ezra 7:10)",
+		"desc_te": "ఎజ్రా యూదా ప్రజల్లో తోరా అధ్యయనాన్ని, విద్యను ప్రోత్సహించాడు (ఎజ్రా 7:10)"
+	},
+	{
+		"year": "-450",
+		"name_en": "Formation of the Great Assembly (Knesset Hagedolah)",
+		"name_te": "మహాసభ (క్నెసెట్ హగెడోలాహ్) ఏర్పాటవడం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jewish sages and leaders form the Great Assembly, shaping Jewish religious life (Nehemiah 8:1; Mishnah)",
+		"desc_te": "యూదా మేధావులు, నాయకులు మహాసభను ఏర్పాటు చేసి, మత జీవితాన్ని ఆకృతీకరించారు (నెహెమ్యా 8:1; మిష్నా)"
+	},
+	{
+		"year": "-445",
+		"name_en": "Reforms of Nehemiah: Social and Religious",
+		"name_te": "నెహెమ్యా సంస్కరణలు: సామాజిక, మతపరమైనవి",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nehemiah implements social and religious reforms, addressing injustices and restoring order (Nehemiah 5:1-13; 13:1-31)",
+		"desc_te": "నెహెమ్యా సామాజిక, మతపరమైన సంస్కరణలు చేపట్టి, అన్యాయాలను పరిష్కరించి, క్రమాన్ని పునరుద్ధరించాడు (నెహెమ్యా 5:1-13; 13:1-31)"
+	},
+	{
+		"year": "-445",
+		"name_en": "Nehemiah's Second Visit and Further Reforms",
+		"name_te": "నెహెమ్యా రెండవ సందర్శన మరియు మరిన్ని సంస్కరణలు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Nehemiah returns to Jerusalem, corrects abuses, and enforces Sabbath and tithing laws (Nehemiah 13)",
+		"desc_te": "నెహెమ్యా యెరూషలేముకు తిరిగి వచ్చి, దుర్వినియోగాలను సరిదిద్దాడు, శబ్దాబథ్, దశాంశ ధర్మాలను అమలు చేశాడు (నెహెమ్యా 13)"
+	},
+	{
+		"year": "-445",
+		"name_en": "Challenges of Intermarriage and Purity Laws",
+		"name_te": "అంతర్వివాహాలు, పవిత్రత ధర్మాల సవాళ్లు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and Nehemiah address the issue of intermarriage with foreign peoples and reinforce purity laws (Ezra 9-10, Nehemiah 13)",
+		"desc_te": "ఎజ్రా, నెహెమ్యా విదేశీయులతో అంతర్వివాహాల సమస్యను పరిష్కరించి, పవిత్రత ధర్మాలను బలపరిచారు (ఎజ్రా 9-10, నెహెమ్యా 13)"
+	},
+	{
+		"year": "-445",
+		"name_en": "Dedication of Firstfruits and Tithes to the Temple",
+		"name_te": "ఆలయానికి మొట్టమొదటి ఫలాలు, దశాంశ అంకితము",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "The people dedicate firstfruits and tithes to support the priests and Levites (Nehemiah 10:35-39)",
+		"desc_te": "ప్రజలు పూజారులు, లేవీయులను పోషించేందుకు మొట్టమొదటి ఫలాలు, దశాంశాలను అంకితం చేశారు (నెహెమ్యా 10:35-39)"
+	},
+	{
+		"year": "-445",
+		"name_en": "Appointment of Temple Singers and Gatekeepers",
+		"name_te": "ఆలయ గాయకులు, ద్వారపాలకుల నియామకం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Levites are appointed as singers and gatekeepers for temple worship (Nehemiah 12:27-47)",
+		"desc_te": "లేవీయులను ఆలయ గాయకులు, ద్వారపాలకులుగా నియమించారు (నెహెమ్యా 12:27-47)"
+	},
+	{
+		"year": "-445",
+		"name_en": "Restoration of Levitical Priesthood and Temple Service",
+		"name_te": "లేవీయ పూజారి వర్గం, ఆలయ సేవ పునరుద్ధరణ",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ezra and Nehemiah restore the Levitical priesthood and organize temple service as prescribed in the Law (Ezra 7, Nehemiah 12)",
+		"desc_te": "ఎజ్రా, నెహెమ్యా లేవీయ పూజారి వర్గాన్ని పునరుద్ధరించి, ధర్మశాస్త్ర ప్రకారం ఆలయ సేవను ఏర్పాటు చేశారు (ఎజ్రా 7, నెహెమ్యా 12)"
+	},
+	{
+		"year": "-440",
+		"name_en": "Continued Teaching of the Law and Community Restoration",
+		"name_te": "ధర్మశాస్త్ర బోధన, సంఘ పునరుద్ధరణ కొనసాగింపు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Ongoing teaching of the Law and restoration of the Jewish community in Jerusalem and Judea",
+		"desc_te": "యెరూషలేము, యూదేయాలో ధర్మశాస్త్ర బోధన, సంఘ పునరుద్ధరణ కొనసాగింది"
+	},
+	{
+		"year": "-440",
+		"name_en": "Completion of the Book of Chronicles",
+		"name_te": "దినవృత్తాంత గ్రంథం పూర్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Book of Chronicles is compiled, summarizing Israel's history and temple worship.",
+		"desc_te": "ఇజ్రాయేలు చరిత్ర, ఆలయ ఆరాధనను సంగ్రహించిన దినవృత్తాంత గ్రంథం ఈ కాలంలో పూర్తయింది."
+	},
+	{
+		"year": "-440",
+		"name_en": "Rise of the Scribe Class (Soferim)",
+		"name_te": "లేఖకుల వర్గం (సోఫెరిమ్) ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish scribes (Soferim) become increasingly important in copying, teaching, and interpreting the Torah.",
+		"desc_te": "యూదా లేఖకులు (సోఫెరిమ్) తోరాను నకలు చేయడంలో, బోధనలో, వ్యాఖ్యానంలో ప్రాముఖ్యత పొందారు."
+	},
+	{
+		"year": "-430",
+		"name_en": "Ongoing Teaching of the Law and Community Restoration",
+		"name_te": "ధర్మశాస్త్ర బోధన, సంఘ పునరుద్ధరణ కొనసాగింపు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Continued teaching of the Law and restoration of the Jewish community in Jerusalem and Judea.",
+		"desc_te": "యెరూషలేము, యూదేయాలో ధర్మశాస్త్ర బోధన, సంఘ పునరుద్ధరణ కొనసాగింది."
+	},
+	{
+		"year": "-430",
+		"name_en": "Establishment of Regular Torah Reading",
+		"name_te": "తోరా పఠనం నియమితంగా స్థాపన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Public Torah reading becomes a regular practice in synagogues and gatherings.",
+		"desc_te": "సినగాగ్‌లలో, సభల్లో తోరా పఠనం నియమితంగా చేయడం ప్రారంభమైంది."
+	},
+	{
+		"year": "-430",
+		"name_en": "Jewish Legal Debates and Halakhic Development",
+		"name_te": "యూదా చట్ట చర్చలు, హలాఖా అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars begin to debate and develop Jewish law (Halakha) in this period.",
+		"desc_te": "ఈ కాలంలో రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-430",
+		"name_en": "Jewish Communities in Egypt and Babylon",
+		"name_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities thrive in Egypt and Babylon, maintaining ties to Jerusalem.",
+		"desc_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు అభివృద్ధి చెందాయి, యెరూషలేముతో సంబంధాలు కొనసాగించాయి."
+	},
+	{
+		"year": "-430",
+		"name_en": "Spread of Aramaic as Common Language",
+		"name_te": "అరమాయిక్ సాధారణ భాషగా వ్యాప్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Aramaic becomes the spoken and written language for Jews in Judea and the diaspora.",
+		"desc_te": "అరమాయిక్ యూదేయా, ప్రవాస యూదులలో మాట్లాడే, వ్రాసే భాషగా మారింది."
+	},
+	{
+		"year": "-420",
+		"name_en": "Continued Teaching of the Law in Judea",
+		"name_te": "యూదేయాలో ధర్మశాస్త్ర బోధన కొనసాగింపు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jewish leaders continue to teach the Law and maintain religious life in Judea.",
+		"desc_te": "యూదేయాలో యూదా నాయకులు ధర్మశాస్త్రాన్ని బోధిస్తూ, మత జీవితాన్ని కొనసాగించారు."
+	},
+	{
+		"year": "-420",
+		"name_en": "Jewish Community Life in Elephantine, Egypt",
+		"name_te": "ఈజిప్టులో ఎలిఫాంటైన్ యూదా సముదాయం",
+		"location": {
+			"lat": 24.0889,
+			"lng": 32.8998
+		},
+		"desc_en": "A thriving Jewish community exists in Elephantine, Egypt, with its own temple and traditions (Elephantine Papyri).",
+		"desc_te": "ఈజిప్టులో ఎలిఫాంటైన్‌లో ఒక అభివృద్ధి చెందిన యూదా సముదాయం, వారి స్వంత ఆలయం, సంప్రదాయాలతో ఉంది (ఎలిఫాంటైన్ పాపిరి)."
+	},
+	{
+		"year": "-420",
+		"name_en": "Ongoing Compilation of Biblical Texts and Traditions",
+		"name_te": "బైబిల్ గ్రంథాలు, సంప్రదాయాల సంకలన కొనసాగింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Scribes and priests continue to compile, edit, and preserve biblical texts and traditions.",
+		"desc_te": "లేఖకులు, యాజకులు బైబిల్ గ్రంథాలు, సంప్రదాయాలను సంకలనం, సవరణ, పరిరక్షణ కొనసాగించారు."
+	},
+	{
+		"year": "-420",
+		"name_en": "Spread of Synagogue Worship in the Diaspora",
+		"name_te": "ప్రవాస యూదుల్లో సినగాగ్ ఆరాధన వ్యాప్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Synagogue worship becomes more widespread among Jewish communities outside Judea.",
+		"desc_te": "యూదేయా వెలుపల యూదా సముదాయాల్లో సినగాగ్ ఆరాధన మరింత విస్తరించింది."
+	},
+	{
+		"year": "-420",
+		"name_en": "Development of Jewish Legal and Educational Institutions",
+		"name_te": "యూదా చట్ట, విద్యా సంస్థల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish legal and educational institutions continue to develop, laying the groundwork for later rabbinic Judaism.",
+		"desc_te": "యూదా చట్ట, విద్యా సంస్థలు అభివృద్ధి చెందుతూ, తరువాతి రబ్బీ యూదాయిజానికి పునాది వేశాయి."
+	},
+	{
+		"year": "-410",
+		"name_en": "Continued Compilation of Biblical Texts",
+		"name_te": "బైబిల్ గ్రంథాల సంకలన కొనసాగింపు",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Scribes and priests continue to compile, edit, and preserve biblical texts and traditions in Judea and the diaspora.",
+		"desc_te": "యూదేయా, ప్రవాసంలో లేఖకులు, యాజకులు బైబిల్ గ్రంథాలు, సంప్రదాయాలను సంకలనం, సవరణ, పరిరక్షణ కొనసాగించారు."
+	},
+	{
+		"year": "-410",
+		"name_en": "Jewish Community Life in Babylon and Egypt",
+		"name_te": "బాబిలోన్, ఈజిప్టులో యూదా సముదాయ జీవితం",
+		"location": {
+			"lat": 32,
+			"lng": 44
+		},
+		"desc_en": "Jewish communities in Babylon and Egypt maintain religious and social traditions, staying connected to Jerusalem.",
+		"desc_te": "బాబిలోన్, ఈజిప్టులో యూదా సముదాయాలు మత, సామాజిక సంప్రదాయాలను కొనసాగిస్తూ, యెరూషలేముతో సంబంధాలు కొనసాగించాయి."
+	},
+	{
+		"year": "-410",
+		"name_en": "Spread of Synagogue Worship and Torah Study",
+		"name_te": "సినగాగ్ ఆరాధన, తోరా అధ్యయనం వ్యాప్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Synagogue worship and Torah study become more widespread among Jewish communities.",
+		"desc_te": "యూదా సముదాయాల్లో సినగాగ్ ఆరాధన, తోరా అధ్యయనం మరింత విస్తరించాయి."
+	},
+	{
+		"year": "-410",
+		"name_en": "Development of Jewish Legal and Educational Traditions",
+		"name_te": "యూదా చట్ట, విద్యా సంప్రదాయాల అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish legal and educational traditions continue to develop, influencing later rabbinic Judaism.",
+		"desc_te": "యూదా చట్ట, విద్యా సంప్రదాయాలు అభివృద్ధి చెందుతూ, తరువాతి రబ్బీ యూదాయిజాన్ని ప్రభావితం చేశాయి."
+	},
+	{
+		"year": "-410",
+		"name_en": "Ongoing Community Restoration and Teaching of the Law",
+		"name_te": "సంఘ పునరుద్ధరణ, ధర్మశాస్త్ర బోధన కొనసాగింపు",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Jewish leaders continue to restore the community and teach the Law in Judea and the diaspora.",
+		"desc_te": "యూదా నాయకులు యూదేయా, ప్రవాసంలో సంఘ పునరుద్ధరణ, ధర్మశాస్త్ర బోధనను కొనసాగించారు."
+	},
+	{
+		"year": "-400",
+		"name_en": "Emergence of Jewish Sages and Early Rabbinic Leaders",
+		"name_te": "యూదా మేధావులు, ప్రారంభ రబ్బీ నాయకుల ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish sages and early rabbinic leaders begin to shape religious teaching and community life.",
+		"desc_te": "యూదా మేధావులు, ప్రారంభ రబ్బీ నాయకులు మత బోధన, సంఘ జీవితాన్ని ఆకృతీకరించడం ప్రారంభించారు."
+	},
+	{
+		"year": "-400",
+		"name_en": "Organization of Priestly Courses (Mishmarot)",
+		"name_te": "యాజక వర్గాల (మిష్మరోత్) వ్యవస్థీకరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Priestly families are organized into courses for regular service at the rebuilt Temple.",
+		"desc_te": "పునర్నిర్మిత ఆలయంలో యాజక కుటుంబాలు సేవా వర్గాలుగా ఏర్పాటయ్యాయి."
+	},
+	{
+		"year": "-400",
+		"name_en": "Public Reading and Translation of the Law",
+		"name_te": "ధర్మశాస్త్ర బహిరంగ పఠనం, అనువాదం",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Levites read and explain the Law to the people in their own language (Nehemiah 8:7-8).",
+		"desc_te": "లేవీయులు ప్రజలకు వారి భాషలో ధర్మశాస్త్రాన్ని చదివి, వివరించారు (నెహెమ్యా 8:7-8)."
+	},
+	{
+		"year": "-400",
+		"name_en": "Establishment of Synagogue Worship",
+		"name_te": "సినగాగ్ ఆరాధన స్థాపన",
+		"location": {
+			"lat": 31.776,
+			"lng": 35.234
+		},
+		"desc_en": "Emergence of local gatherings for prayer and study, laying the foundation for synagogue worship.",
+		"desc_te": "ప్రార్థన, అధ్యయనం కోసం స్థానిక సమావేశాలు ప్రారంభమై, సినగాగ్ ఆరాధనకు పునాది వేసాయి."
+	},
+	{
+		"year": "-400",
+		"name_en": "Activity of the Prophet Malachi",
+		"name_te": "మలాకీ ప్రవక్త కార్యాచరణ",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Malachi, considered the last of the biblical prophets, delivers messages of covenant faithfulness and future hope.",
+		"desc_te": "మలాకీ ప్రవక్త, చివరి ప్రవక్తగా, ఒడంబడిక విశ్వాసం, భవిష్యత్తు ఆశపై సందేశాలు అందించాడు."
+	},
+	{
+		"year": "-400",
+		"name_en": "Completion of the Book of Chronicles",
+		"name_te": "దినవృత్తాంత గ్రంథం పూర్తి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "The Book of Chronicles is compiled, summarizing Israel's history and temple worship.",
+		"desc_te": "ఇజ్రాయేలు చరిత్ర, ఆలయ ఆరాధనను సంగ్రహించిన దినవృత్తాంత గ్రంథం ఈ కాలంలో పూర్తయింది."
+	},
+	{
+		"year": "-400",
+		"name_en": "Rise of the Scribe Class (Soferim)",
+		"name_te": "లేఖకుల వర్గం (సోఫెరిమ్) ఉద్భవం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Jewish scribes (Soferim) become increasingly important in copying, teaching, and interpreting the Torah.",
+		"desc_te": "యూదా లేఖకులు (సోఫెరిమ్) తోరాను నకలు చేయడంలో, బోధనలో, వ్యాఖ్యానంలో ప్రాముఖ్యత పొందారు."
+	},
+	{
+		"year": "-400",
+		"name_en": "Establishment of Regular Torah Reading",
+		"name_te": "తోరా పఠనం నియమితంగా స్థాపన",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Public Torah reading becomes a regular practice in synagogues and gatherings.",
+		"desc_te": "సినగాగ్‌లలో, సభల్లో తోరా పఠనం నియమితంగా చేయడం ప్రారంభమైంది."
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Legal Debates and Halakhic Development",
+		"name_te": "యూదా చట్ట చర్చలు, హలాఖా అభివృద్ధి",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.2
+		},
+		"desc_en": "Rabbis and scholars begin to debate and develop Jewish law (Halakha) in this period.",
+		"desc_te": "ఈ కాలంలో రబ్బీలు, పండితులు యూదా ధర్మాన్ని (హలాఖా) చర్చించి అభివృద్ధి చేశారు."
+	},
+	{
+		"year": "-400",
+		"name_en": "Jewish Communities in Egypt and Babylon",
+		"name_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Jewish diaspora communities thrive in Egypt and Babylon, maintaining ties to Jerusalem.",
+		"desc_te": "ఈజిప్ట్, బాబిలోన్‌లో యూదా సముదాయాలు అభివృద్ధి చెందాయి, యెరూషలేముతో సంబంధాలు కొనసాగించాయి."
+	}
+]

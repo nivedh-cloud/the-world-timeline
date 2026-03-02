@@ -1,0 +1,42 @@
+[
+  {
+    "id": "wilderness_01",
+    "name_tel": "సిനాయ్",
+    "name_eng": "Mount Sinai",
+    "coords": [27.987, 33.975],
+    "description": "Starting point of 40 years wandering",
+    "isMajorStop": true
+  },
+  {
+    "id": "wilderness_02",
+    "name_tel": "కాదేష్ బర్నియా",
+    "name_eng": "Kadesh Barnea",
+    "coords": [30.788, 34.465],
+    "description": "The Israelites refuse to enter Canaan",
+    "isMajorStop": true
+  },
+  {
+    "id": "wilderness_03",
+    "name_tel": "రూబెన్ భూమి",
+    "name_eng": "Reuben's Territory",
+    "coords": [31.500, 36.000],
+    "description": "Wilderness wandering area",
+    "isMajorStop": false
+  },
+  {
+    "id": "wilderness_04",
+    "name_tel": "గాద్ భూమి",
+    "name_eng": "Gad's Territory",
+    "coords": [32.000, 35.500],
+    "description": "40 years of wandering",
+    "isMajorStop": false
+  },
+  {
+    "id": "wilderness_05",
+    "name_tel": "జర్డన్ ఆర్ఘ",
+    "name_eng": "Jordan River",
+    "coords": [31.870, 35.500],
+    "description": "Ready to enter the promised land",
+    "isMajorStop": true
+  }
+]

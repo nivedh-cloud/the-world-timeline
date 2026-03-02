@@ -1,0 +1,398 @@
+[
+	{
+		"year": "-2200",
+		"name_en": "Akkadian Empire Naram-Sin (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సామ్రాజ్యం నారం-సిన్ (మెసోపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44
+		},
+		"desc_en": "Naram-Sin expands Akkadian empire to maximum territorial extent",
+		"desc_te": "నారం-సిన్ అక్కాడియన్ సామ్రాజ్యాన్ని గరిష్ట భూభాగ విస్తీర్ణానికి విస్తరిస్తారు"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Egypt Old Kingdom Decline (Egypt)",
+		"name_te": "ఈజిప్ట్ పురాతన రాజ్యం క్షీణత (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Old Kingdom Egypt weakens after Dynasty VI, decentralization begins",
+		"desc_te": "డైనస్టీ VI తర్వాత పురాతన రాజ్య ఈజిప్ట్ బలహీనమైంది, విकేంద్రీకरણ ప్రారంభ"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Xia Dynasty Legendary Era (China)",
+		"name_te": "క్సియా రాజవంశం పురాణ కాలం (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Legendary Xia Dynasty period begins with flood control hero Yu",
+		"desc_te": "వరద నియంత్రణ హీరో యువితో పురాణ క్సియా రాజవంశ కాలం ప్రారంభ"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Harappa Early Settlement (India)",
+		"name_te": "హరప్ప ప్రారంభ నిబుద్ధిస్థానం (భారతదేశం)",
+		"location": {
+			"lat": 30.6,
+			"lng": 72.8
+		},
+		"desc_en": "Early Harappa settlement begins in Indus Valley region",
+		"desc_te": "సిందువు లోయ ప్రాంతంలో ప్రారంభ హరప్ప నిబుద్ధిస్థానం ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Rigveda Composition Begins (India)",
+		"name_te": "ఋగ్‌వేద సంపాదన ప్రారంభం (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 76
+		},
+		"desc_en": "Rigveda sacred hymns begin oral composition in Sanskrit",
+		"desc_te": "ఋగ్‌వేద పవిత్ర స్తోత్రాలు సంస్కృతంలో మౌఖిక సంపాదన ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Minoan Early Bronze Age (Greece)",
+		"name_te": "మినోయన్ ప్రారంభ కాంస్య యుగం (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.7
+		},
+		"desc_en": "Early Minoan Bronze Age begins in Crete with first settlements",
+		"desc_te": "క్రీట్‌లో ప్రథమ నిబుద్ధిస్థానాలతో ప్రారంభ మినోయన్ కాంస్య యుగం ప్రారంభ"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Egyptian First Intermediate Period (Egypt)",
+		"name_te": "ఈజిప్ట్ ప్రథమ ఆంతర్గత కాలం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "First Intermediate Period begins with Egyptian fragmentation",
+		"desc_te": "ఈజిప్టియన్ విభజనతో ప్రథమ ఆంతర్గత కాలం ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Akkadian Cuneiform Develops (Mesopotamia)",
+		"name_te": "అక్కాడియన్ క్యూనిఫార్మ్ అభివృద్ధి (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Akkadian cuneiform writing system develops and spreads",
+		"desc_te": "అక్కాడియన్ క్యూనిఫార్మ్ రచన వ్యవస్థ అభివృద్ధి, వ్యాపనం చెందుతుంది"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Bronze Tools Emerge (Europe)",
+		"name_te": "కాంస్య సాధనాలు ఉదయం (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Bronze tools and weapons begin to replace stone tools in Europe",
+		"desc_te": "యూరోప్‌లో కాంస్య సాధనాలు, శస్త్రాలు రాతి సాధనాలను స్థానభ్రంశం చేస్తాయి"
+	},
+	{
+		"year": "-2200",
+		"name_en": "Nubian Kingdom Forms (Africa)",
+		"name_te": "న్యూబియన్ రాజ్యం ఏర్పడుతుంది (ఆఫ్రికా)",
+		"location": {
+			"lat": 16,
+			"lng": 33
+		},
+		"desc_en": "Early Nubian kingdom forms with Egyptian cultural influences",
+		"desc_te": "ఈజిప్టియన్ సాంస్కృతిక ప్రభావాలతో ప్రారంభ న్యూబియన్ రాజ్యం ఏర్పడుతుంది"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Gutian Invasion of Mesopotamia (Mesopotamia)",
+		"name_te": "మెసోపొటేమియాపై గుటియన్ దండయాత్ర (మెసోపొటేమియా)",
+		"location": {
+			"lat": 34.5,
+			"lng": 46
+		},
+		"desc_en": "Gutian people invade and conquer Akkadian Empire territories",
+		"desc_te": "గుటియన్ ప్రజలు అక్కాడియన్ సామ్రాజ్య భూభాగాలపై దండయాత్ర, జయం సాధిస్తారు"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Egyptian Regional Kingdoms (Egypt)",
+		"name_te": "ఈజిప్టియన్ ఆఞ్చలిక రాజ్యాలు (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egypt fragments into regional kingdoms during chaos period",
+		"desc_te": "గందరగోళ కాలంలో ఈజిప్ట్ ఆఞ్చలిక రాజ్యాలుగా విభజనమవుతుంది"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Xia Dynasty Legends (China)",
+		"name_te": "క్సియా రాజవంశ పురాణాలు (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Xia Dynasty rulers establish legendary foundations of China",
+		"desc_te": "క్సియా రాజవంశ పాలకులు చైనా పౌరాణిక ఆధారాలు స్థాపిస్తారు"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Indus Valley Settlement Expands (India)",
+		"name_te": "సిందువు లోయ నిబుద్ధిస్థానం విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 68.5
+		},
+		"desc_en": "Harappan settlements expand across Indus Valley region",
+		"desc_te": "హరప్పన్ నిబుద్ధిస్థానాలు సిందువు లోయ ప్రాంతం అంతటా విస్తరిస్తాయి"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Vedic Age Begins (India)",
+		"name_te": "వేద యుగం ప్రారంభం (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic Age begins with Indo-Aryan migrations into India",
+		"desc_te": "ఇండో-ఆర్యన్ వలసలతో వేద యుగం భారతదేశంలో ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Early Minoan Palaces (Greece)",
+		"name_te": "ప్రారంభ మినోయన్ రాజభవనాలు (గ్రీస్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25.1
+		},
+		"desc_en": "First Minoan palace complexes built on Crete",
+		"desc_te": "క్రీట్‌లో ప్రథమ మినోయన్ రాజభవన సముదాయాలు నిర్మితమవుతాయి"
+	},
+	{
+		"year": "-2180",
+		"name_en": "Cycladic Civilization (Greece)",
+		"name_te": "సిక్లాడిక్ నాగరికత (గ్రీస్)",
+		"location": {
+			"lat": 37,
+			"lng": 25
+		},
+		"desc_en": "Cycladic island civilization flourishes in Aegean Sea",
+		"desc_te": "ఈజియన్ సముద్ర ద్వీపాలలో సిక్లాడిక్ ద్వీप నాగరికత వికసిస్తుంది"
+	},
+	{
+		"year": "-2160",
+		"name_en": "Akkadian Empire Collapse (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సామ్రాజ్య పతనం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Akkadian Empire collapses under Gutian pressure and climate change",
+		"desc_te": "గుటియన్ ఒత్తిడి, వాతావరణ మార్పుల కింద అక్కాడియన్ సామ్రాజ్య పతనం"
+	},
+	{
+		"year": "-2160",
+		"name_en": "Egyptian Middle Kingdom Begins (Egypt)",
+		"name_te": "ఈజిప్టియన్ మధ్య రాజ్యం ప్రారంభ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Egyptian Middle Kingdom begins with reunification efforts",
+		"desc_te": "ఈజిప్టియన్ మధ్య రాజ్యం పునઃఏకీకరణ ప్రయత్నాలతో ప్రారంభమవుతుంది"
+	},
+	{
+		"year": "-2160",
+		"name_en": "Shang Dynasty Foundation (China)",
+		"name_te": "షాంగ్ రాజవంశం ఆధారం (చైనా)",
+		"location": {
+			"lat": 34.34,
+			"lng": 108.94
+		},
+		"desc_en": "Shang Dynasty foundations laid after Xia decline",
+		"desc_te": "క్సియా క్షీణత తర్వాత షాంగ్ రాజవంశం ఆధారాలు సుదీర్ఘ వేయబడుతుంది"
+	},
+	{
+		"year": "-2160",
+		"name_en": "Indus Valley Bronze Technology (India)",
+		"name_te": "సిందువు లోయ కాంస్య సాంకేతికత (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 68.5
+		},
+		"desc_en": "Indus Valley develops advanced bronze and copper technology",
+		"desc_te": "సిందువు లోయ ఉన్నత కాంస్య, రాగి సాంకేతికత అభివృద్ధి చేస్తుంది"
+	},
+	{
+		"year": "-2160",
+		"name_en": "Aryan Indo-Iranian Migrations (Central Asia)",
+		"name_te": "ఆర్య ఇండో-ఈరానియన్ వలసలు (మధ్య ఆసియా)",
+		"location": {
+			"lat": 42,
+			"lng": 65
+		},
+		"desc_en": "Indo-Iranian peoples begin migrations from Central Asian steppes",
+		"desc_te": "మధ్య ఆసియన్ మైదానాల నుండి ఇండో-ఈరానియన్ ప్రజలు వలస ప్రారంభ"
+	},
+	{
+		"year": "-2160",
+		"name_en": "Sargon of Akkad Legacy (Mesopotamia)",
+		"name_te": "సార్గాన్ ఆఫ్ అక్కాడ్ వారసత్వం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 32.5,
+			"lng": 44.4
+		},
+		"desc_en": "Sargon of Akkad's military legacy influences Mesopotamian warfare",
+		"desc_te": "సార్గాన్ ఆఫ్ అక్కాడ్ సైనిక వారసత్వం మెసోపొటేమియన్ యుద్ధ ప్రభావితం"
+	},
+	{
+		"year": "-2140",
+		"name_en": "Mentuhotep II Reunifies Egypt (Egypt)",
+		"name_te": "మెంటుహోటెప్ II ఈజిప్ట్ పునઃఏకీకరణ (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Pharaoh Mentuhotep II reunifies Egypt, establishes 12th Dynasty",
+		"desc_te": "ఫారో మెంటుహోటెప్ II ఈజిప్ట్‌ను పునઃఏకీకరించారు, 12వ రాజవంశం స్థాపన"
+	},
+	{
+		"year": "-2140",
+		"name_en": "Ur III Dynasty Rises (Mesopotamia)",
+		"name_te": "ఉర్ III డైనస్టీ ఎదుగుతుంది (మెసోపొటేమియా)",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "Ur III Dynasty begins after Gutian period, restores Sumerian culture",
+		"desc_te": "గుటియన్ కాలం తర్వాత ఉర్ III డైనస్టీ ప్రారంభమవుతుంది, సుమెరు సంస్కృతి పునరుద్ధరణ"
+	},
+	{
+		"year": "-2140",
+		"name_en": "Xia Dynasty Consolidates (China)",
+		"name_te": "క్సియా రాజవంశం సంపీడనం (చైనా)",
+		"location": {
+			"lat": 34.6,
+			"lng": 109.5
+		},
+		"desc_en": "Xia Dynasty consolidates control over early Chinese territories",
+		"desc_te": "క్సియా రాజవంశం ప్రారంభ చైనీస్ భూభాగాలపై నియంత్రణ సంపీడనం"
+	},
+	{
+		"year": "-2140",
+		"name_en": "Indus Valley Urbanization (India)",
+		"name_te": "సిందువు లోయ నగరీకరణ (భారతదేశం)",
+		"location": {
+			"lat": 27,
+			"lng": 68.5
+		},
+		"desc_en": "Major Indus Valley cities develop with planned urban design",
+		"desc_te": "పథకిత నగర నిర్మాణంతో ప్రధాన సిందువు లోయ నగరాలు అభివృద్ధి చెందుతాయి"
+	},
+	{
+		"year": "-2140",
+		"name_en": "Amorite Tribes Organize (Mesopotamia)",
+		"name_te": "అమోరైట్ గోత్రాలు సంస్థాగతం (మెసోపొటేమియా)",
+		"location": {
+			"lat": 33,
+			"lng": 40
+		},
+		"desc_en": "Amorite tribes organize in Syria-Mesopotamia region",
+		"desc_te": "సిరియా-మెసోపొటేమియా ప్రాంతంలో అమోరైట్ గోత్రాలు సంస్థాగతం చేసుకుంటాయి"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Dynasty XII Peak (Egypt)",
+		"name_te": "డైనస్టీ XII శిఖరం (ఈజిప్ట్)",
+		"location": {
+			"lat": 30,
+			"lng": 31
+		},
+		"desc_en": "Dynasty XII Egypt reaches peak of prosperity and cultural achievement",
+		"desc_te": "డైనస్టీ XII ఈజిప్ట్ సమృద్ధి, సాంస్కృతిక సాధన శిఖరస్థాయిని చేరుకుంటుంది"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Sulgi Expands Ur III (Mesopotamia)",
+		"name_te": "సుల్గీ ఉర్ III విస్తరణ (మెసోపొటేమియా)",
+		"location": {
+			"lat": 30.96,
+			"lng": 46.1
+		},
+		"desc_en": "King Sulgi expands Ur III empire with military campaigns",
+		"desc_te": "రాజు సుల్గీ సైనిక చర్యలతో ఉర్ III సామ్రాజ్యం విస్తరణ"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Xia-Shang Transition (China)",
+		"name_te": "క్సియా-షాంగ్ మార్పు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia Dynasty transitions toward Shang Dynasty period",
+		"desc_te": "క్సియా రాజవంశం షాంగ్ రాజవంశ కాలం వైపుకు మారుతుంది"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Vedic Kingdoms Expand (India)",
+		"name_te": "వేదిక రాజ్యాలు విస్తరిస్తాయి (భారతదేశం)",
+		"location": {
+			"lat": 26,
+			"lng": 74
+		},
+		"desc_en": "Vedic Indo-Aryan kingdoms expand across northern India",
+		"desc_te": "వేదిక ఇండో-ఆర్యన్ రాజ్యాలు ఉత్తర భారతదేశం అంతటా విస్తరిస్తాయి"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Mohenjo-Daro Established (India)",
+		"name_te": "మోహెంజోదారో స్థాపన (భారతదేశం)",
+		"location": {
+			"lat": 27.3,
+			"lng": 68.1
+		},
+		"desc_en": "Major city Mohenjo-Daro established in Indus Valley",
+		"desc_te": "సిందువు లోయలో ప్రధాన నగరం మోహెంజోదారో స్థాపన"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Hittite Kingdom Emerges (Anatolia)",
+		"name_te": "హిట్టైట్ రాజ్యం ఉదయం (అనాటోలియా)",
+		"location": {
+			"lat": 40.74,
+			"lng": 34.65
+		},
+		"desc_en": "Hittite kingdom begins to emerge in Anatolia",
+		"desc_te": "అనాటోలియాలో హిట్టైట్ రాజ్యం ఉదయం ప్రారంభ"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Nubian-Egyptian Trade (Africa)",
+		"name_te": "న్యూబియన్-ఈజిప్టియన్ వాణిజ్యం (ఆఫ్రికా)",
+		"location": {
+			"lat": 22,
+			"lng": 32
+		},
+		"desc_en": "Trade networks develop between Nubia and Egypt",
+		"desc_te": "న్యూబియా, ఈజిప్ట్ మధ్య వాణిజ్య నెట్‌వర్క్‌లు అభివృద్ధి చెందుతాయి"
+	},
+	{
+		"year": "-2120",
+		"name_en": "Mediterranean Aegean Trade (Greece)",
+		"name_te": "మధ్యధరా ఈజియన్ వాణిజ్యం (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 24
+		},
+		"desc_en": "Mediterranean and Aegean trade networks establish",
+		"desc_te": "మధ్యధరా, ఈజియన్ వాణిజ్య నెట్‌వర్క్‌లు స్థాపన చెందుతాయి"
+	}
+]

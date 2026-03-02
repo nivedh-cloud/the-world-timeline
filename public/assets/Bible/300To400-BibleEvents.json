@@ -1,0 +1,299 @@
+[
+	{
+		"year": "300",
+		"name_en": "The Great Persecution Continues",
+		"name_te": "గొప్ప నిర్భయం కొనసాగుతుంది",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Diocletian's persecution intensifies. Galerius leads campaigns against Christians in the Eastern empire.",
+		"desc_te": "డయోక్లెటియన్ నిర్భయం తీవ్రమవుతుంది. గాలెరియస్ తూర్పు సామ్రాజ్యంలో క్రీస్టియన్‌ల వ్యతిరేక ప్రచారాలను నడిపాడు."
+	},
+	{
+		"year": "303",
+		"name_en": "Diocletian's Persecution Edicts",
+		"name_te": "డయోక్లెటియన్ నిర్భయ ఆజ్ఞలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Four successive edicts demand church property confiscation, scriptures burning, and execution of Christian leaders.",
+		"desc_te": "నాలుగు వరుస ఆజ్ఞలు చర్చ సంపత్తి జప్తు, గ్రంధ దహనం, చర్చ నాయకుల మరణ చేయటాన్ని ఆదేశిస్తుంది."
+	},
+	{
+		"year": "305",
+		"name_en": "Regional Variations in Persecution",
+		"name_te": "నిర్భయంలో ప్రాంతీయ భేదాలు",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Constantine in the West tolerates Christians, while Galerius in the East continues severe persecution.",
+		"desc_te": "పశ్చిమంలో కాన్‍స్టాంటిన్ క్రీస్టియన్‌లను సహనీయ చేసాడు, తూర్పంలో గాలెరియస్ తీవ్ర నిర్భయం కొనసాగించాడు."
+	},
+	{
+		"year": "310",
+		"name_en": "Galerius's Deathbed Edict",
+		"name_te": "గాలెరియస్ చంపట లక్ష్ణ ఆజ్ఞ",
+		"location": {
+			"lat": 42.6,
+			"lng": 21.2
+		},
+		"desc_en": "Near death, Galerius issues edict allowing Christians to worship publicly. Persecution officially ends.",
+		"desc_te": "మరణానికి సమీపంలో, గాలెరియస్ క్రీస్టియన్‌లకు ప్రజా ఆరాధన అనుమతించిన ఆజ్ఞ ఇస్తాడు. నిర్భయం అధికారికంగా ముగిసిన విషయం."
+	},
+	{
+		"year": "312",
+		"name_en": "Constantine's Vision at Milvian Bridge",
+		"name_te": "మిల్వియన్ వారుపై కాన్‍స్టాంటిన్ దృష్టి",
+		"location": {
+			"lat": 41.93,
+			"lng": 12.47
+		},
+		"desc_en": "Constantine reports vision of cross before battle. He defeats rival and attributes victory to Christian God.",
+		"desc_te": "కాన్‍స్టాంటిన్ యుద్ధానికి ముందు십్పకరణ దృష్టి చెప్పాడు. ప్రతిద్వంద్విని ఓడించిన విషయం, క్రీస్టియన్ దేవతకు గుణంపరిచేసాడు."
+	},
+	{
+		"year": "312",
+		"name_en": "Constantine Becomes Sole Western Ruler",
+		"name_te": "కాన్‍స్టాంటిన్ పశ్చిమ ఏకాధీశ్వరుడు",
+		"location": {
+			"lat": 41.93,
+			"lng": 12.47
+		},
+		"desc_en": "Constantine consolidates power in the West and begins favoring Christianity openly.",
+		"desc_te": "కాన్‍స్టాంటిన్ పశ్చిమ అధికారం సమీకృతం చేసి, క్రీస్టియానిటీకి ఆమోదం చూపటం ప్రారంభిస్తాడు."
+	},
+	{
+		"year": "313",
+		"name_en": "Edict of Milan",
+		"name_te": "మిలాన్ ఆజ్ఞ",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Constantine and Licinius jointly issue edict legalizing Christianity throughout Roman Empire.",
+		"desc_te": "కాన్‍స్టాంటిన్, లిసిनியస్ కలిసి రోమన్ సామ్రాజ్యంలో క్రీస్టియానిటీకి చట్టబద్ధత ఇచ్చిన ఆజ్ఞ జారీ చేసారు."
+	},
+	{
+		"year": "313",
+		"name_en": "Church Growth and Building",
+		"name_te": "చర్చ వృద్ధి, నిర్మాణం",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "With legal status, churches construct basilicas across the empire. Christian communities expand rapidly.",
+		"desc_te": "చట్టబద్ధ స్థితిని పొందిన చర్చిలు సామ్రాజ్యంలో ఔపచారిక కట్టడాలు నిర్మిస్తుంది. క్రీస్టియన్ సమూహాలు వేగంగా విస్తరిస్తున్నాయి."
+	},
+	{
+		"year": "315",
+		"name_en": "Arian Heresy Spreads",
+		"name_te": "ఏరియన్ నిందితత్వం వ్యాపనం",
+		"location": {
+			"lat": 31.2,
+			"lng": 30.3
+		},
+		"desc_en": "Arius of Alexandria denies full divinity of Christ. His teachings spread rapidly, threatening church unity.",
+		"desc_te": "అలెక్జాండ్రియా అరియస్ క్రీస్తువు పూర్తి దేవత్వం నిరాకరించాడు. అతని బోధన వేగంగా వ్యాపించి, చర్చ ఏకతకు ప్రమాదం కలిగిస్తుంది."
+	},
+	{
+		"year": "320",
+		"name_en": "Constantine's Gradual Conversion",
+		"name_te": "కాన్‍స్టాంటిన్ క్రమశ: మతాంతరం",
+		"location": {
+			"lat": 41.93,
+			"lng": 12.47
+		},
+		"desc_en": "Constantine gradually becomes more explicitly Christian, eventually being baptized late in life.",
+		"desc_te": "కాన్‍స్టాంటిన్ క్రమంగా ఎక్కువ క్రీస్టియానిటీ చూపటం ప్రారంభిస్తాడు, చరిత్ర చేసి బాప్తిస్మం పొందుతాడు."
+	},
+	{
+		"year": "323",
+		"name_en": "Constantine Defeats Licinius",
+		"name_te": "కాన్‍స్టాంటిన్ లిసిनియస్‌ను ఓడించాడు",
+		"location": {
+			"lat": 41,
+			"lng": 28
+		},
+		"desc_en": "Constantine defeats Licinius and becomes sole ruler of empire. He establishes Constantinople as new capital.",
+		"desc_te": "కాన్‍స్టాంటిన్ లిసిनియస్‌ను ఓడిచెసి సామ్రాజ్యం ఏకాధీశ్వరుడు కాబడుతాడు. కాన్‍స్టాంటినోపల్‌ను కొత్త రాజధానిగా స్థాపించాడు."
+	},
+	{
+		"year": "325",
+		"name_en": "Council of Nicaea",
+		"name_te": "నికియా సమావేశం",
+		"location": {
+			"lat": 40.43,
+			"lng": 29.43
+		},
+		"desc_en": "Constantine convenes church council at Nicaea to settle Arian dispute. Nicene Creed affirms Christ's divinity.",
+		"desc_te": "కాన్‍స్టాంటిన్ నికియాలో చర్చ సమావేశం చేపట్టాడు, ఏరియన్ వివాదం పరిష్కరించటానికి. నికేన్ నిశ్చితార్థం క్రీస్తువు దేవత్వం సమర్థించిన విషయం."
+	},
+	{
+		"year": "325",
+		"name_en": "Nicene Creed Enforcement",
+		"name_te": "నికేన్ నిశ్చితార్థం ప్రవర్తన",
+		"location": {
+			"lat": 38,
+			"lng": 27
+		},
+		"desc_en": "Constantine enforces the Nicene Creed throughout the empire, suppressing Arian churches.",
+		"desc_te": "కాన్‍స్టాంటిన్ సామ్రాజ్యంలో నికేన్ నిశ్చితార్థం ప్రవర్తన చేసాడు, ఏరియన్ చర్చిలను నిరోధిస్తూ."
+	},
+	{
+		"year": "330",
+		"name_en": "Constantinople's Christian Construction",
+		"name_te": "కాన్‍స్టాంటినోపల్ క్రీస్టియన్ నిర్మాణం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Constantine builds Constantinople as Christian city with churches and Christian institutions from its founding.",
+		"desc_te": "కాన్‍స్టాంటిన్ కాన్‍స్టాంటినోపల్‌ను క్రీస్టియన్ నగరం నిర్మిస్తాడు, చర్చిలు, ఆధ్యాత్మిక సంస్థలతో."
+	},
+	{
+		"year": "337",
+		"name_en": "Constantine's Deathbed Baptism",
+		"name_te": "కాన్‍స్టాంటిన్ చనిపోటిలో బాప్తిస్మం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Constantine is baptized by Arian bishop shortly before death, creating controversy about his true faith.",
+		"desc_te": "కాన్‍స్టాంటిన్ చనిపోవటానికి ముందు ఏరియన్ బిషప్ చేతిలో బాప్తిస్మం పొందిన విషయం, విశ్వాస వివాదం సృష్టించిన విషయం."
+	},
+	{
+		"year": "340",
+		"name_en": "Council of Constantinople",
+		"name_te": "కాన్‍స్టాంటినోపల్ సమావేశం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Council reaffirms Nicene orthodoxy and addresses continuing Arian disputes within the church.",
+		"desc_te": "సమావేశం నికేన్ ఆర్థోడాక్స్‌ను పునర్నిర్ధారణ చేసిన విషయం, చర్చిలో కొనసాగుతున్న ఏరియన్ వివాదాలను సంబోధించిన విషయం."
+	},
+	{
+		"year": "345",
+		"name_en": "Ambrose's Leadership in Milan",
+		"name_te": "మిలానులో అంబ్రోజ్ నాయకత్వం",
+		"location": {
+			"lat": 45.464,
+			"lng": 9.19
+		},
+		"desc_en": "Ambrose becomes bishop of Milan and becomes influential in shaping Western Christianity and politics.",
+		"desc_te": "అంబ్రోజ్ మిలాన్ బిషప్‌గా నియమితుడు, పశ్చిమ క్రీస్టియానిటీ, రాజకీయాలను ఆకారం ఇస్తూ ప్రభావం చేస్తాడు."
+	},
+	{
+		"year": "350",
+		"name_en": "Arian Resurgence Under Constantius",
+		"name_te": "కాన్‍స్టాంటియస్ పాలనలో ఏరియన్ పున:ఆవిర్భావం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Constantius II favors Arian position, persecuting Nicene orthodox Christians.",
+		"desc_te": "చక్రవర్తి కాన్‍స్టాంటియస్ II ఏరియన్ విధానకు ఆనుకూల్యం చూపిన విషయం, నికేన్ ఆర్థోడాక్స్ క్రీస్టియన్‌లను వేధించిన విషయం."
+	},
+	{
+		"year": "355",
+		"name_en": "Athanasius Defends Nicene Orthodoxy",
+		"name_te": "నికేన్ ఆర్థోడాక్స్‌ను అతనాసియస్ రక్షించాడు",
+		"location": {
+			"lat": 31.2,
+			"lng": 30.3
+		},
+		"desc_en": "Athanasius of Alexandria consistently opposes Arianism and becomes symbol of Nicene faith.",
+		"desc_te": "అలెక్జాండ్రియా అతనాసియస్ ఏరియానిజానికి నిరంతరం వ్యతిరేకంగా నిలిచిన విషయం, నికేన్ విశ్వాస చిహ్నమైన విషయం."
+	},
+	{
+		"year": "361",
+		"name_en": "Emperor Julian the Apostate",
+		"name_te": "చక్రవర్తి జూలియన్ దేవ విశ్వాసత్యాగ",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Julian attempts to restore paganism and suppresses Christianity, attempting to reverse Constantine's policies.",
+		"desc_te": "జూలియన్ నిందితత్వం పున:స్థాపన చేయటానికి, క్రీస్టియానిటీను నిరోధించటానికి ప్రయత్నించాడు, కాన్‍స్టాంటిన్ విధానం సవరించటానికి."
+	},
+	{
+		"year": "363",
+		"name_en": "Christian Dominance Restored",
+		"name_te": "క్రీస్టియన్ ఆధిపత్యం పున:స్థాపన",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "After Julian's brief rule, Christian emperors restore Christianity's privileged position in empire.",
+		"desc_te": "జూలియన్ సంక్షిప్త పాలన తర్వాత, క్రీస్టియన్ చక్రవర్తులు చర్చ సామ్రాజ్యంలో ఆనుకూల స్థానం పున:స్థాపన చేసారు."
+	},
+	{
+		"year": "365",
+		"name_en": "Jerome and Biblical Translation",
+		"name_te": "జెరోమ్ బైబిల్ అనువాదం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Jerome begins translating Bible into Latin (Vulgate), creating standard version for Western Christianity.",
+		"desc_te": "జెరోమ్ బైబిల్‌ను లాటిన్‌కు అనువదించటం ప్రారంభిస్తాడు (వల్గేట్), పశ్చిమ క్రీస్టియానిటీకి ప్రమాణ సంస్కరణ సృష్టిస్తూ."
+	},
+	{
+		"year": "370",
+		"name_en": "Basil the Great's Leadership",
+		"name_te": "గొప్ప బసిల్ నాయకత్వం",
+		"location": {
+			"lat": 40.4,
+			"lng": 35.5
+		},
+		"desc_en": "Basil the Great defends Nicene orthodoxy and organizes monastic communities in the East.",
+		"desc_te": "గొప్ప బసిల్ నికేన్ ఆర్థోడాక్స్‌ను రక్షించిన విషయం, తూర్పంలో సన్న్యాస సమూహాలను సంస్థాపన చేసిన విషయం."
+	},
+	{
+		"year": "375",
+		"name_en": "Theodosius I's Christian Policies",
+		"name_te": "థియోడోసియస్ I క్రీస్టియన్ విధానాలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Emperor Theodosius makes Christianity official religion of empire and suppresses pagan religions.",
+		"desc_te": "చక్రవర్తి థియోడోసియస్ క్రీస్టియానిటీను సామ్రాజ్య ఆధికారిక ధర్మమని ఘోషించాడు, నిందితదేవత దారుద్యాలను నిరోధించాడు."
+	},
+	{
+		"year": "380",
+		"name_en": "Council of Constantinople",
+		"name_te": "కాన్‍స్టాంటినోపల్ సమావేశం",
+		"location": {
+			"lat": 41,
+			"lng": 28.9
+		},
+		"desc_en": "Council condemns Arianism definitively and affirms Nicene-Constantinopolitan Creed as orthodox doctrine.",
+		"desc_te": "సమావేశం ఏరియానిజానికి నిర్ణయాత్మక నిందన చేసిన విషయం, నికేన్-కాన్‍స్టాంటినోపల్ నిశ్చితార్థం ఆర్థోడాక్స్‌గా సమర్థించిన విషయం."
+	},
+	{
+		"year": "385",
+		"name_en": "Augustine's Religious Conversion",
+		"name_te": "ఆగస్టీన్ మత మతాంతరం",
+		"location": {
+			"lat": 36.8,
+			"lng": 3
+		},
+		"desc_en": "Augustine converts to Christianity and becomes bishop of Hippo, profoundly influencing Western theology.",
+		"desc_te": "ఆగస్టీన్ క్రీస్టియానిటీకి మతాంతరం పొంది, హిప్పో బిషప్‌గా పరిణమించిన విషయం, పశ్చిమ దేవతాత్త్వను లోతుగా ప్రభావితం చేసిన విషయం."
+	},
+	{
+		"year": "390",
+		"name_en": "Christianity Becomes Official Religion",
+		"name_te": "క్రీస్టియానిటీ ఆధికారిక ధర్మమవుతుంది",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Theodosius declares Christianity the state religion. Pagan temples are closed and pagan practices forbidden.",
+		"desc_te": "థియోడోసియస్ క్రీస్టియానిటీను రాష్ట్ర ధర్మమని ప్రకటించాడు. నిందితదేవత దేవాలయాలు మూసివేయబడ్డాయి, ఆచారాలు నిషేధించబడ్డాయి."
+	}
+]

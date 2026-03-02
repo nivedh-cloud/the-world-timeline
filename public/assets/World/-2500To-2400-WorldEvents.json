@@ -1,0 +1,717 @@
+[
+	{
+		"year": "-2500",
+		"name_en": "Egyptian First Dynasty Consolidation",
+		"name_te": "ఈజిప్టు మొదటి వంశ సమీకరణ",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Pharaoh Narmer consolidates Upper and Lower Egypt, establishing the First Dynasty and unified Egyptian state.",
+		"desc_te": "ఫారో నర్మర్ ఎగువ, దిగువ ఈజిప్టును సమీకరించుకోవడంతో, మొదటి వంశం, ఏకీకృత ఈజిప్టు రాష్ట్రాన్ని స్థాపన చేస్తారు."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Palette of Narmer (Egypt)",
+		"name_te": "నర్మర్ పాలెట్ (ఈజిప్టు)",
+		"location": {
+			"lat": 30.5,
+			"lng": 31
+		},
+		"desc_en": "The Palette of Narmer commemorates the unification of Egypt with hieroglyphic inscriptions and artistic depiction.",
+		"desc_te": "నర్మర్ పాలెట్ సంకేత లిపి, కళా చిత్రణ సహా ఈజిప్టు ఏకీకరణను సంස్మరిస్తుంది."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Egyptian Royal Tombs Construction (Egypt)",
+		"name_te": "ఈజిప్టు రాజ సమాధి నిర్మాణం (ఈజిప్టు)",
+		"location": {
+			"lat": 29.9,
+			"lng": 31.1
+		},
+		"desc_en": "Egyptian pharaohs construct elaborate royal tombs (mastabas) at Saqqara and Abydos for afterlife purposes.",
+		"desc_te": "ఈజిప్టు ఫారోలు సక్కారా, అబిడోసులో పరాలోక ఉద్దేశాల కోసం విస్తృత రాజ సమాధులను (మస్తాబాలు) నిర్మిస్తారు."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Early Hieroglyphic Administration (Egypt)",
+		"name_te": "ప్రారంభ సంకేత పరిపాలన (ఈజిప్టు)",
+		"location": {
+			"lat": 30.2,
+			"lng": 31.3
+		},
+		"desc_en": "Egyptian hieroglyphic writing evolves for administrative records, inventories, and religious purposes.",
+		"desc_te": "ఈజిప్టు సంకేత లిపి పరిపాలన రికార్డులు, జాబితాలు, ధార్మిక ఉద్దేశాల కోసం వికసించుకుంటుంది."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Dynasty Succession Establishment (Egypt)",
+		"name_te": "వంశ వారసత్వ స్థాపన (ఈజిప్టు)",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Pharaonic succession becomes formalized with divine right doctrines, establishing royal lineage principles.",
+		"desc_te": "ఫారోనిక్ వారసత్వం ఐశ్వర్య అధికార సిద్ధాంతాల సాయంతో అధికారీకృతమయ్యిన, రాజ వంశ సూత్రాలు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Akkadian Empire Emergence (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సామ్రాజ్యం ఆవిర్భావం (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3128,
+			"lng": 44.3615
+		},
+		"desc_en": "Akkadians rise to power under Sargon of Akkad, establishing the world's first multi-ethnic empire.",
+		"desc_te": "అక్కాడ సర్గన్ నేతృత్వంలో అక్కాడియన్లు ప్రతిష్ఠ చెందుతూ, ప్రపంచం మొదటి బహు-జాతీయ సామ్రాజ్యం స్థాపన చేస్తారు."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Sargon of Akkad's Conquests (Mesopotamia)",
+		"name_te": "అక్కాడ సర్గన్ జయాలు (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.5,
+			"lng": 44.5
+		},
+		"desc_en": "Sargon conquers Sumerian city-states, establishing Akkadian dominance in Mesopotamia.",
+		"desc_te": "సర్గన్ సుమేరియన్ నగర-రాష్ట్రాలను జయించుకోవడంతో, మెసొపొటేమియాలో అక్కాడియన్ ఆధిపత్యం స్థాపన చేస్తారు."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Akkadian Language Administration (Mesopotamia)",
+		"name_te": "అక్కాడియన్ భాష పరిపాలన (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.3
+		},
+		"desc_en": "Akkadian becomes official administrative language across conquered territories.",
+		"desc_te": "అక్కాడియన్ జయించిన భూభాగాల అంతటా అధికారిక పరిపాలన భాషగా మారుతుంది."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Akkadian Military Organization (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సైనిక సంస్థ (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.4,
+			"lng": 44.4
+		},
+		"desc_en": "Professional Akkadian military with standing armies, bronze weapons, and strategic commands.",
+		"desc_te": "నిలబడిన సైన్యాలు, కాంస్య ఆయుధాలు, వ్యూహాత్మక ఆదేశాలతో వృత్తిపరమైన అక్కాడియన్ సైనిక సంస్థ."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Akkadian Empire Peak (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సామ్రాజ్యం శిఖరం (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.3
+		},
+		"desc_en": "Akkadian Empire reaches its zenith under Naram-Sin's rule, controlling vast territories.",
+		"desc_te": "నారమ్-సిన్ పాలన కింద అక్కాడియన్ సామ్రాజ్యం విస్తృత భూభాగాలను నియంత్రించిన శిఖరానికి చేరుతుంది."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Indus Valley Early Civilization (India)",
+		"name_te": "సిందువు లోయ ప్రారంభ నాగరికత (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Early Indus Valley civilization develops with planned settlements and agricultural communities.",
+		"desc_te": "సిందువు లోయ ప్రారంభ నాగరికత బాగా ప్లాన్ చేసిన నిపటనాలు, వ్యవసాయ సమాజాలతో అభివృద్ధి చెందుతుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Harappa Settlement Development (Indus Valley)",
+		"name_te": "హరప్ప నిపటన అభివృద్ధి (సిందువు లోయ)",
+		"location": {
+			"lat": 30.627,
+			"lng": 72.855
+		},
+		"desc_en": "The settlement of Harappa expands with brick-constructed houses, streets, and drainage systems.",
+		"desc_te": "హరప్ప నిపటన ఇటుక-నిర్మిత గృహాలు, రహదారులు, పారుదల వ్యవస్థలతో విస్తరిస్తుంది."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Indus Valley Agriculture Mastery (India)",
+		"name_te": "సిందువు లోయ వ్యవసాయ దక్ష (భారతదేశం)",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Advanced agricultural techniques with irrigation systems supporting large urban populations.",
+		"desc_te": "నీటిపారుదల వ్యవస్థ సహా అధునాతన వ్యవసాయ సాంకేతికతలు పెద్ద నగర జనాభాకు సమర్థనం చేస్తుంది."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Mohenjo-daro Urban Center (Indus Valley)",
+		"name_te": "మొహంజోదారో నగర కేంద్రం (సిందువు లోయ)",
+		"location": {
+			"lat": 27.3204,
+			"lng": 68.1386
+		},
+		"desc_en": "Mohenjo-daro becomes a major urban center with standardized brick sizes and sophisticated urban infrastructure.",
+		"desc_te": "మొహంజోదారో ప్రమాణీకృత ఇటుక పరిమాణాలు, సూక్ష్మమైన నగర సంఠానంతో ప్రధాన నగర కేంద్రం అవుతుంది."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Indus Valley Seals Production (India)",
+		"name_te": "సిందువు లోయ సీళ్లు ఉత్పత్తి (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley craftspeople produce distinctive seals with undeciphered script for commerce and administration.",
+		"desc_te": "సిందువు లోయ కారిగరులు వాణిజ్యం, పరిపాలన కోసం చిక్కుకోని లిపి సీళ్లను ఉత్పత్తి చేస్తారు."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Xia Dynasty Foundation (China)",
+		"name_te": "జియా వంశ స్థాపన (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia Dynasty traditionally begins with Yu the Great's rule, establishing early Chinese civilization.",
+		"desc_te": "జియా వంశ గ్రేట్ యు పాలన సహా ప్రారంభిక చైనీస్ నాగరికతను స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Yu the Great Founding Era (Xia China)",
+		"name_te": "గ్రేట్ యు స్థాపన యుగం (జియా చైనా)",
+		"location": {
+			"lat": 30.5,
+			"lng": 114
+		},
+		"desc_en": "Yu the Great's reign marks the beginning of organized dynastical rule and flood control innovations.",
+		"desc_te": "గ్రేట్ యు పాలన సంఘటిత రాజ్య పాలన, వరద నియంత్రణ నవీకరణల ప్రారంభాన్ని సూచిస్తుంది."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Xia Bronze Metallurgy Development (China)",
+		"name_te": "జియా కాంస్య లోహ శిల్ప అభివృద్ధి (చైనా)",
+		"location": {
+			"lat": 34.5,
+			"lng": 108
+		},
+		"desc_en": "Early bronze working techniques develop in Xia China, enabling advanced tool and weapon production.",
+		"desc_te": "జియా చైనాలో ప్రారంభ కాంస్య కాజిన సాంకేతికతలు అభివృద్ధి చెందుతూ, అధునాతన సాధనాలు, ఆయుధ ఉత్పత్తిని సక్షమం చేస్తాయి."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Xia Shamanic Traditions (China)",
+		"name_te": "జియా శామానిక సంప్రదాయాలు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Shamanic religious practices become central to Xia culture, connecting spiritual and practical realms.",
+		"desc_te": "శామానిక ధార్మిక పద్ధతులు జియా సంస్కృతి కేంద్రం బనే, ఆధ్యాత్మిక, వ్యవహారిక రంగాలను కలుపుతుంది."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Xia Dynastic Traditions Establishment (China)",
+		"name_te": "జియా వంశ సంప్రదాయ స్థాపన (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia Dynasty establishes foundational traditions including ancestor veneration and dynastic succession.",
+		"desc_te": "జియా వంశ పూర్వీకుల సన్మానం, వంశ వారసత్వం సహా ఆధారక సంప్రదాయాలు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Early Minoan Civilization (Crete)",
+		"name_te": "ప్రారంభ మినోయన్ నాగరికత (క్రీట్)",
+		"location": {
+			"lat": 35.2,
+			"lng": 24.9
+		},
+		"desc_en": "Early Minoan civilization develops on Crete with agricultural settlements and sea trade.",
+		"desc_te": "క్రీట్‌లో ప్రారంభ మినోయన్ నాగరికత వ్యవసాయ నిపటనాలు, సముద్ర వాణిజ్యంతో అభివృద్ధి చెందుతుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Minoan House Building Techniques (Crete)",
+		"name_te": "మినోయన్ గృహ నిర్మాణ సాంకేతికత (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Minoan craftspeople develop sophisticated house building with multi-room structures and courtyards.",
+		"desc_te": "మినోయన్ కారిగరులు బహుళ-గదుల నిర్మాణాలు, ఆంగణాలతో సూక్ష్మమైన గృహ నిర్మాణ సాంకేతికత అభివృద్ధి చేస్తారు."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Minoan Pottery Tradition (Crete)",
+		"name_te": "మినోయన్ కుండల సంప్రదాయ (క్రీట్)",
+		"location": {
+			"lat": 35.4,
+			"lng": 25.1
+		},
+		"desc_en": "Minoan potters create distinctive early pottery with natural patterns and functional designs.",
+		"desc_te": "మినోయన్ కుండారు ప్రకృతి నమూనాలు, క్రియాత్మక నమూనాలతో విశిష్ట ప్రారంభ కుండలను సృష్టిస్తారు."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Minoan Shrine Establishment (Crete)",
+		"name_te": "మినోయన్ పూజారి స్థాపన (క్రీట్)",
+		"location": {
+			"lat": 35.4,
+			"lng": 25.2
+		},
+		"desc_en": "Minoan shrine rooms become centers of religious worship and communal gathering.",
+		"desc_te": "మినోయన్ పూజారి గదులు ధార్మిక పూజ, సామూహిక సమావేశం కేంద్రాలుగా మారుతాయి."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Minoan Trading Networks Expand (Crete)",
+		"name_te": "మినోయన్ వాణిజ్య నెట్‌వర్క్‌లు విస్తరణ (క్రీట్)",
+		"location": {
+			"lat": 35.3,
+			"lng": 25
+		},
+		"desc_en": "Minoan trading connections extend to Egypt and Levantine regions for obsidian and other valuables.",
+		"desc_te": "మినోయన్ వాణిజ్య సంబంధాలు ఐసిడియం, ఇతర విలువైన వస్తువుల కోసం ఈజిప్టు, లెవాంటిన్ ప్రాంతాలకు విస్తరిస్తాయి."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Egyptian Old Kingdom Begins (Egypt)",
+		"name_te": "ఈజిప్టు పురాతన రాజ్యం ప్రారంభం (ఈజిప్టు)",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Egyptian Old Kingdom begins with strong centralized pharaonic authority and pyramid construction era.",
+		"desc_te": "ఈజిప్టు పురాతన రాజ్యం బలమైన కేంద్రీకృత ఫారోనిక్ అధికారం, పిరమిడ్ నిర్మాణ యుగంతో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Third Dynasty Egypt (Egypt)",
+		"name_te": "మూడవ వంశ ఈజిప్టు (ఈజిప్టు)",
+		"location": {
+			"lat": 29.9,
+			"lng": 31.1
+		},
+		"desc_en": "Third Dynasty pharaohs rule Egypt with emphasis on monument construction and divine kingship.",
+		"desc_te": "మూడవ వంశ ఫారోలు స్మారక నిర్మాణం, దేవ రాజస్వం నొక్కిసారిగా ఈజిప్టును పాలిస్తారు."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Djoser and Step Pyramid (Egypt)",
+		"name_te": "జోసర్ మరియు మెట్ల పిరమిడ్ (ఈజిప్టు)",
+		"location": {
+			"lat": 29.8733,
+			"lng": 31.2074
+		},
+		"desc_en": "Pharaoh Djoser commissions the Step Pyramid at Saqqara, a revolutionary architectural achievement.",
+		"desc_te": "ఫారో జోసర్ సక్కారాలో మెట్ల పిరమిడ్‌ను విప్లవాత్మక నిర్మాణ సాధన కోసం ఆదేశిస్తారు."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Egyptian Monument Engineering (Egypt)",
+		"name_te": "ఈజిప్టు స్మారక ఇంజనీరింగ్ (ఈజిప్టు)",
+		"location": {
+			"lat": 29.9,
+			"lng": 31.1
+		},
+		"desc_en": "Egyptian architects and engineers develop sophisticated techniques for massive stone monument construction.",
+		"desc_te": "ఈజిప్టు వాస్తువ్యవస్థానికులు, ఇంజనీర్‌లు భారీ రాతి స్మారక నిర్మాణం కోసం సూక్ష్మమైన సాంకేతికతలను అభివృద్ధి చేస్తారు."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Egyptian Administrative Organization (Egypt)",
+		"name_te": "ఈజిప్టు పరిపాలన సంస్థ (ఈజిప్టు)",
+		"location": {
+			"lat": 30,
+			"lng": 31.2
+		},
+		"desc_en": "Centralized bureaucracy develops with officials managing taxation, labor, and resource distribution.",
+		"desc_te": "పన్ను వసూళ్, శ్రమ, సంపద పంపిణీ నిర్వహించే అధికారులతో కేంద్రీకృత బ్యూరోక్రసీ అభివృద్ధి చెందుతుంది."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Nubian Early Settlements (Africa)",
+		"name_te": "నుబియన్ ప్రారంభ నిపటనాలు (ఆఫ్రికా)",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Early Nubian settlements develop along the Nile with distinct pottery and cultural practices.",
+		"desc_te": "నీలు నదికి సహా ప్రారంభ నుబియన్ నిపటనాలు విశిష్ట కుండల, సాంస్కృతిక అభ్యాసాలతో అభివృద్ధి చెందుతాయి."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Nubian Pastoral Economy (Africa)",
+		"name_te": "నుబియన్ పశుపాలన ఆర్థిక (ఆఫ్రికా)",
+		"location": {
+			"lat": 18.5,
+			"lng": 33
+		},
+		"desc_en": "Nubian populations develop pastoral herding of cattle, sheep, and establishing trade with Egypt.",
+		"desc_te": "నుబియన్ జనాభా పశువులు, గొర్రెల పశుపాలన, ఈజిప్టు తో వాణిజ్యం ఏర్పాటు చేస్తారు."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Nubian Gold Mining (Africa)",
+		"name_te": "నుబియన్ బంగారం గmining (ఆఫ్రికా)",
+		"location": {
+			"lat": 19,
+			"lng": 32.5
+		},
+		"desc_en": "Nubian regions develop gold mining activities, creating wealth and attracting Egyptian interest.",
+		"desc_te": "నుబియన్ ప్రాంతాలు బంగారం గనన కార్యకలాపాలను అభివృద్ధి చేసుకోవడంతో, సంపద సృష్టి, ఈజిప్టు ఆసక్తి ఆకర్షిస్తుంది."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Nubian-Egyptian Trade Routes (Africa)",
+		"name_te": "నుబియన్-ఈజిప్టు వాణిజ్య మార్గాలు (ఆఫ్రికా)",
+		"location": {
+			"lat": 19,
+			"lng": 33
+		},
+		"desc_en": "Trade routes established between Nubia and Egypt for gold, ivory, ebony, and incense exchange.",
+		"desc_te": "బంగారం, ఆవిష్కృతం, కాక, సుగంధ వ్యవసాయం మార్పిడి కోసం నుబియా, ఈజిప్టు మధ్య వాణిజ్య మార్గాలు ఏర్పాటు చేస్తారు."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Nubian Cultural Development (Africa)",
+		"name_te": "నుబియన్ సాంస్కృతిక అభివృద్ధి (ఆఫ్రికా)",
+		"location": {
+			"lat": 18,
+			"lng": 33
+		},
+		"desc_en": "Nubian cultures flourish with distinctive artistic styles, pottery, and religious practices.",
+		"desc_te": "నుబియన్ సంస్కృతులు విశిష్ట కళా శైలిలు, కుండలు, ధార్మిక అభ్యాసాలతో విస్ఫూర్తి చెందుతాయి."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Early Greek Bronze Age (Greece)",
+		"name_te": "ప్రారంభ గ్రీకు కాంస్య యుగ (గ్రీస్)",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Bronze Age begins in Greece with introduction of bronze tools and emergence of hierarchical settlements.",
+		"desc_te": "కాంస్య సాధనాలు ప్రవేశం, స్థితిపదం నిపటనాల ఆవిర్భావంతో కాంస్య యుగం గ్రీసులో ప్రారంభమవుతుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Greek Early Helladic I Period (Greece)",
+		"name_te": "గ్రీకు ప్రారంభ హెలాడిక్ I కాలం (గ్రీస్)",
+		"location": {
+			"lat": 37.5,
+			"lng": 23.5
+		},
+		"desc_en": "Early Helladic I period establishes Greek settlement patterns with agricultural communities.",
+		"desc_te": "ప్రారంభ హెలాడిక్ I కాలం వ్యవసాయ సమాజాలతో గ్రీకు నిపటన నమూనాలు స్థాపన చేస్తుంది."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Greek Pottery Traditions (Greece)",
+		"name_te": "గ్రీకు కుండల సంప్రదాయాలు (గ్రీస్)",
+		"location": {
+			"lat": 37,
+			"lng": 23
+		},
+		"desc_en": "Greek potters develop distinctive Early Helladic pottery with characteristic patterns and forms.",
+		"desc_te": "గ్రీకు కుండారు లక్ష్ణ నమూనాలు, రూపాలతో విశిష్ట ప్రారంభ హెలాడిక్ కుండలను అభివృద్ధి చేస్తారు."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Greek Settlement Expansion (Greece)",
+		"name_te": "గ్రీకు నిపటన విస్తరణ (గ్రీస్)",
+		"location": {
+			"lat": 38,
+			"lng": 23.5
+		},
+		"desc_en": "Greek settlements expand across mainland and islands with increased agricultural productivity.",
+		"desc_te": "గ్రీకు నిపటనాలు ప్రధాన భూమి, దీవులలో పెరిగిన వ్యవసాయ ఉత్పాదకతతో విస్తరిస్తాయి."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Greek Aegean Trade Emergence (Greece)",
+		"name_te": "గ్రీకు ఆండోయన్ వాణిజ్య ఆవిర్భావం (గ్రీస్)",
+		"location": {
+			"lat": 38.5,
+			"lng": 24
+		},
+		"desc_en": "Aegean trade networks begin connecting Greek islands, mainland, and neighboring regions.",
+		"desc_te": "గ్రీకు దీవులు, ప్రధాన భూమి, పక్క ప్రాంతాలను కలిపిన ఆండోయన్ వాణిజ్య నెట్‌వర్క్‌లు ప్రారంభమవుతాయి."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Early European Bronze Working (Europe)",
+		"name_te": "ప్రారంభ యూరోపియన్ కాంస్య కాజిన (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "Bronze working techniques arrive in Europe from Near East, transforming tool production.",
+		"desc_te": "సమీప తూర్పు నుండి ఆગమించిన కాంస్య కాజిన సాంకేతికతలు సాధన ఉత్పత్తిని రూపాంతరం చేస్తాయి."
+	},
+	{
+		"year": "-2480",
+		"name_en": "European Communal Settlements (Europe)",
+		"name_te": "యూరోపియన్ సామూహిక నిపటనాలు (యూరోప్)",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "European communal settlements develop with shared resources, defense, and agricultural practices.",
+		"desc_te": "యూరోపియన్ సామూహిక నిపటనాలు సామూహిక సంపద, రక్షణ, వ్యవసాయ అభ్యాసాలతో అభివృద్ధి చెందుతాయి."
+	},
+	{
+		"year": "-2460",
+		"name_en": "European Horse Domestication (Europe)",
+		"name_te": "యూరోపియన్ గుర్రం పెంపక (యూరోప్)",
+		"location": {
+			"lat": 48.5,
+			"lng": 16
+		},
+		"desc_en": "Horse domestication spreads in Europe, revolutionizing transportation and warfare capabilities.",
+		"desc_te": "గుర్రం పెంపక యూరోప్‌లో వ్యాపిస్తూ, రవాణా, సైన్య సామర్థ్యాలను విప్లవం చేస్తుంది."
+	},
+	{
+		"year": "-2440",
+		"name_en": "European Pastoral Expansion (Europe)",
+		"name_te": "యూరోపియన్ పశుపాలన విస్తరణ (యూరోప్)",
+		"location": {
+			"lat": 50,
+			"lng": 12
+		},
+		"desc_en": "Pastoral populations expand herding cattle, sheep, and pigs across European regions.",
+		"desc_te": "పశుపాలన జనాభా యూరోపియన్ ప్రాంతాల్లో పశువులు, గొర్రెలు, పందులను పంపిణీ చేస్తారు."
+	},
+	{
+		"year": "-2420",
+		"name_en": "European Regional Cultures Emerge (Europe)",
+		"name_te": "యూరోపియన్ ప్రాంతీయ సంస్కృతులు ఆవిర్భవం (యూరోప్)",
+		"location": {
+			"lat": 48,
+			"lng": 15
+		},
+		"desc_en": "European regional cultures develop with distinct pottery, metalwork, and settlement patterns.",
+		"desc_te": "యూరోపియన్ ప్రాంతీయ సంస్కృతులు విశిష్ట కుండల, లోహకర్మ, నిపటన నమూనాలతో అభివృద్ధి చెందుతాయి."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Aboriginal Australian Continuation (Australia)",
+		"name_te": "ఆదివాసీ ఆస్ట్రేలియన్ కొనసాగుదల (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Australian cultures maintain sophisticated traditions of hunting, gathering, and artistic expression.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియన్ సంస్కృతులు వేటకాడటం, సంచితం, కళా వ్యక్తీకరణ సూక్ష్మమైన సంప్రదాయాలు కొనసాగిస్తాయి."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Aboriginal Rock Art Flourishing (Australia)",
+		"name_te": "ఆదివాసీ రాతి కళ ఫలవంతం (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -12.8,
+			"lng": 132.5
+		},
+		"desc_en": "Aboriginal rock art traditions flourish with hand stencils, animal depictions, and hunting records.",
+		"desc_te": "ఆదివాసీ రాతి కళ సంప్రదాయాలు చేతి స్టెన్సిల్‌లు, జంతువు చిత్రణలు, వేటకాడటం రికార్డుతో ఫలవంతం చెందుతాయి."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Aboriginal Boomerang Technology (Australia)",
+		"name_te": "ఆదివాసీ బూమెరాంగ్ సాంకేతికత (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -20,
+			"lng": 134
+		},
+		"desc_en": "Aboriginal Australians develop boomerang technology for hunting with precision and efficiency.",
+		"desc_te": "ఆదివాసీ ఆస్ట్రేలియన్లు ఖచ్చితత్వం, సామర్థ్యంతో వేటకాడటం కోసం బూమెరాంగ్ సాంకేతికతను అభివృద్ధి చేస్తారు."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Aboriginal Fire Practices Advanced (Australia)",
+		"name_te": "ఆదివాసీ అగ్ని పద్ధతులు అధునాత (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal controlled burning practices advance for land management and vegetation renewal.",
+		"desc_te": "ఆదివాసీ నియంత్రిత బర్నింగ్ పద్ధతులు భూమి నిర్వహణ, స植నం పునరుద్ధరణ కోసం అధునాతమవుతాయి."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Aboriginal Dreamtime Traditions (Australia)",
+		"name_te": "ఆదివాసీ డ్రీమ్‌టైమ్ సంప్రదాయాలు (ఆస్ట్రేలియా)",
+		"location": {
+			"lat": -25,
+			"lng": 133
+		},
+		"desc_en": "Aboriginal Dreamtime spiritual traditions consolidate linking landscape, mythology, and cultural identity.",
+		"desc_te": "ఆదివాసీ డ్రీమ్‌టైమ్ ఆధ్యాత్మిక సంప్రదాయాలు ల్యాండ్‌స్కేప్, పురాణం, సాంస్కృతిక గుర్తింపును కలుపుతూ సమీకరణ చేస్తాయి."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Akkad Bronze Weapons Development (Mesopotamia)",
+		"name_te": "అక్కాడ కాంస్య ఆయుధ అభివృద్ధి (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.3
+		},
+		"desc_en": "Akkadian bronze weapon production advances with improved metallurgy and forging techniques.",
+		"desc_te": "అక్కాడియన్ కాంస్య ఆయుధ ఉత్పత్తి అధికారిక లోహ శిల్ప, ఫోర్జింగ్ సాంకేతికతలతో అభివృద్ధి చెందుతుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Akkadian Cylinder Seals (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సిలిండర్ సీళ్లు (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.4,
+			"lng": 44.4
+		},
+		"desc_en": "Akkadian artisans produce intricately carved cylinder seals for administrative and commercial use.",
+		"desc_te": "అక్కాడియన్ కారిగరులు పరిపాలన, వాణిజ్య వినియోగం కోసం చమత్కారంగా చెక్కిన సిలిండర్ సీళ్లను ఉత్పత్తి చేస్తారు."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Akkadian Literature Development (Mesopotamia)",
+		"name_te": "అక్కాడియన్ సాహిత్య అభివృద్ధి (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.3
+		},
+		"desc_en": "Akkadian literature emerges with cuneiform inscriptions recording myths, laws, and historical events.",
+		"desc_te": "అక్కాడియన్ సాహిత్యం పురాణాలు, చట్టాలు, చారిత్రక సంఘటనలను రికార్డు చేసిన కీలక లిపితో ఆవిర్భవిస్తుంది."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Akkadian Administrative Records (Mesopotamia)",
+		"name_te": "అక్కాడియన్ పరిపాలన రికార్డులు (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.3
+		},
+		"desc_en": "Akkadian empire develops systematic administrative records for tax collection and resource management.",
+		"desc_te": "అక్కాడియన్ సామ్రాజ్యం పన్ను వసూళ్, సంపద నిర్వహణ కోసం చట్టబద్ధ పరిపాలన రికార్డులను అభివృద్ధి చేస్తుంది."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Akkadian Religious Synthesis (Mesopotamia)",
+		"name_te": "అక్కాడియన్ ధార్మిక సంశ్లేషణ (మెసొపొటేమియా)",
+		"location": {
+			"lat": 33.3,
+			"lng": 44.3
+		},
+		"desc_en": "Akkadian and Sumerian religious traditions merge, creating new syncretic spiritual practices.",
+		"desc_te": "అక్కాడియన్, సుమేరియన్ ధార్మిక సంప్రదాయాలు కలిసిన, నూతన సమన్వయ ఆధ్యాత్మిక అభ్యాసాలను సృష్టిస్తుంది."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Indus Valley Trade Expansion (India)",
+		"name_te": "సిందువు లోయ వాణిజ్య విస్తరణ (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley trade networks expand to connect with Mesopotamia, Persian Gulf, and Central Asia.",
+		"desc_te": "సిందువు లోయ వాణిజ్య నెట్‌వర్క్‌లు మెసొపొటేమియా, పర్షియన్ గల్ఫ్, మధ్య ఆసియాకు కలిపిన విస్తరణ చేస్తాయి."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Indus Valley Weights and Measures (India)",
+		"name_te": "సిందువు లోయ బరువులు, చర్యలు (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley civilization develops standardized weights and measures for consistent trade practices.",
+		"desc_te": "సిందువు లోయ నాగరికత స్థిరమైన వాణిజ్య అభ్యాసాల కోసం ప్రమాణీకృత బరువులు, చర్యలను అభివృద్ధి చేస్తుంది."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Indus Valley Water Management (India)",
+		"name_te": "సిందువు లోయ నీటి నిర్వహణ (భారతదేశం)",
+		"location": {
+			"lat": 28.5,
+			"lng": 72
+		},
+		"desc_en": "Sophisticated water management systems including wells, reservoirs, and drainage in urban centers.",
+		"desc_te": "నగర కేంద్రాలలో బావులు, రిజర్వాయర్‌లు, పారుదల చేసిన సూక్ష్మమైన నీటి నిర్వహణ వ్యవస్థలు."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Indus Valley Textile Production (India)",
+		"name_te": "సిందువు లోయ వస్త్ర ఉత్పత్తి (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Textile production becomes major industry with cotton spinning and weaving for trade.",
+		"desc_te": "వస్త్ర ఉత్పత్తి పత్తి కపిల్లితో, వణిక వున్న సేపియ కోసం ఆధిపత్యం పరిశ్రమ అవుతుంది."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Indus Valley Script Development (India)",
+		"name_te": "సిందువు లోయ లిపి అభివృద్ధి (భారతదేశం)",
+		"location": {
+			"lat": 28,
+			"lng": 72.5
+		},
+		"desc_en": "Indus Valley script becomes more complex with varied symbols for commercial and administrative communication.",
+		"desc_te": "సిందువు లోయ లిపి వాణిజ్య, పరిపాలన సంప్రేషణ కోసం వైవిధ్యమైన చిహ్నాలతో మరింత సంక్లిష్టమవుతుంది."
+	},
+	{
+		"year": "-2500",
+		"name_en": "Xia Yellow River Civilization (China)",
+		"name_te": "జియా పసుపు నది నాగరికత (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia civilization centered on Yellow River Valley with advanced agriculture and settlement organization.",
+		"desc_te": "జియా నాగరికత పసుపు నది లోయ కేంద్రం, అధునాతన వ్యవసాయం, నిపటన సంస్థతో కూడుకుంటుంది."
+	},
+	{
+		"year": "-2480",
+		"name_en": "Xia Ancestor Veneration Practices (China)",
+		"name_te": "జియా పూర్వీకుల సన్మానం అభ్యాసాలు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Ancestor veneration becomes central religious practice in Xia culture, influencing family and state.",
+		"desc_te": "పూర్వీకుల సన్మానం జియా సంస్కృతిలో కేంద్ర ధార్మిక అభ్యాస, కుటుంబం, రాష్ట్రాన్ని ప్రభావితం చేస్తుంది."
+	},
+	{
+		"year": "-2460",
+		"name_en": "Xia Oracle Bone Tradition (China)",
+		"name_te": "జియా ఓరాకిల్ ఎముక సంప్రదాయ (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Oracle bone divination practices emerge in Xia period for spiritual guidance and decision-making.",
+		"desc_te": "ఓరాకిల్ ఎముక విభజన పద్ధతులు జియా కాలంలో ఆధ్యాత్మిక నిర్దేశం, నిర్ణయం చేసుకోవడం కోసం ఆవిర్భవిస్తాయి."
+	},
+	{
+		"year": "-2440",
+		"name_en": "Xia Agricultural Settlement Patterns (China)",
+		"name_te": "జియా వ్యవసాయ నిపటన నమూనాలు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Xia settlements develop specialized agricultural villages with distinct social hierarchies.",
+		"desc_te": "జియా నిపటనాలు ప్రత్యేక వ్యవసాయ గ్రామాలు, విభిన్న సామాజిక సోపానాలతో అభివృద్ధి చెందుతాయి."
+	},
+	{
+		"year": "-2420",
+		"name_en": "Xia Bronze Ritual Vessels (China)",
+		"name_te": "జియా కాంస్య ఆచార పాత్రలు (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 107
+		},
+		"desc_en": "Early bronze ritual vessels appear in Xia period for ceremonial and religious purposes.",
+		"desc_te": "ప్రారంభ కాంస్య ఆచార పాత్రలు జియా కాలంలో అనుష్ఠానిక, ధార్మిక ఉద్దేశాల కోసం ఆవిర్భవిస్తాయి."
+	}
+]

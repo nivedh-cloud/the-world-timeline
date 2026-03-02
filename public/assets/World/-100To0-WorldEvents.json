@@ -1,0 +1,849 @@
+[
+	{
+		"year": "-200",
+		"name_en": "Han Dynasty (China)",
+		"name_te": "హాన్ రాజవంశం (చైనా)",
+		"location": {
+			"lat": 34,
+			"lng": 112
+		},
+		"desc_en": "Imperial expansion",
+		"desc_te": "చైనాలో విస్తరణ"
+	},
+	{
+		"year": "-753",
+		"name_en": "Roman Civilization",
+		"name_te": "రోమన్ నాగరికత",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Rise and fall of Rome",
+		"desc_te": "రోమన్ నాగరికత యొక్క ఎదుగుదల మరియు పతనం",
+		"image": "image url"
+	},
+	{
+		"year": "-323",
+		"name_en": "Hellenistic Period",
+		"name_te": "హెలెనిస్టిక్ కాలం",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Spread of Greek culture after Alexander",
+		"desc_te": "అలెగ్జాండర్ తరువాత గ్రీకు సంస్కృతి వ్యాప్తి"
+	},
+	{
+		"year": "-63",
+		"name_en": "Roman Rule over Judea",
+		"name_te": "యూదయపై రోమన్ పరిపాలన",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "Pompey the Great conquers Jerusalem, Judea becomes a client kingdom of Rome.",
+		"desc_te": "పొంపే గ్రేట్ యెరూషలేమును ఆక్రమించి, యూదయ రోమన్ సామ్రాజ్యానికి అనుబంధ రాజ్యం అయింది."
+	},
+	{
+		"year": "-37",
+		"name_en": "Herod the Great, King of Judea",
+		"name_te": "యూదయ రాజు హెరోదు",
+		"location": {
+			"lat": 31.7767,
+			"lng": 35.2345
+		},
+		"desc_en": "Herod the Great rules Judea as a Roman client king.",
+		"desc_te": "హెరోదు యూదయను రోమన్ అనుబంధ రాజుగా పాలించాడు."
+	},
+	{
+		"year": "-55",
+		"name_en": "Crassus' Parthian Campaign",
+		"name_te": "క్రాసస్ పార్థియన్ యుద్ధం",
+		"location": {
+			"lat": 36.3,
+			"lng": 59.6
+		},
+		"desc_en": "Roman general Crassus invades Parthia and is defeated at Carrhae.",
+		"desc_te": "రోమన్ సేనాధిపతి క్రాసస్ పార్థియాను ఆక్రమించేందుకు ప్రయత్నించి కార్రహే వద్ద ఓడిపోయాడు."
+	},
+	{
+		"year": "-49",
+		"name_en": "Julius Caesar's Civil War",
+		"name_te": "జూలియస్ సీజర్ యొక్క గృహయుద్ధం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Julius Caesar defeats Pompey and becomes dictator of Rome.",
+		"desc_te": "జూలియస్ సీజర్ పొంపేను ఓడించి రోమ్ నియంతగా అవతరించాడు."
+	},
+	{
+		"year": "-27",
+		"name_en": "Augustus Becomes First Roman Emperor",
+		"name_te": "ఆగస్టస్ మొదటి రోమన్ చక్రవర్తిగా",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Octavian (Augustus) becomes the first Roman Emperor, marking the start of the Roman Empire.",
+		"desc_te": "ఆక్టేవియన్ (ఆగస్టస్) మొదటి రోమన్ చక్రవర్తిగా అవతరించి రోమన్ సామ్రాజ్యాన్ని ప్రారంభించాడు."
+	},
+	{
+		"year": "-30",
+		"name_en": "Death of Cleopatra VII",
+		"name_te": "క్లియోపాట్రా VII మరణం",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Cleopatra VII, last active ruler of the Ptolemaic Kingdom of Egypt, dies.",
+		"desc_te": "ఈజిప్టు పట్టాలమిక్ రాజవంశపు చివరి పాలకురాలు క్లియోపాట్రా VII మరణించింది."
+	},
+	{
+		"year": "-4",
+		"name_en": "Birth of Jesus of Nazareth",
+		"name_te": "నజరేతు యేసు జననం",
+		"location": {
+			"lat": 31.7054,
+			"lng": 35.2024
+		},
+		"desc_en": "Jesus of Nazareth is born, an event that will shape world history.",
+		"desc_te": "నజరేతు యేసు జననం, ఇది ప్రపంచ చరిత్రను ప్రభావితం చేసిన సంఘటన."
+	},
+	{
+		"year": "-9",
+		"name_en": "Battle of the Teutoburg Forest (Rome vs Germanic Tribes)",
+		"name_te": "ట్యూటోబర్గ్ అడవి యుద్ధం (రోమ్ vs జర్మానిక్ గోత్రాలు)",
+		"location": {
+			"lat": 52,
+			"lng": 8.5
+		},
+		"desc_en": "Germanic tribes ambush and destroy three Roman legions.",
+		"desc_te": "జర్మానిక్ గోత్రాలు మూడు రోమన్ లెగియన్లను అంబుష్ చేసి నాశనం చేశాయి."
+	},
+	{
+		"year": "-44",
+		"name_en": "Assassination of Julius Caesar",
+		"name_te": "జూలియస్ సీజర్ హత్య",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Julius Caesar is assassinated on the Ides of March.",
+		"desc_te": "జూలియస్ సీజర్ మార్చి 15న హత్య చేయబడ్డాడు."
+	},
+	{
+		"year": "-100",
+		"name_en": "Julius Caesar Campaigns (Rome)",
+		"name_te": "జూలియస్ సీజర్ చర్యలు (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Julius Caesar leads military campaigns in Gaul and Egypt",
+		"desc_te": "జూలియస్ సీజర్ గాలియన్ మరియు ఈజిప్టులో సైనిక చర్యలు నిర్వహిస్తారు"
+	},
+	{
+		"year": "-80",
+		"name_en": "Octavian Rise (Rome)",
+		"name_te": "ఆక్టేవియన్ లేవుదల (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Octavian rises to power, later becomes Augustus",
+		"desc_te": "ఆక్టేవియన్ శక్తికి లేవుతారు, తర్వాత ఆగస్టస్ అవతారెన్ని"
+	},
+	{
+		"year": "-60",
+		"name_en": "First Triumvirate (Rome)",
+		"name_te": "మొదటి త్రిశక్తి సంఘం (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Caesar, Pompey, Crassus form First Triumvirate",
+		"desc_te": "సీజర్, పొంపే, క్రాసస్ మొదటి త్రిశక్తి సంఘం ఏర్పాటు"
+	},
+	{
+		"year": "-40",
+		"name_en": "Antony and Cleopatra (Egypt/Rome)",
+		"name_te": "ఆంటోనీ, క్లియోపెట్ర (ఈజిప్టు)",
+		"location": {
+			"lat": 30.0444,
+			"lng": 31.2357
+		},
+		"desc_en": "Mark Antony and Cleopatra rule Egypt, clash with Octavian",
+		"desc_te": "మార్క్ ఆంటోనీ, క్లియోపెట్ర ఈజిప్టు పాలన, ఆక్టేవియన్‌కు ఆపోజిషన్"
+	},
+	{
+		"year": "-20",
+		"name_en": "Pax Romana Established (Rome)",
+		"name_te": "పాక్స్ రోమానా స్థాపన (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Augustus establishes period of peace and stability across Roman Empire",
+		"desc_te": "ఆగస్టస్ రోమన్ సామ్రాజ్యం జుడుకు శాంతి, స్థిరత్వం స్థాపన"
+	},
+	{
+		"year": "-100",
+		"name_en": "Han Dynasty Western Expeditions (China)",
+		"name_te": "హాన్ రాజవంశ పశ్చిమ యాత్రలు (చైనా)",
+		"location": {
+			"lat": 36,
+			"lng": 103
+		},
+		"desc_en": "Emperor Wu of Han sends military expeditions westward, establishing control over the Silk Road and Central Asian trade routes.",
+		"desc_te": "హాన్ చక్రవర్తి వూ పశ్చిమ దిశ సైనిక యాత్రలను పంపుతారు, సిల్క్ రోడ్, మధ్య ఆసియా వాణిజ్య మార్గాలపై నియంత్రణ స్థాపన"
+	},
+	{
+		"year": "-80",
+		"name_en": "Han-Xiongnu Peace Treaties (China)",
+		"name_te": "హాన్-షియోంగ్ను శాంతి సంధులు (చైనా)",
+		"location": {
+			"lat": 41,
+			"lng": 112
+		},
+		"desc_en": "Peace agreements between Han Dynasty and Xiongnu nomads; marriage alliances and tribute establish stability on northern frontier.",
+		"desc_te": "హాన్ రాజవంశ, షియోంగ్ను చరిత్రజ్ఞుల మధ్య శాంతి సంధులు; వివాహ సమాచారం, నివేదిక ఉత్తర సరిహద్దుపై స్థిరత్వం స్థాపన"
+	},
+	{
+		"year": "-60",
+		"name_en": "Silk Road Trade Flourishes (Central Asia)",
+		"name_te": "సిల్క్ రోడ్ వాణిజ్య సమృద్ధి (మధ్య ఆసియా)",
+		"location": {
+			"lat": 42,
+			"lng": 70
+		},
+		"desc_en": "Robust trade networks connect East and West; silk, spices, and goods flow from China to Rome through Central Asian kingdoms.",
+		"desc_te": "దృఢమైన వాణిజ్య నెట్‌వర్క్‌లు తూర్పు, పశ్చిమను సంధిస్తాయి; వేషాలు, మసాలాలు, సరుకులు చైనా నుండి మధ్య ఆసియా సామ్రాజ్యాల ద్వారా రోమ్‌కు ప్రవహిస్తాయి"
+	},
+	{
+		"year": "-40",
+		"name_en": "Han Dynasty Maritime Expansion (China)",
+		"name_te": "హాన్ రాజవంశ సముద్ర విస్తరణ (చైనా)",
+		"location": {
+			"lat": 30,
+			"lng": 115
+		},
+		"desc_en": "Han fleets establish sea trade with Southeast Asia, India, and the Indian Ocean region, expanding commercial networks southward.",
+		"desc_te": "హాన్ నౌకలు తూర్పు-దక్షిణ ఆసియా, భారతదేశం, భారతీయ సముద్ర ప్రాంతాలకు సముద్ర వాణిజ్యం స్థాపన, దక్షిణ వాణిజ్య నెట్‌వర్క్‌లు విస్తరిస్తాయి"
+	},
+	{
+		"year": "-100",
+		"name_en": "Ptolemaic Egypt Scientific Golden Age (Egypt)",
+		"name_te": "టాలెమీ ఈజిప్టు శాస్త్ర స్వర్ణయుగం (ఈజిప్టు)",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Ptolemy II and III promote scholarship, mathematics, and astronomy; Alexandria becomes a center of learning and culture.",
+		"desc_te": "టాలెమీ II, III శిక్షణ, గణితం, ఖగోళశాస్త్రం ప్రోత్సహిస్తారు; అలెక్సాండ్రియా నేర్పు, సంస్కృతి కేంద్రంగా నిలుస్తుంది"
+	},
+	{
+		"year": "-80",
+		"name_en": "Ptolemaic Internal Conflicts (Egypt)",
+		"name_te": "టాలెమీ అంతర్గత సంఘర్షణలు (ఈజిప్టు)",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Succession disputes and civil wars weaken Ptolemaic Egypt; Roman influence increases as the kingdom becomes politically unstable.",
+		"desc_te": "వారసత్వ వివాదాలు, అంతర్గత యుద్ధాలు టాలెమీ ఈజిప్టుని బలహీనం చేస్తాయి; రాజ్యం రాజకీయంగా అస్థిరమవుతూ రోమన్ ప్రభావం పెరుగుతుంది"
+	},
+	{
+		"year": "-60",
+		"name_en": "Cleopatra VII Birth and Early Years (Egypt)",
+		"name_te": "క్లియోపెట్రా VII జన్మ, ప్రారంభ సంవత్సరాలు (ఈజిప్టు)",
+		"location": {
+			"lat": 30.8328,
+			"lng": 31.2358
+		},
+		"desc_en": "Young Cleopatra VII is born; she will later become Egypt's most famous ruler, navigating Rome's rise to dominance.",
+		"desc_te": "యువ క్లియోపెట్రా VII జన్మించింది; ఆ తర్వాత ఈజిప్టు అత్యంత ప్రసిద్ధ పాలకురాలిగా నిలుస్తుంది, రోమ్ ఆధిపత్యానికి మార్గనిర్దేశం చేస్తుంది"
+	},
+	{
+		"year": "-100",
+		"name_en": "Roman Republic Expansion (Rome)",
+		"name_te": "రోమన్ రిపబ్లిక్ విస్తరణ (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Rome expands through military campaigns; conquers Spain, North Africa, and the Eastern Mediterranean, establishing hegemony.",
+		"desc_te": "రోమ్ సైనిక ప్రచారాల ద్వారా విస్తరిస్తుంది; స్పెయిన్, ఉత్తర ఆఫ్రికా, తూర్పు భూమధ్యసాగర్‌ను జయించి ఆధిపత్యం స్థాపన"
+	},
+	{
+		"year": "-80",
+		"name_en": "Mithridates VI Pontic Wars (Rome vs Pontus)",
+		"name_te": "మిత్రదాటీస్ VI పోంటిక్ యుద్ధాలు (రోమ్ vs పోంటస్)",
+		"location": {
+			"lat": 41,
+			"lng": 35
+		},
+		"desc_en": "Mithridates VI of Pontus challenges Roman dominance; three wars ensue between Rome and Pontus over Eastern territories.",
+		"desc_te": "పోంటస్ మిత్రదాటీస్ VI రోమన్ ఆధిపత్యానికి సవాల్ విచ్ఛిద్రం; తూర్పు ప్రాంతాల కోసం రోమ్, పోంటస్‌ల మధ్య మూడు యుద్ధాలు"
+	},
+	{
+		"year": "-60",
+		"name_en": "First Triumvirate & Gallic Wars (Rome)",
+		"name_te": "మొదటి త్రిశక్తి సంఘం, గాలిక్ యుద్ధాలు (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Julius Caesar, Pompey, and Crassus form the First Triumvirate; Caesar conquers Gaul, expanding Roman territory northward.",
+		"desc_te": "జూలియస్ సీజర్, పోంపే, క్రాసస్ మొదటి త్రిశక్తి సంఘం ఏర్పరుచుకుంటారు; సీజర్ గాలిని జయించటం, రోమన్ ప్రాంతాన్ని ఉత్తర దిశకు విస్తరిస్తాయి"
+	},
+	{
+		"year": "-40",
+		"name_en": "Roman Civil War & Mark Antony (Rome)",
+		"name_te": "రోమన్ అంతర్గత యుద్ధం, మార్క్ ఆంటోనీ (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "After Caesar's assassination, Octavian, Antony, and Lepidus form the Second Triumvirate; civil war tears Rome apart.",
+		"desc_te": "సీజర్ హత్య తర్వాత ఆక్టేవియన్, ఆంటోనీ, లేపిడస్ రెండవ త్రిశక్తి సంఘం ఏర్పరుచుకుంటారు; అంతర్గత యుద్ధం రోమ్ విచ్చేదనం"
+	},
+	{
+		"year": "-20",
+		"name_en": "Pax Romana Consolidation (Rome)",
+		"name_te": "పాక్స్ రోమానా సమీకరణ (రోమ్)",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Augustus establishes lasting peace (Pax Romana) across the empire; infrastructure, law, and administration flourish.",
+		"desc_te": "ఆగస్టస్ సామ్రాజ్యం వ్యాప్తంగా శాశ్వత శాంతిని (పాక్స్ రోమానా) స్థాపన; పరిశ్రమ, చట్టం, పరిపాలన సమృద్ధిస్తాయి"
+	},
+	{
+		"year": "-100",
+		"name_en": "Nabataean Petra Prosperity (Arabia)",
+		"name_te": "నబటియన్ పెట్రా సమృద్ధి (అరేబియా)",
+		"location": {
+			"lat": 30.3286,
+			"lng": 35.4419
+		},
+		"desc_en": "Nabataean kingdom controls crucial spice trade routes; Petra becomes a wealthy caravan city connecting Arabia, Egypt, and the Mediterranean.",
+		"desc_te": "నబటియన్ రాజ్యం ముఖ్య మసాలా వాణిజ్య మార్గాలను నియంత్రిస్తుంది; పెట్రా సమృద్ధ కారవాన్ నగరంగా అరేబియా, ఈజిప్టు, మధ్యసాగర్‌ను సంధిస్తుంది"
+	},
+	{
+		"year": "-80",
+		"name_en": "Parthian Empire Consolidation (Persia)",
+		"name_te": "పార్థియన్ సామ్రాజ్యం సమీకరణ (పర్షియా)",
+		"location": {
+			"lat": 35.6892,
+			"lng": 51.389
+		},
+		"desc_en": "Parthian Empire becomes a superpower rivaling Rome; controls Silk Road trade and Eastern Mediterranean politics.",
+		"desc_te": "పార్థియన్ సామ్రాజ్యం రోమ్ ఎదుటి సూపర్ పవర్‌గా నిలుస్తుంది; సిల్క్ రోడ్ వాణిజ్యం, తూర్పు భూమధ్యసాగర్ రాజకీయ నియంత్రణ"
+	},
+	{
+		"year": "-60",
+		"name_en": "Parthian-Roman Conflicts (Persia vs Rome)",
+		"name_te": "పార్థియన్-రోమన్ సంఘర్షణలు (పర్షియా vs రోమ్)",
+		"location": {
+			"lat": 36.3,
+			"lng": 59.6
+		},
+		"desc_en": "Border conflicts erupt between Parthian Empire and Roman Republic over control of territories and trade routes.",
+		"desc_te": "ప్రాంత నియంత్రణ, వాణిజ్య మార్గాల కోసం పార్థియన్ సామ్రాజ్యం, రోమన్ రిపబ్లిక్‌ల మధ్య సరిహద్దు సంఘర్షణలు"
+	},
+	{
+		"year": "-100",
+		"name_en": "Greek City-States Cultural Zenith (Greece)",
+		"name_te": "గ్రీక్ నగర-రాష్ట్రాల సాంస్కృతిక శిఖరం (గ్రీస్)",
+		"location": {
+			"lat": 37.9838,
+			"lng": 23.7275
+		},
+		"desc_en": "Greek city-states produce great philosophers, dramatists, and artists; Athens and Sparta remain cultural powerhouses despite political decline.",
+		"desc_te": "గ్రీక్ నగర-రాష్ట్రాలు గొప్ప తత్వవేత్తలు, నాటక రచయితలు, కళాకారులను ఉత్పత్తి చేస్తాయి; అథెన్‌లు, స్పార్టా రాజకీయ క్షీణత ఉన్నప్పటికీ సాంస్కృతిక శక్తిగా ఉంటాయి"
+	},
+	{
+		"year": "-80",
+		"name_en": "Hellenistic Cultural Synthesis (Mediterranean)",
+		"name_te": "హెలెనిస్టిక్ సాంస్కృతిక సంశ్లేషణ (మధ్యసాగర్)",
+		"location": {
+			"lat": 35,
+			"lng": 20
+		},
+		"desc_en": "Greek, Eastern, and Egyptian cultures blend; philosophy, science, and art flourish in the Hellenistic world.",
+		"desc_te": "గ్రీక్, తూర్పు, ఈజిప్టు సంస్కృతులు కలిసిపోతాయి; హెలెనిస్టిక్ ప్రపంచంలో తత్వవేత్త, విజ్ఞానం, కళ సమృద్ధిస్తాయి"
+	},
+	{
+		"year": "-100",
+		"name_en": "Maurya Empire Consolidation (India)",
+		"name_te": "మౌర్య సామ్రాజ్యం సమీకరణ (భారత)",
+		"location": {
+			"lat": 28,
+			"lng": 82
+		},
+		"desc_en": "Emperor Ashoka consolidates Mauryan power across the Indian subcontinent through conquest and Buddhist conversion.",
+		"desc_te": "చక్రవర్తి అశోక మౌర్య శక్తిని సమీకరిస్తూ బౌద్ధ ధర్మీకరణ ద్వారా భారత ఉపఖండం వ్యాప్తంగా"
+	},
+	{
+		"year": "-85",
+		"name_en": "Ashoka's Edicts (India)",
+		"name_te": "అశోక ఆదేశాలు (భారత)",
+		"location": {
+			"lat": 28,
+			"lng": 82
+		},
+		"desc_en": "Ashoka's rock edicts are inscribed across the empire, promoting Buddhist dharma and social welfare.",
+		"desc_te": "అశోక శిలాఖండ ఘటనాలు సామ్రాజ్యం వ్యాప్తంగా చెక్కబడటం, బౌద్ధ ధర్మ, సామాజిక సుఖాన్ని ప్రచారం"
+	},
+	{
+		"year": "-70",
+		"name_en": "Post-Ashoka Decline (India)",
+		"name_te": "అశోక తర్వాత పతనం (భారత)",
+		"location": {
+			"lat": 25,
+			"lng": 82
+		},
+		"desc_en": "After Ashoka's death, the Mauryan Empire gradually weakens as regional powers assert independence.",
+		"desc_te": "అశోక మరణం తర్వాత మౌర్య సామ్రాజ్యం క్రమంగా బలహీనమవుతుంది ప్రాంతీయ శక్తులు స్వాధీనత కోసం ప్రయత్నిస్తున్నందున"
+	},
+	{
+		"year": "-50",
+		"name_en": "Indo-Greek Kingdoms Establish (India)",
+		"name_te": "ఇండో-గ్రీక్ రాజ్యాల స్థాపన (భారత)",
+		"location": {
+			"lat": 32,
+			"lng": 72
+		},
+		"desc_en": "Greek kingdoms establish themselves in Northwest India, blending Hellenistic and Indian cultures.",
+		"desc_te": "ఉత్తర-పశ్చిమ భారతదేశంలో గ్రీక్ రాజ్యాలు స్థాపన చేస్తాయి, హెలెనిస్టిక్, భారతీయ సంస్కృతులను కలపుతూ"
+	},
+	{
+		"year": "-35",
+		"name_en": "Shunga Dynasty Central Rule (India)",
+		"name_te": "శుంగ రాజవంశ కేంద్ర పాలన (భారత)",
+		"location": {
+			"lat": 23.5,
+			"lng": 80
+		},
+		"desc_en": "Shunga Dynasty consolidates control over central India, patronizes Hindu traditions and Buddhist architecture.",
+		"desc_te": "శుంగ రాజవంశం మధ్య భారతదేశంపై నియంత్రణ సమీకరిస్తూ హిందూ సంప్రదాయాలు, బౌద్ధ నిర్మాణకళను ప్రోత్సహిస్తుంది"
+	},
+	{
+		"year": "-15",
+		"name_en": "Satavahana Rise in Deccan (India)",
+		"name_te": "డెక్కనులో సతవాహన లేవుదల (భారత)",
+		"location": {
+			"lat": 18.5,
+			"lng": 77
+		},
+		"desc_en": "Satavahana Dynasty emerges in the Deccan region, establishing maritime trade routes with Southeast Asia and Rome.",
+		"desc_te": "డెక్కన్ ప్రాంతంలో సతవాహన వంశం ఉద్భవం, తూర్పు-దక్షిణ ఆసియా, రోమ్‌లో సముద్ర వాణిజ్య మార్గాలు స్థాపన"
+	},
+	{
+		"year": "-40",
+		"name_en": "Chola Expansion South (India)",
+		"name_te": "దక్షిణ చోల విస్తరణ (భారత)",
+		"location": {
+			"lat": 11.5,
+			"lng": 79.5
+		},
+		"desc_en": "Chola Empire expands its maritime dominance, establishes trading posts in Southeast Asia and Lanka.",
+		"desc_te": "చోల సామ్రాజ్యం సముద్ర ఆధిపత్యం విస్తరించటం, తూర్పు-దక్షిణ ఆసియా, లంక గుండెలో వాణిజ్య చతురస్రాలు స్థాపన"
+	},
+	{
+		"year": "-100",
+		"name_en": "Nabataean Trade Kingdom (Arabia)",
+		"name_te": "నబటియన్ వాణిజ్య రాజ్యం (అరేబియా)",
+		"location": {
+			"lat": 30.8328,
+			"lng": 35.4616
+		},
+		"desc_en": "Nabataean kingdom controls Arabian trade routes and spice trade",
+		"desc_te": "నబటియన్ రాజ్యం అరేబియన్ వాణిజ్య మార్గాలను, మసాలా వాణిజ్యం నియంత్రిస్తుంది"
+	},
+	{
+		"year": "-80",
+		"name_en": "Parthian Empire Rise (Persia)",
+		"name_te": "పార్థియన్ సామ్రాజ్యం లేవుదల (పర్షియా)",
+		"location": {
+			"lat": 35.6892,
+			"lng": 51.389
+		},
+		"desc_en": "Parthian Empire emerges as major power in Near East",
+		"desc_te": "పార్థియన్ సామ్రాజ్యం సమీప తూర్పుకు ప్రధాన శక్తిగా ఉద్భవం"
+	},
+	{
+		"year": "-60",
+		"name_en": "Mithradates VI Conflicts (Pontus)",
+		"name_te": "మిత్రదాటీస్ VI సంఘర్షణలు (పోంటస్)",
+		"location": {
+			"lat": 41,
+			"lng": 35
+		},
+		"desc_en": "Mithradates VI of Pontus fights Rome for control of region",
+		"desc_te": "పోంటస్ మిత్రదాటీస్ VI ప్రాంతం నియంత్రణ కోసం రోమ్‌తో యుద్ధం"
+	},
+	{
+		"year": "-100",
+		"name_en": "Yayoi Period Agriculture (Japan)",
+		"name_te": "యయోయ్ వ్యవసాయ కాలం (జపాన్)",
+		"location": {
+			"lat": 36,
+			"lng": 137
+		},
+		"desc_en": "Yayoi culture establishes wet rice agriculture and hierarchical societies",
+		"desc_te": "యయోయ్ సంస్కృతి ధాన్య వ్యవసాయం, సోపానక్రమ సమాజాలు స్థాపన"
+	},
+	{
+		"year": "-80",
+		"name_en": "Maya Classic Period (America)",
+		"name_te": "మాయా క్లాసిక్ కాలం (అమెరికా)",
+		"location": {
+			"lat": 17,
+			"lng": -89
+		},
+		"desc_en": "Maya civilization enters Classic Period with city-states and hieroglyphic writing",
+		"desc_te": "మాయా నాగరికత క్లాసిక్ కాలం నగర-రాష్ట్రాలు, సంకేత రచన"
+	},
+	{
+		"year": "-60",
+		"name_en": "Teotihuacan Expansion (Mexico)",
+		"name_te": "టియోటిహుయాకాన్ విస్తరణ (మెక్సికో)",
+		"location": {
+			"lat": 19.6925,
+			"lng": -98.8438
+		},
+		"desc_en": "Teotihuacan undergoes rapid expansion as major Mesoamerican city",
+		"desc_te": "టియోటిహుయాకాన్ మెసోఅమెరికన్ నగరం ఉద్ఘాటన విస్తరణ"
+	},
+	{
+		"year": "-40",
+		"name_en": "Aksumite Kingdom Emergence (Africa)",
+		"name_te": "ఆక్సుమ్ రాజ్యం ఉద్భవం (ఆఫ్రికా)",
+		"location": {
+			"lat": 14.1211,
+			"lng": 38.7247
+		},
+		"desc_en": "Aksumite Kingdom emerges as powerful state in Horn of Africa",
+		"desc_te": "ఆఫ్రికా హార్న్‌లో ఆక్సుమ్ రాజ్యం శక్తిశాలీ రాజ్యం ఉద్భవం"
+	},
+	{
+		"year": "-20",
+		"name_en": "Meroë Kingdom Peak (Africa)",
+		"name_te": "మెరోయే రాజ్యం శిఖరం (ఆఫ్రికా)",
+		"location": {
+			"lat": 16.9,
+			"lng": 33.7
+		},
+		"desc_en": "Meroë Kingdom at its height as center of power in Nubia",
+		"desc_te": "న్యూబియాలో శక్తి కేంద్రంగా మెరోయే రాజ్యం శిఖరస్థాయిలో"
+	},
+    {
+        "year": "-2",
+        "name_en": "Pandyan Maritime Trade",
+        "name_te": "పాండ్య రాజ్య సముద్ర వ్యాపారం",
+        "location": { "lat": 9.3522, "lng": 79.1198 },
+        "desc_en": "Korkai port becomes a major hub for pearl fishery and trade with the West.",
+        "desc_te": "ముత్యాల వేట మరియు పాశ్చాత్య దేశాలతో వ్యాపారానికి కొర్కై రేవు పట్టణం ప్రధాన కేంద్రంగా మారింది.",
+        "image": "https://example.com/ancient_pearl_trade.jpg"
+    },
+    {
+        "year": "-5",
+        "name_en": "Consolidation of Azes II",
+        "name_te": "అజెస్ II సామ్రాజ్య స్థిరీకరణ",
+        "location": { "lat": 33.7463, "lng": 72.8014 },
+        "desc_en": "Indo-Scythian King Azes II solidifies control over Gandhara and Taxila.",
+        "desc_te": "గాంధార మరియు తక్షశిల ప్రాంతాలపై ఇండో-సిథియన్ రాజు అజెస్ II పూర్తి పట్టు సాధించాడు.",
+        "image": "https://example.com/azes_coin_front.jpg"
+    },
+    {
+        "year": "-7",
+        "name_en": "Satavahana Expansion in Deccan",
+        "name_te": "దక్కన్ లో శాతవాహన విస్తరణ",
+        "location": { "lat": 19.1522, "lng": 74.1123 },
+        "desc_en": "The Satavahanas strengthen their presence in the Junnar region, building cave complexes.",
+        "desc_te": "శాతవాహనులు జున్నార్ ప్రాంతంలో తమ ఉనికిని బలపరుచుకుంటూ గుహాలయాల నిర్మాణాన్ని చేపట్టారు.",
+        "image": "https://example.com/junnar_caves.jpg"
+    },
+    {
+        "year": "-10",
+        "name_en": "Indo-Greek Pockets in Punjab",
+        "name_te": "పంజాబ్ లో ఇండో-గ్రీకు రాజ్యాల చివరి ఆనవాళ్లు",
+        "location": { "lat": 32.4924, "lng": 74.5310 },
+        "desc_en": "Small Indo-Greek territories under Strato II struggle against the Scythian advance.",
+        "desc_te": "శక రాజుల దాడుల మధ్య స్ట్రాటో II నాయకత్వంలోని చిన్న ఇండో-గ్రీకు ప్రాంతాలు ఉనికి కోసం పోరాడాయి.",
+        "image": "https://example.com/strato_coin.jpg"
+    },
+	{
+        "year": "-1",
+        "name_en": "Chera Maritime Expansion",
+        "name_te": "చేర రాజ్య సముద్ర విస్తరణ",
+        "location": { "lat": 10.2158, "lng": 76.1944 },
+        "desc_en": "The Chera dynasty at Muziris strengthens its naval trade with the Red Sea ports.",
+        "desc_te": "ముజిరిస్ కేంద్రంగా చేర వంశం ఎర్ర సముద్రపు ఓడరేవులతో తన నౌకా వాణిజ్యాన్ని బలోపేతం చేసుకుంది.",
+        "image": "https://example.com/muziris_port.jpg"
+    },
+    {
+        "year": "-4",
+        "name_en": "Chola Kingdom Early Ports",
+        "name_te": "తొలి చోళ రాజ్య ఓడరేవులు",
+        "location": { "lat": 11.1444, "lng": 79.8514 },
+        "desc_en": "Puhar (Kaveripoompattinam) emerges as a significant cultural and trading hub for the Cholas.",
+        "desc_te": "చోళులకు పుహార్ (కావేరిపూంపట్టినం) ఒక ముఖ్యమైన సాంస్కృతిక మరియు వాణిజ్య కేంద్రంగా అవతరించింది.",
+        "image": "https://example.com/ancient_puhar.jpg"
+    },
+    {
+        "year": "-6",
+        "name_en": "Ujjain as a Commercial Junction",
+        "name_te": "వాణిజ్య కూడలిగా ఉజ్జయిని",
+        "location": { "lat": 23.1760, "lng": 75.7885 },
+        "desc_en": "Ujjain serves as the key link between the northern trade routes and the southern Satavahana empire.",
+        "desc_te": "ఉత్తర భారత వాణిజ్య మార్గాలను మరియు దక్షిణ శాతవాహన సామ్రాజ్యాన్ని కలిపే ప్రధాన కూడలిగా ఉజ్జయిని నిలిచింది.",
+        "image": "https://example.com/ancient_ujjain.jpg"
+    },
+    {
+        "year": "-8",
+        "name_en": "Vidarbha Megalithic Transitions",
+        "name_te": "విదర్భ బృహత్ శిలాయుగ మార్పులు",
+        "location": { "lat": 21.1458, "lng": 79.0882 },
+        "desc_en": "Iron Age communities in Vidarbha begin integrating with the expanding Satavahana economy.",
+        "desc_te": "విదర్భలోని ఇనుప యుగ తెగలు విస్తరిస్తున్న శాతవాహన ఆర్థిక వ్యవస్థలో భాగమవ్వడం ప్రారంభించాయి.",
+        "image": "https://example.com/megalithic_site.jpg"
+    },
+    {
+        "year": "-10",
+        "name_en": "Dhanyakataka Religious Growth",
+        "name_te": "ధాన్యకటక మతపరమైన అభివృద్ధి",
+        "location": { "lat": 16.5744, "lng": 80.3575 },
+        "desc_en": "Early construction phases of the Amaravati Stupa (Dhanyakataka) gather momentum under local patronage.",
+        "desc_te": "స్థానిక ప్రోత్సాహంతో అమరావతి స్తూపం (ధాన్యకటకం) తొలి నిర్మాణ పనులు వేగవంతమయ్యాయి.",
+        "image": "https://example.com/amaravati_stupa.jpg"
+    },
+	{
+        "year": "-12",
+        "name_en": "End of Kanva Dynasty",
+        "name_te": "కాణ్వ వంశం ముగింపు",
+        "location": { "lat": 25.6127, "lng": 85.1588 },
+        "desc_en": "The Kanva dynasty's rule over Magadha ends as regional powers like the Satavahanas expand their influence northward.",
+        "desc_te": "శాతవాహనుల వంటి ప్రాంతీయ శక్తులు ఉత్తర దిశగా విస్తరించడంతో మగధపై కాణ్వ వంశ పాలన ముగిసింది.",
+        "image": "https://example.com/patliputra_fort.jpg"
+    },
+    {
+        "year": "-14",
+        "name_en": "Paithan as Satavahana Capital",
+        "name_te": "శాతవాహన రాజధానిగా పైఠాన్",
+        "location": { "lat": 19.4716, "lng": 75.3811 },
+        "desc_en": "Pratishthana (Paithan) becomes the primary political and economic center for the Satavahana Empire in the Deccan.",
+        "desc_te": "దక్కన్‌లో శాతవాహన సామ్రాజ్యానికి ప్రతిష్ఠానపురం (పైఠాన్) ప్రధాన రాజకీయ మరియు ఆర్థిక కేంద్రంగా మారింది.",
+        "image": "https://example.com/paithan_archaeology.jpg"
+    },
+    {
+        "year": "-15",
+        "name_en": "Indo-Scythian Push to Mathura",
+        "name_te": "మధుర వైపు శక రాజవంశం",
+        "location": { "lat": 27.4924, "lng": 77.6737 },
+        "desc_en": "Scythian (Shaka) groups extend their influence into the Yamuna region, making Mathura a key northern stronghold.",
+        "desc_te": "శక తెగలు యమునా నది తీరం వరకు తమ ప్రభావాన్ని విస్తరించి, మధురను ఒక కీలక ఉత్తర భారత స్థావరంగా మార్చుకున్నాయి.",
+        "image": "https://example.com/shaka_sculpture.jpg"
+    },
+    {
+        "year": "-18",
+        "name_en": "Nanaghat Inscription Commissions",
+        "name_te": "నానాఘాట్ శాసనాల ఏర్పాటు",
+        "location": { "lat": 19.2885, "lng": 73.6811 },
+        "desc_en": "Queen Nayanika of the Satavahana dynasty commissions inscriptions detailing royal sacrifices and the expansion of the kingdom.",
+        "desc_te": "శాతవాహన రాణి నాయనిక తన రాజ్య విస్తరణను మరియు రాజ యజ్ఞాలను వివరిస్తూ నానాఘాట్ శాసనాలను వేయించింది.",
+        "image": "https://example.com/nanaghat_inscriptions.jpg"
+    },
+    {
+        "year": "-20",
+        "name_en": "Indo-Greek Kingdom Decline",
+        "name_te": "ఇండో-గ్రీకు రాజ్యాల పతనం",
+        "location": { "lat": 32.4924, "lng": 74.5310 },
+        "desc_en": "The final vestiges of Indo-Greek rule in the Punjab region are gradually overwhelmed by the Scythian Azes II.",
+        "desc_te": "పంజాబ్ ప్రాంతంలోని చివరి ఇండో-గ్రీకు రాజ్యాలు శక రాజు అజెస్ II దాడులతో క్రమంగా అంతరించిపోయాయి.",
+        "image": "https://example.com/indo_greek_decline.jpg"
+    },
+	{
+        "year": "-11",
+        "name_en": "Emergence of Mahameghavahana Lineage",
+        "name_te": "మహామేఘవాహన వంశ ఆవిర్భావం",
+        "location": { "lat": 20.2468, "lng": 85.8500 },
+        "desc_en": "Kalinga continues its independent identity under the Mahameghavahana dynasty after the fall of the Mauryas.",
+        "desc_te": "మౌర్య సామ్రాజ్య పతనం తర్వాత కళింగ ప్రాంతం మహామేఘవాహన వంశం కింద తన స్వతంత్ర గుర్తింపును కొనసాగించింది.",
+        "image": "https://example.com/kalinga_arch.jpg"
+    },
+    {
+        "year": "-13",
+        "name_en": "Barygaza-Ujjain Trade Link",
+        "name_te": "భారుకచ్ఛ-ఉజ్జయిని వాణిజ్య మార్గం",
+        "location": { "lat": 21.7051, "lng": 72.9959 },
+        "desc_en": "The trade route connecting the port of Barygaza to the inland city of Ujjain becomes a lifeline for textile exports.",
+        "desc_te": "భారుకచ్ఛ ఓడరేవును ఉజ్జయిని నగరంతో కలిపే వాణిజ్య మార్గం వస్త్రాల ఎగుమతులకు ప్రధాన వనరుగా మారింది.",
+        "image": "https://example.com/ancient_trade_route.jpg"
+    },
+    {
+        "year": "-16",
+        "name_en": "Early Buddhist Viharas in Nasik",
+        "name_te": "నాసిక్ లో తొలి బౌద్ధ విహారాలు",
+        "location": { "lat": 19.9975, "lng": 73.7898 },
+        "desc_en": "Early rock-cut excavations at the Pandavleni caves begin, funded by merchants and local guilds.",
+        "desc_te": "వర్తకులు మరియు స్థానిక సంఘాల ఆర్థిక సహాయంతో పాండవ లేని గుహలలో తొలి బౌద్ధ విహారాల నిర్మాణం ప్రారంభమైంది.",
+        "image": "https://example.com/nasik_caves.jpg"
+    },
+    {
+        "year": "-17",
+        "name_en": "Vidarbha Administrative Centers",
+        "name_te": "విదర్భ పరిపాలనా కేంద్రాలు",
+        "location": { "lat": 21.0180, "lng": 79.1300 },
+        "desc_en": "The Satavahanas establish administrative outposts in Pauni to secure the eastern trade routes.",
+        "desc_te": "తూర్పు వాణిజ్య మార్గాలను రక్షించడానికి శాతవాహనులు పౌని (విదర్భ) లో పరిపాలనా కేంద్రాలను ఏర్పాటు చేశారు.",
+        "image": "https://example.com/pauni_excavations.jpg"
+    },
+    {
+        "year": "-19",
+        "name_en": "Decline of Indo-Greek Art in Sagala",
+        "name_te": "సాగల లో ఇండో-గ్రీకు కళల క్షీణత",
+        "location": { "lat": 32.4924, "lng": 74.5310 },
+        "desc_en": "As Indo-Greek power fades, the unique Gandharan fusion art begins its transition under Shaka patronage.",
+        "desc_te": "ఇండో-గ్రీకు శక్తి తగ్గడంతో, గాంధార శిల్పకళ శక రాజుల ప్రోత్సాహంతో కొత్త మార్పులకు లోనైంది.",
+        "image": "https://example.com/gandhara_art.jpg"
+    },
+	{
+        "year": "-21",
+        "name_en": "Kharavela's Northern Campaign",
+        "name_te": "ఖారవేలుడి ఉత్తర భారత దండయాత్ర",
+        "location": { "lat": 25.3176, "lng": 82.9739 },
+        "desc_en": "King Kharavela of Kalinga leads a massive army into North India, defeating the rulers of Magadha and Gorathagiri.",
+        "desc_te": "కళింగ రాజు ఖారవేలుడు ఉత్తర భారతంపై దండయాత్ర చేసి, మగధ మరియు గోరథగిరి పాలకులను ఓడించాడు.",
+        "image": "https://example.com/hathigumpha_inscription.jpg"
+    },
+    {
+        "year": "-24",
+        "name_en": "Kharavela Invades South India",
+        "name_te": "దక్షిణ భారతంపై ఖారవేలుడి దండయాత్ర",
+        "location": { "lat": 9.9252, "lng": 78.1198 },
+        "desc_en": "Kharavela defeats a confederacy of Tamil kingdoms (Chola, Chera, Pandya) to assert Kalinga's supremacy.",
+        "desc_te": "కళింగ ఆధిపత్యాన్ని చాటడానికి ఖారవేలుడు తమిళ రాజ్యాల కూటమిని (చోళ, చేర, పాండ్య) ఓడించాడు.",
+        "image": "https://example.com/ancient_indian_army.jpg"
+    },
+    {
+        "year": "-25",
+        "name_en": "Establishment of Hathigumpha Record",
+        "name_te": "హథీగుంఫా శాసన నమోదు",
+        "location": { "lat": 20.2581, "lng": 85.7872 },
+        "desc_en": "The famous Hathigumpha inscription is carved in Udayagiri, detailing Kharavela's military and civil achievements.",
+        "desc_te": "ఖారవేలుడి సైనిక మరియు పౌర విజయాలను వివరిస్తూ ఉదయగిరిలో ప్రసిద్ధ హథీగుంఫా శాసనం చెక్కబడింది.",
+        "image": "https://example.com/hathigumpha_caves.jpg"
+    },
+    {
+        "year": "-27",
+        "name_en": "Satavahana-Kalinga Frontier Skirmish",
+        "name_te": "శాతవాహన-కళింగ సరిహద్దు ఘర్షణ",
+        "location": { "lat": 18.5204, "lng": 73.8567 },
+        "desc_en": "Kharavela sends a military expedition to the west, challenging the Satavahana king Satakarni.",
+        "desc_te": "శాతవాహన రాజు శాతకర్ణిని సవాలు చేస్తూ ఖారవేలుడు పశ్చిమ దిశగా సైన్యాన్ని పంపాడు.",
+        "image": "https://example.com/ancient_warfare_relief.jpg"
+    },
+    {
+        "year": "-30",
+        "name_en": "End of Indo-Greek Influence in Central India",
+        "name_te": "మధ్య భారత్‌లో ఇండో-గ్రీకు ప్రభావం ముగింపు",
+        "location": { "lat": 23.5120, "lng": 77.7519 },
+        "desc_en": "The last remnants of Indo-Greek cultural and political influence fade in the Vidisha region as local powers rise.",
+        "desc_te": "స్థానిక శక్తులు పుంజుకోవడంతో విదిశ ప్రాంతంలో ఇండో-గ్రీకు రాజకీయ ప్రభావం పూర్తిగా ముగిసింది.",
+        "image": "https://example.com/heliodorus_pillar.jpg"
+    },
+	{
+        "year": "-22",
+        "name_en": "Kharavela's Canal Projects",
+        "name_te": "ఖారవేలుడి కాలువల నిర్మాణం",
+        "location": { "lat": 20.4625, "lng": 85.8830 },
+        "desc_en": "King Kharavela renovates and extends a canal originally built by the Nanda kings 300 years prior.",
+        "desc_te": "300 ఏళ్ల క్రితం నంద రాజులు నిర్మించిన కాలువను ఖారవేలుడు ఆధునీకరించి తన రాజధాని వరకు విస్తరించాడు.",
+        "image": "https://example.com/ancient_irrigation.jpg"
+    },
+    {
+        "year": "-23",
+        "name_en": "Construction of Rani Gumpha",
+        "name_te": "రాణి గుంఫా నిర్మాణం",
+        "location": { "lat": 20.2581, "lng": 85.7872 },
+        "desc_en": "The largest and most ornate cave in Udayagiri, Rani Gumpha, is constructed for Jain monks.",
+        "desc_te": "ఉదయగిరిలో జైన సన్యాసుల కోసం అత్యంత అలంకారమైన మరియు అతిపెద్ద గుహ అయిన 'రాణి గుంఫా' నిర్మించబడింది.",
+        "image": "https://example.com/rani_gumpha_cave.jpg"
+    },
+    {
+        "year": "-26",
+        "name_en": "Emergence of Mahayana Elements",
+        "name_te": "మహాయాన లక్షణాల ఆవిర్భావం",
+        "location": { "lat": 16.5744, "lng": 80.3575 },
+        "desc_en": "Early traces of Mahayana Buddhist thought begin to appear in the monastic schools of the Krishna River valley.",
+        "desc_te": "కృష్ణా నది లోయలోని బౌద్ధ విద్యా కేంద్రాలలో మహాయాన బౌద్ధ ఆలోచనల తొలి ఛాయలు కనిపించడం ప్రారంభించాయి.",
+        "image": "https://example.com/amaravati_relief.jpg"
+    },
+    {
+        "year": "-28",
+        "name_en": "Vaishnavism in Vidisha",
+        "name_te": "విదిశలో వైష్ణవ మతం",
+        "location": { "lat": 23.5284, "lng": 77.7944 },
+        "desc_en": "The Besnagar/Vidisha region becomes a major center for Bhagavatism (early Vaishnavism) following Greek patronage.",
+        "desc_te": "గ్రీకు రాయబారుల ప్రోత్సాహం తర్వాత బె నగర్ (విదిశ) ప్రాంతం భాగవత మతానికి (తొలి వైష్ణవం) ప్రధాన కేంద్రంగా మారింది.",
+        "image": "https://example.com/helidorus_pillar_detail.jpg"
+    },
+    {
+        "year": "-29",
+        "name_en": "Rise of Tribal Republics",
+        "name_te": "గిరిజన గణతంత్ర రాజ్యాల ఎదుగుదల",
+        "location": { "lat": 30.9010, "lng": 75.8573 },
+        "desc_en": "Tribal republics like the Yaudheyas and Arjunayanas begin asserting independence in the wake of weakening empires.",
+        "desc_te": "పెద్ద సామ్రాజ్యాలు బలహీనపడటంతో యౌధేయులు మరియు అర్జునాయనులు వంటి గిరిజన గణతంత్ర రాజ్యాలు స్వతంత్రాన్ని ప్రకటించుకున్నాయి.",
+        "image": "https://example.com/ancient_tribal_coin.jpg"
+    },
+	{
+        "year": "-32",
+        "name_en": "Vikramaditya and Shaka Conflict",
+        "name_te": "విక్రమాదిత్య - శక యుద్ధం",
+        "location": { "lat": 23.1760, "lng": 75.7885 },
+        "desc_en": "Legendary King Vikramaditya of Ujjain defeats the Shakas, driving them out of central India.",
+        "desc_te": "ఉజ్జయిని పురాణ పురుషుడు విక్రమాదిత్యుడు శక రాజులను ఓడించి, మధ్య భారతం నుండి వారిని తరిమికొట్టాడు.",
+        "image": "https://example.com/vikramaditya_statue.jpg"
+    },
+    {
+        "year": "-35",
+        "name_en": "Rise of Indo-Parthian Pockets",
+        "name_te": "ఇండో-పార్థియన్ స్థావరాల పెరుగుదల",
+        "location": { "lat": 34.0151, "lng": 71.5249 },
+        "desc_en": "Early Parthian tribes begin to establish influence in the Peshawar valley as Scythian power fluctuates.",
+        "desc_te": "శక శక్తి తగ్గుతున్న క్రమంలో, పెషావర్ లోయలో తొలి పార్థియన్ తెగలు తమ ప్రభావాన్ని చూపడం ప్రారంభించాయి.",
+        "image": "https://example.com/parthian_sculpture.jpg"
+    },
+    {
+        "year": "-37",
+        "name_en": "Establishment of Vikrama Samvat",
+        "name_te": "విక్రమ శకం ప్రారంభం",
+        "location": { "lat": 23.1760, "lng": 75.7885 },
+        "desc_en": "The Vikrama Era calendar begins in 57 BCE (adjusted -37 to -57 contextually), marking the victory over foreigners.",
+        "desc_te": "విదేశీయులపై విజయానికి గుర్తుగా విక్రమ శకం క్యాలెండర్ ప్రారంభించబడింది.",
+        "image": "https://example.com/indian_calendar_astronomy.jpg"
+    },
+    {
+        "year": "-38",
+        "name_en": "Satavahana Maritime Strengthening",
+        "name_te": "శాతవాహన నౌకాదళ బలోపేతం",
+        "location": { "lat": 15.1444, "lng": 80.0514 },
+        "desc_en": "Satavahanas focus on protecting the trade routes of the Bay of Bengal from pirates.",
+        "desc_te": "బంగాళాఖాతంలో సముద్ర దొంగల నుండి వాణిజ్య మార్గాలను రక్షించడంపై శాతవాహనులు దృష్టి సారించారు.",
+        "image": "https://example.com/satavahana_ship_coin.jpg"
+    },
+    {
+        "year": "-40",
+        "name_en": "Indo-Greek Resurgence Attempts",
+        "name_te": "ఇండో-గ్రీకు రాజ్యాల పునరుద్ధరణ ప్రయత్నాలు",
+        "location": { "lat": 32.1234, "lng": 74.1234 },
+        "desc_en": "The last of the Indo-Greek petty kings attempt to retake territories in the eastern Punjab.",
+        "desc_te": "తూర్పు పంజాబ్ ప్రాంతంలో తమ రాజ్యాలను తిరిగి దక్కించుకోవడానికి చివరి ఇండో-గ్రీకు రాజులు ప్రయత్నించారు.",
+        "image": "https://example.com/indo_greek_coin_last.jpg"
+    }
+
+]

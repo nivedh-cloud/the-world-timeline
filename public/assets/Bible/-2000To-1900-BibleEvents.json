@@ -1,0 +1,277 @@
+[
+	{
+		"year": "-2000",
+		"name_en": "Abraham's Covenant with God Renewed",
+		"name_te": "అబ్రాహాము దేవునితో ఒడంబడిక పునరుద్ధరణ",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "God renews His covenant with Abraham (Genesis 17:1-8)",
+		"desc_te": "దేవుడు అబ్రాహాముతో తన ఒడంబడికను పునరుద్ధరించాడు (ఆదికాండము 17:1-8)"
+	},
+	{
+		"year": "-1990",
+		"name_en": "Birth of Isaac",
+		"name_te": "ఇస్సాకు జననం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Isaac is born to Abraham and Sarah (Genesis 21:1-7)",
+		"desc_te": "అబ్రాహాము, సారాకు ఇస్సాకు జన్మించాడు (ఆదికాండము 21:1-7)"
+	},
+	{
+		"year": "-1980",
+		"name_en": "Ishmael Sent Away",
+		"name_te": "ఇష్మాయేలు పంపివేయబడినాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Hagar and Ishmael are sent away by Abraham (Genesis 21:8-21)",
+		"desc_te": "హాగరు, ఇష్మాయేలు అబ్రాహాము ద్వారా పంపివేయబడ్డారు (ఆదికాండము 21:8-21)"
+	},
+	{
+		"year": "-1970",
+		"name_en": "Abraham's Treaty with Abimelech at Beersheba",
+		"name_te": "బేర్షెబాలో అబ్రాహాము, అభిమెలెక్ ఒడంబడిక",
+		"location": {
+			"lat": 31.2,
+			"lng": 34.8
+		},
+		"desc_en": "Abraham makes a treaty with Abimelech at Beersheba (Genesis 21:22-34)",
+		"desc_te": "బేర్షెబాలో అబ్రాహాము, అభిమెలెక్ ఒడంబడిక చేసుకున్నారు (ఆదికాండము 21:22-34)"
+	},
+	{
+		"year": "-1960",
+		"name_en": "The Binding of Isaac (Akedah)",
+		"name_te": "ఇస్సాకు బంధనం (ఆకేదా)",
+		"location": {
+			"lat": 31.7,
+			"lng": 35.2
+		},
+		"desc_en": "Abraham is tested by God to sacrifice Isaac (Genesis 22:1-19)",
+		"desc_te": "దేవుడు అబ్రాహామును పరీక్షించి, ఇస్సాకును బలి అర్పించమని ఆజ్ఞాపించాడు (ఆదికాండము 22:1-19)"
+	},
+	{
+		"year": "-1950",
+		"name_en": "Death of Sarah, Purchase of Machpelah",
+		"name_te": "సారా మరణం, మక్ఫేలా కొనుగోలు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Sarah dies and Abraham purchases the cave of Machpelah (Genesis 23:1-20)",
+		"desc_te": "సారా మరణించి, అబ్రాహాము మక్ఫేలా గుహను కొనుగోలు చేశాడు (ఆదికాండము 23:1-20)"
+	},
+	{
+		"year": "-1940",
+		"name_en": "Marriage of Isaac and Rebekah",
+		"name_te": "ఇస్సాకు, రిబ్కా వివాహం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Isaac marries Rebekah (Genesis 24:1-67)",
+		"desc_te": "ఇస్సాకు, రిబ్కా వివాహం చేసుకున్నారు (ఆదికాండము 24:1-67)"
+	},
+	{
+		"year": "-1930",
+		"name_en": "Birth of Esau and Jacob",
+		"name_te": "ఈశావు, యాకోబు జననం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Esau and Jacob are born to Isaac and Rebekah (Genesis 25:19-26)",
+		"desc_te": "ఇస్సాకు, రిబ్కాకు ఈశావు, యాకోబు జన్మించారు (ఆదికాండము 25:19-26)"
+	},
+	{
+		"year": "-1920",
+		"name_en": "Esau Sells His Birthright",
+		"name_te": "ఈశావు తన జ్యేష్ఠాధికారం అమ్మాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Esau sells his birthright to Jacob for stew (Genesis 25:29-34)",
+		"desc_te": "ఈశావు తన జ్యేష్ఠాధికారాన్ని యాకోబుకు అమ్మాడు (ఆదికాండము 25:29-34)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Death of Abraham",
+		"name_te": "అబ్రాహాము మరణం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Abraham dies and is buried in the cave of Machpelah (Genesis 25:7-10)",
+		"desc_te": "అబ్రాహాము మరణించి, మక్ఫేలా గుహలో సమాధి చేయబడ్డాడు (ఆదికాండము 25:7-10)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Descendants of Ishmael",
+		"name_te": "ఇష్మాయేలు సంతానం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "The descendants of Ishmael are listed (Genesis 25:12-18)",
+		"desc_te": "ఇష్మాయేలు సంతానం వివరించబడింది (ఆదికాండము 25:12-18)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Abraham's Sons Isaac and Ishmael",
+		"name_te": "అబ్రాహాము కుమారులు ఇస్సాకు, ఇష్మాయేలు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Isaac and Ishmael bury Abraham together (Genesis 25:9)",
+		"desc_te": "ఇస్సాకు, ఇష్మాయేలు కలిసి అబ్రాహామును సమాధి చేశారు (ఆదికాండము 25:9)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Birth of Jacob and Esau",
+		"name_te": "యాకోబు, ఈశావు జననం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Jacob and Esau are born to Isaac and Rebekah (Genesis 25:19-26)",
+		"desc_te": "ఇస్సాకు, రిబ్కాకు యాకోబు, ఈశావు జన్మించారు (ఆదికాండము 25:19-26)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Esau Sells His Birthright",
+		"name_te": "ఈశావు తన జ్యేష్ఠాధికారం అమ్మాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Esau sells his birthright to Jacob for stew (Genesis 25:29-34)",
+		"desc_te": "ఈశావు తన జ్యేష్ఠాధికారాన్ని యాకోబుకు అమ్మాడు (ఆదికాండము 25:29-34)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Death of Ishmael",
+		"name_te": "ఇష్మాయేలు మరణం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Ishmael dies at the age of 137 (Genesis 25:17)",
+		"desc_te": "ఇష్మాయేలు 137 సంవత్సరాల వయస్సులో మరణించాడు (ఆదికాండము 25:17)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Isaac Settles in Gerar",
+		"name_te": "ఇస్సాకు గెరారులో స్థిరపడ్డాడు",
+		"location": {
+			"lat": 31.3,
+			"lng": 34.8
+		},
+		"desc_en": "Isaac settles in Gerar during a famine (Genesis 26:1)",
+		"desc_te": "కరువు సమయంలో ఇస్సాకు గెరారులో స్థిరపడ్డాడు (ఆదికాండము 26:1)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Isaac and Abimelech Treaty",
+		"name_te": "ఇస్సాకు, అభిమెలెక్ ఒడంబడిక",
+		"location": {
+			"lat": 31.3,
+			"lng": 34.8
+		},
+		"desc_en": "Isaac makes a treaty with Abimelech (Genesis 26:26-33)",
+		"desc_te": "ఇస్సాకు, అభిమెలెక్ ఒడంబడిక చేసుకున్నారు (ఆదికాండము 26:26-33)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Esau's Wives and Descendants",
+		"name_te": "ఈశావు భార్యలు, సంతానం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Esau marries Canaanite women and has descendants (Genesis 26:34-35; 36:1-5)",
+		"desc_te": "ఈశావు కనానీయురాళ్లను వివాహం చేసుకుని సంతానం పొందాడు (ఆదికాండము 26:34-35; 36:1-5)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Isaac Blesses Jacob",
+		"name_te": "ఇస్సాకు యాకోబును ఆశీర్వదించాడు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Isaac blesses Jacob before he flees to Haran (Genesis 28:1-5)",
+		"desc_te": "హారానుకు పారిపోవడానికి ముందు ఇస్సాకు యాకోబును ఆశీర్వదించాడు (ఆదికాండము 28:1-5)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Jacob's Dream at Bethel",
+		"name_te": "యాకోబు బెతేలు వద్ద కల",
+		"location": {
+			"lat": 31.9,
+			"lng": 35.2
+		},
+		"desc_en": "Jacob dreams of a ladder to heaven at Bethel (Genesis 28:10-22)",
+		"desc_te": "యాకోబు బెతేలు వద్ద పరలోకానికి మెట్ల కలను కనాడు (ఆదికాండము 28:10-22)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Jacob Arrives in Haran",
+		"name_te": "యాకోబు హారానులోకి చేరాడు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob arrives in Haran and meets Rachel (Genesis 29:1-14)",
+		"desc_te": "యాకోబు హారానులోకి చేరి రాహేలను కలుసుకున్నాడు (ఆదికాండము 29:1-14)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Jacob Marries Leah and Rachel",
+		"name_te": "యాకోబు లేయా, రాహేలు వివాహం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob marries Leah and Rachel, daughters of Laban (Genesis 29:15-30)",
+		"desc_te": "యాకోబు లాబాను కుమార్తెలు లేయా, రాహేలను వివాహం చేసుకున్నాడు (ఆదికాండము 29:15-30)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Birth of Jacob's Children",
+		"name_te": "యాకోబు సంతానం జననం",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob's children are born to Leah and Rachel (Genesis 29:31-30:24)",
+		"desc_te": "యాకోబు సంతానం లేయా, రాహేలకు జన్మించింది (ఆదికాండము 29:31-30:24)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Jacob Prospers in Haran",
+		"name_te": "యాకోబు హారానులో అభివృద్ధి చెందాడు",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob prospers while serving Laban in Haran (Genesis 30:25-43)",
+		"desc_te": "హారానులో లాబాను వద్ద సేవచేసే సమయంలో యాకోబు అభివృద్ధి చెందాడు (ఆదికాండము 30:25-43)"
+	},
+	{
+		"year": "-1900",
+		"name_en": "Jacob Flees Laban, Covenant at Mizpah",
+		"name_te": "యాకోబు లాబాను నుండి పారిపోవడం, మిజ్పాలో ఒడంబడిక",
+		"location": {
+			"lat": 36.86,
+			"lng": 39.01
+		},
+		"desc_en": "Jacob flees from Laban and makes a covenant at Mizpah (Genesis 31:1-55)",
+		"desc_te": "యాకోబు లాబాను నుండి పారిపోయి మిజ్పాలో ఒడంబడిక చేసుకున్నాడు (ఆదికాండము 31:1-55)"
+	}
+]

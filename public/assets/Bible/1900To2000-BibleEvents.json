@@ -1,0 +1,205 @@
+[
+	{
+		"year": "1900",
+		"name_en": "Christianity at New Century",
+		"name_te": "క్రీస్టియానిటీ న్యూ శతాబ్దం",
+		"location": {
+			"lat": 48.85,
+			"lng": 2.35
+		},
+		"desc_en": "Christianity dominates Western civilization. But secularization and science challenge faith.",
+		"desc_te": "క్రీస్టియానిటీ పశ్చిమ నాగరికత ఆధిపత్యం చేసిన విషయం. కానీ ధర్మనిరపేక్షవాదం, విజ్ఞానం విశ్వాస సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1905",
+		"name_en": "World War I Faith Crisis",
+		"name_te": "ప్రపంచ యుద్ధం I విశ్వాస సంকట",
+		"location": {
+			"lat": 50,
+			"lng": 5
+		},
+		"desc_en": "World War I devastates Europe and Christian faith. Theodicy questioned.",
+		"desc_te": "ప్రపంచ యుద్ధం I ఐరోపా, క్రీస్టియన్ విశ్వాస విధ్వంసం చేసిన విషయం. దేవతాత్త్వ న్యాయం ప్రశ్న చేసిన విషయం."
+	},
+	{
+		"year": "1910",
+		"name_en": "Fundamentalism Organized",
+		"name_te": "మూలవాదం సంస్థాపనీకృతం",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "Fundamentalists organize to defend literal Bible. Fundamentals published. Modernism opposed.",
+		"desc_te": "మూలవాదులు సాక్షర బైబిల్ రక్షించటానికి సంస్థాపనీకరించిన విషయం. ప్రాథమికతలు ప్రచురిత. ఆధునికవాదం వ్యతిరేకం."
+	},
+	{
+		"year": "1915",
+		"name_en": "Russian Orthodox Revolution",
+		"name_te": "రష్యన్ ఆర్థోడాక్స్ విప్లవం",
+		"location": {
+			"lat": 55.75,
+			"lng": 37.6
+		},
+		"desc_en": "Russian Revolution attacks Orthodox Church. Soviet atheism becomes state policy.",
+		"desc_te": "రష్యన్ విప్లవం ఆర్థోడాక్స్ చర్చ పై దాడి చేసిన విషయం. సోవియట్ నాస్తిక్యం రాష్ట్ర విధానం కాబడిన విషయం."
+	},
+	{
+		"year": "1920",
+		"name_en": "Second Wave Evangelical Growth",
+		"name_te": "రెండవ తరంగ సువర్ణ వృద్ధి",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "Evangelical movement grows and splits. Pentecostalism emerges as new Christian form.",
+		"desc_te": "సువర్ణ చలనం చేరిన విషయం. పెంటెకోస్టలిజం క్రీస్టియన్ రూపం కొత్త ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1925",
+		"name_en": "Scopes Monkey Trial",
+		"name_te": "స్కోపెస్ మంకీ ట్రయల్",
+		"location": {
+			"lat": 35.3,
+			"lng": -86.3
+		},
+		"desc_en": "Scopes Monkey Trial pits fundamentalism against evolution science. Fundamentalism loses.",
+		"desc_te": "స్కోపెస్ మంకీ ట్రయల్ మూలవాదం, పరిణామ విజ్ఞానం ఎదుర్కోసిన విషయం. మూలవాదం ఓటమిపాలైన విషయం."
+	},
+	{
+		"year": "1930",
+		"name_en": "Nazi Persecution Begins",
+		"name_te": "నాజీ నిర్బంధం ప్రారంభం",
+		"location": {
+			"lat": 52.5,
+			"lng": 13.4
+		},
+		"desc_en": "Nazi Germany attacks churches and Christianity. Persecution of Christian opponents begins.",
+		"desc_te": "నాజీ జర్మనీ చర్చలు, క్రీస్టియానిటీ దాడి చేసిన విషయం. క్రీస్టియన్ ప్రతిపక్షుల నిర్బంధం ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1935",
+		"name_en": "World War II Tragedy",
+		"name_te": "ప్రపంచ యుద్ధం II విపత్తు",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "World War II causes unimaginable suffering. Churches face complicity questions.",
+		"desc_te": "ప్రపంచ యుద్ధం II అకల్పనీయ బాధ కారణమైన విషయం. చర్చలు సహభాగితా ప్రశ్నలు ఎదుర్కున్నాయి."
+	},
+	{
+		"year": "1940",
+		"name_en": "Holocaust Theology Crisis",
+		"name_te": "హోలోకాస్ట్ దేవతాత్త్వ సంకట",
+		"location": {
+			"lat": 50,
+			"lng": 20
+		},
+		"desc_en": "Holocaust raises theodicy crisis. Where was God? Christian faith deeply challenged.",
+		"desc_te": "హోలోకాస్ట్ దేవతాత్త్వ సంకట నిలువెత్తిన విషయం. దేవుడు ఎక్కడ? క్రీస్టియన్ విశ్వాస లోతుగా సవాలు చేసిన విషయం."
+	},
+	{
+		"year": "1945",
+		"name_en": "Cold War and Christian West",
+		"name_te": "చల్లని యుద్ధం, క్రీస్టియన్ పశ్చిమ",
+		"location": {
+			"lat": 50,
+			"lng": 10
+		},
+		"desc_en": "Cold War pits Christian West against atheist Soviet Union. Christianity serves anti-communism.",
+		"desc_te": "చల్లని యుద్ధం క్రీస్టియన్ పశ్చిమ, నాస్తిక సోవియట్ యూనియన్ ఎదుర్కోసిన విషయం. క్రీస్టియానిటీ సాంయస సమ్వాద నిషేధానికి సేవ చేసిన విషయం."
+	},
+	{
+		"year": "1950",
+		"name_en": "Vatican II Called",
+		"name_te": "వాటికన్ II పిలువబడిన విషయం",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Pope John XXIII calls Second Vatican Council. Catholic reform and modernization begins.",
+		"desc_te": "పోప్ జాన్ XXIII రెండవ వాటికన్ కౌన్సిల్ పిలువబడిన విషయం. కాథలిక్ సంస్కరణ, ఆధునికీకరణ ప్రారంభమైన విషయం."
+	},
+	{
+		"year": "1955",
+		"name_en": "Vatican II Transformations",
+		"name_te": "వాటికన్ II రూపాంతరాలు",
+		"location": {
+			"lat": 41.9,
+			"lng": 12.5
+		},
+		"desc_en": "Vatican II transforms Catholic Church. Latin Mass replaced. Ecumenism advanced.",
+		"desc_te": "వాటికన్ II కాథలిక్ చర్చ రూపాంతరం చేసిన విషయం. లాటిన్ ఆరాధన భర్తీ. ఎకుమానిజం అభివృద్ధి చేసిన విషయం."
+	},
+	{
+		"year": "1960",
+		"name_en": "Civil Rights and Black Churches",
+		"name_te": "నాగరిక హక్కులు, కృష్ణ చర్చలు",
+		"location": {
+			"lat": 32.8,
+			"lng": -87.3
+		},
+		"desc_en": "Civil Rights Movement led by Black churches. Martin Luther King Jr. mobilizes Christian faith.",
+		"desc_te": "నాగరిక హక్కుల చలనం కృష్ణ చర్చలు నేతృత్వం చేసిన విషయం. మార్టిన్ లూథర్ కింగ్ జూనియర్ క్రీస్టియన్ విశ్వాస సమీకరణ చేసిన విషయం."
+	},
+	{
+		"year": "1965",
+		"name_en": "Liberation Theology Emerges",
+		"name_te": "స్వేచ్ఛతా దేవతాత్త్వం ఉద్భవిస్తుంది",
+		"location": {
+			"lat": -12,
+			"lng": -60
+		},
+		"desc_en": "Liberation theology in Latin America. Christianity linked to social revolution.",
+		"desc_te": "లాటిన్ అమెరికాలో స్వేచ్ఛతా దేవతాత్త్వం. క్రీస్టియానిటీ సామాజిక విప్లవానికి సంబంధం చేసిన విషయం."
+	},
+	{
+		"year": "1970",
+		"name_en": "Charismatic Renewal Movement",
+		"name_te": "అభిమాన పున:ప్రారంభ చలనం",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "Charismatic movement spreads across denominations. Holy Spirit emphasis renewed.",
+		"desc_te": "అభిమాన చలనం పంథానికి సంబంధం చేసిన విషయం. పవిత్ర ఆత్మ నొక్కిన పున:నవీకరణ చేసిన విషయం."
+	},
+	{
+		"year": "1975",
+		"name_en": "Evangelical Political Rise",
+		"name_te": "సువర్ణ రాజకీయ ఆరోహణ",
+		"location": {
+			"lat": 40.7,
+			"lng": -74
+		},
+		"desc_en": "Evangelicals become major political force in America. Religious right emerges.",
+		"desc_te": "సువర్ణలు అమెరికాలో ప్రధాన రాజకీయ శక్తి కాబడిన విషయం. ధార్మిక కుడి ఉద్భవిస్తుంది."
+	},
+	{
+		"year": "1980",
+		"name_en": "Religious Fundamentalism Global",
+		"name_te": "ధార్మిక మూలవాదం ప్రపంచ",
+		"location": {},
+		"desc_en": "Islamic fundamentalism rises. Christian fundamentalism also grows globally.",
+		"desc_te": "ఇస్లామిక్ మూలవాదం ఆరోహణ చేసిన విషయం. క్రీస్టియన్ మూలవాదం ప్రపంచంలో చెలరేగిన విషయం."
+	},
+	{
+		"year": "1985",
+		"name_en": "Prosperity Gospel Boom",
+		"name_te": "సమృద్ధి సువర్ణ విస్ఫోటనం",
+		"location": {
+			"lat": 33.7,
+			"lng": -84.3
+		},
+		"desc_en": "Prosperity gospel becomes huge. Success and wealth presented as God's blessing.",
+		"desc_te": "సమృద్ధి సువర్ణం భారీ కాబడిన విషయం. విజయం, సంపద దేవుని ఆశీర్వాద ప్రదర్శన చేసిన విషయం."
+	},
+	{
+		"year": "1990",
+		"name_en": "Christianity at Millennium",
+		"name_te": "సహస్రాబ్దం క్రీస్టియానిటీ",
+		"location": {},
+		"desc_en": "As 2000 approaches, Christianity is largest world religion. But deeply diversified globally.",
+		"desc_te": "2000 సమీపిస్తున్నప్పుడు, క్రీస్టియానిటీ అతిపెద్ద ప్రపంచ ధర్మం. కానీ ప్రపంచవ్యాపకంగా లోతుగా విభిన్నమైన విషయం."
+	}
+]

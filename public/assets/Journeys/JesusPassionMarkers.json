@@ -1,0 +1,74 @@
+[
+  {
+    "id": "jesus_passion_01",
+    "name_tel": "జెరిచో",
+    "name_eng": "Jericho",
+    "coords": [31.863, 35.449],
+    "description": "Jesus heals blind Bartimaeus and meets Zacchaeus the tax collector before heading to Jerusalem.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_02",
+    "name_tel": "బేతానియా",
+    "name_eng": "Bethany",
+    "coords": [31.775, 35.282],
+    "description": "Jesus stays with Mary, Martha, and Lazarus. He anointed for burial at Simon's house.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_03",
+    "name_tel": "జెరూసలేమ్ (ఆలివ్‌ మౌంట్)",
+    "name_eng": "Mount of Olives",
+    "coords": [31.778, 35.250],
+    "description": "Jesus enters Jerusalem. Triumphal entry on a donkey. 'Hosanna to the Son of David!'",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_04",
+    "name_tel": "టెంపిల్",
+    "name_eng": "Temple",
+    "coords": [31.768, 35.235],
+    "description": "Jesus cleanses the temple, overturning money changers' tables. Teaches about his coming death.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_05",
+    "name_tel": "గెతసెమెని",
+    "name_eng": "Gethsemane",
+    "coords": [31.772, 35.254],
+    "description": "Jesus prays in agony at the Garden of Gethsemane. 'Not my will, but yours be done.'",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_06",
+    "name_tel": "గిబ్బోత్‌",
+    "name_eng": "Palace of High Priest",
+    "coords": [31.768, 35.235],
+    "description": "Jesus is arrested, tried before the Sanhedrin, and denied by Peter.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_07",
+    "name_tel": "పిలాటు దర్బారు",
+    "name_eng": "Praetorium (Pilate's Court)",
+    "coords": [31.768, 35.235],
+    "description": "Jesus is tried before Pontius Pilate. Pilate washes his hands. Jesus is sentenced to crucifixion.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_08",
+    "name_tel": "గోల్గుతా",
+    "name_eng": "Golgotha (Place of the Skull)",
+    "coords": [31.768, 35.235],
+    "description": "Jesus is crucified with two thieves. His side is pierced. He dies and is buried in Joseph's tomb.",
+    "isMajorStop": true
+  },
+  {
+    "id": "jesus_passion_09",
+    "name_tel": "పునరుత్థాన స్థానం",
+    "name_eng": "Resurrection",
+    "coords": [31.768, 35.235],
+    "description": "Jesus rises from the dead on the third day. Appears to Mary Magdalene, disciples, and many witnesses.",
+    "isMajorStop": true
+  }
+]

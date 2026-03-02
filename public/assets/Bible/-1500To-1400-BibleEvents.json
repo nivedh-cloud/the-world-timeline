@@ -1,0 +1,332 @@
+[
+	{
+		"year": "-1500",
+		"name_en": "The Exodus from Egypt",
+		"name_te": "ఈజిప్టు నుండి నిర్గమనం",
+		"location": {
+			"lat": 30.585,
+			"lng": 31.223
+		},
+		"desc_en": "Moses leads the Israelites out of Egypt (Exodus 12-14)",
+		"desc_te": "మోషే ఈజిప్టు నుండి ఇశ్రాయేలు జనులను నడిపించాడు (నిర్గమకాండము 12-14)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Crossing the Red Sea",
+		"name_te": "ఎర్ర సముద్రాన్ని దాటి",
+		"location": {
+			"lat": 29.5,
+			"lng": 34.9
+		},
+		"desc_en": "Israelites cross the Red Sea on dry ground (Exodus 14:21-31)",
+		"desc_te": "ఇశ్రాయేలు జనులు ఎర్ర సముద్రాన్ని పొడి నేలపై దాటి వెళ్లారు (నిర్గమకాండము 14:21-31)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Manna and Quail Provided",
+		"name_te": "మన్నా, బటేరులు సమకూర్చడం",
+		"location": {
+			"lat": 30.3,
+			"lng": 33.6
+		},
+		"desc_en": "God provides manna and quail for Israel in the wilderness (Exodus 16)",
+		"desc_te": "దేవుడు అరణ్యంలో ఇశ్రాయేలు జనులకు మన్నా, బటేరులను సమకూర్చాడు (నిర్గమకాండము 16)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Water from the Rock at Rephidim",
+		"name_te": "రెఫిదీంలో రాయిలో నుండి నీరు",
+		"location": {
+			"lat": 29.5,
+			"lng": 34.9
+		},
+		"desc_en": "Moses brings water from the rock at Rephidim (Exodus 17:1-7)",
+		"desc_te": "మోషే రెఫిదీంలో రాయిలో నుండి నీటిని తెచ్చాడు (నిర్గమకాండము 17:1-7)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Victory over Amalekites at Rephidim",
+		"name_te": "రెఫిదీంలో అమాలేకీయులపై విజయం",
+		"location": {
+			"lat": 29.5,
+			"lng": 34.9
+		},
+		"desc_en": "Israel defeats the Amalekites at Rephidim (Exodus 17:8-16)",
+		"desc_te": "ఇశ్రాయేలు జనులు రెఫిదీంలో అమాలేకీయులను ఓడించారు (నిర్గమకాండము 17:8-16)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "The Giving of the Ten Commandments",
+		"name_te": "పది ఆజ్ఞల ప్రదానం",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "God gives the Ten Commandments at Mount Sinai (Exodus 19-20)",
+		"desc_te": "దేవుడు సీనాయ్ కొండపై పది ఆజ్ఞలను ఇచ్చాడు (నిర్గమకాండము 19-20)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Covenant Confirmed at Sinai",
+		"name_te": "సీనాయ్ ఒడంబడిక ధృవీకరణ",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "Moses confirms the covenant with Israel at Sinai (Exodus 24)",
+		"desc_te": "మోషే సీనాయ్ వద్ద ఒడంబడికను ధృవీకరించాడు (నిర్గమకాండము 24)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Construction of the Tabernacle Begins",
+		"name_te": "తంబుర స్థాపన ప్రారంభం",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "Israel begins constructing the Tabernacle (Exodus 25-27)",
+		"desc_te": "ఇశ్రాయేలు జనులు తంబుర నిర్మాణాన్ని ప్రారంభించారు (నిర్గమకాండము 25-27)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Golden Calf Incident",
+		"name_te": "బంగారు దూడ సంఘటన",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "Israelites worship the golden calf at Sinai (Exodus 32)",
+		"desc_te": "ఇశ్రాయేలు జనులు సీనాయ్ వద్ద బంగారు దూడను ఆరాధించారు (నిర్గమకాండము 32)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Tabernacle Completed and Dedicated",
+		"name_te": "తంబుర పూర్తి, ప్రతిష్ఠ",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "The Tabernacle is completed and dedicated (Exodus 40)",
+		"desc_te": "తంబుర నిర్మాణం పూర్తై, ప్రతిష్ఠించబడింది (నిర్గమకాండము 40)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Aaron Appointed as High Priest",
+		"name_te": "అహరోను ప్రధాన యాజకుడిగా నియామకం",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "Aaron is consecrated as the first high priest of Israel (Leviticus 8-9)",
+		"desc_te": "అహరోను ఇశ్రాయేలు మొదటి ప్రధాన యాజకుడిగా అభిషేకించబడ్డాడు (లేవీయకాండము 8-9)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Nadab and Abihu's Unauthorized Fire",
+		"name_te": "నాదాబు, అబీహూ అనధికార అగ్ని",
+		"location": {
+			"lat": 28.5,
+			"lng": 33.97
+		},
+		"desc_en": "Nadab and Abihu offer unauthorized fire and die before the Lord (Leviticus 10:1-7)",
+		"desc_te": "నాదాబు, అబీహూ అనధికార అగ్ని సమర్పించి, యెహోవా సన్నిధిలో మరణించారు (లేవీయకాండము 10:1-7)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Spies Sent to Canaan",
+		"name_te": "కనాను దేశానికి గూఢచారులు పంపడం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Twelve spies are sent to explore Canaan (Numbers 13-14)",
+		"desc_te": "పన్నెండు గూఢచారులను కనాను దేశాన్ని పరిశీలించేందుకు పంపారు (సంఖ్యాకాండము 13-14)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Korah's Rebellion",
+		"name_te": "కోరహు తిరుగుబాటు",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Korah, Dathan, and Abiram rebel against Moses and Aaron (Numbers 16)",
+		"desc_te": "కోరహు, దాతాను, అబీరాము మోషే, అహరోనుకు వ్యతిరేకంగా తిరుగుబాటు చేశారు (సంఖ్యాకాండము 16)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Aaron's Staff Buds",
+		"name_te": "అహరోను దండ మొలకెత్తడం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Aaron's staff buds as a sign of his chosen priesthood (Numbers 17)",
+		"desc_te": "అహరోను దండ మొలకెత్తడం అతని యాజకత్వానికి సంకేతంగా నిలిచింది (సంఖ్యాకాండము 17)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Water from the Rock at Kadesh",
+		"name_te": "కాదేశులో రాయిలో నుండి నీరు",
+		"location": {
+			"lat": 30.3,
+			"lng": 34.97
+		},
+		"desc_en": "Moses brings water from the rock at Kadesh (Numbers 20:1-13)",
+		"desc_te": "మోషే కాదేశులో రాయిలో నుండి నీటిని తెచ్చాడు (సంఖ్యాకాండము 20:1-13)"
+	},
+	{
+		"year": "-1500",
+		"name_en": "Bronze Serpent Lifted Up",
+		"name_te": "పిత్తల సర్పం ఎత్తిపోతలపెట్టడం",
+		"location": {
+			"lat": 30.3,
+			"lng": 34.97
+		},
+		"desc_en": "Moses lifts up the bronze serpent to heal the Israelites (Numbers 21:4-9)",
+		"desc_te": "మోషే పిత్తల సర్పాన్ని ఎత్తిపోతలపెట్టగా, ఇశ్రాయేలు జనులు స్వస్థత పొందారు (సంఖ్యాకాండము 21:4-9)"
+	},
+	{
+		"year": "-1450",
+		"name_en": "Victory over Sihon, King of the Amorites",
+		"name_te": "అమోరీ రాజు సీహోను పై విజయం",
+		"location": {
+			"lat": 31.8,
+			"lng": 35.6
+		},
+		"desc_en": "Israel defeats Sihon, king of the Amorites, and takes possession of his land (Numbers 21:21-31)",
+		"desc_te": "ఇశ్రాయేలు అమోరీ రాజు సీహోను పై విజయం సాధించి, అతని దేశాన్ని స్వాధీనం చేసుకున్నారు (సంఖ్యాకాండము 21:21-31)"
+	},
+	{
+		"year": "-1450",
+		"name_en": "Victory over Og, King of Bashan",
+		"name_te": "బాషాను రాజు ఓగు పై విజయం",
+		"location": {
+			"lat": 32.8,
+			"lng": 35.7
+		},
+		"desc_en": "Israel defeats Og, king of Bashan, and takes possession of his land (Numbers 21:32-35)",
+		"desc_te": "ఇశ్రాయేలు బాషాను రాజు ఓగు పై విజయం సాధించి, అతని దేశాన్ని స్వాధీనం చేసుకున్నారు (సంఖ్యాకాండము 21:32-35)"
+	},
+	{
+		"year": "-1450",
+		"name_en": "Balaam's Prophecy",
+		"name_te": "బిలాము ప్రవచనం",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "Balaam blesses Israel instead of cursing them (Numbers 22-24)",
+		"desc_te": "బిలాము ఇశ్రాయేలను శపించకుండా ఆశీర్వదించాడు (సంఖ్యాకాండము 22-24)"
+	},
+	{
+		"year": "-1450",
+		"name_en": "Phinehas Stops the Plague",
+		"name_te": "ఫీనెహాస్ మహమ్మారిని ఆపాడు",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "Phinehas stops a plague among the Israelites by his zeal (Numbers 25:6-13)",
+		"desc_te": "ఫీనెహాస్ తన ఉత్సాహంతో ఇశ్రాయేలు మధ్య మహమ్మారిని ఆపాడు (సంఖ్యాకాండము 25:6-13)"
+	},
+	{
+		"year": "-1450",
+		"name_en": "Second Census of Israel",
+		"name_te": "ఇశ్రాయేలు రెండవ జనగణన",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "A second census of the Israelites is taken (Numbers 26)",
+		"desc_te": "ఇశ్రాయేలు జనుల రెండవ జనగణన జరిగింది (సంఖ్యాకాండము 26)"
+	},
+	{
+		"year": "-1450",
+		"name_en": "Joshua Appointed as Moses' Successor",
+		"name_te": "యెహోషువ మోషే వారసుడిగా నియామకం",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "Joshua is appointed as the successor to Moses (Numbers 27:12-23)",
+		"desc_te": "యెహోషువను మోషే వారసుడిగా నియమించారు (సంఖ్యాకాండము 27:12-23)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Inheritance for the Daughters of Zelophehad",
+		"name_te": "జెలోఫెహద్ కుమార్తెలకు వారసత్వం",
+		"location": {
+			"lat": 32,
+			"lng": 35.5
+		},
+		"desc_en": "The daughters of Zelophehad receive inheritance rights (Numbers 27:1-11)",
+		"desc_te": "జెలోఫెహద్ కుమార్తెలకు వారసత్వ హక్కులు లభించాయి (సంఖ్యాకాండము 27:1-11)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "War Against Midianites",
+		"name_te": "మిద్యానీయులపై యుద్ధం",
+		"location": {
+			"lat": 31,
+			"lng": 35
+		},
+		"desc_en": "Israel wages war against the Midianites (Numbers 31)",
+		"desc_te": "ఇశ్రాయేలు మిద్యానీయులపై యుద్ధం చేశారు (సంఖ్యాకాండము 31)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Reuben, Gad, and Half-Tribe of Manasseh Settle East of Jordan",
+		"name_te": "రూబేను, గాదు, మనస్సే అర్ధ గోత్రం యొర్దాను తూర్పున స్థిరపడటం",
+		"location": {
+			"lat": 32,
+			"lng": 35.7
+		},
+		"desc_en": "Reuben, Gad, and half-tribe of Manasseh settle east of the Jordan (Numbers 32)",
+		"desc_te": "రూబేను, గాదు, మనస్సే అర్ధ గోత్రం యొర్దాను తూర్పున స్థిరపడ్డారు (సంఖ్యాకాండము 32)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Boundaries of Canaan Defined",
+		"name_te": "కనాను సరిహద్దులు నిర్ణయం",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "The boundaries of the land of Canaan are defined (Numbers 34)",
+		"desc_te": "కనాను దేశ సరిహద్దులు నిర్ణయించబడ్డాయి (సంఖ్యాకాండము 34)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Cities of Refuge Established",
+		"name_te": "ఆశ్రయ పట్టణాలు స్థాపన",
+		"location": {
+			"lat": 31.5,
+			"lng": 35.5
+		},
+		"desc_en": "Cities of refuge are established for those who accidentally kill (Numbers 35:9-34)",
+		"desc_te": "అనుకోకుండా హత్య చేసినవారికి ఆశ్రయ పట్టణాలు ఏర్పాటు (సంఖ్యాకాండము 35:9-34)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Death of Miriam",
+		"name_te": "మిరియాము మరణం",
+		"location": {
+			"lat": 30.3,
+			"lng": 34.97
+		},
+		"desc_en": "Miriam, sister of Moses and Aaron, dies (Numbers 20:1)",
+		"desc_te": "మోషే, అహరోనుల సోదరి మిరియాము మరణించింది (సంఖ్యాకాండము 20:1)"
+	},
+	{
+		"year": "-1440",
+		"name_en": "Death of Aaron",
+		"name_te": "అహరోను మరణం",
+		"location": {
+			"lat": 30.3,
+			"lng": 34.97
+		},
+		"desc_en": "Aaron, the first high priest, dies on Mount Hor (Numbers 20:22-29)",
+		"desc_te": "మొదటి ప్రధాన యాజకుడు అహరోను హోర్ పర్వతంపై మరణించాడు (సంఖ్యాకాండము 20:22-29)"
+	}
+]
