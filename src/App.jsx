@@ -100,7 +100,7 @@ function App() {
     >
       <Header onMenuClick={handleOpenDrawer} showMenuButton={!isDesktop} />
       
-      <Box sx={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
+      <Box sx={{ display: 'flex', flex: 1, overflow: 'hidden', minHeight: 0 }}>
         {/* Desktop Sidebar - Hidden on mobile */}
         {isDesktop && (
           <DesktopSidebar 
@@ -130,6 +130,7 @@ function App() {
             overflow: 'auto',
             display: 'flex',
             flexDirection: 'column',
+            paddingBottom: !isDesktop ? '70px' : 0, // Add padding for bottom nav on mobile
           }}
         >
           {renderContent()}
