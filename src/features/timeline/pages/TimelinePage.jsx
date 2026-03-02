@@ -275,7 +275,7 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
     <Box
       sx={{
         width: '100%',
-        flex: 1,
+        height: '100%',
         display: 'flex',
         flexDirection: 'column',
         overflow: 'hidden',

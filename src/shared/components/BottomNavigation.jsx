@@ -49,7 +49,7 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
         display: 'flex',
         justifyContent: 'space-between',
         alignItems: 'center',
-        py: 0.75,
+        py: 0.5,
         px: 0.5,
         gap: 0,
         backgroundColor: '#f5f5f5',
@@ -59,7 +59,14 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
         flexShrink: 0,
         overflowX: 'auto',
         minHeight: '70px',
-        paddingBottom: 'max(0.75rem, env(safe-area-inset-bottom))',
+        maxHeight: '70px',
+        position: 'fixed',
+        bottom: 0,
+        left: 0,
+        right: 0,
+        zIndex: 101,
+        boxSizing: 'border-box',
+        paddingBottom: 'max(0.5rem, env(safe-area-inset-bottom))',
       }}
     >
       {mainMenus.map((menu) => (
@@ -70,22 +77,24 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              gap: 0.25,
+              gap: 0.2,
               cursor: 'pointer',
-              p: 0.75,
-              borderRadius: '8px',
+              p: 0.5,
+              borderRadius: '4px',
               transition: 'all 0.2s ease',
               backgroundColor: activeMenu === menu.id ? '#2196f3' : 'transparent',
               color: activeMenu === menu.id ? 'white' : 'inherit',
               flex: 1,
               minWidth: 0,
+              height: '100%',
+              justifyContent: 'center',
               '&:hover': {
-                backgroundColor: activeMenu === menu.id ? '#1976d2' : '#e0e0e0',
+                backgroundColor: activeMenu === menu.id ? '#1976d2' : '#f0f0f0',
               },
             }}
           >
-            <Box sx={{ display: 'flex', fontSize: '24px' }}>{menu.icon}</Box>
-            <span style={{ fontSize: '11px', textAlign: 'center', fontWeight: 500, lineHeight: 1.2 }}>
+            <Box sx={{ display: 'flex', fontSize: '20px', lineHeight: 1 }}>{menu.icon}</Box>
+            <span style={{ fontSize: '10px', textAlign: 'center', fontWeight: 500, lineHeight: 1.1 }}>
               {menu.label}
             </span>
           </Box>

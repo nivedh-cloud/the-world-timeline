@@ -96,11 +96,22 @@ function App() {
         width: '100%',
         height: '100vh',
         overflow: 'hidden',
+        position: 'relative',
       }}
     >
       <Header onMenuClick={handleOpenDrawer} showMenuButton={!isDesktop} />
       
-      <Box sx={{ display: 'flex', flex: 1, overflow: 'hidden', minHeight: 0, width: '100%' }}>
+      <Box 
+        sx={{ 
+          display: 'flex', 
+          flex: 1, 
+          overflow: 'hidden',
+          minHeight: 0, 
+          width: '100%',
+          position: 'relative',
+          paddingBottom: !isDesktop ? '70px' : 0, // Space for bottom nav on mobile
+        }}
+      >
         {/* Desktop Sidebar - Hidden on mobile */}
         {isDesktop && (
           <DesktopSidebar 
@@ -121,40 +132,30 @@ function App() {
           }}
         />
         
-        {/* Main Content - Flexbox container for responsive layout */}
+        {/* Main Content Area */}
         <Box
+          component="main"
           sx={{
             flex: 1,
             width: '100%',
-            overflow: 'hidden',
+            height: '100%',
+            overflow: 'auto',
             display: 'flex',
             flexDirection: 'column',
           }}
         >
-          {/* Scrollable content area */}
-          <Box
-            component="main"
-            sx={{
-              flex: 1,
-              width: '100%',
-              overflow: 'auto',
-              display: 'flex',
-              flexDirection: 'column',
-            }}
-          >
-            {renderContent()}
-          </Box>
-
-          {/* Bottom Navigation - Only on mobile, inside flex container */}
-          {!isDesktop && (
-            <BottomNavigation 
-              activeMenu={activeMenu} 
-              onMenuClick={handleMenuClick}
-              onSettingsClick={handleSettingsClick}
-            />
-          )}
+          {renderContent()}
         </Box>
       </Box>
+
+      {/* Bottom Navigation - Fixed at bottom on mobile */}
+      {!isDesktop && (
+        <BottomNavigation 
+          activeMenu={activeMenu} 
+          onMenuClick={handleMenuClick}
+          onSettingsClick={handleSettingsClick}
+        />
+      )}
       
       {/* Journeys Drawer */}
       <JourneysDrawer 
