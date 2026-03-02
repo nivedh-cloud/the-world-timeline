@@ -49,8 +49,8 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
         display: 'flex',
         justifyContent: 'space-between',
         alignItems: 'center',
-        py: 1,
-        px: 0,
+        py: 0.75,
+        px: 0.5,
         gap: 0,
         backgroundColor: '#f5f5f5',
         borderTop: '1px solid #ddd',
@@ -58,6 +58,8 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
         width: '100%',
         flexShrink: 0,
         overflowX: 'auto',
+        minHeight: '70px',
+        paddingBottom: 'max(0.75rem, env(safe-area-inset-bottom))',
       }}
     >
       {mainMenus.map((menu) => (
@@ -68,9 +70,9 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
               display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
-              gap: 0.5,
+              gap: 0.25,
               cursor: 'pointer',
-              p: 1,
+              p: 0.75,
               borderRadius: '8px',
               transition: 'all 0.2s ease',
               backgroundColor: activeMenu === menu.id ? '#2196f3' : 'transparent',
@@ -82,8 +84,8 @@ export default function BottomNavigation({ activeMenu, onMenuClick, onSettingsCl
               },
             }}
           >
-            <Box sx={{ display: 'flex', fontSize: '28px' }}>{menu.icon}</Box>
-            <span style={{ fontSize: '12px', textAlign: 'center', fontWeight: 500 }}>
+            <Box sx={{ display: 'flex', fontSize: '24px' }}>{menu.icon}</Box>
+            <span style={{ fontSize: '11px', textAlign: 'center', fontWeight: 500, lineHeight: 1.2 }}>
               {menu.label}
             </span>
           </Box>

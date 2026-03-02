@@ -100,7 +100,7 @@ function App() {
     >
       <Header onMenuClick={handleOpenDrawer} showMenuButton={!isDesktop} />
       
-      <Box sx={{ display: 'flex', flex: 1, overflow: 'hidden', minHeight: 0 }}>
+      <Box sx={{ display: 'flex', flex: 1, overflow: 'hidden', minHeight: 0, width: '100%' }}>
         {/* Desktop Sidebar - Hidden on mobile */}
         {isDesktop && (
           <DesktopSidebar 
@@ -121,30 +121,40 @@ function App() {
           }}
         />
         
-        {/* Main Content */}
+        {/* Main Content - Flexbox container for responsive layout */}
         <Box
-          component="main"
           sx={{
             flex: 1,
             width: '100%',
-            overflow: 'auto',
+            overflow: 'hidden',
             display: 'flex',
             flexDirection: 'column',
-            paddingBottom: !isDesktop ? '70px' : 0, // Add padding for bottom nav on mobile
           }}
         >
-          {renderContent()}
+          {/* Scrollable content area */}
+          <Box
+            component="main"
+            sx={{
+              flex: 1,
+              width: '100%',
+              overflow: 'auto',
+              display: 'flex',
+              flexDirection: 'column',
+            }}
+          >
+            {renderContent()}
+          </Box>
+
+          {/* Bottom Navigation - Only on mobile, inside flex container */}
+          {!isDesktop && (
+            <BottomNavigation 
+              activeMenu={activeMenu} 
+              onMenuClick={handleMenuClick}
+              onSettingsClick={handleSettingsClick}
+            />
+          )}
         </Box>
       </Box>
-
-      {/* Bottom Navigation - Only on mobile */}
-      {!isDesktop && (
-        <BottomNavigation 
-          activeMenu={activeMenu} 
-          onMenuClick={handleMenuClick}
-          onSettingsClick={handleSettingsClick}
-        />
-      )}
       
       {/* Journeys Drawer */}
       <JourneysDrawer 

@@ -48,7 +48,8 @@ export async function fetchTimelineEvents(year, category = 'World') {
   try {
     // Determine the file name based on year and category
     const fileName = getFileName(year, category)
-    const filePath = `/assets/${category}/${fileName}`
+    const baseUrl = import.meta.env.BASE_URL || '/'
+    const filePath = `${baseUrl}assets/${category}/${fileName}`
     
     console.log(`[DEBUG] Fetching events - Year: ${year}, Category: "${category}", File: ${filePath}`)
     
@@ -82,7 +83,8 @@ export async function fetchTimelineEvents(year, category = 'World') {
  */
 export async function fetchAllEvents() {
   try {
-    const response = await fetch('/assets/events.json')
+    const baseUrl = import.meta.env.BASE_URL || '/'
+    const response = await fetch(`${baseUrl}assets/events.json`)
     
     if (!response.ok) {
       console.warn('Could not fetch main events file')
@@ -103,7 +105,8 @@ export async function fetchAllEvents() {
  */
 export async function fetchBiblicalPlaces() {
   try {
-    const response = await fetch('/assets/biblical_OldNew_places.json')
+    const baseUrl = import.meta.env.BASE_URL || '/'
+    const response = await fetch(`${baseUrl}assets/biblical_OldNew_places.json`)
     
     if (!response.ok) {
       console.warn('Could not fetch biblical places')

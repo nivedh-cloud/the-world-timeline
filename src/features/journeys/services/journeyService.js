@@ -70,7 +70,8 @@ export async function fetchJourneyMarkers(journeyId) {
       return []
     }
 
-    const filePath = `/assets/Journeys/${journey.file}`
+    const baseUrl = import.meta.env.BASE_URL || '/'
+    const filePath = `${baseUrl}assets/Journeys/${journey.file}`
     const response = await fetch(filePath)
 
     if (!response.ok) {
