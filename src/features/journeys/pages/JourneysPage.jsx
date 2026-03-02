@@ -41,9 +41,16 @@ const journeyCategories = [
   },
 ]
 
-export default function JourneysPage() {
+export default function JourneysPage({ onSelectJourney }) {
   const theme = useTheme()
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'))
+
+  const handleJourneyClick = (journey) => {
+    if (onSelectJourney) {
+      const journeyId = journey.toLowerCase().replace(/[^a-z0-9]/g, '-')
+      onSelectJourney(journeyId, journey)
+    }
+  }
 
   return (
     <Container maxWidth="lg" sx={{ py: 3 }}>
@@ -71,6 +78,7 @@ export default function JourneysPage() {
                 {category.journeys.map((journey, jIndex) => (
                   <Box
                     key={jIndex}
+                    onClick={() => handleJourneyClick(journey)}
                     sx={{
                       p: 1.5,
                       backgroundColor: '#f5f5f5',

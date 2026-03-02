@@ -1,23 +1,19 @@
 import { useState, useEffect } from 'react'
 import Box from '@mui/material/Box'
 import { useTheme, useMediaQuery } from '@mui/material'
-import { Header, Footer, Navigation, BottomNavigation, DesktopSidebar } from './shared'
+import { Header, Footer, BottomNavigation, DesktopSidebar, UnifiedDrawer, EventFiltersDrawer } from './shared'
 import { TimelinePage } from './features/timeline'
 import { GenealogyPage } from './features/genealogy'
 import { PlacesPage } from './features/places'
 import { JourneysPage } from './features/journeys'
 import { SettingsPage } from './features/settings'
 import JourneyDetailPage from './features/journeys/pages/JourneyDetailPage'
-import JourneysDrawer from './shared/components/JourneysDrawer'
-import EventFiltersDrawer from './shared/components/EventFiltersDrawer'
 import './App.css'
 
 function App() {
   const [drawerOpen, setDrawerOpen] = useState(false)
-  const [drawerMenu, setDrawerMenu] = useState('timeline')
-  const [activeMenu, setActiveMenu] = useState('timeline')
-  const [journeysDrawerOpen, setJourneysDrawerOpen] = useState(false)
   const [eventFiltersDrawerOpen, setEventFiltersDrawerOpen] = useState(false)
+  const [activeMenu, setActiveMenu] = useState('timeline')
   const [selectedCategories, setSelectedCategories] = useState(['World'])
   const [selectedJourney, setSelectedJourney] = useState(null)
   
@@ -30,12 +26,7 @@ function App() {
   const isDesktop = useMediaQuery(theme.breakpoints.up('md'))
 
   const handleOpenDrawer = () => {
-    // If a journey is selected, open the JourneysDrawer instead of Navigation
-    if (selectedJourney) {
-      setJourneysDrawerOpen(true)
-    } else {
-      setDrawerOpen(true)
-    }
+    setDrawerOpen(true)
   }
 
   const handleCloseDrawer = () => {
@@ -43,22 +34,21 @@ function App() {
   }
 
   const handleMenuClick = (menuId) => {
-    // If journeys is clicked, open journeys drawer and set active menu
-    if (menuId === 'journeys') {
-      setActiveMenu('journeys')
-      setJourneysDrawerOpen(true)
-      setDrawerOpen(false)
+    // Handle timeline-filters separately
+    if (menuId === 'timeline-filters') {
+      // This will be handled by onOpenFilters callback
       return
     }
     
+    // Set active menu and close drawer
     setActiveMenu(menuId)
-    setDrawerMenu(menuId)
     setDrawerOpen(false)
   }
 
-  const handleSettingsClick = () => {
-    setDrawerMenu('settings')
-    setDrawerOpen(true)
+  const handleOpenFilters = () => {
+    // Show filters for timeline
+    console.log('Opening filters...')
+    // This can be expanded for different filter types based on activeMenu
   }
 
   const renderContent = () => {
@@ -78,7 +68,10 @@ function App() {
       case 'genealogy':
         return <GenealogyPage />
       case 'journeys':
-        return <JourneysPage />
+        return <JourneysPage onSelectJourney={(journeyId, journeyLabel) => {
+          console.log(`Journey selected: ${journeyLabel}`)
+          setSelectedJourney(journeyId)
+        }} />
       case 'places':
         return <PlacesPage />
       case 'settings':
@@ -121,15 +114,14 @@ function App() {
           />
         )}
         
-        {/* Mobile Drawer */}
-        <Navigation 
+        {/* Mobile Drawer - Unified */}
+        <UnifiedDrawer 
           open={drawerOpen} 
           onClose={handleCloseDrawer} 
-          activeMenu={drawerMenu}
-          onOpenFilters={() => {
-            setEventFiltersDrawerOpen(true)
-            setDrawerOpen(false)
-          }}
+          position="left"
+          activeMenu={activeMenu}
+          onMenuItemClick={handleMenuClick}
+          onOpenFilters={handleOpenFilters}
         />
         
         {/* Main Content Area */}
@@ -153,21 +145,8 @@ function App() {
         <BottomNavigation 
           activeMenu={activeMenu} 
           onMenuClick={handleMenuClick}
-          onSettingsClick={handleSettingsClick}
         />
       )}
-      
-      {/* Journeys Drawer */}
-      <JourneysDrawer 
-        open={journeysDrawerOpen}
-        onClose={() => setJourneysDrawerOpen(false)}
-        onSelectJourney={(journeyId, journeyLabel) => {
-          console.log(`Journey selected: ${journeyLabel}`)
-          setSelectedJourney(journeyId)
-          setDrawerMenu('journeys')
-          setJourneysDrawerOpen(false)
-        }}
-      />
       
       {/* Event Filters Drawer */}
       <EventFiltersDrawer
