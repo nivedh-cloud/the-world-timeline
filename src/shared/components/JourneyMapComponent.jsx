@@ -126,7 +126,8 @@ export default function JourneyMapComponent({
         overflow: 'hidden', 
         position: 'relative', 
         flex: 1,
-        minHeight: isMobile ? 'calc(100vh - 200px)' : 'auto',
+        height: isMobile ? 'calc(100vh - 280px)' : 'auto',
+        maxHeight: isMobile ? 'calc(100vh - 280px)' : 'none',
       }}>
         <MapContainer 
           center={mapCenter}
