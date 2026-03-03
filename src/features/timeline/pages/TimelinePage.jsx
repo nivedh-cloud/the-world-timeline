@@ -335,6 +335,7 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
           overflow: 'hidden',
           backgroundColor: '#f5f5f5',
           position: 'relative',
+          minHeight: isMobile ? 'calc(100vh - 220px)' : 'auto',
         }}
       >
         {loading ? (

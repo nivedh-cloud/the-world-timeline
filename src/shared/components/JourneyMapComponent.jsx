@@ -122,7 +122,12 @@ export default function JourneyMapComponent({
   return (
     <Box sx={{ display: 'flex', flexDirection: 'column', gap: 0, flex: 1, overflow: 'hidden' }}>
       {/* Map Section */}
-      <Box sx={{ overflow: 'hidden', position: 'relative', flex: 1 }}>
+      <Box sx={{ 
+        overflow: 'hidden', 
+        position: 'relative', 
+        flex: 1,
+        minHeight: isMobile ? 'calc(100vh - 200px)' : 'auto',
+      }}>
         <MapContainer 
           center={mapCenter}
           zoom={6}
