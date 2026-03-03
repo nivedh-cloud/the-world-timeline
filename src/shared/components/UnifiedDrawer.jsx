@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import {
   Drawer,
   Box,
@@ -68,18 +68,9 @@ export default function UnifiedDrawer({
     }
   }, [open, activeMenu, onOpenJourneysDrawer, onClose])
 
-  const [expanded, setExpanded] = useState(activeMenu)
-
   const config = navigationConfig[activeMenu]
   if (!config) {
     return null
-  }
-
-  const handleAccordionChange = (menu) => (event, isExpanded) => {
-    setExpanded(isExpanded ? menu : false)
-    if (isExpanded && onMenuItemClick) {
-      onMenuItemClick(menu)
-    }
   }
 
   const handleSubItemClick = (itemId) => {

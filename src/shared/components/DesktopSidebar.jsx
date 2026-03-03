@@ -93,14 +93,12 @@ const menuItems = [
   },
 ]
 
-export default function DesktopSidebar({ activeMenu, onMenuItemClick, onOpenFilters }) {
+export default function DesktopSidebar({ onMenuItemClick, onOpenFilters }) {
   const [selectedMenu, setSelectedMenu] = useState('timeline')
-  const [secondaryDrawerOpen, setSecondaryDrawerOpen] = useState(true)
   const [expandedAccordion, setExpandedAccordion] = useState('timeline-view')
 
   const handleMainMenuClick = (menuId) => {
     setSelectedMenu(menuId)
-    setSecondaryDrawerOpen(true)
     setExpandedAccordion(`${menuId}-view`)
     
     // Navigate to main menu
@@ -218,7 +216,7 @@ export default function DesktopSidebar({ activeMenu, onMenuItemClick, onOpenFilt
           <Divider sx={{ mb: 2 }} />
 
           {/* Submenus in Accordion */}
-          {currentMenu.subItems.map((subItem, index) => (
+          {currentMenu.subItems.map((subItem) => (
             <Accordion
               key={subItem.id}
               expanded={expandedAccordion === subItem.id}
