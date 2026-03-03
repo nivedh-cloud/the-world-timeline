@@ -1,5 +1,6 @@
-import React from 'react'
+import React, { useState } from 'react'
 import Box from '@mui/material/Box'
+import Drawer from '@mui/material/Drawer'
 import Accordion from '@mui/material/Accordion'
 import AccordionSummary from '@mui/material/AccordionSummary'
 import AccordionDetails from '@mui/material/AccordionDetails'
@@ -8,7 +9,11 @@ import ListItem from '@mui/material/ListItem'
 import ListItemButton from '@mui/material/ListItemButton'
 import ListItemIcon from '@mui/material/ListItemIcon'
 import ListItemText from '@mui/material/ListItemText'
+import Divider from '@mui/material/Divider'
+import Tooltip from '@mui/material/Tooltip'
+import Typography from '@mui/material/Typography'
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
+import ChevronRightIcon from '@mui/icons-material/ChevronRight'
 import TimelineIcon from '@mui/icons-material/Timeline'
 import EventIcon from '@mui/icons-material/Event'
 import FilterListIcon from '@mui/icons-material/FilterList'
@@ -28,7 +33,8 @@ import TuneIcon from '@mui/icons-material/Tune'
 import LanguageIcon from '@mui/icons-material/Language'
 import NotificationsIcon from '@mui/icons-material/Notifications'
 
-const SIDEBAR_WIDTH = 280
+const SIDEBAR_WIDTH = 80
+const SECONDARY_DRAWER_WIDTH = 300
 
 const menuItems = [
   {
@@ -88,140 +94,197 @@ const menuItems = [
 ]
 
 export default function DesktopSidebar({ activeMenu, onMenuItemClick, onOpenFilters }) {
-  const [expanded, setExpanded] = React.useState('timeline')
+  const [selectedMenu, setSelectedMenu] = useState('timeline')
+  const [secondaryDrawerOpen, setSecondaryDrawerOpen] = useState(true)
+  const [expandedAccordion, setExpandedAccordion] = useState('timeline-view')
 
-  const handleAccordionChange = (menu) => (event, isExpanded) => {
-    setExpanded(isExpanded ? menu.id : false)
-    // If this menu has a page and is being expanded, navigate to it
-    if (isExpanded && menu.hasPage) {
-      onMenuItemClick(menu.id)
-    }
-    // If menu is journeys, open the journeys drawer
-    if (isExpanded && menu.id === 'journeys') {
-      onMenuItemClick('journeys')
+  const handleMainMenuClick = (menuId) => {
+    setSelectedMenu(menuId)
+    setSecondaryDrawerOpen(true)
+    setExpandedAccordion(`${menuId}-view`)
+    
+    // Navigate to main menu
+    if (menuId !== 'settings') {
+      onMenuItemClick(menuId)
     }
   }
 
   const handleSubItemClick = (itemId, menuId) => {
     // Handle filters separately
     if (itemId === 'timeline-filters') {
-      if (onOpenFilters) {
-        onOpenFilters()
-      }
+      onOpenFilters?.()
       return
     }
-    // Settings sub-items are handled separately (for now, just log)
+    
+    // Handle settings items
     if (menuId === 'settings') {
       console.log(`Settings option clicked: ${itemId}`)
       return
     }
-    // For journeys, navigate to the main journeys page
-    if (menuId === 'journeys') {
-      onMenuItemClick('journeys')
-      return
-    }
-    // Other sub-items navigate to pages
-    console.log(`Navigating to: ${itemId}`)
+    
+    // Navigate to sub-item
     onMenuItemClick(itemId)
   }
 
+  const handleAccordionChange = (panel) => (event, isExpanded) => {
+    setExpandedAccordion(isExpanded ? panel : false)
+  }
+
+  const currentMenu = menuItems.find(m => m.id === selectedMenu)
+
   return (
-    <Box
-      sx={{
-        width: SIDEBAR_WIDTH,
-        backgroundColor: '#f5f5f5',
-        borderRight: '1px solid #ddd',
-        overflowY: 'auto',
-        height: 'calc(100vh - 64px)',
-        flexShrink: 0,
-        display: 'flex',
-        flexDirection: 'column',
-      }}
-    >
-      {/* Sidebar Header */}
+    <Box sx={{ display: 'flex', height: '100%' }}>
+      {/* Left Drawer - Main Navigation */}
       <Box
         sx={{
-          p: 2,
-          borderBottom: '1px solid #ddd',
+          width: SIDEBAR_WIDTH,
           backgroundColor: '#fff',
+          borderRight: '1px solid #ddd',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          pt: 2,
+          pb: 2,
+          overflowY: 'auto',
+          height: 'calc(100vh - 64px)',
+          flexShrink: 0,
         }}
       >
-        {/* <h3 style={{ margin: 0, fontSize: '16px', fontWeight: 600, color: '#2196f3' }}>
-          World Timeline
-        </h3> */}
+        <List sx={{ width: '100%', p: 0, display: 'flex', flexDirection: 'column', gap: 1 }}>
+          {menuItems.map((menu) => (
+            <Tooltip key={menu.id} title={menu.label} placement="right" arrow>
+              <ListItem disablePadding>
+                <ListItemButton
+                  onClick={() => handleMainMenuClick(menu.id)}
+                  sx={{
+                    width: 60,
+                    height: 60,
+                    mx: 'auto',
+                    borderRadius: '8px',
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: 0.5,
+                    backgroundColor: selectedMenu === menu.id ? '#e3f2fd' : 'transparent',
+                    border: selectedMenu === menu.id ? '2px solid #2196f3' : '2px solid transparent',
+                    color: selectedMenu === menu.id ? '#2196f3' : '#666',
+                    transition: 'all 0.2s ease',
+                    '&:hover': {
+                      backgroundColor: '#f5f5f5',
+                      color: '#2196f3',
+                    },
+                  }}
+                >
+                  <Box sx={{ fontSize: '24px', display: 'flex' }}>{menu.icon}</Box>
+                  <Typography sx={{ fontSize: '10px', fontWeight: 600, textAlign: 'center', lineHeight: 1.2 }}>
+                    {menu.label}
+                  </Typography>
+                </ListItemButton>
+              </ListItem>
+            </Tooltip>
+          ))}
+        </List>
       </Box>
 
-      {/* Accordion Menus */}
-      <Box sx={{ flex: 1, overflow: 'auto', p: 0 }}>
-        {menuItems.map((menu) => (
-          <Accordion
-            key={menu.id}
-            expanded={expanded === menu.id}
-            onChange={handleAccordionChange(menu)}
+      {/* Right Drawer - Submenus */}
+      {currentMenu && (
+        <Box
+          sx={{
+            width: SECONDARY_DRAWER_WIDTH,
+            backgroundColor: '#fafafa',
+            borderRight: '1px solid #ddd',
+            overflowY: 'auto',
+            height: 'calc(100vh - 64px)',
+            flexShrink: 0,
+            p: 2,
+          }}
+        >
+          {/* Secondary Drawer Header */}
+          <Typography
+            variant="h6"
             sx={{
-              '&::before': {
-                display: 'none',
-              },
+              mb: 2,
+              fontWeight: 700,
+              color: '#2196f3',
+              fontSize: '14px',
+              textTransform: 'uppercase',
+              letterSpacing: '0.5px',
             }}
           >
-            <AccordionSummary
-              expandIcon={<ExpandMoreIcon />}
-              aria-controls={`${menu.id}-content`}
-              id={`${menu.id}-header`}
+            {currentMenu.label}
+          </Typography>
+
+          <Divider sx={{ mb: 2 }} />
+
+          {/* Submenus in Accordion */}
+          {currentMenu.subItems.map((subItem, index) => (
+            <Accordion
+              key={subItem.id}
+              expanded={expandedAccordion === subItem.id}
+              onChange={handleAccordionChange(subItem.id)}
               sx={{
-                backgroundColor: activeMenu === menu.id ? '#e3f2fd' : 'transparent',
-                '&:hover': {
-                  backgroundColor: '#f0f0f0',
+                '&::before': {
+                  display: 'none',
                 },
-                py: 1,
+                mb: 0.5,
+                boxShadow: 'none',
+                border: '1px solid #e0e0e0',
+                backgroundColor: expandedAccordion === subItem.id ? '#e3f2fd' : '#fff',
+                '&:hover': {
+                  backgroundColor: '#f5f5f5',
+                },
               }}
             >
-              <Box sx={{ display: 'flex', alignItems: 'center', gap: 1.5 }}>
-                <Box sx={{ color: '#2196f3', display: 'flex' }}>{menu.icon}</Box>
-                <span style={{ fontWeight: 600, fontSize: '14px' }}>{menu.label}</span>
-              </Box>
-            </AccordionSummary>
-            <AccordionDetails
-              sx={{
-                p: 0,
-                backgroundColor: '#fafafa',
-              }}
-            >
-              <List sx={{ py: 0 }}>
-                {menu.subItems.map((subItem) => (
-                  <ListItem key={subItem.id} disablePadding>
+              <AccordionSummary
+                expandIcon={<ExpandMoreIcon />}
+                sx={{
+                  py: 0.5,
+                  px: 2,
+                  minHeight: 'auto',
+                  '& .MuiAccordionSummary-content': {
+                    my: 1,
+                  },
+                }}
+              >
+                <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                  <Box sx={{ color: '#2196f3', display: 'flex', fontSize: '18px' }}>
+                    {subItem.icon}
+                  </Box>
+                  <Typography sx={{ fontSize: '13px', fontWeight: 600 }}>
+                    {subItem.label}
+                  </Typography>
+                </Box>
+              </AccordionSummary>
+              <AccordionDetails sx={{ p: 0, pb: 1 }}>
+                <List sx={{ p: 0 }}>
+                  {/* Placeholder for nested items or actions */}
+                  <ListItem disablePadding>
                     <ListItemButton
-                      onClick={() => handleSubItemClick(subItem.id, menu.id)}
+                      onClick={() => handleSubItemClick(subItem.id, currentMenu.id)}
                       sx={{
-                        pl: 4,
+                        pl: 5,
                         py: 1,
+                        fontSize: '12px',
                         '&:hover': {
-                          backgroundColor: '#f0f0f0',
+                          backgroundColor: '#e8f4f8',
                         },
                       }}
                     >
-                      <ListItemIcon
-                        sx={{
-                          minWidth: 36,
-                          color: '#666',
-                        }}
-                      >
-                        {subItem.icon}
-                      </ListItemIcon>
                       <ListItemText
-                        primary={subItem.label}
+                        primary={`Open ${subItem.label}`}
                         primaryTypographyProps={{
-                          fontSize: '13px',
+                          fontSize: '12px',
                         }}
                       />
                     </ListItemButton>
                   </ListItem>
-                ))}
-              </List>
-            </AccordionDetails>
-          </Accordion>
-        ))}
-      </Box>
+                </List>
+              </AccordionDetails>
+            </Accordion>
+          ))}
+        </Box>
+      )}
     </Box>
   )
 }

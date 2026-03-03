@@ -285,12 +285,15 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
       {!isMobile && (
         <Box sx={{ p: 2, borderBottom: '1px solid #ddd', backgroundColor: '#fff' }}>
           <Box sx={{ display: 'flex', gap: 2, alignItems: 'center', flexDirection: 'row', flexWrap: 'wrap' }}>
-            <FormControl sx={{ minWidth: 300 }}>
-              <InputLabel>Select Year</InputLabel>
+            <FormControl sx={{ width: 250 }} size="small">
               <Select
                 value={selectedYear}
                 onChange={handleYearChange}
-                label="Select Year"
+                displayEmpty
+                renderValue={() => {
+                  const label = selectedYear < 0 ? `${Math.abs(selectedYear)} BCE` : `${selectedYear} AD`
+                  return label
+                }}
               >
                 {yearOptions.map((option) => (
                   <MenuItem key={option.value} value={option.value}>
@@ -300,18 +303,15 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
               </Select>
             </FormControl>
             <TextField
-              label="Or enter year"
               type="number"
               size="small"
               value={yearInputValue}
               onChange={handleYearInputChange}
               onBlur={handleYearInputBlur}
-              helperText="e.g., -2000 for 2000 BCE or 1000 for 1000 AD"
-              sx={{ width: 200 }}
+              placeholder="Enter year"
+              variant="outlined"
+              sx={{ width: 150 }}
             />
-            <Typography variant="body1" sx={{ fontWeight: 600, color: '#2196f3' }}>
-              Selected: {selectedYearLabel}
-            </Typography>
             {markers.length > 0 && (
               <Button 
                 variant="contained" 
