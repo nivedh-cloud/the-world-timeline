@@ -47,14 +47,14 @@ export const navigationConfig = {
     iconName: 'FlightIcon',
     items: [
       {
-        id: 'journeys-main',
-        label: 'All Journeys',
+        id: 'journeys',
+        label: 'View All Journeys',
         iconName: 'FlightIcon',
         hasPage: true,
       },
       {
-        id: 'journeys-list',
-        label: 'Journey List',
+        id: 'journeys-map',
+        label: 'Journey Map',
         iconName: 'TimelineIcon',
         hasPage: false,
       },

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import {
   Drawer,
   Box,
@@ -58,7 +58,16 @@ export default function UnifiedDrawer({
   activeMenu = 'timeline', // Currently active menu (timeline, genealogy, journeys, places, settings)
   onMenuItemClick, // Callback when menu item is clicked
   onOpenFilters, // Callback for opening filters
+  onOpenJourneysDrawer, // Callback to open journeys drawer
 }) {
+  // If journeys is the active menu, open the journeys drawer instead
+  useEffect(() => {
+    if (open && activeMenu === 'journeys' && onOpenJourneysDrawer) {
+      onClose()
+      onOpenJourneysDrawer()
+    }
+  }, [open, activeMenu, onOpenJourneysDrawer, onClose])
+
   const [expanded, setExpanded] = useState(activeMenu)
 
   const config = navigationConfig[activeMenu]

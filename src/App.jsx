@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import Box from '@mui/material/Box'
 import { useTheme, useMediaQuery } from '@mui/material'
-import { Header, Footer, BottomNavigation, DesktopSidebar, UnifiedDrawer, EventFiltersDrawer } from './shared'
+import { Header, Footer, BottomNavigation, DesktopSidebar, UnifiedDrawer, EventFiltersDrawer, JourneysDrawer } from './shared'
 import { TimelinePage } from './features/timeline'
 import { GenealogyPage } from './features/genealogy'
 import { PlacesPage } from './features/places'
@@ -13,6 +13,7 @@ import './App.css'
 function App() {
   const [drawerOpen, setDrawerOpen] = useState(false)
   const [eventFiltersDrawerOpen, setEventFiltersDrawerOpen] = useState(false)
+  const [journeysDrawerOpen, setJourneysDrawerOpen] = useState(false)
   const [activeMenu, setActiveMenu] = useState('timeline')
   const [selectedCategories, setSelectedCategories] = useState(['World'])
   const [selectedJourney, setSelectedJourney] = useState(null)
@@ -40,6 +41,18 @@ function App() {
       return
     }
     
+    // Handle journeys - open journeys drawer instead of navigating
+    if (menuId === 'journeys') {
+      setJourneysDrawerOpen(true)
+      setDrawerOpen(false)
+      return
+    }
+    
+    // Clear selected journey when switching to other menus
+    if (menuId !== 'journeys' && selectedJourney) {
+      setSelectedJourney(null)
+    }
+    
     // Set active menu and close drawer
     setActiveMenu(menuId)
     setDrawerOpen(false)
@@ -57,7 +70,10 @@ function App() {
       return (
         <JourneyDetailPage 
           journeyId={selectedJourney}
-          onBack={() => setSelectedJourney(null)}
+          onBack={() => {
+            setSelectedJourney(null)
+            setActiveMenu('timeline')
+          }}
         />
       )
     }
@@ -67,11 +83,6 @@ function App() {
         return <TimelinePage selectedCategories={selectedCategories} />
       case 'genealogy':
         return <GenealogyPage />
-      case 'journeys':
-        return <JourneysPage onSelectJourney={(journeyId, journeyLabel) => {
-          console.log(`Journey selected: ${journeyLabel}`)
-          setSelectedJourney(journeyId)
-        }} />
       case 'places':
         return <PlacesPage />
       case 'settings':
@@ -122,6 +133,10 @@ function App() {
           activeMenu={activeMenu}
           onMenuItemClick={handleMenuClick}
           onOpenFilters={handleOpenFilters}
+          onOpenJourneysDrawer={() => {
+            setDrawerOpen(false)
+            setJourneysDrawerOpen(true)
+          }}
         />
         
         {/* Main Content Area */}
@@ -154,6 +169,18 @@ function App() {
         onClose={() => setEventFiltersDrawerOpen(false)}
         selectedCategories={selectedCategories}
         onCategoryChange={setSelectedCategories}
+      />
+
+      {/* Journeys Drawer */}
+      <JourneysDrawer
+        open={journeysDrawerOpen}
+        onClose={() => setJourneysDrawerOpen(false)}
+        onSelectJourney={(journeyId, journeyLabel) => {
+          console.log(`Journey selected: ${journeyLabel}`)
+          setActiveMenu('journeys')
+          setSelectedJourney(journeyId)
+          setJourneysDrawerOpen(false)
+        }}
       />
       
       {/* Footer */}

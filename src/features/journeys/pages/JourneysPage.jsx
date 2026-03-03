@@ -9,34 +9,34 @@ const journeyCategories = [
   {
     title: 'The Patriarchs',
     journeys: [
-      'Abraham: Ur to Canaan',
-      'Jacob: Journey to Haran',
-      'Joseph: Journey to Egypt',
+      { id: 'journeys-abraham', label: 'Abraham: Ur to Canaan' },
+      { id: 'journeys-jacob', label: 'Jacob: Journey to Haran' },
+      { id: 'journeys-joseph', label: 'Joseph: Journey to Egypt' },
     ],
   },
   {
     title: 'The Exodus & Conquest',
     journeys: [
-      'The Exodus: Egypt to Sinai',
-      '40 Years in the Wilderness',
-      "Joshua's Conquest Routes",
+      { id: 'journeys-exodus', label: 'The Exodus: Egypt to Sinai' },
+      { id: 'journeys-wilderness', label: '40 Years in the Wilderness' },
+      { id: 'journeys-joshua', label: "Joshua's Conquest Routes" },
     ],
   },
   {
     title: 'Life of Jesus',
     journeys: [
-      'Birth & Flight to Egypt',
-      'Ministry in Galilee',
-      'The Passion Week (Jerusalem)',
+      { id: 'journeys-jesus-birth', label: 'Birth & Flight to Egypt' },
+      { id: 'journeys-jesus-ministry', label: 'Ministry in Galilee' },
+      { id: 'journeys-jesus-passion', label: 'The Passion Week (Jerusalem)' },
     ],
   },
   {
     title: 'The Apostles (Paul\'s Travels)',
     journeys: [
-      '1st Missionary Journey',
-      '2nd Missionary Journey',
-      '3rd Missionary Journey',
-      'Voyage to Rome',
+      { id: 'journeys-paul1', label: '1st Missionary Journey' },
+      { id: 'journeys-paul2', label: '2nd Missionary Journey' },
+      { id: 'journeys-paul3', label: '3rd Missionary Journey' },
+      { id: 'journeys-rome', label: 'Voyage to Rome' },
     ],
   },
 ]
@@ -47,8 +47,7 @@ export default function JourneysPage({ onSelectJourney }) {
 
   const handleJourneyClick = (journey) => {
     if (onSelectJourney) {
-      const journeyId = journey.toLowerCase().replace(/[^a-z0-9]/g, '-')
-      onSelectJourney(journeyId, journey)
+      onSelectJourney(journey.id, journey.label)
     }
   }
 
@@ -93,7 +92,7 @@ export default function JourneysPage({ onSelectJourney }) {
                     }}
                   >
                     <Typography variant="body2" sx={{ fontWeight: 500 }}>
-                      {journey}
+                      {journey.label}
                     </Typography>
                   </Box>
                 ))}

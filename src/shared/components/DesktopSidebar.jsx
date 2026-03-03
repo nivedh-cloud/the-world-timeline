@@ -59,23 +59,8 @@ const menuItems = [
     icon: <FlightIcon />,
     hasPage: false,
     subItems: [
-      // The Patriarchs
-      { id: 'journeys-abraham', label: 'Abraham: Ur to Canaan', icon: <RouteIcon /> },
-      { id: 'journeys-jacob', label: 'Jacob: Journey to Haran', icon: <RouteIcon /> },
-      { id: 'journeys-joseph', label: 'Joseph: Journey to Egypt', icon: <RouteIcon /> },
-      // The Exodus & Conquest
-      { id: 'journeys-exodus', label: 'The Exodus: Egypt to Sinai', icon: <RouteIcon /> },
-      { id: 'journeys-wilderness', label: '40 Years in the Wilderness', icon: <RouteIcon /> },
-      { id: 'journeys-joshua', label: "Joshua's Conquest Routes", icon: <RouteIcon /> },
-      // Life of Jesus
-      { id: 'journeys-jesus-birth', label: 'Birth & Flight to Egypt', icon: <RouteIcon /> },
-      { id: 'journeys-jesus-ministry', label: 'Ministry in Galilee', icon: <RouteIcon /> },
-      { id: 'journeys-jesus-passion', label: 'The Passion Week (Jerusalem)', icon: <RouteIcon /> },
-      // The Apostles (Paul's Travels)
-      { id: 'journeys-paul1', label: '1st Missionary Journey', icon: <RouteIcon /> },
-      { id: 'journeys-paul2', label: '2nd Missionary Journey', icon: <RouteIcon /> },
-      { id: 'journeys-paul3', label: '3rd Missionary Journey', icon: <RouteIcon /> },
-      { id: 'journeys-rome', label: 'Voyage to Rome', icon: <RouteIcon /> },
+      { id: 'journeys-view', label: 'View All Journeys', icon: <FlightIcon /> },
+      { id: 'journeys-map', label: 'Journey Map', icon: <MapIcon /> },
     ],
   },
   {
@@ -111,7 +96,7 @@ export default function DesktopSidebar({ activeMenu, onMenuItemClick, onOpenFilt
     if (isExpanded && menu.hasPage) {
       onMenuItemClick(menu.id)
     }
-    // If menu is journeys, call the menu item click which will open the drawer
+    // If menu is journeys, open the journeys drawer
     if (isExpanded && menu.id === 'journeys') {
       onMenuItemClick('journeys')
     }
@@ -128,6 +113,11 @@ export default function DesktopSidebar({ activeMenu, onMenuItemClick, onOpenFilt
     // Settings sub-items are handled separately (for now, just log)
     if (menuId === 'settings') {
       console.log(`Settings option clicked: ${itemId}`)
+      return
+    }
+    // For journeys, navigate to the main journeys page
+    if (menuId === 'journeys') {
+      onMenuItemClick('journeys')
       return
     }
     // Other sub-items navigate to pages
