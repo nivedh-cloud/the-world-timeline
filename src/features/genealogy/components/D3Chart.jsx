@@ -45,6 +45,7 @@ export default function D3Chart({ genealogyData, loading = false }) {
   const [searchTerm, setSearchTerm] = useState('')
   const [isVertical, setIsVertical] = useState(true)
   const [lineStyle, setLineStyle] = useState('curved')
+  const [expandedNodes, setExpandedNodes] = useState(new Set())
 
   const getName = (node) => {
     if (language === 'te' && node.nameTe) return node.nameTe
@@ -75,16 +76,66 @@ export default function D3Chart({ genealogyData, loading = false }) {
     return results
   }, [])
 
+  // Toggle node expansion
+  const toggleNodeExpansion = useCallback((nodeId) => {
+    setExpandedNodes((prev) => {
+      const newSet = new Set(prev)
+      if (newSet.has(nodeId)) {
+        newSet.delete(nodeId)
+      } else {
+        newSet.add(nodeId)
+      }
+      return newSet
+    })
+  }, [])
+
+  // Prepare data with expanded/collapsed children
+  const prepareData = useCallback((data) => {
+    if (!data) return data
+    
+    const processNode = (node) => {
+      const nodeId = node.id || node.nameEn
+      const isExpanded = expandedNodes.has(nodeId)
+      
+      // Move _children to children if expanded, or vice versa if collapsed
+      if (node._children && isExpanded) {
+        node.children = node._children
+        node._children = []
+      } else if (node.children && node.children.length === 0 && node._children && node._children.length > 0) {
+        node._children = node.children
+      } else if (node._children && !isExpanded && node.children && node.children.length > 0) {
+        // Store visible children in _children if we need to collapse
+        const temp = node._children
+        node._children = node.children
+        node.children = temp
+      }
+      
+      // Recursively process children
+      if (node.children && Array.isArray(node.children)) {
+        node.children.forEach((child) => processNode(child))
+      }
+      if (node._children && Array.isArray(node._children)) {
+        node._children.forEach((child) => processNode(child))
+      }
+      
+      return node
+    }
+    
+    return processNode(JSON.parse(JSON.stringify(data)))
+  }, [expandedNodes])
+
   // Generate tree layout with better spacing
   const generateTreeLayout = useCallback(() => {
     if (!svgRef.current || !genealogyData) return
+
+    const preparedData = prepareData(genealogyData)
 
     const nodeRadius = 56
     const levelHeight = 280
     const siblingDistance = 320
 
     // Create hierarchy
-    const hierarchy = d3.hierarchy(genealogyData)
+    const hierarchy = d3.hierarchy(preparedData)
 
     // Create tree layout with larger spacing
     let treeLayout
@@ -275,26 +326,100 @@ export default function D3Chart({ genealogyData, loading = false }) {
       }
     })
 
-    // Add labels below
-    nodes
-      .append('text')
-      .attr('x', 0)
-      .attr('y', nodeRadius + 45)
-      .style('text-anchor', 'middle')
-      .style('font-size', '32px')
-      .style('font-weight', 700)
-      .style('fill', '#000')
-      .style('pointer-events', 'none')
-      .text((d) => {
-        const name = getName(d.data)
-        // Truncate long names
-        return name.length > 12 ? name.substring(0, 12) + '...' : name
-      })
-  }, [genealogyData, language, searchTerm, isVertical, searchNodes])
+    // Add labels below with rounded white background
+    nodes.each(function (d) {
+      const name = getName(d.data)
+      const displayName = name.length > 12 ? name.substring(0, 12) + '...' : name
+      
+      // Estimate text dimensions for background
+      const estimatedCharWidth = 18 // approximately 32px * 0.56
+      const textWidth = displayName.length * estimatedCharWidth
+      const padding = 10
+      const bgWidth = textWidth + padding * 2
+      const bgHeight = 48 // 32px font + padding
+      
+      // Add white rounded background rectangle
+      d3.select(this)
+        .append('rect')
+        .attr('x', -bgWidth / 2)
+        .attr('y', nodeRadius + 20)
+        .attr('width', bgWidth)
+        .attr('height', bgHeight)
+        .attr('rx', 6)
+        .attr('ry', 6)
+        .style('fill', 'white')
+        .style('stroke', 'none')
+        .style('pointer-events', 'none')
+      
+      // Add text on top of background
+      d3.select(this)
+        .append('text')
+        .attr('x', 0)
+        .attr('y', nodeRadius + 45)
+        .style('text-anchor', 'middle')
+        .style('font-size', '32px')
+        .style('font-weight', 700)
+        .style('fill', '#000')
+        .style('pointer-events', 'none')
+        .text(displayName)
+      
+      // Add expand/collapse icon if node has hidden children
+      const nodeId = d.data.id || d.data.nameEn
+      const hasHiddenChildren = d.data._children && d.data._children.length > 0
+      const isExpanded = expandedNodes.has(nodeId)
+      
+      if (hasHiddenChildren || d.data.children?.length > 0) {
+        const iconSymbol = (hasHiddenChildren && !isExpanded) ? '+' : (isExpanded && hasHiddenChildren) ? '−' : ''
+        
+        if (iconSymbol) {
+          // Add circle background for icon at bottom-right corner
+          d3.select(this)
+            .append('circle')
+            .attr('cx', nodeRadius + 15)
+            .attr('cy', nodeRadius + 15)
+            .attr('r', 12)
+            .style('fill', '#4F46E5')
+            .style('stroke', 'white')
+            .style('stroke-width', 2)
+            .style('cursor', 'pointer')
+            .on('click', (event) => {
+              event.stopPropagation()
+              toggleNodeExpansion(nodeId)
+            })
+            .on('mouseover', function () {
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .attr('r', 14)
+                .style('filter', 'drop-shadow(0 0 4px rgba(0,0,0,0.3))')
+            })
+            .on('mouseout', function () {
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .attr('r', 12)
+                .style('filter', 'none')
+            })
+          
+          // Add icon text
+          d3.select(this)
+            .append('text')
+            .attr('x', nodeRadius + 15)
+            .attr('y', nodeRadius + 20)
+            .style('text-anchor', 'middle')
+            .style('font-size', '18px')
+            .style('font-weight', 'bold')
+            .style('fill', 'white')
+            .style('pointer-events', 'none')
+            .text(iconSymbol)
+        }
+      }
+    })
+  }, [genealogyData, language, searchTerm, isVertical, searchNodes, expandedNodes, prepareData])
 
   useEffect(() => {
     generateTreeLayout()
-  }, [genealogyData, language, searchTerm, isVertical, searchNodes, lineStyle])
+  }, [genealogyData, language, searchTerm, isVertical, searchNodes, lineStyle, expandedNodes, generateTreeLayout])
 
   const handleZoom = useCallback((factor) => {
     if (!svgRef.current || !zoomRef.current) return
