@@ -14,6 +14,7 @@ import Paper from '@mui/material/Paper'
 import CircularProgress from '@mui/material/CircularProgress'
 import Drawer from '@mui/material/Drawer'
 import IconButton from '@mui/material/IconButton'
+import TextField from '@mui/material/TextField'
 import CloseIcon from '@mui/icons-material/Close'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
@@ -24,6 +25,7 @@ export default function PlacesPage() {
   const [selectedPlace, setSelectedPlace] = useState(null)
   const [drawerOpen, setDrawerOpen] = useState(false)
   const [map, setMap] = useState(null)
+  const [searchTerm, setSearchTerm] = useState('')
 
   useEffect(() => {
     const loadPlaces = async () => {
@@ -83,6 +85,17 @@ export default function PlacesPage() {
     }
   }
 
+  // Filter places based on search term
+  const filteredPlaces = places.filter(place => {
+    const searchLower = searchTerm.toLowerCase()
+    return (
+      place['Biblical Name English']?.toLowerCase().includes(searchLower) ||
+      place['Modern Name English']?.toLowerCase().includes(searchLower) ||
+      place['Location Country']?.toLowerCase().includes(searchLower) ||
+      place['Bible Reference']?.toLowerCase().includes(searchLower)
+    )
+  })
+
   if (loading) {
     return (
       <Container maxWidth="lg" sx={{ py: 3, display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '400px' }}>
@@ -103,9 +116,21 @@ export default function PlacesPage() {
             <Typography variant="h4" component="div" className="mb-4">
               Biblical Places
             </Typography>
-            <Typography variant="body1" color="textSecondary">
+            <Typography variant="body1" color="textSecondary" sx={{ mb: 2 }}>
               Click on a place name to view it on the map.
             </Typography>
+            <TextField
+              placeholder="Search places by name, country, or bible reference..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              fullWidth
+              size="small"
+              sx={{
+                '& .MuiOutlinedInput-root': {
+                  borderRadius: '4px',
+                },
+              }}
+            />
           </CardContent>
         </Card>
 
@@ -122,7 +147,7 @@ export default function PlacesPage() {
               </TableRow>
             </TableHead>
             <TableBody>
-              {places.map((place, index) => (
+              {filteredPlaces.map((place, index) => (
                 <TableRow 
                   key={index}
                   sx={{ 
@@ -158,7 +183,15 @@ export default function PlacesPage() {
         <Card>
           <CardContent>
             <Typography variant="body2" color="textSecondary">
-              Total Places: <strong>{places.length}</strong>
+              {searchTerm ? (
+                <>
+                  Found: <strong>{filteredPlaces.length}</strong> of <strong>{places.length}</strong> places
+                </>
+              ) : (
+                <>
+                  Total Places: <strong>{places.length}</strong>
+                </>
+              )}
             </Typography>
           </CardContent>
         </Card>

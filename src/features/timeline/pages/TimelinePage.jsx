@@ -20,7 +20,10 @@ import List from '@mui/material/List'
 import ListItem from '@mui/material/ListItem'
 import ListItemButton from '@mui/material/ListItemButton'
 import ListItemText from '@mui/material/ListItemText'
+import Checkbox from '@mui/material/Checkbox'
+import FormControlLabel from '@mui/material/FormControlLabel'
 import CloseIcon from '@mui/icons-material/Close'
+import MenuIcon from '@mui/icons-material/Menu'
 import { useTheme, useMediaQuery } from '@mui/material'
 import 'leaflet/dist/leaflet.css'
 import { fetchTimelineEvents } from '../services/timelineService'
@@ -144,6 +147,9 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
   const [clusterInfoOpen, setClusterInfoOpen] = useState(false)
   const [clusterEvents, setClusterEvents] = useState([])
   const [yearOptions] = useState(generateYearOptions())
+  const [leftDrawerOpen, setLeftDrawerOpen] = useState(false)
+  const [showBibleEvents, setShowBibleEvents] = useState(true)
+  const [showWorldEvents, setShowWorldEvents] = useState(false)
   const mapRef = useRef(null)
   const markerClusterGroupRef = useRef(null)
   
@@ -196,8 +202,19 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
       setLoading(true)
       let allMarkers = []
       
+      // Determine which categories to load
+      const categoriesToLoad = []
+      if (showBibleEvents) categoriesToLoad.push('Bible')
+      if (showWorldEvents) categoriesToLoad.push('World')
+      
+      // If no categories selected, show Bible Events by default
+      if (categoriesToLoad.length === 0) {
+        categoriesToLoad.push('Bible')
+        setShowBibleEvents(true)
+      }
+      
       // Fetch events for each selected category
-      for (const category of selectedCategories) {
+      for (const category of categoriesToLoad) {
         console.log(`[DEBUG] Loading events for category: "${category}"`)
         const events = await fetchTimelineEvents(selectedYear, category)
         console.log(`[DEBUG] Loaded ${events.length} events for category "${category}"`)
@@ -215,7 +232,7 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
     }
     
     loadEvents()
-  }, [selectedYear, selectedCategories])
+  }, [selectedYear, showBibleEvents, showWorldEvents])
 
   const handleYearChange = (event) => {
     const year = event.target.value
@@ -277,15 +294,107 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
         width: '100%',
         height: '100%',
         display: 'flex',
-        flexDirection: 'column',
+        flexDirection: 'row',
         overflow: 'hidden',
       }}
     >
-      {/* Desktop: Year Selector at Top */}
-      {!isMobile && (
-        <Box sx={{ p: 2, borderBottom: '1px solid #ddd', backgroundColor: '#fff' }}>
-          <Box sx={{ display: 'flex', gap: 2, alignItems: 'center', flexDirection: 'row', flexWrap: 'wrap' }}>
-            <FormControl sx={{ width: 250 }} size="small">
+      {/* Left Drawer - Filter Panel */}
+      <Drawer
+        anchor="left"
+        open={leftDrawerOpen}
+        onClose={() => setLeftDrawerOpen(false)}
+        sx={{
+          '& .MuiDrawer-paper': {
+            width: isMobile ? '100%' : '280px',
+            boxSizing: 'border-box',
+            zIndex: 1200,
+          },
+        }}
+      >
+        <Box sx={{ p: 2, height: '100%', display: 'flex', flexDirection: 'column' }}>
+          {/* Drawer Header */}
+          <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 3 }}>
+            <Typography variant="h6" component="div">
+              Event Filters
+            </Typography>
+            <IconButton
+              onClick={() => setLeftDrawerOpen(false)}
+              sx={{ p: 0 }}
+            >
+              <CloseIcon />
+            </IconButton>
+          </Box>
+
+          {/* Filter Checkboxes */}
+          <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
+            <FormControlLabel
+              control={
+                <Checkbox
+                  checked={showBibleEvents}
+                  onChange={(e) => setShowBibleEvents(e.target.checked)}
+                />
+              }
+              label={
+                <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                  <Box
+                    sx={{
+                      width: 16,
+                      height: 16,
+                      borderRadius: '3px',
+                      backgroundColor: '#9C27B0',
+                    }}
+                  />
+                  <Typography variant="body1">Bible Events</Typography>
+                </Box>
+              }
+            />
+            <FormControlLabel
+              control={
+                <Checkbox
+                  checked={showWorldEvents}
+                  onChange={(e) => setShowWorldEvents(e.target.checked)}
+                />
+              }
+              label={
+                <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                  <Box
+                    sx={{
+                      width: 16,
+                      height: 16,
+                      borderRadius: '3px',
+                      backgroundColor: '#FF9800',
+                    }}
+                  />
+                  <Typography variant="body1">World Events</Typography>
+                </Box>
+              }
+            />
+          </Box>
+        </Box>
+      </Drawer>
+
+      {/* Main Content Container */}
+      <Box
+        sx={{
+          flex: 1,
+          display: 'flex',
+          flexDirection: 'column',
+          overflow: 'hidden',
+          width: '100%',
+        }}
+      >
+        {/* Desktop: Year Selector at Top */}
+        {!isMobile && (
+          <Box sx={{ p: 2, borderBottom: '1px solid #ddd', backgroundColor: '#fff' }}>
+            <Box sx={{ display: 'flex', gap: 2, alignItems: 'center', flexDirection: 'row', flexWrap: 'wrap' }}>
+              <IconButton
+                onClick={() => setLeftDrawerOpen(true)}
+                sx={{ p: 1 }}
+                title="Toggle Filters"
+              >
+                <MenuIcon />
+              </IconButton>
+              <FormControl sx={{ width: 250 }} size="small">
               <Select
                 value={selectedYear}
                 onChange={handleYearChange}
@@ -383,6 +492,14 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
       {isMobile && (
         <Box sx={{ p: 1, borderTop: '1px solid #ddd', backgroundColor: '#fff' }}>
           <Box sx={{ display: 'flex', gap: 1, alignItems: 'flex-end', flexWrap: 'wrap' }}>
+            <IconButton
+              onClick={() => setLeftDrawerOpen(true)}
+              sx={{ p: 0.5 }}
+              size="small"
+              title="Toggle Filters"
+            >
+              <MenuIcon fontSize="small" />
+            </IconButton>
             <FormControl sx={{ flex: 1, minWidth: '120px' }}>
               <InputLabel sx={{ fontSize: '12px' }}>Year</InputLabel>
               <Select
@@ -421,6 +538,7 @@ export default function TimelinePage({ selectedCategories = ['World'] }) {
           </Box>
         </Box>
       )}
+      </Box>
 
       {/* Events Drawer */}
       <Drawer
