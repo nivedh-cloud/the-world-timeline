@@ -128,6 +128,12 @@ export default function D3Chart({ genealogyData, loading = false }) {
   const generateTreeLayout = useCallback(() => {
     if (!svgRef.current || !genealogyData) return
 
+    // Define getName inside the callback to avoid dependency issues
+    const getName = (node) => {
+      if (language === 'te' && node.nameTe) return node.nameTe
+      return node.nameEn || node.name || 'Unknown'
+    }
+
     const preparedData = prepareData(genealogyData)
 
     const nodeRadius = 56
@@ -415,7 +421,7 @@ export default function D3Chart({ genealogyData, loading = false }) {
         }
       }
     })
-  }, [genealogyData, searchTerm, isVertical, searchNodes, expandedNodes, prepareData, getName, lineStyle, toggleNodeExpansion])
+  }, [genealogyData, language, searchTerm, isVertical, searchNodes, expandedNodes, prepareData, lineStyle, toggleNodeExpansion])
 
   useEffect(() => {
     generateTreeLayout()
