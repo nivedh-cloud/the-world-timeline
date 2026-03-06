@@ -155,7 +155,7 @@ export default function JourneyMapComponent({
 }) {
   const [drawerOpen, setDrawerOpen] = useState(false)
   const [animationProgress, setAnimationProgress] = useState(0)
-  const [isAnimating, setIsAnimating] = useState(false)
+  const [isAnimating, setIsAnimating] = useState(true)
   const theme = useTheme()
   const isMobile = useMediaQuery(theme.breakpoints.down('sm'))
   const { language } = useLanguage()
@@ -194,14 +194,6 @@ export default function JourneyMapComponent({
       return () => cancelAnimationFrame(animationId)
     }
   }, [markers.length, isAnimating])
-
-  // Initial animation when markers first load
-  useEffect(() => {
-    if (markers.length > 1) {
-      setAnimationProgress(0)
-      setIsAnimating(true)
-    }
-  }, [markers.length])
 
   if (loading) {
     return (
