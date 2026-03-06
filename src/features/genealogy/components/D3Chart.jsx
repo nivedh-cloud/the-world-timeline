@@ -415,11 +415,11 @@ export default function D3Chart({ genealogyData, loading = false }) {
         }
       }
     })
-  }, [genealogyData, language, searchTerm, isVertical, searchNodes, expandedNodes, prepareData, getName, lineStyle, toggleNodeExpansion])
+  }, [genealogyData, searchTerm, isVertical, searchNodes, expandedNodes, prepareData, getName, lineStyle, toggleNodeExpansion])
 
   useEffect(() => {
     generateTreeLayout()
-  }, [genealogyData, language, searchTerm, isVertical, searchNodes, lineStyle, expandedNodes, generateTreeLayout])
+  }, [genealogyData, searchTerm, isVertical, searchNodes, lineStyle, expandedNodes, generateTreeLayout])
 
   const handleZoom = useCallback((factor) => {
     if (!svgRef.current || !zoomRef.current) return
