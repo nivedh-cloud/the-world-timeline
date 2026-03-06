@@ -15,6 +15,12 @@ const journeyCategories = [
     ],
   },
   {
+    title: 'Kings & Rulers',
+    journeys: [
+      { id: 'journeys-sheba-queen', label: 'Queen of Sheba: Journey to Jerusalem' },
+    ],
+  },
+  {
     title: 'The Exodus & Conquest',
     journeys: [
       { id: 'journeys-exodus', label: 'The Exodus: Egypt to Sinai' },

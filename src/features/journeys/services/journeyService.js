@@ -55,6 +55,10 @@ const journeyMap = {
     name: 'Voyage to Rome',
     file: 'PaulVoyageToRomeMarkers.json',
   },
+  'journeys-sheba-queen': {
+    name: 'Queen of Sheba: Journey to Jerusalem',
+    file: 'ShebaQueenJourneyMarkers.json',
+  },
 }
 
 /**

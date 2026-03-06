@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sheba_01",
+    "name_tel": "శేబ",
+    "name_eng": "Sheba",
+    "coords": [15.362, 48.517],
+    "description": "Starting point - The Queen of Sheba's kingdom in Arabia",
+    "isMajorStop": true
+  },
+  {
+    "id": "sheba_02",
+    "name_tel": "మాయిన్",
+    "name_eng": "Ma'in",
+    "coords": [16.128, 46.632],
+    "description": "Ancient Arabian city on the caravan trade route",
+    "isMajorStop": false
+  },
+  {
+    "id": "sheba_03",
+    "name_tel": "ఎక్కాల్",
+    "name_eng": "Akkhal",
+    "coords": [22.000, 41.000],
+    "description": "Rest stop along the Arabian Peninsula route",
+    "isMajorStop": false
+  },
+  {
+    "id": "sheba_04",
+    "name_tel": "మక్కా",
+    "name_eng": "Mecca",
+    "coords": [21.389, 39.857],
+    "description": "Major city along the incense trade route",
+    "isMajorStop": false
+  },
+  {
+    "id": "sheba_05",
+    "name_tel": "పెట్ర",
+    "name_eng": "Petra",
+    "coords": [30.329, 35.443],
+    "description": "Key caravan city in the desert",
+    "isMajorStop": false
+  },
+  {
+    "id": "sheba_06",
+    "name_tel": "జెరూసలేమ్",
+    "name_eng": "Jerusalem",
+    "coords": [31.768, 35.234],
+    "description": "Destination - Where the Queen visits King Solomon",
+    "isMajorStop": true
+  }
+]

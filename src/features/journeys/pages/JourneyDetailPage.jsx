@@ -64,6 +64,7 @@ export default function JourneyDetailPage({ journeyId, onBack }) {
       {!loading && (
         <JourneyMapComponent 
           markers={markers}
+          journeyId={journeyId}
           loading={false}
         />
       )}
