@@ -1,0 +1,42 @@
+[
+  {
+    "id": "philip_01",
+    "name_tel": "జెరూసలేమ్",
+    "name_eng": "Jerusalem",
+    "coords": [31.768, 35.234],
+    "description": "Starting point - Philip is one of the seven deacons chosen in Jerusalem",
+    "isMajorStop": true
+  },
+  {
+    "id": "philip_02",
+    "name_tel": "సమారిటన్",
+    "name_eng": "Samaria",
+    "coords": [32.218, 35.188],
+    "description": "Philip proclaims the Messiah and performs miraculous signs; Simon the Sorcerer believes",
+    "isMajorStop": true
+  },
+  {
+    "id": "philip_03",
+    "name_tel": "గాజా",
+    "name_eng": "Gaza",
+    "coords": [31.526, 34.465],
+    "description": "Philip is directed by the Spirit to the Gaza road; meets the Ethiopian eunuch on the desert road",
+    "isMajorStop": true
+  },
+  {
+    "id": "philip_04",
+    "name_tel": "ఆషోడ్",
+    "name_eng": "Ashdod",
+    "coords": [31.867, 34.646],
+    "description": "Philip is caught away by the Spirit; later appears preaching throughout the region",
+    "isMajorStop": false
+  },
+  {
+    "id": "philip_05",
+    "name_tel": "కైసారియా",
+    "name_eng": "Caesarea",
+    "coords": [32.895, 35.011],
+    "description": "Final destination - Philip settles here with his four prophesying daughters; continues his evangelistic ministry",
+    "isMajorStop": true
+  }
+]

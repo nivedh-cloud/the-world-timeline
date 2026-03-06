@@ -59,6 +59,22 @@ const journeyMap = {
     name: 'Queen of Sheba: Journey to Jerusalem',
     file: 'ShebaQueenJourneyMarkers.json',
   },
+  'journeys-ruth-naomi': {
+    name: 'Ruth & Naomi: Journey Home',
+    file: 'RuthNaomiJourneyMarkers.json',
+  },
+  'journeys-elijah': {
+    name: "Elijah's Flight to Mount Horeb",
+    file: 'ElijahsFlightMarkers.json',
+  },
+  'journeys-philip': {
+    name: "Philip the Evangelist's Missionary Road",
+    file: 'PhilipEvangelistMarkers.json',
+  },
+  'journeys-ark': {
+    name: 'The Journey of the Ark of the Covenant',
+    file: 'ArkOfCovenantMarkers.json',
+  },
 }
 
 /**

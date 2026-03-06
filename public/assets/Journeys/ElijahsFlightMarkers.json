@@ -1,0 +1,42 @@
+[
+  {
+    "id": "elijah_01",
+    "name_tel": "యిజ్రెయెల్",
+    "name_eng": "Jezreel",
+    "coords": [32.5576, 35.3303],
+    "description": "Elijah outruns King Ahab's chariot to Jezreel before fleeing for his life",
+    "isMajorStop": true
+  },
+  {
+    "id": "elijah_02",
+    "name_tel": "బీర్ష్బా",
+    "name_eng": "Beersheba",
+    "coords": [31.2447, 34.7997],
+    "description": "The southern border of Judah. Elijah leaves his servant here and goes into the wilderness",
+    "isMajorStop": true
+  },
+  {
+    "id": "elijah_03",
+    "name_tel": "నెగెవ్ ఎడారి",
+    "name_eng": "The Negev Desert",
+    "coords": [30.5000, 34.9000],
+    "description": "Elijah rests under a broom tree and is fed by an angel for his 40-day journey",
+    "isMajorStop": false
+  },
+  {
+    "id": "elijah_04",
+    "name_tel": "హోరేబ్ పర్వతం (సినాయ్)",
+    "name_eng": "Mount Horeb (Sinai)",
+    "coords": [28.5394, 33.9733],
+    "description": "The 'Mountain of God.' Elijah hears the 'still small voice' in a cave",
+    "isMajorStop": true
+  },
+  {
+    "id": "elijah_05",
+    "name_tel": "దమస్కస్",
+    "name_eng": "Damascus",
+    "coords": [33.5138, 36.2765],
+    "description": "God instructs Elijah to return north through the desert to anoint new kings",
+    "isMajorStop": true
+  }
+]

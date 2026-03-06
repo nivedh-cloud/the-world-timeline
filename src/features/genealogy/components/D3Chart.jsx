@@ -415,7 +415,7 @@ export default function D3Chart({ genealogyData, loading = false }) {
         }
       }
     })
-  }, [genealogyData, language, searchTerm, isVertical, searchNodes, expandedNodes, prepareData])
+  }, [genealogyData, language, searchTerm, isVertical, searchNodes, expandedNodes, prepareData, getName, lineStyle, toggleNodeExpansion])
 
   useEffect(() => {
     generateTreeLayout()

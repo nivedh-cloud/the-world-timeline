@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ruth_01",
+    "name_tel": "మోయాబ్",
+    "name_eng": "Moab",
+    "coords": [31.1850, 35.7040],
+    "description": "The high plateau east of the Dead Sea where Naomi lived for ten years",
+    "isMajorStop": true
+  },
+  {
+    "id": "ruth_02",
+    "name_tel": "ఆర్నాన్ గార్జ్",
+    "name_eng": "The Arnon Gorge",
+    "coords": [31.4678, 35.5706],
+    "description": "A deep canyon they likely crossed while traveling north toward the Jordan River",
+    "isMajorStop": false
+  },
+  {
+    "id": "ruth_03",
+    "name_tel": "మోయాబ్ సమతలం",
+    "name_eng": "The Plains of Moab",
+    "coords": [31.8386, 35.6708],
+    "description": "The descent toward the Jordan River opposite Jericho",
+    "isMajorStop": false
+  },
+  {
+    "id": "ruth_04",
+    "name_tel": "జోర్డాన్ నది నిర్గమనం",
+    "name_eng": "The Ford of the Jordan",
+    "coords": [31.8480, 35.5450],
+    "description": "The point where they crossed the river from the East Bank to the West Bank",
+    "isMajorStop": true
+  },
+  {
+    "id": "ruth_05",
+    "name_tel": "జెరూసలేమ్/బెథ్లెహెమ్ కు ఎక్కడం",
+    "name_eng": "The Ascent to Jerusalem/Bethlehem",
+    "coords": [31.7900, 35.3500],
+    "description": "The steep climb from the Jordan Valley below sea level up into the Judean hills",
+    "isMajorStop": false
+  },
+  {
+    "id": "ruth_06",
+    "name_tel": "బెథ్లెహెమ్",
+    "name_eng": "Bethlehem",
+    "coords": [31.7054, 35.2024],
+    "description": "The destination where the story of Ruth concludes with the harvest and her marriage to Boaz",
+    "isMajorStop": true
+  }
+]

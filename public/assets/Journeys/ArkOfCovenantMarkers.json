@@ -1,0 +1,106 @@
+[
+  {
+    "id": "ark_01",
+    "name_tel": "సిനాయ్ పర్వతం",
+    "name_eng": "Mount Sinai",
+    "coords": [28.5394, 33.9733],
+    "description": "The Ark is constructed according to God's instructions",
+    "isMajorStop": true
+  },
+  {
+    "id": "ark_02",
+    "name_tel": "కాదేశ్ బర్నియా",
+    "name_eng": "Kadesh Barnea",
+    "coords": [30.6450, 34.4190],
+    "description": "Main camping ground during the 38 years of wandering",
+    "isMajorStop": false
+  },
+  {
+    "id": "ark_03",
+    "name_tel": "మోయాబ్ సమతలం",
+    "name_eng": "Plains of Moab",
+    "coords": [31.8386, 35.6708],
+    "description": "Final stop before crossing the Jordan River into Canaan",
+    "isMajorStop": false
+  },
+  {
+    "id": "ark_04",
+    "name_tel": "గిలగల్",
+    "name_eng": "Gilgal",
+    "coords": [31.8790, 35.5011],
+    "description": "First camp in the Promised Land after the Jordan crossing",
+    "isMajorStop": true
+  },
+  {
+    "id": "ark_05",
+    "name_tel": "శీలో",
+    "name_eng": "Shiloh",
+    "coords": [32.0558, 35.2897],
+    "description": "The Ark rests in the Tabernacle for over 300 years",
+    "isMajorStop": true
+  },
+  {
+    "id": "ark_06",
+    "name_tel": "ఆఫిక్ (ఎబెనెజర్)",
+    "name_eng": "Aphek (Ebenezer)",
+    "coords": [32.1053, 34.9358],
+    "description": "The Ark is captured by the Philistines in battle",
+    "isMajorStop": true
+  },
+  {
+    "id": "ark_07",
+    "name_tel": "అష్దోద్",
+    "name_eng": "Ashdod",
+    "coords": [31.8044, 34.6553],
+    "description": "Placed in the Temple of Dagon; the idol falls and breaks",
+    "isMajorStop": false
+  },
+  {
+    "id": "ark_08",
+    "name_tel": "గాత్",
+    "name_eng": "Gath",
+    "coords": [31.6997, 34.8469],
+    "description": "Moved here after plagues struck Ashdod",
+    "isMajorStop": false
+  },
+  {
+    "id": "ark_09",
+    "name_tel": "ఎక్రోన్",
+    "name_eng": "Ekron",
+    "coords": [31.8142, 34.8517],
+    "description": "Final Philistine city before returning the Ark to Israel",
+    "isMajorStop": false
+  },
+  {
+    "id": "ark_10",
+    "name_tel": "బెథ్ షెమెష్",
+    "name_eng": "Beth Shemesh",
+    "coords": [31.7511, 34.9122],
+    "description": "The Ark returns to Israel on a cart pulled by cows",
+    "isMajorStop": true
+  },
+  {
+    "id": "ark_11",
+    "name_tel": "కిర్యత్-యారీమ్",
+    "name_eng": "Kiriath-Jearim",
+    "coords": [31.8106, 35.0944],
+    "description": "The Ark stays in the house of Abinadab for 20 years",
+    "isMajorStop": false
+  },
+  {
+    "id": "ark_12",
+    "name_tel": "దావీదు నగరం (జెరూసలేమ్)",
+    "name_eng": "City of David (Jerusalem)",
+    "coords": [31.7733, 35.2356],
+    "description": "King David brings the Ark to the capital with celebration",
+    "isMajorStop": true
+  },
+  {
+    "id": "ark_13",
+    "name_tel": "సొలోమోన్ ఆలయం",
+    "name_eng": "Solomon's Temple",
+    "coords": [31.7781, 35.2360],
+    "description": "The Ark is placed in the Holy of Holies of the First Temple",
+    "isMajorStop": true
+  }
+]

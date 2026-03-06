@@ -22,11 +22,21 @@ const getJourneyColor = (journeyId) => {
     // Gold for Royal journeys
     'journeys-sheba-queen': '#FFD700',
     
+    // Yellowish Green for Ruth & Naomi
+    'journeys-ruth-naomi': '#9ACD32',
+    
+    // Teal for Sacred journeys (Ark)
+    'journeys-ark': '#14B8A6',
+    
+    // Indigo for Prophetic journeys (Elijah)
+    'journeys-elijah': '#4F46E5',
+    
     // Purple for Apostolic journeys
     'journeys-paul1': '#9C27B0',
     'journeys-paul2': '#9C27B0',
     'journeys-paul3': '#9C27B0',
     'journeys-rome': '#9C27B0',
+    'journeys-philip': '#9C27B0',
     
     // Green for Joshua's conquest
     'journeys-joshua': '#4CAF50',

@@ -33,6 +33,14 @@ const journeyCategories = [
     title: 'Kings & Rulers',
     journeys: [
       { id: 'journeys-sheba-queen', label: 'Queen of Sheba: Journey to Jerusalem' },
+      { id: 'journeys-ruth-naomi', label: 'Ruth & Naomi: Journey Home' },
+      { id: 'journeys-ark', label: 'The Journey of the Ark of the Covenant' },
+    ],
+  },
+  {
+    title: 'Prophets & Servants',
+    journeys: [
+      { id: 'journeys-elijah', label: "Elijah's Flight to Mount Horeb" },
     ],
   },
   {
@@ -44,12 +52,13 @@ const journeyCategories = [
     ],
   },
   {
-    title: 'The Apostles (Paul\'s Travels)',
+    title: 'The Apostles & Evangelists',
     journeys: [
       { id: 'journeys-paul1', label: '1st Missionary Journey' },
       { id: 'journeys-paul2', label: '2nd Missionary Journey' },
       { id: 'journeys-paul3', label: '3rd Missionary Journey' },
       { id: 'journeys-rome', label: 'Voyage to Rome' },
+      { id: 'journeys-philip', label: "Philip the Evangelist's Missionary Road" },
     ],
   },
 ]
