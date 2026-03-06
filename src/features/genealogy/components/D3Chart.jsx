@@ -47,11 +47,6 @@ export default function D3Chart({ genealogyData, loading = false }) {
   const [lineStyle, setLineStyle] = useState('curved')
   const [expandedNodes, setExpandedNodes] = useState(new Set())
 
-  const getName = (node) => {
-    if (language === 'te' && node.nameTe) return node.nameTe
-    return node.nameEn || node.name || 'Unknown'
-  }
-
   // Search function - supports bilingual search
   const searchNodes = useCallback((data, term) => {
     if (!term.trim()) return new Set()
